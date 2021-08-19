@@ -1,0 +1,299 @@
+Template-type: ReDIF-Paper 1.0
+Title: Loss-Based Variational Bayes Prediction
+Author-Name: David T. Frazier
+Author-X-Name-First: David
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Author-Name: Ruben Loaiza-Maya 
+Author-X-Name-First: Ruben
+Author-X-Name-Last: Loaiza-Maya
+Author-Email: Ruben.LoaizaMaya@monash.edu 
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael  
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: Bonsoo Koo
+Author-X-Name-First: Bonsoo Koo  
+Author-X-Name-Last: Bonsoo Koo
+Author-Email: bonsoo.koo@monash.edu
+Keywords: loss-based Bayesian forecasting, variational inference, Gibbs posteriors, proper scoring
+rules, Bayesian neural networks, M4 forecasting competition
+Abstract: We propose a new method for Bayesian prediction that caters for models with a large number
+of parameters and is robust to model misspecification. Given a class of high-dimensional (but parametric) 
+predictive models, this new approach constructs a posterior predictive using a variational
+approximation to a loss-based, or Gibbs, posterior that is directly focused on predictive accuracy.
+The theoretical behavior of the new prediction approach is analyzed and a form of optimality demonstrated. 
+Applications to both simulated and empirical data using high-dimensional Bayesian neural
+network and autoregressive mixture models demonstrate that the approach provides more accurate
+results than various alternatives, including misspecified likelihood-based predictions
+Classification-JEL: C11, C53, C58
+Creation-Date: 2021
+Number: 8/21 
+Length: 44
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp08-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-8
+
+Template-type: ReDIF-Paper 1.0
+Title: Decomposition of Bilateral Trade Flows Using a Three-Dimensional Panel Data Model
+Author-Name: Yufeng Mao
+Author-X-Name-First: Yufeng
+Author-X-Name-Last: Mao 
+Author-Email: yufeng.mao@monash.edu
+Author-Name: Bin Peng 
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu
+Author-Name: Mervyn J Silvapulle
+Author-X-Name-First: Mervyn  
+Author-X-Name-Last: Silvapulle
+Author-Email: mervyn.silvapulle@monash.edu
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param  
+Author-X-Name-Last: Silvapulle
+Author-Email: param.silvapulle@monash.edu
+Author-Name: Yanrong Yang  
+Author-X-Name-First: Yanrong
+Author-X-Name-Last: Yang
+Author-Email: yanrong.yang@anu.edu.au
+Keywords: three-dimensional panel data, bilateral trade, asymptotic theory
+Abstract: This study decomposes the bilateral trade flows using a three-dimensional panel
+data model. Under the scenario that all three dimensions diverge to infinity, we propose 
+an estimation approach to identify the number of global shocks and countryspecific shocks 
+sequentially, and establish the asymptotic theories accordingly. From
+the practical point of view, being able to separate the pervasive and nonpervasive
+shocks in a multi-dimensional panel data is crucial for a range of applications, such
+as, international financial linkages, migration flows, etc. In the numerical studies,
+we first conduct intensive simulations to examine the theoretical findings, and then
+use the proposed approach to investigate the international trade flows from two
+major trading groups (APEC and EU) over 1982-2019, and quantify the network
+of bilateral trade.
+Classification-JEL: C23, P45
+Creation-Date: 2021
+Number: 7/21 
+Length: 66
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp07-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-7
+
+Template-type: ReDIF-Paper 1.0
+Title: Time Series Forecasting Using a Mixture of Stationary and Nonstationary Predictors
+Author-Name: Sium Bodha Hannadige
+Author-X-Name-First: Sium
+Author-X-Name-Last: Hannadige 
+Author-Email: sium.bodhahannadige@monash.edu
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Mervyn J Silvapulle
+Author-X-Name-First: Mervyn  
+Author-X-Name-Last: Silvapulle
+Author-Email: mervyn.silvapulle@monash.edu
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param  
+Author-X-Name-Last: Silvapulle
+Author-Email: param.silvapulle@monash.edu
+Keywords: gross domestic product, high dimensional data, industrial production, 
+macroeconomic forecasting, panel data
+Abstract: We develop a method for constructing prediction intervals for a nonstationary
+variable, such as GDP. The method uses a factor augmented regression [FAR] model.
+The predictors in the model includes a small number of factors generated to extract
+most of the information in a set of panel data on a large number of macroeconomic
+variables considered to be potential predictors. The novelty of this paper is that it
+provides a method and justification for a mixture of stationary and nonstationary 
+factors as predictors in the FAR model; we refer to this as mixture-FAR method. This
+method is important because typically such a large set of panel data, for example
+the FRED-MD, is likely to contain a mixture of stationary and nonstationary variables. 
+In our simulation study, we observed that the proposed mixture-FAR method
+performed better than its competitor that requires all the predictors to be nonstationary; 
+the MSE of prediction was at least 33% lower for mixture-FAR. Using the data
+in FRED-QD for the US, we evaluated the aforementioned methods for forecasting
+the nonstationary variables, GDP and Industrial Production. We observed that the
+mixture-FAR method performed better than its competitors.
+Classification-JEL: C22, C33, C38, C53
+Creation-Date: 2021
+Number: 6/21 
+Length: 67
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp06-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-6
+
+Template-type: ReDIF-Paper 1.0
+Title: Semiparametric Spatial Autoregressive Panel Data Model with Fixed Effects and Time-Varying Coefficients
+Author-Name: Xuan Liang
+Author-X-Name-First: Xuan
+Author-X-Name-Last: Liang 
+Author-Email: xuan.liang@anu.edu.au
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Xiaodong Gong
+Author-X-Name-First: Xiaodong 
+Author-X-Name-Last: Gong
+Author-Email: xiaodong.gong@canberra.edu.au
+Keywords: concentrated quasi-maximum likelihood estimation, local linear estimation, time-varying coefficient
+Abstract: This paper considers a semiparametric spatial autoregressive panel data model with fixed
+effects with time-varying coefficients. The time-varying coefficients are allowed to follow an
+unknown function of time while the other parameters are assumed to be constants. We propose
+a "local linear concentrated quasi-maximum likelihood estimation" method to obtain consistent 
+estimators for the spatial autoregressive coefficient, the variance of the error term and
+the nonparametric time-varying coefficients. We show that the estimators of the parametric
+components converge at the rate of sqrt(NT), and those of the nonparametric time-varying 
+coefficients converge at the rate of sqrt(NTh). Monte Carlo simulations are conducted to 
+illustrate the finite sample performance of our proposed method. We apply our method to 
+study the spatial influences and the time-varying spillover effects in the wage level 
+among 159 Chinese cities.
+Classification-JEL: C21, C23
+Creation-Date: 2021
+Number: 5/21 
+Length: 59
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp05-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-5
+
+Template-type: ReDIF-Paper 1.0
+Title: A Unified Approach for Jointly Estimating the Business and Financial Cycle, and the Role of Financial Factors
+Author-Name: Tino Berger
+Author-X-Name-First: Tino
+Author-X-Name-Last: Berger 
+Author-Email: tino.berger@wiwi.uni-goettingen.de 
+Author-Name: Julia Richter
+Author-X-Name-First: Julia
+Author-X-Name-Last: Richter
+Author-Email: julia.richter@svr-wirtschaft.de
+Author-Name: Benjamin Wong
+Author-X-Name-First: Benjamin 
+Author-X-Name-Last: Wong
+Author-Email: benjamin.wong@monash.edu
+Keywords: business cycle, financial cycle, financial shocks 
+Abstract: We jointly estimate the U.S. business and financial cycle through a unified empirical
+approach while simultaneously accounting for the role of financial factors. Our approach
+uses the Beveridge-Nelson decomposition within a medium-scale Bayesian Vector Autoregression. 
+First, we show, both in reduced form and when we identify a structural financial
+shock, that variation in financial factors had a larger role post-2000 and a more modest
+role pre-2000. Our results suggest that the financial sector did play a role in overheating
+the business cycle pre-Great Recession. Second, while we document a positive unconditional 
+correlation between the credit cycle and the output gap, the correlation of the
+lagged credit cycle and the contemporaneous output gap turns negative when we condition
+on a financial shock. The sign-switch suggests that the nature of the underlying shocks
+may be important for understanding the relationship between the business and financial
+cycles.
+Classification-JEL: C18, E51, E32
+Creation-Date: 2021
+Number: 4/21 
+Length: 37
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp04-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-4
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Manifold Learning with Approximate Nearest Neighbors
+Author-Name: Fan Cheng
+Author-X-Name-First: Fan
+Author-X-Name-Last: Cheng 
+Author-Email: Fan.Cheng@monash.edu 
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios 
+Author-X-Name-Last: Panagiotelis
+Author-Email: Anastasios.Panagiotelis@sydney.edu.au
+Keywords: statistical manifold, dimension reduction, anomaly detection, k-d trees, Hellinger
+distance, smart meter data 
+Abstract: Manifold learning algorithms are valuable tools for the analysis of high-dimensional data, 
+many of which include a step where nearest neighbors of all observations are found. This can present a
+computational bottleneck when the number of observations is large or when the observations lie
+in more general metric spaces, such as statistical manifolds, which require all pairwise distances
+between observations to be computed. We resolve this problem by using a broad range of approximate 
+nearest neighbor algorithms within manifold learing algorithms and evaluating their impact
+on embedding accuracy. We use approximate nearest neighbors for statistical maifolds by exploiting
+the connection between Hellinger/Total variation distance for discrete distributions and the L2/L1
+norm. Via a thorough empirical investigation based on the benchmark MNIST dataset, it is shown
+that approximate nearest neighbors lead to substantial improvements in computational time with
+little to no loss in the accuracy of the embedding produced by a manifold learning algorithm. This
+result is robust to the use of different manifold learning algorithms, to the use of different 
+approximate nearest neighbor algorithms, and to the use of different measures of embedding accuracy.
+The proposed method is applied to learning statistical manifolds data on distributions of electricity
+usage. This application demonstrates how the proposed methods can be used to visualize and
+identify anomalies and uncover underlying structure within high-dimensional data in a way that is
+scalable to large datasets.
+Classification-JEL: C55, C65, C80
+Creation-Date: 2021
+Number: 3/21 
+Length: 40
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp03-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-3
+
+Template-type: ReDIF-Paper 1.0
+Title: Leave-one-out Kernel Density Estimates for Outlier Detection
+Author-Name: Sevvandi Kandanaarachchi
+Author-X-Name-First: Sevvandi 
+Author-X-Name-Last: Kandanaarachchi
+Author-Email: sevvandi.kandanaarachchi@rmit.edu.au 
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Keywords: anomaly detection, topological data analysis, persistent homology, extreme value
+theory, peak over thresholds, generalized Pareto distribution 
+Abstract: This paper introduces lookout, a new approach to detect outliers using leave-one-out kernel
+density estimates and extreme value theory. Outlier detection methods that use kernel density
+estimates generally employ a user defined parameter to determine the bandwidth. Lookout
+uses persistent homology to construct a bandwidth suitable for outlier detection without any
+user input. We demonstrate the effectiveness of lookout on an extensive data repository by
+comparing its performance with other outlier detection methods based on extreme value theory.
+Furthermore, we introduce outlier persistence, a useful concept that explores the birth and the
+cessation of outliers with changing bandwidth and significance levels. The R package lookout
+implements this algorithm.
+Classification-JEL: C55, C65, C87
+Creation-Date: 2021
+Number: 2/21 
+Length: 26
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp02-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-2
+
+Template-type: ReDIF-Paper 1.0
+Title: The Road to Recovery from COVID-19 for Australian Tourism
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Mitchell O'Hara-Wild
+Author-X-Name-First: Mitchell 
+Author-X-Name-Last: O'Hara-Wild
+Author-Email: Mitch.OHara-Wild@monash.edu
+Keywords: forecasting, judgemental, probabilistic, scenarios, survey
+Abstract: COVID-19 has had a devastating effect on many industries around the world including tourism, and policy makers
+are interested in mapping out what the recovery path will look like. In this paper we focus on Australian tourism, 
+analysing international arrivals and domestic flows. Both sectors have been severely affected by travel restrictions 
+in the form of international and interstate border closures and regional lockdowns. We use statistical models
+of historical data to generate COVID-free counterfactual forecasts pretending that the pandemic never occurred. We 
+also use survey responses from 443 tourism experts to generate scenario-based probabilistic forecasts for pessimistic, 
+most-likely and optimistic paths to recovery. Using both sets of forecasts, we estimate the expected effect of the 
+pandemic on the Australian tourism industry.
+Classification-JEL: 
+Creation-Date: 2021
+Number: 1/21
+Length: 42
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp01-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-1
