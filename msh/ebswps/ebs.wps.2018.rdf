@@ -1,0 +1,860 @@
+Template-type: ReDIF-Paper 1.0
+Title: Cross-temporal coherent forecasts for Australian tourism
+Author-Name: Nikolaos Kourentzes
+Author-X-Name-First: Nikolaos 
+Author-X-Name-Last: Kourentzes
+Author-Email: nikolaos@kourentzes.com
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: george.athanasopoulos@monash.edu
+Keywords: cross-sectional aggregation, temporal aggregation, forecast combinations, spatial correlations.
+Abstract: Key to ensuring a successful tourism sector is timely policy making and detailed planning.
+National policy formulation and strategic planning requires long-term forecasts
+at an aggregate level, while regional operational decisions require short-term forecasts,
+relevant to local tourism operators. For aligned decisions at all levels, supporting forecasts
+must be `coherent', that is they should add up appropriately, across relevant
+demarcations (e.g., geographical divisions or market segments) and also across time.
+We propose an approach for generating coherent forecasts across both cross-sections
+and planning horizons for Australia. This results in significant improvements in forecast
+accuracy with substantial decision making benefits. Coherent forecasts help break
+intra- and inter-organisational information and planning silos, in a data driven fashion,
+blending information from different sources.
+Classification-JEL: 
+Creation-Date: 2018
+Number: 24/18
+Length: 29
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp24-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-24
+
+Template-type: ReDIF-Paper 1.0
+Title: High dimensional semiparametric moment restriction models
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua
+Author-X-Name-Last: Dong
+Author-Email: chaohuadong@outlook.com
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton 
+Author-Email: obl20@cam.ac.uk
+Keywords: generalized method of moments, high dimensional models, moment restriction, over-identification, penalization, sieve method, sparsity.
+Abstract: We consider nonlinear moment restriction semiparametric models where both the
+dimension of the parameter vector and the number of restrictions are divergent with
+sample size and an unknown smooth function is involved. We propose an estimation
+method based on the sieve generalized method of moments (sieve-GMM). We establish
+consistency and asymptotic normality for the estimated quantities when the number
+of parameters increases modestly with sample size. We also consider the case where
+the number of potential parameters/covariates is very large, i.e., increases rapidly with
+sample size, but the true model exhibits sparsity. We use a penalized sieve GMM approach
+to select the relevant variables, and establish the oracle property of our method
+in this case. We also provide new results for inference. We propose several new test
+statistics for the over-identification and establish their large sample properties. We provide
+a simulation study and an application to data from the NLSY79 used by Carneiro
+et al. [14].
+Classification-JEL: C12, C14, C22, C30
+Creation-Date: 2018
+Number: 23/18
+Length: 76
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp23-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-23
+
+Template-type: ReDIF-Paper 1.0
+Title: Modelling time-varying income elasticities of health care expenditure for the OECD
+Author-Name: Isabel Casas
+Author-X-Name-First: Isabel
+Author-X-Name-Last: Casas
+Author-Email: icasas@sam.sdu.org
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Author-Name: Shangyu Xie
+Author-X-Name-First: Shangyu 
+Author-X-Name-Last: Xie
+Author-Email: xshyu@amss.ac.cn
+Keywords: cross-sectional dependence, health expenditure, income elasticity, nonparametric kernel smoothing, non-stationarity, super-consistency.
+Abstract: Income elasticity dynamics of health expenditure is considered for the OECD and the
+Eurozone over the period 1995-2014. This paper studies a novel non-linear cointegration
+model with fixed effects, controlling for cross-section dependence and unobserved heterogeneity.
+Most importantly, its coefficients can vary over time and its variables can be
+non-stationary. The resulting asymptotic theory is fundamentally different with a faster
+rate of convergence to similar kernel smoothing methodologies. A fully modified kernel
+regression method is also proposed to reduce the asymptotic bias. Results show a steep
+increase in the income elasticity for the OECD and a small increase for the Eurozone.
+Classification-JEL: C14, C23, G13, H51
+Creation-Date: 2018
+Number: 22/18
+Length: 46
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp22-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-22
+
+Template-type: ReDIF-Paper 1.0
+Title: Regime switching panel data models with interative fixed effects
+Author-Name: Tingting Cheng
+Author-X-Name-First: Tingting 
+Author-X-Name-Last: Cheng
+Author-Email: chengtingting2015@outlook.com
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi 
+Author-X-Name-Last: Yan
+Author-Email: 
+Keywords: ECM algorithm, interactive effect, maximum likelihood estimation, panel data model, regime switching.
+Abstract: In this paper, we introduce a regime switching panel data model with interactive fixed
+effects. We propose a maximum likelihood estimation method and develop an expectation and
+conditional maximization algorithm to estimate the unknown parameters. Simulation results show
+that the algorithm works well in finite samples. The biases of the maximum likelihood estimators
+are negligible and the root mean squared errors of the maximum likelihood estimators decrease with
+the increase of either cross-sectional units N or time periods T.
+Classification-JEL: C23, C32
+Creation-Date: 2018
+Number: 21/18
+Length: 12
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp21-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-21
+
+Template-type: ReDIF-Paper 1.0
+Title: Inter-regional spillover and intra-regional agglomeration effects among local labour markets in China
+Author-Name: Xiaodong Gong
+Author-X-Name-First: Xiaodong  
+Author-X-Name-Last: Gong
+Author-Email: xiaodong.gong@canberra.edu.au
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Author-Name: Xuan Liang
+Author-X-Name-First: Xuan  
+Author-X-Name-Last: Liang
+Author-Email: xuan.liang@monash.edu
+Author-Name: Xin Meng
+Author-X-Name-First: Xin  
+Author-X-Name-Last: Meng
+Author-Email: xin.meng@anu.edu.au
+Keywords:  
+Abstract: In this paper, we study intra-city agglomeration externality and inter-city spillover effects
+on productivity of 185 Chinese cities at and above the prefectural level for the years between
+1995 and 2009. In particular, we investigate how a shock may be amplified or weakened
+by these externality effects and how productivity in a city varies with and affects that of
+other cities in the economy. We estimate the impacts of population size on productivity in
+185 Chinese cities using spatial fixed-effect panel data models. Both the endogenous and
+exogenous spatial dependence are allowed for. The direct and indirect effects of the factors
+are calculated and compared for various city groups. We find that a significant positive effect
+of urban population on the real wage levels, which confirms the existence of agglomeration
+economy within regions. We also find significant differences in both the direct and indirect
+effect of factors such as FDI between more and less population dense areas. This seems to
+suggest that agglomeration economy may also exist among regions. Disparity between regions
+in economic growth and productivity could be explained by the statistically significant regional
+variations in the direct and indirect effects.
+Classification-JEL: C23, R12, R23
+Creation-Date: 2018
+Number: 20/18
+Length: 32
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp20-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-20
+
+Template-type: ReDIF-Paper 1.0
+Title: FFORMA: Feature-based forecast model averaging
+Author-Name: Pablo Montero-Manso
+Author-X-Name-First: Pablo 
+Author-X-Name-Last: Montero-Manso
+Author-Email: p.montero.manso@udc.es
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Thiyanga S Talagala
+Author-X-Name-First: Thiyanga
+Author-X-Name-Last: Talagala
+Author-Email: thiyanga.talagala@monash.edu
+Keywords: time series feature, forecast combination, XGBoost, M4 competition, meta-learning.
+Abstract: We propose an automated method for obtaining weighted forecast combinations using time
+series features. The proposed approach involves two phases. First, we use a collection of time
+series to train a meta-model to assign weights to various possible forecasting methods with the
+goal of minimizing the average forecasting loss obtained from a weighted forecast combination.
+The inputs to the meta-model are features extracted from each series. In the second phase, we
+forecast new series using a weighted forecast combination where the weights are obtained from
+our previously trained meta-model. Our method outperforms a simple forecast combination,
+and outperforms all of the most popular individual methods in the time series forecasting
+literature. The approach achieved second position in the M4 competition.
+Classification-JEL: C10, C14, C22
+Creation-Date: 2018
+Number: 19/18
+Length: 9
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp19-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-19
+
+Template-type: ReDIF-Paper 1.0
+Title: Issues in the estimation of mis-specified models of fractionally integrated processes
+Author-Name: Gael M Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu
+Author-Name: K. Nadarajah
+Author-X-Name-First: K. 
+Author-X-Name-Last: Nadarajah
+Author-Email:  
+Author-Name: Donald S Poskitt
+Author-X-Name-First: Donald
+Author-X-Name-Last: Poskitt 
+Author-Email: donald.poskitt@monash.edu
+Keywords: long memory models, pseudo-true parameter, frequency domain estimators, time domain estimators, Whittle, conditional sum of squares.
+Abstract: We provide a comprehensive set of new results on the impact of mis-specifying the
+short run dynamics in fractionally integrated processes. We show that four alternative
+parametric estimators - frequency domain maximum likelihood, Whittle, time domain
+maximum likelihood and conditional sum of squares - converge to the same pseudo-true
+value under common mis-specification, and that they possess a common asymptotic distribution.
+The results are derived assuming a completely general parametric specification
+for the short run dynamics of the estimated (mis-specified) fractional model, and with
+long memory, short memory and antipersistence in both the model and the true data
+generating process accommodated. As well as providing new theoretical insights, we
+undertake an extensive set of numerical explorations, beginning with the numerical evaluation,
+and implementation, of the (common) asymptotic distribution that holds under
+the most extreme form of mis-specification. Simulation experiments are then conducted
+to assess the relative finite sample performance of all four mis-specified estimators, initially
+under the assumption of a known mean, as accords with the theoretical derivations.
+The importance of the known mean assumption is illustrated via the production of an
+alternative set of bias and mean squared error results, in which the estimators are applied
+to demeaned data. The paper concludes with a discussion of open problems.
+Classification-JEL:  C18, C22, C52
+Creation-Date: 2018
+Number: 18/18
+Length: 49
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp18-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-18
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Dynamic price jumps: The performance of high frequency tests and measures, and the robustness of inference
+Author-Name: Worapree Maneesoonthorn
+Author-X-Name-First: Worapree 
+Author-X-Name-Last: Maneesoonthorn
+Author-Email: o.maneesoonthorn@mbs.edu 
+Author-Name: Gael M Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu
+Author-Name: Catherine S Forbes
+Author-X-Name-First: Catherine
+Author-X-Name-Last: Forbes
+Author-Email: catherine.forbes@monash.edu
+Keywords: price jump tests, nonparametric jump measures, Hawkes process, discretized jump diffusion model, volatility jumps, Bayesian Markov chain Monte Carlo.
+Abstract: This paper provides an extensive evaluation of high frequency jump tests and measures, in
+the context of using such tests and measures in the estimation of dynamic models for asset price
+jumps. Specifically, we investigate: i) the power of alternative tests to detect individual price
+jumps, most notably in the presence of volatility jumps; ii) the frequency with which sequences
+of dynamic jumps are correctly identified; iii) the accuracy with which the magnitude and sign
+of a sequence of jumps, including small clusters of consecutive jumps, are estimated; and iv) the
+robustness of inference about dynamic jumps to test and measure design. Substantial differences
+are discerned in the performance of alternative methods in certain dimensions, with inference
+being sensitive to these differences in some cases. Accounting for measurement error when
+using measures constructed from high frequency data to conduct inference on dynamic jump
+models is also shown to have an impact. The sensitivity of inference to test and measurement
+construction is documented using both artificially generated data and empirical data on both
+the S&P500 stock index and the IBM stock price. The paper concludes by providing guidelines
+for empirical researchers who wish to exploit high frequency data when drawing conclusions
+regarding dynamic jump processes.
+Classification-JEL: C12, C22, C58
+Creation-Date: 2018
+Number: 17/18
+Length: 47
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp17-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-17
+
+
+Template-type: ReDIF-Paper 1.0
+Title: On normalization and algorithm selection for unsupervised outlier detection
+Author-Name: Sevvandi Kandanaarachchi
+Author-X-Name-First: Sevvandi 
+Author-X-Name-Last: Kandanaarachchi
+Author-Email: 
+Author-Name: Mario A Munoz
+Author-X-Name-First: Mario
+Author-X-Name-Last: Munoz
+Author-Email: 
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Kate Smith-Miles
+Author-X-Name-First: Kate
+Author-X-Name-Last: Smith-Miles
+Author-Email: smith-miles@unimelb.edu.au
+Keywords: 
+Abstract: This paper demonstrates that the performance of various outlier detection methods depends sensitively
+on both the data normalization schemes employed, as well as characteristics of the datasets.
+Recasting the challenge of understanding these dependencies as an algorithm selection problem, we perform
+the first instance space analysis of outlier detection methods. Such analysis enables the strengths
+and weaknesses of unsupervised outlier detection methods to be visualized and insights gained into
+which method and normalization scheme should be selected to obtain the most likely best performance
+for a given dataset.
+Classification-JEL: 
+Creation-Date: 2018
+Number: 16/18
+Length: 33
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp16-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-16
+
+Template-type: ReDIF-Paper 1.0
+Title: Efficient generation of time series with diverse and controllable characteristics
+Author-Name: Yanfei Kang
+Author-X-Name-First: Yanfei
+Author-X-Name-Last: Kang
+Author-Email: 
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Feng Li
+Author-X-Name-First: Feng
+Author-X-Name-Last: Li
+Author-Email: feng.li@cufe.edu.cn
+Keywords: time series features, time series generation, mixture autoregressive models.
+Abstract: The explosion of time series data in recent years has brought a flourish of new time series analysis
+methods, for forecasting, clustering, classification and other tasks. The evaluation of these new
+methods requires a diverse collection of time series data to enable reliable comparisons against
+alternative approaches. We propose the use of mixture autoregressive (MAR) models to generate
+collections of time series with diverse features. We simulate sets of time series using MAR
+models and investigate the diversity and coverage of the simulated time series in a feature space.
+An efficient method is also proposed for generating new time series with controllable features
+by tuning the parameters of the MAR models. The simulated data based on our method can be
+used as evaluation tool for tasks such as time series classification and forecasting.
+Classification-JEL: 
+Creation-Date: 2018
+Number: 15/18
+Length: 27
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp15-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-15
+
+Template-type: ReDIF-Paper 1.0
+Title: Expanding tidy data principles to facilitate missing data exploration, visualization and assessment of imputations
+Author-Name: Nicholas Tierney
+Author-X-Name-First: Nicholas
+Author-X-Name-Last: Tierney
+Author-Email: nicholas.tierney@gmail.com
+Author-Name: Dianne Cook
+Author-X-Name-First: Dianne
+Author-X-Name-Last: Cook
+Author-Email: DiCook@monash.edu 
+Keywords: workflow, statistical computing, data science, data visualization, tidyverse, data pipeline.
+Abstract: Despite the large body of research on missing value distributions and imputation, there is
+comparatively little literature on how to make it easy to handle, explore, and impute missing
+values in data. This paper addresses this gap. The new methodology builds upon tidy data
+principles, with a goal to integrating missing value handling as an integral part of data analysis
+workflows. New data structures are defined along with new functions (verbs) to perform
+common operations. Together these provide a cohesive framework for handling, exploring, and
+imputing missing values. These methods have been made available in the R package naniar.
+Classification-JEL: C10, C14, C22
+Creation-Date: 2018
+Number: 14/18
+Length: 41
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp14-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-14
+
+Template-type: ReDIF-Paper 1.0
+Title: Exponent of cross-sectional dependence for residuals
+Author-Name: Natalia Bailey
+Author-X-Name-First: Natalia
+Author-X-Name-Last: Bailey
+Author-Email: natalia.bailey@monash.edu
+Author-Name: George Kapetanios
+Author-X-Name-First: George
+Author-X-Name-Last: Kapetanios
+Author-Email: 
+Author-Name: M. Hashem Pesaran
+Author-X-Name-First: Hashem Pesaran
+Author-X-Name-Last: Pesaran
+Author-Email: pesaran@dornsife.usc.edu
+Keywords: Pair-wise correlations, cross-sectional dependence, cross-sectional averages, weak and strong factor models, CAPM and Fama-French factors.
+Abstract: In this paper we focus on estimating the degree of cross-sectional dependence in the error terms of a classical panel data regression model. 
+For this purpose we propose an estimator of the exponent of cross-sectional dependence denoted by alpha, which is based on the number of non-zero pair-wise 
+cross correlations of these errors. We prove that our estimator, tilde(alpha), is consistent and derive the rate at which tilde(alpha) approaches its true value.
+We evaluate the finite sample properties of the proposed estimator by use of a Monte Carlo simulation study. The numerical results are encouraging and 
+supportive of the theoretical findings. Finally, we undertake an empirical investigation of alpha for the errors of the CAPM model and its Fama-French 
+extensions using 10-year rolling samples from S&P 500 securities over the period Sept 1989 - May 2018.
+Classification-JEL: C21, C32
+Creation-Date: 2018
+Number: 13/18
+Length: 52 
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp13-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-13
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Bootstrapping tail statistics: Tail quantile process, Hill estimator, and confidence intervals for highquantiles of heavy tailed distributions
+Author-Name: Svetlana Litvinova
+Author-X-Name-First: Svetlana
+Author-X-Name-Last: Litvinova
+Author-Email: Svetlana.Litvinova@monash.edu
+Author-Name: Mervyn J Silvapulle
+Author-X-Name-First: Mervyn
+Author-X-Name-Last: Silvapulle
+Author-Email: Mervyn.Silvapulle@monash.edu
+Keywords: Full-sample bootstrap, intermediate order statistic, Hill estimator, extreme value index, tail empirical process, tail quantile process.
+Abstract: In risk management areas such as reinsurance, the need often arises to construct a
+confidence interval for a quantile in the tail of the distribution. While different methods
+are available for this purpose, doubts have been raised about the validity of full-sample
+bootstrap. In this paper, we first obtain some general results on the validity of fullsample
+bootstrap for the tail quantile process. This opens the possibility of developing
+bootstrap methods based on tail statistics. Second, we develop a bootstrap method
+for constructing confidence intervals for high-quantiles of heavy-tailed distributions and
+show that it is consistent. In our simulation study, the bootstrap method for constructing
+confidence intervals for high quantiles performed overall better than the data
+tilting method, but none was uniformly the best; the data tilting method appears to
+be currently the preferred choice. Since the two methods are based on quite different
+approaches, we recommend that both methods be used side by side in applications.
+Classification-JEL: 
+Creation-Date: 2018
+Number: 12/18
+Length: 56
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp12-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-12
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Probabilisitic forecasts in hierarchical time series
+Author-Name: Puwasala Gamakumara
+Author-X-Name-First: Puwasala
+Author-X-Name-Last: Gamakumara
+Author-Email: Puwasala.Gamakumara@monash.edu
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios
+Author-X-Name-Last: Panagiotelis
+Author-Email: Anastasios.Panagiotelis@monash.edu
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email:  George.Athanasopoulos@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@monash.edu
+Keywords: 
+Abstract: Forecast reconciliation involves adjusting forecasts to ensure coherence with aggregation constraints.
+We extend this concept from point forecasts to probabilistic forecasts by redefining
+forecast reconciliation in terms of linear functions in general, and projections more specifically.
+New theorems establish that the true predictive distribution can be recovered in the elliptical
+case by linear reconciliation, and general conditions are derived for when this is a projection. A
+geometric interpretation is also used to prove two new theoretical results for point forecasting;
+that reconciliation via projection both preserves unbiasedness and dominates unreconciled
+forecasts in a mean squared error sense. Strategies for forecast evaluation based on scoring rules
+are discussed, and it is shown that the popular log score is an improper scoring rule with respect
+to the class of unreconciled forecasts when the true predictive distribution coheres with aggregation
+constraints. Finally, evidence from a simulation study shows that reconciliation based
+on an oblique projection, derived from the MinT method of Wickramasuriya, Athanasopoulos
+and Hyndman (2018) for point forecasting, outperforms both reconciled and unreconciled
+alternatives.
+Classification-JEL: 
+Creation-Date: 2018
+Number: 11/18
+Length: 27
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp11-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-11
+
+Template-type: ReDIF-Paper 1.0
+Title: The behaviour of betting and currency markets on the night of the EU referendum
+Author-Name: Tom Auld
+Author-X-Name-First: Tom
+Author-X-Name-Last: Auld
+Author-Email: tja20@cam.ac.uk
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton 
+Author-Email: obl20@cam.ac.uk
+Keywords: EU referendum, prediction markets, machine learning, efficient markets hypothesis, pairs trading, cointegration, Bayesian methods, exchange rates.
+Abstract: We study the behaviour of the Betfair betting market and the sterling/dollar exchange rate (futures price) during 24 June 2016, the
+night of the EU referendum. We investigate how the two markets responded to the announcement of the voting results. We employ a
+Bayesian updating methodology to update prior opinion about the likelihood of the final outcome of the vote. We then relate the voting
+model to the real time evolution of the market determined prices as results are announced. We find that although both markets appear
+to be inefficient in absorbing the new information contained in vote outcomes, the betting market is apparently less inefficient than the
+FX market. The different rates of convergence to fundamental value between the two markets leads to highly profitable arbitrage opportunities.
+Classification-JEL: 
+Creation-Date: 2018
+Number: 10/18
+Length: 43
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp10-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-10
+
+Template-type: ReDIF-Paper 1.0
+Title: Regime switching in the presence of endogeneity
+Author-Name: Tingting Cheng
+Author-X-Name-First: Tingting 
+Author-X-Name-Last: Cheng
+Author-Email: chengtingting2015@outlook.com
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi 
+Author-X-Name-Last: Yan
+Author-Email: 
+Keywords: latent factor, maximum likelihood estimation, Markov chain, regime switching models, state-varying endogeneity.
+Abstract: In this paper, we propose a state-varying endogenous regime switching model (the SERS
+model), which includes the endogenous regime switching model by Chang et al. (2017), the CCP
+model, as a special case. To estimate the unknown parameters involved in the SERS model, we
+propose a maximum likelihood estimation method. Monte Carlo simulation results show that
+in the absence of state-varying endogeneity, the SERS model and the CCP model have similar
+performance, while in the presence of state-varying endogeneity, the SERS model performs much
+better than the CCP model. Finally, we use the SERS model to analyze the China stock market
+returns and our empirical results show that there exists strongly state-varying endogeneity in
+volatility switching for the Shanghai Composite Index returns. Moreover, the SERS model can
+indeed produce a much more realistic assessment for the regime switching process than the one
+obtained by the CCP model.
+Classification-JEL: C22, C32
+Creation-Date: 2018
+Number: 9/18
+Length: 28
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/wp09-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-9
+
+Template-type: ReDIF-Paper 1.0
+Title: On endogeneity and shape invariance in extended partially linear single index models
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Author-Name: Namhyun Kim
+Author-X-Name-First: Namhyun 
+Author-X-Name-Last: Kim
+Author-Email: n.kim@exeter.ac.uk
+Author-Name: Patrick W. Saart
+Author-X-Name-First: Patrick 
+Author-X-Name-Last: Saart
+Author-Email: wongsa-artp@cardiff.ac.uk
+Keywords: Extended generalized partially linear single-index, control function approach, endogeneity,
+semiparametric regression models.
+Abstract: In this paper, the important (but so far unrevealed) usefulness of the extended generalized partially
+linear single-index (EGPLSI) model introduced by Xia et al. (1999) in its ability to model a
+flexible shape-invariant specification is elaborated. More importantly, a control function approach
+is proposed to address the potential endogeneity problems in the EGPLSI model in order to enhance
+its applicability to empirical studies. In the process, it is shown that the attractive asymptotic
+features of the single-index type of a semiparametric model are still valid in our proposed estimation
+procedure given intrinsic generated covariates. Our newly developed method is then applied to
+address the endogeneity of expenditure in the semiparametric analysis of a system of empirical
+Engel curves by using the British data, highlights the convenient applicability of our proposed
+method.
+Classification-JEL: C14, C18, C51
+Creation-Date: 2018
+Number: 8/18
+Length: 44
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/wp08-2018.pdf          
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-8
+
+Template-type: ReDIF-Paper 1.0
+Title: The determinants of bank loan recovery rates in good times and bad -- new evidence
+Author-Name: Hong Wang
+Author-X-Name-First: Hong
+Author-X-Name-Last: Wang
+Author-Email: hong.wang@monash.edu
+Author-Name: Catherine S. Forbes
+Author-X-Name-First: Catherine
+Author-X-Name-Last: Forbes
+Author-Email: catherine.forbes@monash.edu
+Author-Name: Jean-Pierre Fenech
+Author-X-Name-First: Jean-Pierre
+Author-X-Name-Last: Fenech
+Author-Email: jeanpierre.fenech@monash.edu
+Author-Name: John Vaz
+Author-X-Name-First: John 
+Author-X-Name-Last: Vaz
+Author-Email: john.vaz@monash.edu
+Keywords: credit risk, Basel III, countercyclicality, Bayesian estimation, LASSO prior, Markov switching.
+Abstract: We find that factors explaining bank loan recovery rates vary depending on the state of the economic
+cycle. Our modeling approach incorporates a two-state Markov switching mechanism as a proxy
+for the latent credit cycle, helping to explain differences in observed recovery rates over time. Using US
+bank default loan data from Moody's Ultimate Recovery Database and covering the pre- and post-GFC
+period, this paper develops a dynamic predictive model for bank loan recovery rates, accommodating
+the distinctive empirical features of the recovery rate data while incorporating a large number
+of possible determinants. We find that the probability of default and certain loan-specific and other
+variables hold different explanatory power with respect to recovery rates over `good' and `bad' times in
+the credit cycle, meaning that the relationship between recovery rates and certain loan characteristics,
+firm characteristics and the probability of default differs depending on underlying credit market conditions.
+Our findings demonstrate the importance of accounting for countercyclical expected recovery
+rates when determining capital retention levels. 
+Classification-JEL: G17, G21, G28
+Creation-Date: 2018
+Number: 7/18
+Length: 29 
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp07-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-7
+
+Template-type: ReDIF-Paper 1.0
+Title: Meta-learning how to forecast time series
+Author-Name: Thiyanga S Talagala
+Author-X-Name-First: Thiyanga
+Author-X-Name-Last: Talagala
+Author-Email: thiyanga.talagala@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: george.athanasopoulos@monash.edu
+Keywords: FFORMS (Feature-based FORecast-model Selection), time series features, random forest, algorithm selection problem, classsification.
+Abstract: A crucial task in time series forecasting is the identification of the most suitable forecasting
+method. We present a general framework for forecast-model selection using meta-learning. A
+random forest is used to identify the best forecasting method using only time series features.
+The framework is evaluated using time series from the M1 and M3 competitions and is
+shown to yield accurate forecasts comparable to several benchmarks and other commonly
+used automated approaches of time series forecasting. A key advantage of our proposed
+framework is that the time-consuming process of building a classifier is handled in advance
+of the forecasting task at hand. 
+Classification-JEL: C10, C14, C22
+Creation-Date: 2018
+Number: 6/18
+Length: 29 
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp06-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-6
+
+Template-type: ReDIF-Paper 1.0
+Title: Series estimation for single-index models under constraints
+Author-Name: Chaohua Dong 
+Author-X-Name-First: Chaohua
+Author-X-Name-Last: Dong 
+Author-Email: dchaohua@hotmail.com
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: b.peng2@bath.ac.uk
+Keywords: asymptotic theory, closed-form estimation, cross-sectional model, Hermite series expansion.
+Abstract: This paper discusses a semiparametric single-index model. The link function is allowed
+to be unbounded and has unbounded support that fill the gap in the literature. The link
+function is treated as a point in an infinitely many dimensional function space which enables
+us to derive the estimates for the index parameter and the link function simultaneously.
+This approach is different from the profile method commonly used in the literature. The
+estimator is derived from an optimization with the constraint of an identification condition
+for the index parameter, which solves an important problem in the literature of single-index
+models.
+
+In addition, making use of a property of Hermite orthogonal polynomials, an explicit
+estimator for the index parameter is obtained. Asymptotic properties of the two estimators
+of the index parameter are established. Their efficiency is discussed in some special cases
+as well. The finite sample properties of the two estimators are demonstrated through an
+extensive Monte Carlo study and an empirical example.
+Classification-JEL: C13, C14, C51
+Creation-Date: 2018
+Number: 5/18
+Length: 35
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp05-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-5
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Anomaly detection in streaming nonstationary temporal data
+Author-Name: Priyanga Dilini Talagala
+Author-X-Name-First: Priyanga
+Author-X-Name-Last: Talagala
+Author-Email: Dilini.Talagala@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Kate Smith-Miles
+Author-X-Name-First: Kate
+Author-X-Name-Last: Smith-Miles
+Author-Email: smith-miles@unimelb.edu.au
+Author-Name: Sevvandi Kandanaarachchi
+Author-X-Name-First: Sevvandi
+Author-X-Name-Last: Kandanaarachchi
+Author-Email: Sevvandi.Kandanaarachchi@monash.edu
+Author-Name: Mario A Munoz
+Author-X-Name-First: Mario
+Author-X-Name-Last: Munoz
+Author-Email: munoz.m@unimelb.edu.au
+Keywords: concept drift, extreme value theory, feature-based time series analysis, kernel-based density estimation, multivariate time series, outlier detection.
+Abstract: This article proposes a framework that provides early detection of anomalous series within a large
+collection of non-stationary streaming time series data. We define an anomaly as an observation that is
+very unlikely given the recent distribution of a given system. The proposed framework first forecasts a
+boundary for the system's typical behavior using extreme value theory. Then a sliding window is used to
+test for anomalous series within a newly arrived collection of series. The model uses time series features as
+inputs, and a density-based comparison to detect any significant changes in the distribution of the features.
+Using various synthetic and real world datasets, we demonstrate the wide applicability and usefulness of
+our proposed framework. We show that the proposed algorithm can work well in the presence of noisy
+non-stationarity data within multiple classes of time series. This framework is implemented in the open
+source R package oddstream. R code and data are available in the supplementary materials. 
+Classification-JEL: C38, C55, C60
+Creation-Date: 2018
+Number: 4/18
+Length: 23 
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp04-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-4
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Testing for common breaks in a multiple equations system
+Author-Name: Tatsushi Oka
+Author-X-Name-First: Tatsushi
+Author-X-Name-Last: Oka
+Author-Email: oka@monash.edu
+Author-Name: Pierre Perron
+Author-X-Name-First: Pierre
+Author-X-Name-Last: Perron
+Author-Email: perron@bu.edu
+Keywords: change-point, segmented regressions, break dates, hypothesis testing, multiple equations systems.
+Abstract: The issue addressed in this paper is that of testing for common breaks across or
+within equations of a multivariate system. Our framework is very general and allows
+integrated regressors and trends as well as stationary regressors. The null hypothesis
+is that breaks in different parameters occur at common locations and are separated
+by some positive fraction of the sample size unless they occur across different equations.
+Under the alternative hypothesis, the break dates across parameters are not the
+same and also need not be separated by a positive fraction of the sample size whether
+within or across equations. The test considered is the quasi-likelihood ratio test assuming
+normal errors, though as usual the limit distribution of the test remains valid
+with non-normal errors. Of independent interest, we provide results about the rate of
+convergence of the estimates when searching over all possible partitions subject only
+to the requirement that each regime contains at least as many observations as some
+positive fraction of the sample size, allowing break dates not separated by a positive
+fraction of the sample size across equations. Simulations show that the test has good
+finite sample properties. We also provide an application to issues related to level shifts
+and persistence for various measures of inflation to illustrate its usefulness. 
+Classification-JEL: C32
+Creation-Date: 2018
+Number: 3/18
+Length: 44 
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp03-2018.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-3
+
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Approximate Bayesian forecasting
+Author-Name: David T. Frazier
+Author-X-Name-First: David
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Author-Name: Worapree Maneesoonthorn
+Author-X-Name-First: Worapree
+Author-X-Name-Last: Maneesoonthorn
+Author-Email: o.maneesoonthorn@mbs.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu
+Author-Name: Brendan P.M. McCabe
+Author-X-Name-First: Brendan
+Author-X-Name-Last: McCabe
+Author-Email: Brendan.Mccabe@liverpool.ac.uk
+Keywords: Bayesian prediction, likelihood-free methods, predictive merging, proper scoring rules, particle filtering, jump-diffusion models.
+Abstract: Approximate Bayesian Computation (ABC) has become increasingly prominent as
+a method for conducting parameter inference in a range of challenging statistical problems,
+most notably those characterized by an intractable likelihood function. In this
+paper, we focus on the use of ABC not as a tool for parametric inference, but as a
+means of generating probabilistic forecasts; or for conducting what we refer to as "approximate
+Bayesian forecasting". The four key issues explored are: i) the link between
+the theoretical behavior of the ABC posterior and that of the ABC-based predictive;
+ii) the use of proper scoring rules to measure the (potential) loss of forecast accuracy
+when using an approximate rather than an exact predictive; iii) the performance of
+approximate Bayesian forecasting in state space models; and iv) the use of forecast
+accuracy to inform the selection of ABC summaries in empirical settings. The primary
+finding of the paper is that ABC can provide a computationally ecient
+means of generating probabilistic forecasts that are nearly identical to those produced by the exact
+predictive, and in a fraction of the time required to produce predictions via an exact
+method.
+Classification-JEL: C11, C53, C58
+Creation-Date: 2018
+Number: 2/18
+Length: 36
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp02-2018v1.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-2
+
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Varying-coefficient panel data models with partially observed factor structure
+Author-Name: Chaohua Dong 
+Author-X-Name-First: Chaohua
+Author-X-Name-Last: Dong 
+Author-Email: dchaohua@hotmail.com
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: b.peng2@bath.ac.uk
+Keywords: asymptotic theory, orthogonal series method, translog cost function, return to scale.
+Abstract: In this paper, we study a varying-coefficient panel data model with nonstationarity,
+wherein a factor structure is adopted to capture different effects of time invariant variables
+over time. The methodology employed in this paper fills a gap of dealing with the mixed
+I(1)/I(0) regressors and factors in the literature. For comparison purposes, we consider the
+scenarios where the factors are either observable or unobservable, respectively. We propose
+an estimation method for both the unknown coefficient functions involved and the unknown
+factors before we establish the corresponding theory. We then evaluate the finite-sample
+performance of the proposed estimation theory through extensive Monte Carlo simulations.
+In an empirical study, we use our newly proposed model and method to study the returns
+to scale of large commercial banks in the U.S.. Some overlooked modelling issues in the
+literature of production econometrics are addressed.
+Classification-JEL: C14, C23, D24
+Creation-Date: 2018
+Number: 1/18
+Length: 39
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp01-2018v1.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2018-1
+

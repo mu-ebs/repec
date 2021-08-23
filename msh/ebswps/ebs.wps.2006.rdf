@@ -1,0 +1,464 @@
+Template-type: ReDIF-Paper 1.0
+Title: Parameterisation and Efficient MCMC Estimation of Non-Gaussian State Space Models
+Author-Name: Chris M Strickland
+Author-X-Name-First: Chris M
+Author-X-Name-Last: Strickland
+Author-Email: Chris.Strickland@buseco.monash.edu.au
+Author-Name: Gael Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@buseco.monash.edu.au
+Author-Name: Catherine S Forbes
+Author-X-Name-First: Catherine S
+Author-X-Name-Last: Forbes
+Author-Email: Catherine.Forbes@buseco.monash.edu.au
+Keywords:  Bayesian methodology, stochastic volatility, durations, non-centred in location, non-centred in scale, inefficiency factors.
+Abstract: The impact of parameterisation on the simulation efficiency of Bayesian Markov chain Monte Carlo (MCMC) algorithms for two non-Gaussian state space models is examined.  Specifically, focus is given to particular forms of the stochastic conditional duration (SCD) model and the stochastic volatility (SV) model, with four alternative parameterisations of each model considered.  A controlled experiment using simulated data reveals that relationships exist between the simulation efficiency of the MCMC sampler, the magnitudes of the population parameters and the particular parameterisation of the state space model.  Results of an empirical analysis of two separate transaction data sets for the SCD model, as well as equity and exchange rate data sets for the SV model, are also reported.  Both the simulation and empirical results reveal that substantial gains in simulation efficiency can be obtained from simple reparameterisations of both types of non-Gaussian state space models.
+Classification-JEL: C11; C22; G1
+Creation-Date: 2006-12
+Number: 22/06
+Length: 31 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp22-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-22
+
+Template-type: ReDIF-Paper 1.0
+Title: Impact of Structural Change in Education, Industry and Infrastructure on Income Distribution in Sri Lanka
+Author-Name: Ramani Gunatilaka
+Author-X-Name-First: Ramani
+Author-X-Name-Last: Gunatilaka
+Author-Name: Duangkamon Chotikapanich
+Author-X-Name-First: Duangkamon
+Author-X-Name-Last: Chotikapanich
+Author-Email: Duangkamon.Chotikapanich@buseco.monash.edu.au
+Author-Name: Brett Inder
+Author-X-Name-First: Brett
+Author-X-Name-Last: Inder
+Author-Email: Brett.Inder@buseco.monash.edu.au
+Keywords:  Income inequality; Sri Lanka; education; infrastructure; kernel density decomposition 
+Abstract: Income inequality increased in Sri Lanka following trade liberalization in 1977. This study applies a semi-parametric method to investigate whether structural changes in education, industry and infrastructure access underlay the change in the distribution. The study finds that while the concentration of people shifted towards higher income ranges at every stage in the distribution between 1985 and 2002, changes in access to infrastructure triggered much of the shift. Higher levels of educational attainment also had an impact. But the middle classes appear to have benefited disproportionately more from the provision of education and infrastructure services than did the poor. The analysis recommends that such services are targeted more effectively towards those in the poorest income deciles to enable them to move out of poverty to higher income ranges.
+Classification-JEL: D31
+Creation-Date: 2006-11
+Number: 21/06
+Length: 40 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp21-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-21
+
+Template-type: ReDIF-Paper 1.0
+Title: Tests for Over-identifying Restrictions in Partially Identified Linear Structural Equations
+Author-Name: Giovanni Forchini
+Author-X-Name-First: Giovanni
+Author-X-Name-Last: Forchini
+Author-Email: Giovanni.Forchini@buseco.monash.edu.au
+Keywords:  Invariant Tests, Over-identifying restrictions, Partially identified structural equation
+Abstract: Cragg and Donald (1996) have pointed out that the asymptotic size of tests for overidentifying restrictions can be much smaller than the asymptotic nominal size when the structural equation is partially identified. This may lead to misleading inference if the critical values are obtained from a chi-square distribution. To overcome this problem we derive the exact asymptotic distribution of the Byron test statistic. This allows the calculation of asymptotic critical values and p-values corrected for possible failure of identification.
+Classification-JEL: C12, C30
+Creation-Date: 2006-11
+Number: 20/06
+Length: 24 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp20-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-20
+
+Template-type: ReDIF-Paper 1.0
+Title: Modelling and forecasting Australian domestic tourism
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@buseco.monash.edu.au
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Keywords:  Australia, domestic tourism, exponential smoothing, forecasting, innovation state space models.
+Abstract: In this paper, we model and forecast Australian domestic tourism demand. We use a regression framework to estimate important economic relationships for domestic tourism demand. We also identify the impact of world events such as the 2000 Sydney Olympics and the 2002 Bali bombings on Australian domestic tourism. To explore the time series nature of the data, we use innovation state space models to forecast the domestic tourism demand.  Combining these two frameworks, we build innovation state space models with exogenous variables. These models are able to capture the time series dynamics in the data, as well as economic and other relationships. We show that these models outperform alternative approaches for short-term forecasting and also produce sensible long-term forecasts. The forecasts are compared with the official Australian government forecasts, which are found to be more optimistic than our forecasts.
+Classification-JEL: C13,C22,C53
+Creation-Date: 2006-10
+Number: 19/06
+Length: 28 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp19-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-19
+
+Template-type: ReDIF-Paper 1.0
+Title: Measuring the cost of leaving care in Victoria
+Author-Name: Catherine Forbes
+Author-X-Name-First: Catherine
+Author-X-Name-Last: Forbes
+Author-Email: Catherine.Forbes@buseco.monash.edu.au
+Author-Name: Brett Inder
+Author-X-Name-First: Brett
+Author-X-Name-Last: Inder
+Author-Email: Brett.Inder@buseco.monash.edu.au
+Author-Name: Sunitha Raman
+Author-X-Name-First: Sunitha
+Author-X-Name-Last: Raman
+Keywords:  cost-benefit, policy; state care, outcomes.
+Abstract: On any given night in Victoria, around 4,000 children and young people live under the care and protection of the State. For many young people, this care extends over a long period of time, sometimes until their 18th birthday. It is well documented that young people leaving State care often lack the social and economic resources to assist them in making the transition into independent living. As a consequence, the long-term life outcomes from this group are frequently very poor. A recent report from The Centre for Excellence in Child and Family Welfare in partnership with Monash University estimated that, for a typical cohort of 450 young people who leave care in Victoria each year, the direct cost to the State resulting from these poor outcomes is $332.5 million. The estimated average outcomes of the leaving care population are based on a recent survey involving sixty young people who had spent at least two years in care as teenagers. This paper provides an overview of the economic methodology used to estimate this cost, and provides discussion of the motivation for measuring outcomes in terms of costs to the State. 
+Classification-JEL: D63, I38
+Creation-Date: 2006-08
+Number: 18/06
+Length: 27 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp18-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-18
+
+Template-type: ReDIF-Paper 1.0
+Title: Beveridge-Nelson Decomposition with Markov Switching
+Author-Name: Chin Nam Low
+Author-X-Name-First: Chin Nam
+Author-X-Name-Last: Low
+Author-Name: Heather Anderson
+Author-X-Name-First: Heather
+Author-X-Name-Last: Anderson
+Author-Name: Ralph D. Snyder
+Author-X-Name-First: Ralph D.
+Author-X-Name-Last: Snyder
+Author-Email: Ralph.Snyder@buseco.monash.edu.au
+Keywords: Beveridge-Nelson decomposition, Markov switching, Single source of error state space models
+Abstract: This paper considers Beveridge-Nelson decomposition in a context where the permanent and transitory components both follow a Markov switching process.  Our approach incorporates Markov switching into a single source of error state-space framework, allowing business cycle asymmetries and regime switches in the long run multiplier.
+Classification-JEL: C22, C51, E32
+Creation-Date: 2006-08
+Number: 17/06
+Length: 20 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp17-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-17
+
+Template-type: ReDIF-Paper 1.0
+Title: Incorporating a Tracking Signal into State Space Models for Exponential Smoothing
+Author-Name: Ralph D. Snyder
+Author-X-Name-First: Ralph D.
+Author-X-Name-Last: Snyder
+Author-Email: Ralph.Snyder@buseco.monash.edu.au
+Author-Name: Anne B. Koehler
+Author-X-Name-First: Anne B.
+Author-X-Name-Last: Koehler
+Keywords:   Forecasting, exponential smoothing, tracking signals.
+Abstract: It is a common practice to complement a forecasting method such as simple exponential smoothing with a monitoring scheme to detect those situations where forecasts have failed to adapt to structural change. It will be suggested in this paper that the equations for simple exponential smoothing can be augmented by a common monitoring statistic to provide a method that automatically adapts to structural change without human intervention. It is shown that the resulting equations conform to those of damped trend corrected exponential smoothing.  In a similar manner, exponential smoothing with drift, when augmented by the same monitoring statistic, produces equations that split the trend into long term and short term components.
+Classification-JEL: C32
+Creation-Date: 2006-08
+Number: 16/06
+Length: 11 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp16-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-16
+
+Template-type: ReDIF-Paper 1.0
+Title: The Finite-Sample Properties of Autoregressive Approximations of Fractionally-Integrated and Non-Invertible Processes
+Author-Name: S. D. Grose
+Author-X-Name-First: S. D.
+Author-X-Name-Last: Grose
+Author-Email: Simone.Grose@buseco.monash.edu.au
+Author-Name: D. S. Poskitt
+Author-X-Name-First: D. S.
+Author-X-Name-Last: Poskitt
+Author-Email: Don.Poskitt@buseco.monash.edu.au
+Keywords: Autoregression, autoregressive approximation, fractional process,
+Abstract: This paper investigates the empirical properties of autoregressive approximations to two classes of process for which the usual regularity conditions do not apply; namely the non-invertible and fractionally integrated processes considered in Poskitt (2006). In that paper the theoretical consequences of fitting long autoregressions under regularity conditions that allow for these two situations was considered, and convergence rates for the sample autocovariances and autoregressive coefficients established. We now consider the finite-sample properties of alternative estimators of the AR parameters of the approximating AR(h) process and corresponding estimates of the optimal approximating order h. The estimators considered include the Yule-Walker, Least Squares, and Burg estimators.
+Classification-JEL: C14, C22, C53
+Creation-Date: 2006-06
+Number: 15/06
+Length: 35 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp15-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-15
+
+Template-type: ReDIF-Paper 1.0
+Title: Stochastic population forecasts using functional data models for mortality, fertility and migration
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Heather Booth
+Author-X-Name-First: Heather
+Author-X-Name-Last: Booth
+Keywords:  Fertility forecasting, functional data, mortality forecasting, net migration, nonparametric smoothing, population forecasting, principal components, simulation.
+Abstract: Age-sex-specific population forecasts are derived through stochastic population renewal using forecasts of mortality, fertility and net migration. Functional data models with time series coefficients are used to model age-specific mortality and fertility rates. As detailed migration data are lacking, net migration by age and sex is estimated as the difference between historic annual population data and successive populations one year ahead derived from a projection using fertility and mortality data. This estimate, which includes error, is also modeled using a functional data model. The three models involve different strengths of the general Box-Cox transformation chosen to minimise out-of-sample forecast error. Uncertainty is estimated from the model, with an adjustment to ensure the one-step-forecast variances are equal to those obtained with historical data. The three models are then used in the Monte Carlo simulation of future fertility, mortality and net migration, which are combined using the cohort-component method to obtain age-specific forecasts of the population by sex. The distribution of forecasts provides probabilistic prediction intervals. The method is demonstrated by making 20-year forecasts using Australian data for the period 1921-2003.
+Classification-JEL: J11, C53, C14, C32
+Creation-Date: 2006-05
+Number: 14/06
+Length: 34 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp14-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-14
+
+Template-type: ReDIF-Paper 1.0
+Title: Lee-Carter mortality forecasting: a multi-country comparison of variants and extensions
+Author-Name: Heather Booth
+Author-X-Name-First: Heather
+Author-X-Name-Last: Booth
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Leonie Tickle
+Author-X-Name-First: Leonie
+Author-X-Name-Last: Tickle
+Author-Name: Piet de Jong
+Author-X-Name-First: Piet
+Author-X-Name-Last: de Jong
+Keywords:  Functional data, Lee-Carter method, mortality forecasting, nonparametric smoothing, principal components, state space.
+Abstract: We compare the short- to medium-term accuracy of five variants or extensions of the Lee-Carter method for mortality forecasting. These include the original Lee-Carter, the Lee-Miller and Booth-Maindonald-Smith variants, and the more flexible Hyndman-Ullah and De Jong-Tickle extensions. These methods are compared by applying them to sex-specific populations of 10 developed countries using data for 1986-2000 for evaluation. All variants and extensions are more accurate than the original Lee-Carter method for forecasting log death rates, by up to 61%. However, accuracy in log death rates does not necessarily translate into accuracy in life expectancy. There are no significant differences among the five methods in forecast accuracy for life expectancy.
+Classification-JEL: J11, C53, C14, C32
+Creation-Date: 2006-05
+Number: 13/06
+Length: 25 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp13-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-13
+
+Template-type: ReDIF-Paper 1.0
+Title: Properties of the Sieve Bootstrap for Fractionally Integrated and Non-Invertible Processes
+Author-Name: D. S. Poskitt
+Author-X-Name-First: D. S.
+Author-X-Name-Last: Poskitt
+Author-Email: Don.Poskitt@buseco.monash.edu.au
+Keywords: Autoregressive approximation, fractional process, non-invertibility, rate of convergence, sieve bootstrap.
+Abstract: In this paper we will investigate the consequences of applying the sieve bootstrap under regularity conditions that are sufficiently general to encompass both fractionally integrated and non-invertible processes. The sieve bootstrap is obtained by approximating the data generating process by an autoregression whose order h increases with the sample size T. The sieve bootstrap may be particularly useful in the analysis of fractionally integrated processes since the statistics of interest can often be non-pivotal with distributions that depend on the fractional index d. The validity of the sieve bootstrap is established and it is shown that when the sieve bootstrap is used to approximate the distribution of a general class of statistics admitting an Edgeworth expansion then the error rate achieved is of order <em>O</em>(<em>T</em><sup>&nbsp;&beta;+d-1</sup>), for any &beta; > 0. Practical implementation of the sieve bootstrap is considered and the results are illustrated using a canonical example.
+Classification-JEL: C15, C22
+Creation-Date: 2006-07
+Number: 12/06
+Length: 27 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp12-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-12
+
+Template-type: ReDIF-Paper 1.0
+Title: Half-Life Estimation based on the Bias-Corrected Bootstrap: A Highest Density Region Approach
+Author-Name: Jae Kim
+Author-X-Name-First: Jae
+Author-X-Name-Last: Kim
+Author-Email: Jae.Kim@buseco.monash.edu.au
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param
+Author-X-Name-Last: Silvapulle
+Author-Email: Param.Silvapulle@buseco.monash.edu.au
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Keywords: Autoregressive Model, Bias-correction, Bootstrapping, Confidence interval, Half-life, Highest density region.
+Abstract: The half-life is defined as the number of periods required for the impulse response to a unit shock to a time series to dissipate by half. It is widely used as a measure of persistence, especially in international economics to quantify the degree of mean reversion of the deviation from an international parity condition. Several studies have proposed bias-corrected point and interval estimation methods. However, they have found that the confidence intervals are rather uninformative with their upper bound being either extremely large or infinite. This is largely due to the distribution of the half-life estimator being heavily skewed and multi-modal. In this paper, we propose a bias-corrected bootstrap procedure for the estimation of half-life, adopting the highest density region (HDR) approach to point and interval estimation. Our Monte Carlo simulation results reveal that the bias-corrected bootstrap HDR method provides an accurate point estimator, as well as tight confidence intervals with superior coverage properties to those of its alternatives. As an application, the proposed method is employed for half-life estimation of the real exchange rates of seventeen industrialized countries. The results indicate much faster rates of mean-reversion than those reported in previous studies.
+Classification-JEL: C15, C22, F37
+Creation-Date: 2006-06
+Number: 11/06
+Length: 35 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp11-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-11
+
+Template-type: ReDIF-Paper 1.0
+Title: Assessing the Impact of Market Microstructure Noise and Random Jumps on the Relative Forecasting Performance of Option-Implied and Returns-Based Volatility
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael M.
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@buseco.monash.edu.au
+Author-Name: Andrew Reidy
+Author-X-Name-First: Andrew
+Author-X-Name-Last: Reidy
+Author-Name: Jill Wright
+Author-X-Name-First: Jill
+Author-X-Name-Last: Wright
+Author-Email: Jill.Wright@buseco.monash.edu.au
+Keywords: Volatility Forecasts; Quadratic Variation; Intraday Volatility Measures; Model-free Implied Volatility.
+Abstract: This paper presents a comprehensive empirical evaluation of option-implied and returns-based forecasts of volatility, in which new developments related to the impact on measured volatility of market microstructure noise and random jumps are explicitly taken into account. The option-based component of the analysis also accommodates the concept of model-free implied volatility, such that the forecasting performance of the options market is separated from the issue of misspecification of the option pricing model. The forecasting assessment is conducted using an extensive set of observations on equity and option trades for News Corporation for the 1992 to 2001 period, yielding certain clear results. According to several different criteria, the model-free implied volatility is the best performing forecast, overall, of future volatility, with this result being robust to the way in which alternative measures of future volatility accommodate microstructure noise and jumps. Of the volatility measures considered, the one which is, in turn, best forecast by the option-implied volatility is that measure which adjusts for microstructure noise, but which retains some information about random jumps.
+Classification-JEL: C10, C53, G12
+Creation-Date: 2006
+Number: 10/06
+Length: 48 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp10-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-10
+
+Template-type: ReDIF-Paper 1.0
+Title: Assessing Dependence Changes in the Asian Financial Market Returns Using Plots Based on Nonparametric Measures
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param
+Author-X-Name-Last: Silvapulle
+Author-Email: Param.Silvapulle@buseco.monash.edu.au
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@buseco.monash.edu.au
+Keywords: chi-plot, copula, dependence, Kendall-plot
+Abstract: This paper investigates whether or not there are significant changes in the dependence between the Thai equity market and six Asian markets - namely, Singaporean, Malaysian, Hong Kong, Korean, Indonesian and Taiwanese markets - due to 1997-July financial crisis. If so, this may be an indication that the underlying bivariate joint distributions capturing the dependence between the Thai market and these six markets have changed. We employ the chi-plot proposed by Fisher and Switzer (2001) and the Kendall plot proposed by Genest and Boies (2003) to examine the dependence in these six markets for the pre- and post-1997 financial crisis periods. We find that marginal distributions of all seven markets have notably changed due to this financial crisis, and that the functional forms of the underlying joint distributions generating the dependence in the Korean, Indonesian and Taiwan markets have also changed for the post-crisis period. It appears that the same parametric copula can capture the dependence in the Singapore, Malaysia and Hong Kong markets for both pre- and post-crisis periods, and that only the tail indices of bivariate distributions between the Thai and these three markets have changed. It is interesting to observe that the same conclusions can be drawn using both chi- and Kendall plots.
+Classification-JEL: C14, G14
+Creation-Date: 2006-05
+Number: 9/06
+Length: 29 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp9-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-9
+
+Template-type: ReDIF-Paper 1.0
+Title: Local Linear Multivariate Regression with Variable Bandwidth in the Presence of Heteroscedasticity
+Author-Name: Azhong Ye
+Author-X-Name-First: Azhong
+Author-X-Name-Last: Ye
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Zinai Li
+Author-X-Name-First: Zinai
+Author-X-Name-Last: Li
+Keywords: Heteroscedasticity; kernel smoothing; local linear regression; plug-in bandwidth, variable bandwidth.
+Abstract: We present a local linear estimator with variable bandwidth for multivariate nonparametric regression. We prove its consistency and asymptotic normality in the interior of the observed data and obtain its rates of convergence. This result is used to obtain practical direct plug-in bandwidth selectors for heteroscedastic regression in one and two dimensions. We show that the local linear estimator with variable bandwidth has better goodness-of-fit properties than the local linear estimator with constant bandwidth, in the presence of heteroscedasticity.
+Classification-JEL: C12,C15,C52
+Creation-Date: 2006-05
+Number: 8/06
+Length: 24 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp8-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-8
+
+Template-type: ReDIF-Paper 1.0
+Title: An Anisotropic Model For Spatial Processes
+Author-Name: Minfeng Deng
+Author-X-Name-First: Minfeng
+Author-X-Name-Last: Deng
+Author-Email: Minfeng.Deng@buseco.monash.edu.au
+Keywords:  Anisotropy, spatial econometrics, maximum likelihoods estimation, housing prices.
+Abstract: One of the key assumptions in spatial econometric modelling is that the spatial process is isotropic, which means that direction is irrelevant in the specification of the spatial structure. On one hand, this assumption largely reduces the complexity of the spatial models and facilitates estimation and interpretation; on the other hand, it appears rather restrictive and hard to justify in many empirical applications. In this paper a very general anisotropic spatial model, which allows for a high level of flexibility in the spatial structure, is proposed. This new model can be estimated using maximum likelihood and its asymptotic properties are well understood. When the model is applied to the well-known 1970 Boston housing prices data, it significantly outperforms the isotropic spatial lag model. It also provides interesting additional insights into the price determination process in the properties market.
+Classification-JEL: C21, R15, R31
+Creation-Date: 2006-03
+Number: 7/06
+Length: 26 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp7-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-7
+
+Template-type: ReDIF-Paper 1.0
+Title: Inequality Trends and Determinants in Sri Lanka 1980-2002: A Shapley Approach to Decomposition 
+Author-Name: Ramani Gunatilaka
+Author-X-Name-First: Ramani
+Author-X-Name-Last: Gunatilaka
+Author-Email: Ramani.Gunatilaka@buseco.monash.edu.au
+Author-Name: Duangkamon Chotikapanich 
+Author-X-Name-First: Duangkamon
+Author-X-Name-Last:  Chotikapanich
+Author-Email: Duangkamon.Chotikapanich@buseco.monash.edu.au
+Keywords: income inequality; Sri Lanka; Shapley value decomposition 
+Abstract: Sri Lanka liberalised its economy in 1977, paving the way for more rapid economic growth and higher rates of job creation. But tensions over distributional issues still plague the body politic. This paper investigates the evolution of Sri Lanka's income distribution in the period 1980-2002 and uses the Shapley value decomposition methodology to determine underlying causes. The study finds that while average incomes rose across strata, the rich experienced more rapid income growth leading to greater inequality. Inequality change was driven by differential access to infrastructure, education, and occupation status. Demographic factors including ethnicity, and spatial factors, contributed very little. The study recommends policies that ensure more equitable access to income earning assets such as education and infrastructure services and make sure that increases in inequality do not take place along sectoral, regional and ethnic fault lines.
+Classification-JEL: D31
+Creation-Date: 2006-02
+Number: 6/06
+Length: 42 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp6-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-6
+
+Template-type: ReDIF-Paper 1.0
+Title: Language and Labour in South Africa: A new approach for a new South Africa
+Author-Name: Katy Cornwell
+Author-X-Name-First: Katy
+Author-X-Name-Last: Cornwell
+Author-Email: Kathryn.Cornwell@buseco.monash.edu.au
+Keywords: Unemployment, Income, South Africa, Language Policy, Race.
+Abstract: This paper considers the role of language in labour earnings in South Africa over the period 1996 to 1998.  Our pooled cross-section comprises of over 160,000 working age adults, and the analysis considers the decision to participate in the labour force, employment prospects and labour earnings.  Models include variables for individual mother tongue in addition to population group.  After conditioning on a number of socio-economic and demographic factors, we find that having English as one's mother tongue is one of the pivotal determinants of labour earnings.  These results are robust across two models of sample selection.  Such findings shed light on the economic consequences of South Africa's national policy of linguistic heterogeneity. 
+Classification-JEL: J64, J21, J23, J19, J31
+Creation-Date: 2006-02
+Number: 5/06
+Length: 29 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp5-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-5
+
+Template-type: ReDIF-Paper 1.0
+Title: VARMA versus VAR for Macroeconomic Forecasting
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@buseco.monash.edu.au
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Keywords: Forecasting, Identification, Multivariate time series, Scalar components, VARMA models.
+Abstract: In this paper, we argue that there is no compelling reason for restricting the class of multivariate models considered for macroeconomic forecasting to VARs given the recent advances in VARMA modelling methodology and improvements in computing power. To support this claim, we use real macroeconomic data and show that VARMA models forecast macroeconomic variables more accurately than VAR models.
+Classification-JEL: C32, C51
+Creation-Date: 2006-01
+Number: 4/06
+Length: 21 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp4-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-4
+
+Template-type: ReDIF-Paper 1.0
+Title: Some Nonlinear Exponential Smoothing Models are Unstable
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Muhammad Akram
+Author-X-Name-First: Muhammad
+Author-X-Name-Last: Akram
+Author-Email: Muhammad.Akram@buseco.monash.edu.au
+Keywords: Exponential smoothing, forecast variance, nonlinear models, prediction intervals, stability, state space models.
+Abstract: This paper discusses the instability of eleven nonlinear state space models that underly exponential smoothing. Hyndman et al. (2002) proposed a framework of 24 state space models for exponential smoothing, including the well-known simple exponential smoothing, Holt's linear and Holt-Winters' additive and multiplicative methods. This was extended to 30 models with Taylor's (2003) damped multiplicative methods.  We show that eleven of these 30 models are unstable, having infinite forecast variances. The eleven models are those with additive errors and either multiplicative trend or multiplicative seasonality, as well as the models with multiplicative errors, multiplicative trend and additive seasonality. The multiplicative Holt-Winters' model with additive errors is among the eleven unstable models.  We conclude that: (1) a model with a multiplicative trend or a multiplicative seasonal component should also have a multiplicative error; and (2) a multiplicative trend should not be mixed with additive seasonality.
+Classification-JEL: C53,C22
+Creation-Date: 2006-01
+Number: 3/06
+Length: 10 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp3-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-3
+
+Template-type: ReDIF-Paper 1.0
+Title: A Complete VARMA Modelling Methodology Based on Scalar Components
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@buseco.monash.edu.au
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: Farshid.Vahid@buseco.monash.edu.au
+Keywords: Identification, Multivariate time series, Scalar components, VARMA models.
+Abstract: This paper proposes an extension to scalar component methodology for the identification and estimation of VARMA models. The complete methodology determines the exact positions of all free parameters in any VARMA model with a predetermined embedded scalar component structure. This leads to an exactly identified system of equations that is estimated using full information maximum likelihood.
+Classification-JEL: C32,C51
+Creation-Date: 2006-01
+Number: 2/06
+Length: 20 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp2-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-2
+
+Template-type: ReDIF-Paper 1.0
+Title: The Asymptotic distribution of the LIML Estimator in a Partially Identified Structural Equation
+Author-Name: Giovanni Forchini
+Author-X-Name-First: Giovanni
+Author-X-Name-Last: Forchini
+Author-Email: Giovanni.Forchini@buseco.monash.edu.au
+Keywords:  LIML estimator, Partial Identification, Linear structural equation, Asymptotic distribution
+Abstract: We derive general formulae for the asymptotic distribution of the LIML estimator for the coefficients of both endogenous and exogenous variables in a partially identified linear structural equation.  We extend previous results of Phillips (1989) and Choi and Phillips (1992) where the focus was on IV estimators. We show that partial failure of identification affects the LIML in that its moments do not exist even asymptotically.
+Classification-JEL: C13,C30
+Creation-Date: 2006-01
+Number: 1/06
+Length: 18 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2006/wp1-06.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2006-1

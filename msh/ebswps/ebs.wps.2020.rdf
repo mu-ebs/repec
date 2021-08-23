@@ -1,0 +1,1742 @@
+Template-type: ReDIF-Paper 1.0 
+Title: The More the Poorer? Resource Sharing and Scale Economies in Large Families
+Author-Name: Rossella Calvi
+Author-X-Name-First: Rossella 
+Author-X-Name-Last: Calvi
+Author-Email: rossella.calvi@rice.edu
+Author-Name: Jacob Penglase
+Author-X-Name-First: Jacob 
+Author-X-Name-Last: Penglase
+Author-Email: jpenglase@sdsu.edu
+Author-Name: Denni Tommasi
+Author-X-Name-First: Denni  
+Author-X-Name-Last: Tommasi
+Author-Email: denni.tommasi@monash.edu
+Author-Name: Alexander Wolf
+Author-X-Name-First: Alexander  
+Author-X-Name-Last: Wolf
+Author-Email: alexfwolf@gmail.com
+Keywords: collective model, household bargaining, resource shares, scale economies, Barten scales, indifference
+scales, poverty 
+Abstract: The structure of a family may have important consequences for the material well-being of its members. 
+For example, in large families, an individual must share resources with many others, but she may benefit from 
+economies of scale in consumption. In this paper, we study individual consumption in different types of households, 
+with a focus on family structures that are common in developing countries. Based on a collective household model, we
+develop a new methodology to identify the intra-household allocation of resources and the extent of consumption 
+sharing. We apply our methodology using data from Bangladesh and Mexico, and use the model estimates to compute 
+poverty rates for men, women, and children. Contrary to existing poverty calculations that ignore
+either intra-household inequality or economies of scale in consumption, ours take into account both dimensions.
+Classification-JEL: D13, D11, D12, C31, I32  
+Creation-Date: 2020
+Number: 46/20
+Length: 51
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp46-2020.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-46
+
+Template-type: ReDIF-Paper 1.0
+Title: Principles and Algorithms for Forecasting Groups of Time Series: Locality and Globality
+Author-Name: Pablo Montero-Manso
+Author-X-Name-First: Pablo 
+Author-X-Name-Last: Montero-Manso
+Author-Email: Pablo Montero-Manso
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Keywords: time series, forecasting, generalization, global, local, cross-learning, pooled regression
+Abstract: Forecasting of groups of time series (e.g. demand for multiple products offered by a retailer,
+server loads within a data center or the number of completed ride shares in zones within a
+city) can be approached locally, by considering each time series as a separate regression task
+and fitting a function to each, or globally, by fitting a single function to all time series in the
+set. While global methods can outperform local for groups composed of similar time series,
+recent empirical evidence shows surprisingly good performance on heterogeneous groups. This
+suggests a more general applicability of global methods, potentially leading to more accurate
+tools and new scenarios to study. However, the evidence has been of empirical nature and a
+more fundamental study is required. Formalizing the setting of forecasting a set of time series
+with local and global methods, we provide the following contributions:
+
+• We show that global methods are not more restrictive than local methods for time series
+forecasting, a result which does not apply to sets of regression problems in general. Global
+and local methods can produce the same forecasts without any assumptions about similarity
+of the series in the set, therefore global models can succeed in a wider range of problems
+than previously thought.
+
+• We derive basic generalization bounds for local and global algorithms, linking global
+models to pre-existing results in multi-task learning: We find that the complexity of local
+methods grows with the size of the set while it remains constant for global methods. Global
+algorithms can afford to be quite complex and still benefit from better generalization error
+than local methods for large datasets. These bounds serve to clarify and support recent
+experimental results in the area of time series forecasting, and guide the design of new
+algorithms. For the specific class of limited-memory autoregressive models, this bound
+leads to the design of global models with much larger memory than what is effective for
+local methods.
+
+• The findings are supported by an extensive empirical study. We show that purposely naïve
+algorithms derived from these principles, such as global linear models fit by least squares,
+deep networks or even high order polynomials, result in superior accuracy in benchmark
+datasets. In particular, global linear models show an unreasonable effectiveness, providing
+competitive forecasting accuracy with far fewer parameters than the simplest of local
+methods. Empirical evidence points towards global models being able to automatically
+learn long memory patterns and related effects that are only available to local models if
+introduced manually. 
+Classification-JEL:  
+Creation-Date: 2020
+Number: 45/20 
+Length: 37
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp45-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-45
+
+Template-type: ReDIF-Paper 1.0
+Title: Binary Response Models for Heterogeneous Panel Data with Interactive Fixed Effects
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Fei Liu
+Author-X-Name-First: Fei
+Author-X-Name-Last: Liu
+Author-Email: feiliu.econ@outlook.com 
+Author-Name: Bin peng 
+Author-X-Name-First: Bin  
+Author-X-Name-Last: Peng 
+Author-Email: bin.peng@monash.edu 
+Keywords: binary response, heterogeneous panel, interactive fixed effects, portfolio analysis
+Abstract: In this paper, we investigate binary response models for heterogeneous panel data with
+interactive fixed effects by allowing both the cross sectional dimension and the temporal
+dimension to diverge. From a practical point of view, the proposed framework can be
+applied to predict the probability of corporate failure, conduct credit rating analysis, etc.
+Theoretically and methodologically, we establish a link between a maximum likelihood
+estimation and a least squares approach, provide a simple information criterion to detect
+the number of factors, and achieve the asymptotic distributions accordingly. In addition,
+we conduct intensive simulations to examine the theoretical findings. In the empirical
+study, we focus on the sign prediction of stock returns, and then use the results of sign
+forecast to conduct portfolio analysis. By implementing rolling-window based out–of–
+sample forecasts, we show the finite–sample performance and demonstrate the practical
+relevance of the proposed model and estimation method.
+Classification-JEL: C18, C23, G11 
+Creation-Date: 2020
+Number: 44/20 
+Length: 49
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp44-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-44 
+
+Template-type: ReDIF-Paper 1.0
+Title: brolgar: An R package to BRowse Over Longitudinal Data Graphically and Analytically in R
+Author-Name: Nicholas John Tierney
+Author-X-Name-First: Nicholas
+Author-X-Name-Last: Tierney
+Author-Email: nicholas.tierney@gmail.com 
+Author-Name: Dianne Cook
+Author-X-Name-First: Dianne
+Author-X-Name-Last: Cook
+Author-Email: dicook@monash.edu 
+Author-Name: Tania Prvan
+Author-X-Name-First: Tania
+Author-X-Name-Last: Prvan
+Author-Email: tania.prvan@mq.edu.au 
+Keywords: longitudinal data, time series, exploratory data analysis
+Abstract: Longitudinal (panel) data provide the opportunity to examine temporal patterns of individuals,
+because measurements are collected on the same person at different, and often irregular, time
+points. The data is typically visualised using a "spaghetti plot", where a line plot is drawn for
+each individual. When overlaid in one plot, it can have the appearance of a bowl of spaghetti.
+With even a small number of subjects, these plots are too overloaded to be read easily. The
+interesting aspects of individual differences are lost in the noise. Longitudinal data is often
+modelled with a hierarchical linear model to capture the overall trends, and variation among
+individuals, while accounting for various levels of dependence. However, these models can be
+difficult to fit, and can miss unusual individual patterns. Better visual tools can help to diagnose
+longitudinal models, and better capture the individual experiences. This paper introduces the R
+package, brolgar (BRowse over Longitudinal data Graphically and Analytically in R), which
+provides tools to identify and summarise interesting individual patterns in longitudinal data.
+Classification-JEL: C10, C14, C22 
+Creation-Date: 2020
+Number: 43/20
+Length: 30
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp43-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-43
+
+Template-type: ReDIF-Paper 1.0
+Title: Time-Varying Panel Data Models with an Additive Factor Structure
+Author-Name: Fei Liu
+Author-X-Name-First: Fei
+Author-X-Name-Last: Liu
+Author-Email: feiliu.econ@outlook.com 
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Yanrong Yang
+Author-X-Name-First: Yanrong 
+Author-X-Name-Last: Yang
+Author-Email: yanrong.yang@anu.edu.au 
+Keywords: additive factor model, nonparametric kernel estimation, profile marginal integration
+Abstract: Motivated by many key features of real data from economics and finance, we study a
+semiparametric panel data model with time-varying regression coefficients associated with
+an additive factor structure. In our model, factor loadings are unknown functions of observable 
+variables which can capture time-variant and heterogeneous covariate information.
+A profile marginal integration (PMI) method is proposed to estimate unknown coefficient
+functions, factors and their loadings jointly in a single step, which can result in estimators
+with closed forms. Asymptotic distributions for the proposed profile estimators are established. 
+Two empirical applications on US stock returns and OECD health care expenditure
+are provided. Thorough numerical results demonstrate the finite sample performance of
+our estimation and its advantage over traditional models in the relevant literature.
+Classification-JEL: C14, C23, C33 
+Creation-Date: 2020
+Number: 42/20 
+Length: 56
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp42-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-42 
+
+Template-type: ReDIF-Paper 1.0
+Title: Nonlinear Mixed Effects Models for Time Series Forecasting of Smart Meter Demand
+Author-Name: Cameron Roach
+Author-X-Name-First: Cameron  
+Author-X-Name-Last: Roach
+Author-Email: cameron.roach@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Souhaib Ben Taieb
+Author-X-Name-First: Souhaib 
+Author-X-Name-Last: Taieb
+Author-Email:  
+Keywords: time series forecasting, mixed-effects models, smart meters, energy, electricity
+Abstract: Buildings are typically equipped with smart meters to measure electricity demand at regular
+intervals. Smart meter data for a single building have many uses, such as forecasting and
+assessing overall building performance. However, when data are available from multiple
+buildings, there are additional applications that are rarely explored. For instance, we can explore
+how different building characteristics influence energy demand. If each building is treated as a
+random effect and building characteristics are handled as fixed effects, a mixed effects model
+can be used to estimate how characteristics affect energy usage. In this paper we demonstrate
+that producing one day ahead demand predictions for 123 commercial office buildings using
+mixed models can improve forecasting accuracy. We experiment with random intercept, random
+intercept and slope, and nonlinear mixed models. The predictive performance of the mixed
+effects models are tested against naive, linear and nonlinear benchmark models fitted to each
+building separately. This research justifies using mixed models to improve forecasting accuracy
+and to quantify changes in energy consumption under different building configuration scenarios. 
+Classification-JEL: C10, C14, C52 
+Creation-Date: 2020
+Number: 41/20 
+Length: 24
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp41-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-41
+
+Template-type: ReDIF-Paper 1.0
+Title: On GMM Inference: Partial Identification, Identification Strength, and Non-Standard
+Author-Name: Don S. Poskitt 
+Author-X-Name-First: Don
+Author-X-Name-Last:Poskitt 
+Author-Email: Donald.Poskitt@monash.edu
+Keywords: asymptotic distribution, estimable function, Laguerre series expansion, 
+observational equivalence, singular values, stochastic dominance
+Abstract: This paper analyses aspects of GMM inference in moment equality models when
+the moment Jacobian is allowed to be rank deficient. In this setting first order
+identification may fail, and the singular values of the Jacobian are not constrained,
+thereby allowing for varying levels of identification strength. No specific structure
+is imposed on the functional form of the moment conditions, the long-run variance
+of the moment conditions can be singular, and the GMM criterion function weighting matrix may 
+also be chosen sub-optimally. Explicit analytic formulations for the asymptotic distributions 
+of estimable functions of the resulting GMM estimator and the asymptotic distributions of GMM 
+criterion test statistics are derived under relatively mild assumptions. The distributions 
+can be computed using standard software without recourse to bootstrap or simulation methods. 
+The practical operation of the theoretical results, and the relationship between lack of 
+identification and identification strength, is illustrated via numerical examples involving
+instrumental variables estimation of a structural equation with endogenous regressors. The 
+results suggest that although the presence and origin of identification problems can in 
+practice be obscure, the applied researcher can take comfort from the fact that probabilities 
+and quantile values calculated using the new asymptotic sampling distributions of statistics 
+constructed from the standard GMM criterion function will give accurate approximations in 
+the presence of identification issues, irrespective of the latter's source. 
+Classification-JEL: 
+Creation-Date: 2020
+Number: 40/20
+Length:39
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp40-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-40
+
+Template-type: ReDIF-Paper 1.0
+Title: A Class of Time-Varying Vector Moving Average (infinity) Models
+Author-Name: Yayi Yan 
+Author-X-Name-First: Yayi
+Author-X-Name-Last: Yan
+Author-Email: yayi.yan@monash.edu 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti  
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Email: obl20@cam.ac.uk
+Author-Name: Bin peng 
+Author-X-Name-First: Bin  
+Author-X-Name-Last: Peng 
+Author-Email: bin.peng@monash.edu 
+Keywords: multivariate time series model, nonparametric kernel estimation, trending stationarity
+Abstract: Multivariate time series analyses are widely encountered in practical studies, 
+e.g., modelling policy transmission mechanism and measuring connectedness between economic agents.
+To better capture the dynamics, this paper proposes a class of multivariate dynamic models with 
+time-varying coefficients, which have a general time-varying vector moving average
+(VMA) representation, and nest, for instance, time-varying vector autoregression (VAR),
+time-varying vector autoregression moving-average (VARMA), and so forth as special cases.
+The paper then develops a unified estimation method for the unknown quantities before an
+asymptotic theory for the proposed estimators is established. In the empirical study, we 
+investigate the transmission mechanism of monetary policy using U.S. data, and uncover a fall in
+the volatilities of exogenous shocks. In addition, we find that (i) monetary policy shocks have
+less influence on inflation before and during the so-called Great Moderation, (ii) inflation is
+more anchored recently, and (iii) the long-run level of inflation is below, but quite close to the
+Federal Reserve's target of two percent after the beginning of the Great Moderation period. 
+Classification-JEL: 
+Creation-Date: 2020
+Number: 39/20
+Length: 61
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp39-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-39
+
+Template-type: ReDIF-Paper 1.0
+Title: Time of Day, Cognitive Tasks and Efficiency Gains
+Author-Name: Alessio Gaggero
+Author-X-Name-First: Alessio 
+Author-X-Name-Last: Gaggero
+Author-Email: alessiogaggero@go.ugr.es
+Author-Name: Denni Tommasi
+Author-X-Name-First: Denni  
+Author-X-Name-Last: Tommasi
+Author-Email: denni.tommasi@monash.edu
+Keywords: time-of-day, cognitive tasks, productivity, efficiency gains, circadian rhythm 
+Abstract: The link between time-of-day and productivity on cognitive tasks is crucial to understand workplace
+efficiency and welfare. We study the performance of University students taking at most one exam per
+day in the final two weeks of the semester. Exams are scheduled at different time-of-day in a 
+quasirandom fashion. We find that peak performance occurs around lunchtime (1.30pm), as compared to
+morning (9am) or late afternoon (4.30pm). This inverse-U shape relationship between time-of-day and
+performance (i) is not driven by stress or fatigue, (ii) is consistent with the idea that cognitive 
+functioning is an important determinant of productivity and (iii) implies that efficiency gains of up 
+to 0.14 standard deviations can be achieved through simple re-arrangements of the time of exams. While 
+researchers have shown that biological factors influence changes in productivity between day and night 
+shifts, we establish that such relationship is also important within a standard day-light shift. A simple 
+back of the envelope calculation applied to an external context that is likely to benefit from our results, 
+elective surgeries, suggests that a different sorting of the cognitive tasks performed by surgeons may lead 
+to an increase in the number of patients saved.
+Classification-JEL:  I20, I24, J22, J24  
+Creation-Date: 2020
+Number: 38/20
+Length: 45
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp38-2020.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-38
+
+Template-type: ReDIF-Paper 1.0
+Title: Forecasting for Social Good
+Author-Name: Bahman Rostami-Tabar
+Author-X-Name-First: Bahman 
+Author-X-Name-Last: Rostami-Tabar
+Author-Email: rostami-tabarb@cardiff.ac.uk
+Author-Name: Mohammad M Ali
+Author-X-Name-First: Mohammad 
+Author-X-Name-Last: Ali
+Author-Email:  
+Author-Name: Tao Hong
+Author-X-Name-First: Tao
+Author-X-Name-Last: Hong
+Author-Email:  
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Michael D Porter
+Author-X-Name-First: Michael 
+Author-X-Name-Last: Porter
+Author-Email:  
+Author-Name: Aris Syntetos
+Author-X-Name-First: Aris
+Author-X-Name-Last: Syntetos
+Author-Email:  
+Keywords: forecasting, social good, social foundation, ecological ceiling, sustainability
+Abstract: Forecasting plays a critical role in the development of organisational business strategies.
+Despite a considerable body of research in the area of forecasting, the focus has largely
+been on the financial and economic outcomes of the forecasting process as opposed to societal 
+benefits. Our motivation in this study is to promote the latter, with a view to using
+the forecasting process to advance social and environmental objectives such as equality,
+social justice and sustainability. We refer to such forecasting practices as Forecasting for
+Social Good (FSG) where the benefits to society and the environment take precedence
+over economic and financial outcomes. We conceptualise FSG and discuss its scope and
+boundaries in the context of the "Doughnut theory". We present some key attributes that
+qualify a forecasting process as FSG: it is concerned with a real problem, it is focused on
+advancing social and environmental goals and prioritises these over conventional measures of 
+economic success, and it has a broad societal impact. We also position FSG in the
+wider literature on forecasting and social good practices. We propose an FSG maturity
+framework as the means to engage academics and practitioners with research in this area.
+Finally, we highlight that FSG: (i) cannot be distilled to a prescriptive set of guidelines,
+(ii) is scalable, and (iii) has the potential to make significant contributions to advancing
+social objectives. 
+Classification-JEL:  
+Creation-Date: 2020
+Number: 37/20 
+Length: 20
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp37-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-37
+
+Template-type: ReDIF-Paper 1.0
+Title: Burning Sage: Reversing the Curse of Dimensionality in the Visualization of High-Dimensional Data
+Author-Name: Ursula Laa
+Author-X-Name-First: Ursula 
+Author-X-Name-Last: Laa
+Author-Email: ursula.laa@monash.edu
+Author-Name: Dianne Cook
+Author-X-Name-First: Dianne
+Author-X-Name-Last: Cook
+Author-Email: dicook@monash.edu 
+Author-Name: Stuart Lee
+Author-X-Name-First: Stuart
+Author-X-Name-Last: Lee
+Author-Email: stuart.lee1@monash.edu
+Keywords: data visualisation, grand tour, statistical computing, statistical graphics,
+multivariate data, dynamic graphics, data science, machine learning
+Abstract: In high-dimensional data analysis the curse of dimensionality reasons that points
+tend to be far away from the center of the distribution and on the edge of highdimensional 
+space. Contrary to this, is that projected data tends to clump at the
+center. This gives a sense that any structure near the center of the projection is
+obscured, whether this is true or not. A transformation to reverse the curse, is
+defined in this paper, which uses radial transformations on the projected data. It
+is integrated seamlessly into the grand tour algorithm, and we have called it a
+burning sage tour, to indicate that it reverses the curse. The work is implemented
+into the tourr package in R. Several case studies are included that show how the
+sage visualizations enhance exploratory clustering and classification problems.
+Classification-JEL:  
+Creation-Date: 2020
+Number: 36/20
+Length: 19
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp36-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-36
+
+Template-type: ReDIF-Paper 1.0
+Title: Visualizing Probability Distributions across Bivariate Cyclic Temporal Granularities
+Author-Name: Sayani Gupta
+Author-X-Name-First: Sayani 
+Author-X-Name-Last: Gupta
+Author-Email: Sayani.Gupta@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Dianne Cook
+Author-X-Name-First: Dianne
+Author-X-Name-Last: Cook
+Author-Email: dicook@monash.edu 
+Author-Name: Antony Unwin
+Author-X-Name-First: Antony
+Author-X-Name-Last: Unwin
+Author-Email: 
+Keywords: data visualization, statistical distributions, time granularities, calendar algebra, periodicities, grammar of graphics, R
+Abstract: Deconstructing a time index into time granularities can assist in exploration and 
+automated analysis of large temporal data sets. This paper describes classes of time deconstructions
+using linear and cyclic time granularities. Linear time granularities respect the
+linear progression of time such as hours, days, weeks and months. Cyclic time granularities
+can be circular such as hour-of-the-day, quasi-circular such as day-of-the-month, and aperiodic 
+such as public holidays. The hierarchical structure of granularities creates a nested
+ordering: hour-of-the-day and second-of-the-minute are single-order-up. Hour-of-the-week
+is multiple-order-up, because it passes over day-of-the-week. Methods are provided 
+for creating all possible granularities for a time index. A recommendation algorithm 
+provides an indication whether a pair of granularities can be meaningfully examined 
+together (a "harmony"), or when they cannot (a "clash'). Time granularities can be 
+used to create data visualizations to explore for periodicities, associations and 
+anomalies. The granularities form categorical variables (ordered or unordered) which 
+induce groupings of the observations. Assuming a numeric response variable, the 
+resulting graphics are then displays of distributions compared across combinations
+of categorical variables.
+
+The methods are implemented in the open source R package gravitas, providing functions 
+for creating granularities and exploring the associated time series which are consistent
+with a tidy workflow (Grolemund & Wickham (2017)), and the probability distributions can
+be examined using the range of graphics available in ggplot2 (Wickham 2016). 
+Classification-JEL:  
+Creation-Date: 2020
+Number: 35/20
+Length: 31
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp35-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-35
+
+Template-type: ReDIF-Paper 1.0
+Title: Decomposing Identification Gains and Evaluating Instrument Identification Power for Partially
+Identified Average Treatment Effects
+Author-Name: Lina Zhang
+Author-X-Name-First: Lina 
+Author-X-Name-Last: Zhang
+Author-Email: lina.zhang@monash.edu
+Author-Name: David T. Frazier
+Author-X-Name-First: David   
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Author-Name: Don S. Poskitt
+Author-X-Name-First: Don 
+Author-X-Name-Last: Poskitt
+Author-Email: donald.poskitt@monash.edu
+Author-Name: Xueyan Zhao
+Author-X-Name-First: Xueyan
+Author-X-Name-Last: Zhao
+Author-Email: xueyan.zhao@monash.edu  
+Keywords: binary dependent variables, average treatment effect, instrument identification power,
+instrument relevance, endogeneity, partial identification   
+Abstract: This paper studies the instrument identification power for the average treatment effect (ATE) in
+partially identified binary outcome models with an endogenous binary treatment. We propose a novel
+approach to measure the instrument identification power by their ability to reduce the width of the ATE
+bounds. We show that instrument strength, as determined by the extreme values of the conditional
+propensity score, and its interplays with the degree of endogeneity and the exogenous covariates all play
+a role in bounding the ATE. We decompose the ATE identification gains into a sequence of measurable
+components, and construct a standardized quantitative measure for the instrument identification power
+(IIP). The decomposition and the IIP evaluation are illustrated with finite-sample simulation studies
+and an empirical example of childbearing and women's labor supply. Our simulations show that the
+IIP is a useful tool for detecting irrelevant instruments.
+Classification-JEL:    
+Creation-Date: 2020
+Number: 34/20
+Length: 42
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp34-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-34
+
+Template-type: ReDIF-Paper 1.0
+Title: Optimal probabilistic forecasts: When do they work?
+Author-Name: Ruben Loaiza-Maya
+Author-X-Name-First: Ruben 
+Author-X-Name-Last: Loaiza-Maya
+Author-Email: Ruben.LoaizaMaya@monash.edu 
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael 
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu
+Author-Name: David T. Frazier
+Author-X-Name-First: David   
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Author-Name: Worapree Maneesoonthorn
+Author-X-Name-First: Worapree
+Author-X-Name-Last: Maneesoonthorn
+Author-Email: O.Maneesoonthorn@mbs.edu
+Author-Name: Andres Ramirez Hassan
+Author-X-Name-First: Andres
+Author-X-Name-Last: Hassan
+Author-Email:  
+Keywords: coherent predictions, linear predictive pools, predictive distributions, proper
+scoring rules, stochastic volatility with jumps, testing equal predictive ability   
+Abstract: Proper scoring rules are used to assess the out-of-sample accuracy of probabilistic forecasts,
+with different scoring rules rewarding distinct aspects of forecast performance. Herein, 
+we reinvestigate the practice of using proper scoring rules to produce probabilistic forecasts that are
+'optimal' according to a given score, and assess when their out-of-sample accuracy is superior to
+alternative forecasts, according to that score. Particular attention is paid to relative predictive
+performance under misspecification of the predictive model. Using numerical illustrations, we
+document several novel findings within this paradigm that highlight the important interplay
+between the true data generating process, the assumed predictive model and the scoring rule.
+Notably, we show that only when a predictive model is sufficiently compatible with the true
+process to allow a particular score criterion to reward what it is designed to reward, will this
+approach to forecasting reap benefits. Subject to this compatibility however, the superiority of
+the optimal forecast will be greater, the greater is the degree of misspecification. We explore
+these issues under a range of different scenarios, and using both artificially simulated and
+empirical data.
+Classification-JEL: C18, C53, C58  
+Creation-Date: 2020
+Number: 33/20
+Length: 32
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp33-2020.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-33
+
+Template-type: ReDIF-Paper 1.0
+Title: A Homogeneous Approach to Testing for Granger Non-Causality in Heterogeneous Panels
+Author-Name: Arturas Juodis
+Author-X-Name-First: Arturas 
+Author-X-Name-Last: Juodis
+Author-Email: a.juodis@uva.nl
+Author-Name: Yiannis Karavias
+Author-X-Name-First: Yiannis 
+Author-X-Name-Last: Karavias
+Author-Email: i.karavias@bham.ac.uk  
+Author-Name: Vasilis Sarafidis
+Author-X-Name-First: Vasilis 
+Author-X-Name-Last: Sarafidis
+Author-Email: vasilis.sarafidis@monash.edu
+Keywords: panel data, Granger causality, VAR, "Nickell bias", bias correction, fixed effects 
+Abstract: This paper develops a new method for testing for Granger non-causality in panel data models
+with large cross-sectional (N) and time series (T) dimensions. The method is valid in models
+with homogeneous or heterogeneous coefficients. The novelty of the proposed approach lies
+on the fact that under the null hypothesis, the Granger-causation parameters are all equal to
+zero, and thus they are homogeneous. Therefore, we put forward a pooled least-squares (fixed
+effects type) estimator for these parameters only. Pooling over cross-sections guarantees that
+the estimator has a root NT convergence rate. In order to account for the well-known "Nickell
+bias", the approach makes use of the well-known Split Panel Jackknife method. Subsequently,
+a Wald test is proposed, which is based on the bias-corrected estimator. Finite-sample evidence
+shows that the resulting approach performs well in a variety of settings and outperforms existing
+procedures. Using a panel data set of 350 U.S. banks observed during 56 quarters, we test for
+Granger non-causality between banks' profitability and cost efficiency. 
+Classification-JEL: C12, C13, C23, C33 
+Creation-Date: 2020
+Number: 32/20
+Length: 21
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp32-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-32
+
+Template-type: ReDIF-Paper 1.0
+Title: Forecasting the Old-Age Dependency Ratio to Determine a Sustainable Pension Age
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Yijun Zeng
+Author-X-Name-First: Yijun
+Author-X-Name-Last: Zeng
+Author-Email: 
+Author-Name: Han Lin Shang
+Author-X-Name-First: Han
+Author-X-Name-Last: Shang
+Author-Email: hanlin.shang@mq.edu.au 
+Keywords: coherent forecasts, demographic components, functional time series, pension age
+Abstract: We forecast the old-age dependency ratio for Australia under various pension age proposals,
+and estimate a pension age scheme that will provide a stable old-age dependency ratio at a
+specified level. Our approach involves a stochastic population forecasting method based on
+coherent functional data models for mortality, fertility and net migration, which we use to
+simulate the future age-structure of the population. Our results suggest that the Australian
+pension age should be increased to 68 by 2030, 69 by 2036, and 70 by 2050, in order to maintain
+the old-age dependency ratio at 23%, just above the 2018 level. Our general approach can easily
+be extended to other target levels of the old-aged dependency ratio and to other countries.
+Classification-JEL: J11, J14, C22
+Creation-Date: 2020
+Number: 31/20
+Length: 20
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp31-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-31
+
+Template-type: ReDIF-Paper 1.0
+Title: Indirect Inference for Locally Stationary Models
+Author-Name: David T. Frazier
+Author-X-Name-First: David   
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Author-Name: Bonsoo Koo
+Author-X-Name-First: Bonsoo 
+Author-X-Name-Last: Koo
+Author-Email: bonsoo.koo@monash.edu
+Keywords: locally stationary, indirect inference, state-space models
+Abstract: We propose the use of indirect inference estimation to conduct inference in complex locally stationary
+models. We develop a local indirect inference algorithm and establish the asymptotic properties of
+the proposed estimator. Due to the nonparametric nature of locally stationary models, the resulting
+indirect inference estimator exhibits nonparametric rates of convergence. We validate our methodology
+with simulation studies in the confines of a locally stationary moving average model and a new locally
+stationary multiplicative stochastic volatility model. Using this indirect inference methodology and the
+new locally stationary volatility model, we obtain evidence of non-linear, time-varying volatility trends
+for monthly returns on several Fama-French portfolios.
+Classification-JEL: C13, C14, C22
+Creation-Date: 2020
+Number: 30/20
+Length: 55
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp30-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-30
+
+Template-type: ReDIF-Paper 1.0
+Title: Distributed ARIMA Models for Ultra-long Time Series
+Author-Name: Xiaoqian Wang
+Author-X-Name-First: Xiaoqian 
+Author-X-Name-Last: Wang
+Author-Email: 
+Author-Name: Yanfei Kang
+Author-X-Name-First: Yanfei
+Author-X-Name-Last: Kang
+Author-Email: 
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Feng Li
+Author-X-Name-First: Feng
+Author-X-Name-Last: Li
+Author-Email: feng.li@cufe.edu.cn
+Keywords: ultra-long time series, distributed forecasting, ARIMA models, least squares approximatio, MapReduce
+Abstract: Providing forecasts for ultra-long time series plays a vital role in various activities, 
+such as investment decisions, industrial production arrangements, and farm management. This paper develops a 
+novel distributed forecasting framework to tackle challenges associated with forecasting ultra-long time 
+series by utilizing the industrystandard MapReduce framework. The proposed model combination approach 
+facilitates distributed time series forecasting by combining the local estimators of ARIMA (AutoRegressive 
+Integrated Moving Average) models delivered from worker nodes and minimizing a global loss function. In 
+this way, instead of unrealistically assuming the data generating process (DGP) of an ultra-long time 
+series stays invariant, we make assumptions only on the DGP of subseries spanning shorter time periods. 
+We investigate the performance of the proposed distributed ARIMA models on an electricity
+demand dataset. Compared to ARIMA models, our approach results in significantly
+improved forecasting accuracy and computational efficiency both in point forecasts and
+prediction intervals, especially for longer forecast horizons. Moreover, we explore some
+potential factors that may affect the forecasting performance of our approach.
+Classification-JEL: 
+Creation-Date: 2020
+Number: 29/20
+Length: 39
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp29-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-29
+
+Template-type: ReDIF-Paper 1.0
+Title: On Income and Price Elasticities for Energy Demand: A Panel Data Study
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti 
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Email: obl20@cam.ac.uk
+Author-Name: Bin peng 
+Author-X-Name-First: Bin  
+Author-X-Name-Last: Peng 
+Author-Email: bin.peng@monash.edu 
+Author-Name: Russell Smyth 
+Author-X-Name-First: Russell 
+Author-X-Name-Last: Smyth 
+Author-Email: russell.smyth@monash.edu 
+Keywords: elasticity, energy policy, panel data analysis
+Abstract: Obtaining reliable cross-country estimates of the income and price elasticity
+of energy demand requires a panel data model that can simultaneously account
+for endogeneity, heterogeneity, nonstationarity and cross-sectional dependence. We
+propose such an integrated framework and apply it to a very large dataset of 65
+countries over the period 1960-2016 recently assembled by Liddle and Huntington
+(2020). We find that while the elasticities of income and price are non-linear, the
+income elasticity is generally in the range 0.6 to 0.8 and the price elasticity in
+the range -0.1 to -0.3. We also find that the income elasticity has been declining
+since the 1990s, which broadly corresponds to increasing awareness of the negative
+externalities associated with burning fossil fuels associated with the Kyoto Protocol.
+From a policy perspective, that the income energy elasticity is less than one, and
+has been declining since the 1990s, bodes well for climate change mitigation because
+it suggests that energy intensity will fall with economic growth. 
+Classification-JEL: C23, O13, Q11
+Creation-Date: 2020
+Number: 28/20
+Length: 37
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp28-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-28
+
+Template-type: ReDIF-Paper 1.0
+Title: Updating Variational Bayes: Fast Sequential Posterior Inference
+Author-Name: Nathaniel Tomasetti
+Author-X-Name-First: Nathaniel
+Author-X-Name-Last: Tomasetti
+Author-Email: nathaniel.tomasetti@monash.edu
+Author-Name: Catherine Forbes
+Author-X-Name-First: Catherine
+Author-X-Name-Last: Forbes
+Author-Email: Catherine.Forbes@monash.edu
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios 
+Author-X-Name-Last: Panagiotelis
+Author-Email: Anastasios.Panagiotelis@monash.edu
+Keywords: importance sampling, forecasting, clustering, Dirichlet process mixture, variational inference 
+Abstract: Variational Bayesian (VB) methods produce posterior inference in a time frame considerably
+smaller than traditional Markov Chain Monte Carlo approaches. Although the VB posterior is
+an approximation, it has been shown to produce good parameter estimates and predicted values
+when a rich classes of approximating distributions are considered. In this paper we propose
+the use of recursive algorithms to update a sequence of VB posterior approximations in an online, 
+time series setting, with the computation of each posterior update requiring only the data
+observed since the previous update. We show how importance sampling can be incorporated
+into online variational inference allowing the user to trade accuracy for a substantial increase
+in computational speed. The proposed methods and their properties are detailed in two separate 
+simulation studies. Two empirical illustrations of the methods are provided, including
+one where a Dirichlet Process Mixture model with a novel posterior dependence structure is
+repeatedly updated in the context of predicting the future behaviour of vehicles on a stretch of
+the US Highway 101.
+Classification-JEL: C11, G18, G39
+Creation-Date: 2020
+Number: 27/20
+Length: 36 
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp27-2020.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-27
+
+Template-type: ReDIF-Paper 1.0
+Title: Probabilistic Forecast Reconciliation: Properties, Evaluation and Score Optimisation
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios 
+Author-X-Name-Last: Panagiotelis
+Author-Email: Anastasios.Panagiotelis@monash.edu
+Author-Name: Puwasala Gamakumara
+Author-X-Name-First: Puwasala
+Author-X-Name-Last: Gamakumara
+Author-Email: Puwasala.Gamakumara@monash.edu
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Keywords: scoring rules, probabilistic forecasting, hierarchical time series, stochastic
+gradient descent
+Abstract: We develop a framework for prediction of multivariate data that follow some known
+linear constraints, such as the example where some variables are aggregates of others.
+This is particularly common when forecasting time series (predicting the future), but
+also arises in other types of prediction. For point prediction, an increasingly popular
+technique is reconciliation, whereby predictions are made for all series (so-called `base'
+predictions) and subsequently adjusted to ensure coherence with the constraints. This
+paper extends reconciliation from the setting of point prediction to probabilistic prediction. 
+A novel definition of reconciliation is developed and used to construct densities
+and draw samples from a reconciled probabilistic prediction. In the elliptical case, it is
+proven that the true predictive distribution can be recovered from reconciliation even
+when the location and scale matrix of the base prediction are chosen arbitrarily. To
+find reconciliation weights, an objective function based on scoring rules is optimised.
+The energy and variogram scores are considered since the log score is improper in the
+context of comparing unreconciled to reconciled predictions, a result also proved in
+this paper. To account for the stochastic nature of the energy and variogram scores,
+optimisation is achieved using stochastic gradient descent. This method is shown to
+improve base predictions in simulation studies and in an empirical application, 
+particularly when the base prediction models are severely misspecified. When 
+misspecification is not too severe, extending popular reconciliation methods for point 
+prediction can result in a similar performance to score optimisation via stochastic 
+gradient descent. The methods described here are implemented in the ProbReco package for R.
+Classification-JEL: 
+Creation-Date: 2020
+Number: 26/20
+Length: 43
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp26-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-26
+
+Template-type: ReDIF-Paper 1.0
+Title: Scalable Bayesian Estimation in the Multinomial Probit Model
+Author-Name: Ruben Loaiza-Maya
+Author-X-Name-First: Ruben 
+Author-X-Name-Last: Loaiza-Maya
+Author-Email: Ruben.LoaizaMaya@monash.edu 
+Author-Name: Didier Nibbering
+Author-X-Name-First: Didier  
+Author-X-Name-Last: Nibbering
+Author-Email: didier.nibbering@monash.edu
+Keywords: multinomial probit model, factor analysis, parameter identification, spherical coordinates  
+Abstract: The multinomial probit model is a popular tool for analyzing choice behaviour as it allows 
+for correlation between choice alternatives. Because current model specifications employ a full 
+covariance matrix of the latent utilities for the choice alternatives, they are not scalable to 
+a large number of choice alternatives. This paper proposes a factor structure on the covariance 
+matrix, which makes the model scalable to large choice sets. The main challenge in estimating 
+this structure is that the model parameters require identifying restrictions. We identify the 
+parameters by a trace-restriction on the covariance matrix, which is imposed through a 
+reparamatrization of the factor structure. We specify interpretable prior distributions on the 
+model parameters and develop an MCMC sampler for parameter estimation. The proposed approach 
+substantially improves performance in large choice sets relative to existing multinomial probit 
+specifications. Applications to purchase data show the economic importance of including a large 
+number of choice alternatives in consumer choice analysis.
+Classification-JEL: C11, C25, C35, C38  
+Creation-Date: 2020
+Number: 25/20
+Length: 36
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp25-2020.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-25
+
+Template-type: ReDIF-Paper 1.0
+Title: Bounding Program Benefits When Participation is Misreported
+Author-Name: Denni Tommasi
+Author-X-Name-First: Denni  
+Author-X-Name-Last: Tommasi
+Author-Email: denni.tommasi@monash.edu
+Author-Name: Lina Zhang
+Author-X-Name-First: Lina 
+Author-X-Name-Last: Zhang
+Author-Email: lina.zhang@monash.edu
+Keywords: heterogenous treatment effects, causality, binary treatment, endogenous measurement error,
+discrete or multiple instruments, weighted average of LATEs, endogeneity, program evaluation 
+Abstract: In empirical research, measuring correctly the benefits of welfare 
+interventions is incredibly relevant for policymakers as well as academic 
+researchers. Unfortunately, the endogenous program participation is often misreported 
+in survey data and standard instrumental variable techniques are not sufficient 
+to point identify and consistently estimate the effects of interest. In this 
+paper, we focus on the weighted average of local average treatment effects 
+(LATE) and (i) derive a simple relationship between the causal and the 
+identifiable parameter that can be recovered from the observed data, (ii) provide 
+an instrumental variable method to partially identify the heterogeneous treatment 
+effects, (iii) formalize a strategy to combine administrative data on the 
+misclassification probabilities of treated individuals to further tighten
+the bounds. Finally, we use our method to reassess the benefits of 
+participating to the 401(k) pension plan on savings.
+Classification-JEL: C14, C21, C26, C35, C51  
+Creation-Date: 2020
+Number: 24/20
+Length: 88
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp24-2020.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-24
+
+Template-type: ReDIF-Paper 1.0
+Title: Forecast Reconciliation: A geometric View with New Insights on Bias Correction
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios 
+Author-X-Name-Last: Panagiotelis
+Author-Email: Anastasios.Panagiotelis@monash.edu
+Author-Name: Puwasala Gamakumara
+Author-X-Name-First: Puwasala
+Author-X-Name-Last: Gamakumara
+Author-Email: Puwasala.Gamakumara@monash.edu
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Keywords: 
+Abstract: A geometric interpretation is developed for so-called reconciliation 
+methodologies used to forecast time series that adhere to known linear constraints.
+In particular, a general framework is established nesting many existing popular 
+reconciliation methods within the class of projections. This interpretation
+facilitates the derivation of novel theoretical results. First, reconciliation via
+projection is guaranteed to improve forecast accuracy with respect to a class
+of loss functions based on a generalised distance metric. Second, the MinT
+method minimises expected loss for this same class of loss functions. Third,
+the geometric interpretation provides a new proof that forecast reconciliation
+using projections results in unbiased forecasts provided the initial base forecasts
+are also unbiased. Approaches for dealing with biased base forecasts are proposed. 
+An extensive empirical study on Australian tourism flows demonstrates
+the theoretical results of the paper and shows that bias correction prior to
+reconciliation outperforms alternatives that only bias-correct or only reconcile
+forecasts.
+Classification-JEL: 
+Creation-Date: 2020
+Number: 23/20
+Length: 42 
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp23-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-23
+
+Template-type: ReDIF-Paper 1.0
+Title: On Time Trend of COVID-19: A Panel Data Study
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua 
+Author-X-Name-Last: Dong
+Author-Email: 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti Gao 
+Author-X-Name-Last: Jiti Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton 
+Author-Email: obl20@cam.ac.uk
+Author-Name: Bin peng 
+Author-X-Name-First: Bin  
+Author-X-Name-Last: Peng 
+Author-Email: 
+Keywords: COVID-19, deterministic time trend, panel data, varying-coefficient
+Abstract: In this paper, we study the trending behaviour of COVID-19 data at country level,
+and draw attention to some existing econometric tools which are potentially helpful to
+understand the trend better in future studies. In our empirical study, we find that European
+countries overall flatten the curves more effectively compared to the other regions, while
+Asia & Oceania also achieve some success, but the situations are not as optimistic as in
+Europe. Africa and America are still facing serious challenges in terms of managing the
+spread of the virus and reducing the death rate. In Africa, the rate of the spread of the virus
+is slower and the death rate is also lower than those of the other regions. By comparing the
+performances of different countries, our results on the performance of different countries in
+managing the speed of the virus agree with Gu et al. (2020). For example, both studies
+agree that countries such as USA, UK and Italy perform relatively poorly; on the other
+hand, Australia, China, Japan, Korea, and Singapore perform relatively better. 
+Classification-JEL: C23, C54  
+Creation-Date: 2020
+Number: 22/20
+Length: 44
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp22-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-22
+
+Template-type: ReDIF-Paper 1.0
+Title: Novel Utility-based Life Cycle Models to Optimise Income in Retirement in the Presence of Heterogeneous Preferences
+Author-Name: Bonsoo Koo
+Author-X-Name-First: Bonsoo 
+Author-X-Name-Last: Koo
+Author-Email: bonsoo.koo@monash.edu
+Author-Name: Athanasios A. Pantelous
+Author-X-Name-First: Athanasios  
+Author-X-Name-Last: Pantelous
+Author-Email: athanasios.pantelous@monash.edu  
+Author-Name: Yunxiao Wang
+Author-X-Name-First: Yunxiao
+Author-X-Name-Last: Wang 
+Author-Email: yunxiao.Wang@monash.edu
+Keywords: risk management, stochastic optimal control, life cycle models, retirement income, reverse mortgage, 
+defined contribution
+Abstract: The global shift towards defined-contribution pension schemes has been accompanied by asymmetric
+risks and new responsibilities for households to plan and fund effectively their own retirement over
+the years. In this study, expressing and combining preferences for consumption, investment, bequest,
+public pension entitlement and the choice of reverse mortgage products, we develop several utilitybased 
+life cycle models to facilitate the complex decision-making process that retired households are
+required to follow to optimise their retirement income. This optimal policy is given in the form of
+either an analytical or a numerical solution using stochastic dynamic programming. The timing of
+this paper coincides with the launch of a reverse mortgage style loan, offered by the Australian federal
+government and allowing retired households to receive an income stream by taking out a loan against
+the equity in their home. Calibration is performed using real Australian household data. 
+Classification-JEL:  
+Creation-Date: 2020
+Number: 21/20
+Length: 76
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp21-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-21
+
+Template-type: ReDIF-Paper 1.0
+Title: Sectoral Employment Dynamics in Australia 
+Author-Name: Heather Anderson
+Author-X-Name-First: Heather
+Author-X-Name-Last: Anderson
+Author-Email: heather.anderson@monash.edu
+Author-Name: Giovanni Caggiano 
+Author-X-Name-First: Giovanni
+Author-X-Name-Last: Caggiano
+Author-Email: giovanni.caggiano@monash.edu 
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: farshid.vahid@monash.edu
+Author-Name: Benjamin Wong
+Author-X-Name-First: Benjamin
+Author-X-Name-Last: Wong
+Author-Email: benjamin.wong@monash.edu
+Keywords:  
+Abstract: In the aftermath of the covid-19 pandemic, the prevention of further decline
+in aggregate employment and turning it around are high on the agenda of policymakers.
+To this end, it is imperative to have a disaggregated model of employment, given the
+unequal effects of covid-19 on employment in different sectors of the economy. In
+this paper we develop a multivariate time series model of employment in 19 sectors
+of the Australian economy. We provide the predictions of this model conditional on
+various scenarios that are based on the most recent quantitative information about
+sectoral employment in Australia. We estimate that the drop in total employment in
+the second quarter of 2020 will be in between 7 and 13 percentage points, compared
+to the second quarter of 2019. We also use this model to determine the long-run
+effect of a 1% increase in economic activity in any chosen sector on aggregate 
+employment. Our findings point to manufacturing and construction sectors as those
+that might generate the largest positive spillovers for the rest of the economy. 
+Moreover, we provide an interactive web-based app as well as an interactive spreadsheet
+that produce our model's 5-year forecasts based on any user-specified scenario for
+the current and following three quarters. As the covid-19 pandemic evolves and
+some restrictions are safely lifted or other restrictions become necessary, 
+the sectoral employment multipliers together with the interactive tools produced here will
+provide useful information for policymakers.
+Classification-JEL: 
+Creation-Date: 2020
+Number: 20/20
+Length: 18
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp20-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-20 
+
+Template-type: ReDIF-Paper 1.0
+Title: Forecasting a Nonstationary Time Series with a Mixture of Stationary and Nonstationary Factors as Predictors
+Author-Name: Sium Bodha Hannadige 
+Author-X-Name-First: Sium 
+Author-X-Name-Last: Hannadige 
+Author-Email: natalia.baileys@monash.edu
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Author-Name: Mervyn J. Silvapulle
+Author-X-Name-First: Mervyn 
+Author-X-Name-Last: Silvapulle 
+Author-Email: mervyn.silvapulle@monash.edu  
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param 
+Author-X-Name-Last: Silvapulle 
+Author-Email: Param.silvapulle@monash.edu 
+Keywords: bootstrap, generated factors, panel data, prediction interval
+Abstract: This paper develops a method for forecasting a nonstationary time series, such as GDP, using a set
+of high-dimensional panel data as predictors. To this end, we use what is known as a factor augmented
+regression [FAR] model that contains a small number of estimated factors as predictors; the factors
+are estimated using time series data on a large number of potential predictors. The validity of this
+method for forecasting has been established when all the variables are stationary and also when they
+are all nonstationary, but not when they consist of a mixture of stationary and nonstationary ones.
+This paper fills this gap. More specifically, we develop a method for constructing an asymptotically
+valid prediction interval using the FAR model when the predictors include a mixture of stationary
+and nonstationary factors; we refer to this as mixture-FAR model. This topic is important because
+typically time series data on a large number of economic variables is likely to contain a mixture
+of stationary and nonstationary variables. In a simulation study, we observed that the mixture-FAR
+performed better than its competitor that requires all the variables to be nonstationary. As an empirical
+illustration, we evaluated the aforementioned methods for forecasting the nonstationary variables, GDP
+and Industrial Production [IP], using the quarterly panel data on US macroeconomic variables, known
+as FRED-D. We observed that the mixture-FAR model proposed in this paper performed better than
+its aforementioned competitors. 
+Classification-JEL: C22, C33, C38, C53
+Creation-Date: 2020
+Number: 19/20
+Length: 33
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp19-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-19 
+
+Template-type: ReDIF-Paper 1.0
+Title: Statistical Modelling and Forecast Evaluation of the Impact of Extreme Temperatures on Wheat Crops in North Western Victoria
+Author-Name: Natalia Bailey 
+Author-X-Name-First: Natalia 
+Author-X-Name-Last: Bailey 
+Author-Email: natalia.baileys@monash.edu
+Author-Name: Zvi Hochman 
+Author-X-Name-First: Zvi
+Author-X-Name-Last: Hochman 
+Author-Email: 
+Author-Name: Yufeng Mao 
+Author-X-Name-First: Yufeng  
+Author-X-Name-Last: Mao 
+Author-Email: yufeng.mao@monash.edu
+Author-Name: Mervyn J. Silvapulle
+Author-X-Name-First: Mervyn 
+Author-X-Name-Last: Silvapulle 
+Author-Email: mervyn.silvapulle@monash.edu  
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param 
+Author-X-Name-Last: Silvapulle 
+Author-Email: Param.silvapulle@monash.edu 
+Keywords: extreme temperature exposure, crop yields, threshold-panel data model 
+Abstract: This paper introduces a statistical model to estimate and evaluate the predictability
+of the response of wheat yield to extreme temperature exposures and rainfall during
+the three phases of wheat grain production (vegetative, reproductive and grain filling)
+in northwestern (NW) Victoria, Australia. Unlike crop models which rely on functions
+developed from field experiments, we use observed data on annual wheat yields from 44
+farms in the region over a period of 26 years (1993-2018). We find that the one-way
+fixed effects panel data model tends to outperform competing models in the out-of-sample
+prediction of future yields. We detect as positive drivers of NW Victorian wheat yield
+growth, exposure to moderate temperatures in all the three phases of the wheat production
+and total rainfall in the first two phases of the growing season. Providing adequate
+soil moisture, January-March rainfall also was found to be a positive driver of yields.
+Conversely, exposure to freezing temperatures during the vegetative and reproductive
+phases as well as to extreme high temperatures in all three phases of wheat production
+constitute negative drivers of NW Victorian wheat yields. The reproductive phase appears
+to be the most sensitive to climate variability, with adverse extreme heat and frost having
+sizeable negative impacts on yields. These negative effects are partially offset by increased
+rainfall in the same phase of wheat production. Moreover, we compare yield predictions
+by our statistical model to yield potentials calculated by APSIM. The gaps can be used
+to make recommendations on some adaptation opportunities available to farmers in the
+NW Victoria region. 
+Classification-JEL: C23, C53, Q54
+Creation-Date: 2020
+Number: 18/20
+Length: 41
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp18-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-18 
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Hole or grain? A Section Pursuit Index for Finding Hidden Structure in Multiple Dimensions 
+Author-Name: Ursula Laa 
+Author-X-Name-First: Ursula 
+Author-X-Name-Last: Laa 
+Author-Email: ursula.laa@monash.edu 
+Author-Name: Dianne Cook 
+Author-X-Name-First: Dianne
+Author-X-Name-Last: Cook 
+Author-Email: dicook@monash.edu
+Author-Name: Andreas Buja 
+Author-X-Name-First: Andreas 
+Author-X-Name-Last: Buja 
+Author-Email: andreasbuja@gmail.com
+Author-Name: German Valencia 
+Author-X-Name-First: German 
+Author-X-Name-Last: Valencia 
+Author-Email: german.valencia@monash.edu
+Keywords: multivariate data, dimension reduction, projection pursuit, statistical graphics,
+data visualization, exploratory data analysis, data science 
+Abstract: Multivariate data is often visualized using linear projections, produced by techniques
+such as principal component analysis, linear discriminant analysis, and projection
+pursuit. A problem with projections is that they obscure low and high density regions
+near the center of the distribution. Sections, or slices, can help to reveal them.
+This paper develops a section pursuit method, building on the extensive work in
+projection pursuit, to search for interesting slices of the data. Linear projections
+are used to define sections of the parameter space, and to calculate interestingness
+by comparing the distribution of observations, inside and outside a section. By
+optimizing this index, it is possible to reveal features such as holes (low density) or
+grains (high density). The optimization is incorporated into a guided tour so that the
+search for structure can be dynamic. The approach can be useful for problems when
+data distributions depart from uniform or normal, as in visually exploring nonlinear
+manifolds, and functions in multivariate space. Two applications of section pursuit
+are shown: exploring decision boundaries from classification models, and exploring
+subspaces induced by complex inequality conditions from multiple parameter model.
+The new methods are available in R, in the tourr package.
+Classification-JEL: 
+Creation-Date: 2020
+Number: 17/20
+Length: 21
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp17-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-17 
+
+Template-type: ReDIF-Paper 1.0
+Title: Bagging Weak Predictors 
+Author-Name: Eric Hillebrand 
+Author-X-Name-First: Eric 
+Author-X-Name-Last: Hillebrand 
+Author-Email:  
+Author-Name: Manuel Lukas 
+Author-X-Name-First: Manuel
+Author-X-Name-Last: Lukas 
+Author-Email: 
+Author-Name: Wei Wei 
+Author-X-Name-First: Wei 
+Author-X-Name-Last: Wei 
+Author-Email: wei.wei2@monash.edu
+Keywords: inflation forecasting, bootstrap aggregation, estimation uncertainty, weak predictors, shrinkage methods 
+Abstract: Relations between economic variables are often not exploited for forecasting, 
+suggesting that predictors are weak in the sense that the estimation uncertainty is larger
+than the bias from ignoring the relation. In this paper, we propose a novel bagging
+estimator designed for such predictors. Based on a test for finite-sample predictive
+ability, our estimator shrinks the OLS estimate not to zero, but towards the null of
+the test which equates squared bias with estimation variance, and we apply bagging
+to further reduce the estimation variance. We derive the asymptotic distribution and
+show that our estimator can substantially lower the MSE compared to the standard ttest 
+bagging. An asymptotic shrinkage representation for the estimator that simplifies
+computation is provided. Monte Carlo simulations show that the predictor works well
+in small samples. In an empirical application, we find that our proposed estimators
+works well for inflation forecasting using unemployment or industrial production as
+predictors. 
+Classification-JEL: C13, C15, C18
+Creation-Date: 2020
+Number: 16/20
+Length: 36
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp16-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-16 
+
+Template-type: ReDIF-Paper 1.0
+Title: Consistency of full-sample bootstrap for estimating high-quantile, tail probability, and tail index
+Author-Name: Svetlana Litvinova 
+Author-X-Name-First: Svetlana 
+Author-X-Name-Last: Litvinova 
+Author-Email: svetlana.litvinova@monash.edu 
+Author-Name: Mervyn J. Silvapulle
+Author-X-Name-First: Mervyn 
+Author-X-Name-Last: Silvapulle 
+Author-Email: mervyn.silvapulle@monash.edu 
+Keywords: full-sample bootstrap, intermediate order statistic, extreme value index, Hill estimator, tail probability, tail quantile 
+Abstract: We show that the full-sample bootstrap is asymptotically valid for constructing confidence
+intervals for high-quantiles, tail probabilities, and other tail parameters of a univariate distribution. 
+This resolves the doubts that have been raised about the validity of such bootstrap methods. In our extensive 
+simulation study, the overall performance of the bootstrap method was better than that of the standard asymptotic 
+method, indicating that the bootstrap method is at least as good, if not better than, the asymptotic method for 
+inference. This paper also lays the foundation for developing bootstrap methods for inference about tail events 
+in multivariate statistics; this is particularly important because some of the non-bootstrap methods are complex. 
+Classification-JEL: C13, C15, C18
+Creation-Date: 2020
+Number: 15/20
+Length: 41
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp15-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-15 
+
+Template-type: ReDIF-Paper 1.0
+Title: Computing Bayes: Bayesian Computation from 1763 to the 21st Century
+Author-Name: Gael M. Martin 
+Author-X-Name-First: Gael  
+Author-X-Name-Last: Martin 
+Author-Email: gael.martin@monash.edu 
+Author-Name: David T. Frazier
+Author-X-Name-First: David  
+Author-X-Name-Last: Frazier 
+Author-Email: david.frazier@monash.edu
+Author-Name: Christian P. Robert 
+Author-X-Name-First: Christian
+Author-X-Name-Last: Robert 
+Author-Email: xian@ceremade.dauphine.fr 
+Keywords: history of Bayesian computation, Laplace approximation, Markov chain Monte Carlo, 
+importance sampling, approximate Bayesian computation, Bayesian synthetic likelihood, variational
+Bayes, integrated nested Laplace approximation 
+Abstract: The Bayesian statistical paradigm uses the language of probability to express uncertainty about
+the phenomena that generate observed data. Probability distributions thus characterize Bayesian inference, 
+with the rules of probability used to transform prior probability distributions for all unknowns
+- models, parameters, latent variables - into posterior distributions, subsequent to the observation of
+data. Conducting Bayesian inference requires the evaluation of integrals in which these probability
+distributions appear. Bayesian computation is all about evaluating such integrals in the typical case
+where no analytical solution exists. This paper takes the reader on a chronological tour of Bayesian
+computation over the past two and a half centuries. Beginning with the one-dimensional integral
+first confronted by Bayes in 1763, through to recent problems in which the unknowns number in the
+millions, we place all computational problems into a common framework, and describe all computational 
+methods using a common notation. The aim is to help new researchers in particular - and
+more generally those interested in adopting a Bayesian approach to empirical work - make sense of
+the plethora of computational techniques that are now on offer; understand when and why different
+methods are useful; and see the links that do exist, between them all. 
+Classification-JEL: C11, C15, C52
+Creation-Date: 2020
+Number: 14/20
+Length: 53
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp14-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-14 
+
+Template-type: ReDIF-Paper 1.0
+Title: Most Powerful Test against High Dimensional Free Alternatives 
+Author-Name: Yi He 
+Author-X-Name-First: Yi  
+Author-X-Name-Last: He
+Author-Email: y.he2@uva.nl 
+Author-Name: Sombut Jaidee
+Author-X-Name-First: Sombut 
+Author-X-Name-Last: Jaidee
+Author-Email: sombut.jaidee@monash.edu  
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Keywords: high-dimensional linear model, null hypothesis, uniformly power test 
+Abstract: We propose a powerful quadratic test for the overall significance of many weak
+exogenous variables in a dense autoregressive model. By shrinking the classical
+weighting matrix on the sample moments to be identity, the test is asymptotically
+correct in high dimensions even when the number of coefficients is larger than the
+sample size. Our theory allows a non-parametric error distribution and estimation
+of the autoregressive coefficients. Using random matrix theory, we show that the
+test has the optimal asymptotic testing power among a large class of competitors
+against local dense alternatives whose direction is free in the eigenbasis of the sample
+covariance matrix among regressors. The asymptotic results are adaptive to the
+predictors' cross-sectional and temporal dependence structure, and do not require
+a limiting spectral law of their sample covariance matrix. The method extends
+beyond autoregressive models, and allows more general nuisance parameters. Monte
+Carlo studies suggest a good power performance of our proposed test against high
+dimensional dense alternative for various data generating processes. We apply our
+tests to detect the overall significance of over one hundred exogenous variables in the
+latest FRED-MD database for predicting the monthly growth in the US industrial
+production index.
+Classification-JEL: C12, C21, C55
+Creation-Date: 2020
+Number: 13/20
+Length: 48
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp13-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-13 
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimation and Testing for High-Dimensional Near Unit Root Time Series 
+Author-Name: Bo Zhang
+Author-X-Name-First: Bo 
+Author-X-Name-Last: Zhang
+Author-Email: zhangbo890301@outlook.com
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
+Author-Name: Guangming Pan
+Author-X-Name-First: Guangming 
+Author-X-Name-Last: Pan 
+Author-Email: gmpan@ntu.edu.sg
+Keywords: asymptotic normality, largest eigenvalue, linear process, near unit root test 
+Abstract: This paper considers a p-dimensional time series model of the form
+x(t)=&Pi; x(t-1)+&#931&#94;(1/2)y(t), 1&#8804;t&#8804;T,
+where y(t)=(y(t1),...,y(tp))&#94;T and &#931; is the square root of a symmetric positive definite
+matrix. Here &Pi; is a symmetric matrix which satisfies that &#8741;&Pi; &#8741;_2&#8804; 1 and 
+T(1-&#8741;&Pi; &#8741;_min) is bounded. The linear processes Y(tj) is of the form 
+&#8721;_&#123k=0&#125&#94;&#8734;b(k)Z(t-k,j) where &#8721;_&#123i=0&#125&#94;&#8734;&#124;b(i)&#124;
+&#60; &#8734; and &#123;Z(ij) &#125; are are independent and identically distributed (i.i.d.) random variables with 
+E Z<sub>ij</sub>=0, E&#124;Z(ij)&#124;&#178;=1 and E&#124;Z(ij)&#124;&#94;4&#60; &#8734;. We first 
+investigate the asymptotic behavior of the first k largest eigenvalues of the sample covariance matrices of the time 
+series model. Then we propose a new estimator for the high-dimensional near unit root setting through using the largest 
+eigenvalues of the sample covariance matrices and use it to test for near unit roots. Such an approach is theoretically 
+novel and addresses some important estimation and testing issues in the high-dimensional near unit root setting. Simulations 
+are also conducted to demonstrate the finite-sample performance of the proposed test statistic.
+Classification-JEL: C21, C32
+Creation-Date: 2020
+Number: 12/20
+Length: 40
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp12-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-12 
+
+Template-type: ReDIF-Paper 1.0
+Title: IV Estimation of Spatial Dynamic Panels with Interactive Effects: Large Sample
+Theory and an Application on Bank Attitude 
+Author-Name: Guowei Cui
+Author-X-Name-First: Guowei 
+Author-X-Name-Last: Cui
+Author-Email: 
+Author-Name: Vasilis Sarafidis
+Author-X-Name-First: Vasilis 
+Author-X-Name-Last: Sarafidis
+Author-Email: vasilis.sarafidis@monash.edu
+Author-Name: Takashi Yamagata
+Author-X-Name-First: Takashi  
+Author-X-Name-Last: Yamagata
+Author-Email: ty509@york.ac.uk 
+Keywords: panel data, instrumental variables, state dependence, social interactions, common factors, large N and T asymptotics
+Abstract: The present paper develops a new Instrumental Variables (IV) estimator for spatial, dynamic panel data models with 
+interactive effects under large N and T asymptotics. For this class of models, the only approaches available in the literature 
+are based on quasi-maximum likelihood estimation. The approach put forward in this paper is appealing from both a theoretical 
+and a practical point of view for a number of reasons. Firstly, the proposed IV estimator is linear in the parameters of 
+interest and it is computationally inexpensive. Secondly, the IV estimator is free from asymptotic bias. In contrast, existing 
+QML estimators suffer from incidental parameter bias, depending on the magnitude of unknown parameters. Thirdly, the IV estimator 
+retains the attractive feature of Method of Moments estimation in that it can accommodate endogenous regressors, so long as 
+external exogenous instruments are available. The IV estimator is consistent and asymptotically normal as N, T &#8594; &#8734;, with 
+N/T&#94;2 &#8594 0 and T /N&#94;2 &#8594 0. The proposed methodology is employed to study the determinants of risk attitude of banking 
+institutions. The results of our analysis provide evidence that the more risksensitive capital regulation that was introduced 
+by the Basel III framework in 2011 has succeeded in influencing banks' behaviour in a substantial manner.
+Classification-JEL: C33, C36, C38, C55
+Creation-Date: 2020
+Number: 11/20
+Length: 35
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp11-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-11
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Identifying Risk Factors and Their Premia: A Study on Electricity Prices 
+Author-Name: Wei Wei
+Author-X-Name-First: Wei 
+Author-X-Name-Last: Wei
+Author-Email: wei.wei2@monash.edu 
+Author-Name: Asger Lunde 
+Author-X-Name-First: Asger
+Author-X-Name-Last: Lunde 
+Author-Email: alunde@econ.au.dk  
+Keywords: risk factors, risk premia, futures, particle filter, MCMC 
+Abstract: We propose a multi-factor model and an estimation method based on particle MCMC to identify risk factors 
+in electricity prices. Our model identifies long-run prices, shortrun deviations, and spikes as three main risk 
+factors in electricity spot prices. Under our model, different risk factors have distinct impacts on futures prices 
+and can carry different risk premia. We generalize the Fama-French regressions to analyze properties of true risk 
+premia. We show that model specification plays an important role in detecting time varying risk premia. Using spot 
+and futures prices in the Germany/Austria market, we demonstrate that our proposed model surpasses alternative 
+models that have less risk factors in forecasting spot prices and in detecting time varying risk premia.
+Classification-JEL: C51, G13, Q4
+Creation-Date: 2020
+Number: 10/20
+Length: 48
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp10-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-10
+
+Template-type: ReDIF-Paper 1.0
+Title: Investor-herding and risk-profiles: A State-Space Model-based Assessment
+Author-Name: Harminder B. Nath
+Author-X-Name-First: Harminder 
+Author-X-Name-Last: Nath
+Author-Email: mindi.nath@monash.edu  
+Author-Name: Robert D. Brooks
+Author-X-Name-First: Robert   
+Author-X-Name-Last: Brooks
+Author-Email: Robert.brooks@monash.edu 
+Keywords: herd behaviour, risk aversion, state-space models, quantile regression  
+Abstract: This paper, using the Australian stock market data, examines the investor-herding and riskprofiles 
+link that has implications for asset pricing, portfolio diversification and foreign investments. As investors 
+may herd towards a specific factor, sector or style to combat market conditions for optimizing investment returns, 
+examining such herding can reveal investors' risk profiles. We employ State-Space models for extracting time 
+series of herd dynamics and the proportion of signal explained by herding (PoSEH). Market volatility has a
+significant negative effect on PoSEH, with the most/least effect on high/low performance days of stock returns. 
+Using quantile regression, we observe that herding and adverseherding can emerge during the worst and best 
+performance days of stock returns, and that extreme volatility can bring herding to a near halt. The study 
+reveals the presence of a regulated stock market environment and risk-aversion tendencies among investors.
+Classification-JEL: C31, C32, G12, G14  
+Creation-Date: 2020
+Number: 9/20
+Length: 41
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp09-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-9
+
+Template-type: ReDIF-Paper 1.0
+Title: Level Shift Estimation in the Presence of Non-stationary Volatility with an
+Application to the Unit Root Testing Problem
+Author-Name: David Harris
+Author-X-Name-First: David 
+Author-X-Name-Last: Harris
+Author-Email: harrisd@unimelb.edu.au  
+Author-Name: Hsein Kew
+Author-X-Name-First: Hsein Kew  
+Author-X-Name-Last: Hsein Kew
+Author-Email: hsein.kew@monash.edu 
+Author-Name: A. M. Robert Taylor
+Author-X-Name-First: Robert  
+Author-X-Name-Last: Taylor
+Author-Email: rtaylor@essex.ac.uk.
+Keywords: level break fraction, non-stationary volatility, adaptive estimation, feasible weighted estimator,
+information criteria, unit root tests and trend breaks    
+Abstract: This paper focuses on the estimation of the location of level breaks in time series whose shocks
+display non-stationary volatility (permanent changes in unconditional volatility). We propose a new feasible 
+weighted least squares (WLS) estimator, based on an adaptive estimate of the volatility path of the shocks. 
+We show that this estimator belongs to a generic class of weighted residual sum of squares which also contains 
+the ordinary least squares (OLS) and WLS estimators, the latter based on the true volatility process. For fixed 
+magnitude breaks we show that the consistency rate of the generic estimator is unaffected by non-stationary 
+volatility. We also provide local limiting distribution theory for cases where the break magnitude is either
+local-to-zero at some polynomial rate in the sample size or is exactly zero. The former includes the Pitman 
+drift rate which is shown via Monte Carlo experiments to predict well the key features of the finite sample 
+behaviour of both the OLS and our feasible WLS estimators. The simulations highlight the importance of the 
+break location, break magnitude, and the form of non-stationary volatility for the finite sample performance 
+of these estimators, and show that our proposed feasible WLS estimator can deliver significant improvements 
+over the OLS estimator under heteroskedasticity. We discuss how these results can be applied, by using level 
+break fraction estimators on the first differences of the data, when testing for a unit root in the presence 
+of trend breaks and/or non-stationary volatility. Methods to select between the break and no break cases, 
+using standard information criteria and feasible weighted information criteria based on our adaptive volatility 
+estimator, are also discussed. Simulation evidence suggests that unit root tests based on these weighted 
+quantities can display significantly improved finite sample behaviour under heteroskedasticity relative to 
+their unweighted counterparts. An empirical illustration to U.S. and U.K. real GDP is also considered.
+Classification-JEL: C12, C22  
+Creation-Date: 2020
+Number: 8/20
+Length: 80
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp08-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-8
+
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Measurement of Factor Strength: Theory and Practice
+Author-Name: Natalia Bailey
+Author-X-Name-First: Natalia
+Author-X-Name-Last: Bailey
+Author-Email: natalia.baileys@monash.edu
+Author-Name: George Kapetanios
+Author-X-Name-First: George  
+Author-X-Name-Last: Kapetanios
+Author-Email: george.kapetanios@kcl.ac.uk
+Author-Name: M. Hashem Pesaran
+Author-X-Name-First: Hashem  
+Author-X-Name-Last: Pesaran
+Author-Email: pesaran@dornsife.usc.edu
+Keywords: factor models, factor strength, measures of pervasiveness, cross-sectional dependence, market factor    
+Abstract: This paper proposes an estimator of factor strength and establishes its consistency and asymptotic 
+distribution. The proposed estimator is based on the number of statistically significant factor loadings, taking 
+account of the multiple testing problem. We focus on the case where the factors are observed which is of primary 
+interest in many applications in macroeconomics and finance. We also consider using cross section averages as a 
+proxy in the case of unobserved common factors. We face a fundamental factor identification issue when there are 
+more than one unobserved common factors. We investigate the small sample properties of the proposed estimator by 
+means of Monte Carlo experiments under a variety of scenarios. In general, we find that the estimator, and the 
+associated inference, perform well. The test is conservative under the null hypothesis, but, nevertheless, has 
+excellent power properties, especially when the factor strength is sufficiently high. Application of the proposed 
+estimation strategy to factor models of asset returns shows that out of 146 factors recently considered in the 
+finance literature, only the market factor is truly strong, while all other factors are at best semi-strong, 
+with their strength varying considerably over time. Similarly, we only find evidence of semi-strong factors 
+in an updated version of the Stock and Watson (2012) macroeconomic dataset.
+Classification-JEL: C38, E20, G20  
+Creation-Date: 2020
+Number: 7/20
+Length: 92
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp07-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-7
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Celebrating 40 Years of Panel Data Analysis: Past, Present and Future
+Author-Name: Vasilis Sarafidis
+Author-X-Name-First: Vasilis 
+Author-X-Name-Last: Sarafidis
+Author-Email: vasilis.sarafidis@monash.edu
+Author-Name: Tom Wansbeek
+Author-X-Name-First: Tom 
+Author-X-Name-Last: Wansbeek
+Author-Email: t.j.wansbeek@rug.nl
+Keywords: panel data analysis, unobserved heterogeneity, omitted variables, crosssectional dependence, 
+dynamic relationships, temporal effects, aggregation bias, nonlinear models, incidental parameter problem, 
+common factor models, multidimensional data, multi-level data    
+Abstract: The present special issue features a collection of papers presented at the 2017 International 
+Panel Data Conference, hosted by the University of Macedonia in Thessaloniki, Greece. The conference 
+marked the 40th anniversary of the inaugural International Panel Data Conference, which was held in 
+1977 at INSEE in Paris, under the auspices of the French National Centre for Scientific Research. As 
+a collection, the papers appearing in this special issue of the Journal of Econometrics continue to 
+advance the analysis of panel data, and paint a state-of-the-art picture of the field.
+Classification-JEL: C13, C15, C23 
+Creation-Date: 2020
+Number: 6/20
+Length: 21
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp06-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-6
+
+Template-type: ReDIF-Paper 1.0
+Title: A Linear Estimator for FactorAugmented Fixed-T Panels with Endogenous Regressors
+Author-Name: Arturas Juodis
+Author-X-Name-First: Arturas 
+Author-X-Name-Last: Juodis
+Author-Email: A.Juodis@uva.nl
+Author-Name: Vasilis Sarafidis
+Author-X-Name-First: Vasilis 
+Author-X-Name-Last: Sarafidis
+Author-Email: vasilis.sarafidis@monash.edu
+Keywords: panel data, common factors, fixed T consistency, moment conditions, urban water management  
+Abstract: A novel method-of-moments approach is proposed for the estimation of factor-augmented panel data 
+models with endogenous regressors when T is fixed. The underlying methodology involves approximating the 
+unobserved common factors using observed factor proxies. The resulting moment conditions are linear in the 
+parameters. The proposed approach addresses several issues which arise with existing nonlinear estimators 
+that are available in fixed T panels, such as local minima-related problems, a sensitivity to particular 
+normalisation schemes, and a potential lack of global identification. We apply our approach to a large 
+panel of households and estimate the price elasticity of urban water demand. A simulation study confirms 
+that our approach performs well in finite samples. 
+Classification-JEL: C13, C15, C23 
+Creation-Date: 2020
+Number: 5/20
+Length: 78
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp05-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-5
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimation of a Nonparametric Model for Bond Prices from Cross-Section and Time Series Information
+Author-Name: Bonsoo Koo
+Author-X-Name-First: Bonsoo 
+Author-X-Name-Last: Koo
+Author-Email: bonsoo.koo@monash.edu
+Author-Name: Davide La Vecchia
+Author-X-Name-First: Davide 
+Author-X-Name-Last: La Vecchia
+Author-Email: Davide.LaVecchia@unige.ch 
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton 
+Author-Email: obl20@cam.ac.uk
+Keywords: nonparametric inference, panel data, time varying, yield curve dynamics
+Abstract: We develop estimation methodology for an additive nonparametric panel model that is suitable
+for capturing the pricing of coupon-paying government bonds followed over many time periods. We
+use our model to estimate the discount function and yield curve of nominally riskless government
+bonds. The novelty of our approach is the combination of two different techniques: cross-sectional
+nonparametric methods and kernel estimation for time varying dynamics in the time series context.
+The resulting estimator is used for predicting individual bond prices given the full schedule of their
+future payments. In addition, it is able to capture the yield curve shapes and dynamics commonly
+observed in the fixed income markets. We establish the consistency, the rate of convergence, and
+the asymptotic normality of the proposed estimator. A Monte Carlo exercise illustrates the good
+performance of the method under different scenarios. We apply our methodology to the daily CRSP
+bond market dataset, and compare ours with the popular Diebold and Li (2006) method. 
+Classification-JEL: C13, C14, C22, G12 
+Creation-Date: 2020
+Number: 4/20
+Length: 44
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp04-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-4
+
+Template-type: ReDIF-Paper 1.0
+Title: High-Frequency Jump Tests: Which Test Should We Use?
+Author-Name: Worapree Maneesoonthorn
+Author-X-Name-First: Worapree
+Author-X-Name-Last: Maneesoonthorn
+Author-Email: O.Maneesoonthorn@mbs.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu
+Author-Name: Catherine S. Forbes
+Author-X-Name-First: Catherine 
+Author-X-Name-Last: Forbes
+Author-Email: catherine.forbes@monash.edu
+Keywords: price jump tests, nonparametric jump measures, bivariate jump diffusion model,
+volatility jumps, microstructure noise, sampling frequency  
+Abstract: We conduct an extensive evaluation of price jump tests based on high-frequency 
+financial data. After providing a concise review of multiple alternative tests, we document 
+the size and power of all tests in a range of empirically relevant scenarios. Particular 
+focus is given to the robustness of test performance to the presence of jumps in volatility 
+and microstructure noise, and to the impact of sampling frequency. The paper concludes by 
+providing guidelines for empirical researchers about which test to choose in any given setting. 
+Classification-JEL: C12, C22, C58 
+Creation-Date: 2020
+Number: 3/20
+Length: 17
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp03-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-3
+
+Template-type: ReDIF-Paper 1.0
+Title: On the Evaluation of Hierarchical Forecasts
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Nikolaos Kourentzes
+Author-X-Name-First: Nikolaos
+Author-X-Name-Last: Kourentzes
+Author-Email: n.kourentzes@lancaster.ac.uk  
+Keywords: aggregation, coherence, hierarchical time series, reconciliation  
+Abstract: The aim of this note is to provide a thinking road-map and a practical guide to researchers
+and practitioners working on hierarchical forecasting problems. Evaluating the performance of 
+hierarchical forecasts comes with new challenges stemming from both the statistical structure 
+of the hierarchy and the application context. We discuss four relevant dimensions for researchers
+and analysts: the scale and units of time series, the issue of sparsity, the decision context and 
+the importance of multiple evaluation windows. We conclude with a series of practical recommendations.
+Classification-JEL: C18, C53, C55
+Creation-Date: 2020
+Number: 2/20
+Length: 22
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp02-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-2
+
+Template-type: ReDIF-Paper 1.0
+Title: Focused Bayesian Prediction
+Author-Name: Ruben Loaiza-Maya
+Author-X-Name-First: Ruben 
+Author-X-Name-Last: Loaiza-Maya
+Author-Email: ruben.loaizamaya@monash.edu
+Author-Name: Gael M Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu
+Author-Name: David T. Frazier
+Author-X-Name-First: David 
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu 
+Keywords: loss-based prediction, Bayesian forecasting, proper scoring rules, stochastic
+volatility model, expected shortfall, M4 forecasting competition 
+Abstract: We propose a new method for conducting Bayesian prediction that delivers accurate
+predictions without correctly specifying the unknown true data generating process. A prior
+is defined over a class of plausible predictive models. After observing data, we update the
+prior to a posterior over these models, via a criterion that captures a user-specified measure
+of predictive accuracy. Under regularity, this update yields posterior concentration onto the
+element of the predictive class that maximizes the expectation of the accuracy measure. In a
+series of simulation experiments and empirical examples we find notable gains in predictive
+accuracy relative to conventional likelihood-based prediction.
+Classification-JEL: C11, C53, C58
+Creation-Date: 2020
+Number: 1/20
+Length: 44
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp01-2020.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2020-1
+

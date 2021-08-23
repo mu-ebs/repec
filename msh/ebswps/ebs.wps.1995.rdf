@@ -1,0 +1,343 @@
+Template-Type: ReDIF-Paper 1.0
+Title: Combining Choice Set Partition Tests for the Independence of 
+    Irrelevant Alternatives Property: Size Properties in the Four 
+    Alternatives Setting.
+Author-Name: Robert D. Brooks
+Author-X-Name-First: Robert D.
+Author-X-Name-Last: Brooks
+Author-Name: Tim R.L. Fry
+Author-X-Name-First: Tim R.L.
+Author-X-Name-Last: Fry
+Author-Name: Mark N. Harris
+Author-X-Name-First: Mark N.
+Author-X-Name-Last: Harris
+Series: Working Paper
+Keywords: Hypothesis tests; Discrete choice; IIA
+Number: 1/95
+Length: 8 pages
+Creation-Date: 1995-02
+Abstract: This paper conducts a Monte Carlo analysis of the size properties
+    of combining choice set partition tests of the independence of
+    irrelevant alternatives property in the Logit model in the four
+    alternatives setting. Most of the tests have poor size properties.
+    The exception is a version of the test proposed by Small and Hsiao (1985).
+Handle: RePEc:msh:ebswps:1995-1
+
+Template-Type: ReDIF-Paper 1.0
+title: The Size and Power Properties of Combining Choice Set Participation Tests
+     for the IIA Property in the Logit Model.
+Author-Name: Robert D. Brooks
+Author-X-Name-First: Robert D.
+Author-X-Name-Last: Brooks
+Author-Name: Tim R.L. Fry
+Author-X-Name-First: Tim R.L.
+Author-X-Name-Last: Fry
+Author-Name: Mark N. Harris
+Author-X-Name-First: Mark N.
+Author-X-Name-Last: Harris
+Keywords: Hypothesis tests; Logit model; IIA
+Series: Working Paper
+Number: 2/95
+Length: 28 pages
+Creation-Date: 1995-02
+Abstract: This paper conducts a Monte Carlo analysis of the size and power
+    properties of combining choice set partition tests of the IIA
+    property of the Logit model. On the basis of this comparison we
+    recommend that applied researchers testing for IIA calculate all
+    versions of the McFadden, Train and Tye (1981) test and reject IIA
+    if any single test rejects IIA.
+Handle: RePEc:msh:ebswps:1995-2
+
+Template-Type: ReDIF-Paper 1.0
+Title: A Parsimonious Autocorrelation Correction for Singular Demand Systems.
+Author-Name: Keith R. McLaren
+Author-X-Name-First: Keith R.
+Author-X-Name-Last: McLaren
+keywords: ECONOMIC MODELS;Autocorrelation;DEMAND SYSTEMS
+Series: Working Paper
+Number: 3/95
+Length: 10 pages
+Creation-Date: 1995-03
+Abstract: The adding up condition of budget share equations is known to
+    imply restrictions for the autoregresive structure of errors. The
+    implications of these restrictions when estimation is in terms of
+    additive normal errors of additive logistic normal errors is
+    clarified, and a byproduct is a specification of the autocorrelation
+    matrix with a structure consistent with the model, but with number
+    of parameters equal to the number of goods. This is more appealing
+    than the scalar diagonal matrix form, but more parsimonious than
+    having number of parameters proportional  to the square of the
+    number of goods.
+Handle: RePEc:msh:ebswps:1995-3
+
+template-type: ReDIF-Paper 1.0
+title: Estimation and Prediction for a Class of Dynamic Nonlinear Statistical Models.
+author-name: Ord, J.K.
+Author-X-Name-Last: Ord
+Author-X-Name-First: J.K.
+author-name: Koehler, A.
+Author-X-Name-Last: Koehler
+Author-X-Name-First: A. 
+author-name: Snyder, R.D.
+Author-X-Name-Last: Snyder
+Author-X-Name-First: R.D.
+Series: Working Paper
+Number: 4/95
+keywords: EVALUATION;STATISTICS;NONLINEAR MODELS
+length: 34 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-4
+
+template-type: ReDIF-Paper 1.0
+title: Inventory Control: Back to the Molehills.
+author-name: Snyder, R.D.
+Author-X-Name-Last: Snyder
+Author-X-Name-First: R.D.
+Series: Working Paper
+Number: 5/95
+keywords: INVENTORIES
+length: 17 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-5
+
+template-type: ReDIF-Paper 1.0
+title: The Applications of the Durbin-Watson Test to the Dynamic Regression Model 
+    Under Normal and Non-Normal Errors.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+author-name: Harris, D.C.
+Author-X-Name-Last: Harris
+Author-X-Name-First: D.C.
+Series: Working Paper
+Number: 6/95
+keywords: ECONOMETRICS; Durbin-Watson Test
+length: 25 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-6
+
+template-type: ReDIF-Paper 1.0
+title: Small-Sample Power of Tests for Inequality Restrictions: The Case of Quarter 
+    Independant Errors.
+author-name: Wu, P.
+Author-X-Name-Last: Wu
+Author-X-Name-First: P.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+Series: Working Paper
+Number: 7/95
+keywords: ECONOMETRICS; Hypothesis tests
+length: 15 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-7
+
+template-type: ReDIF-Paper 1.0
+title: A Computer Simulation of the Spread of Hepatitis C.
+author-name: Mather, D.
+Author-X-Name-Last: Mather
+Author-X-Name-First: D.
+Series: Working Paper
+Number: 8/95
+Keywords: ECONOMIC MODELS;HEALTH
+length: 14 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-8
+
+Template-Type: ReDIF-Paper 1.0
+Title: The INITB Macros User's Guide: A Macro Collection to Write Books Using TEX.
+Author-Name: Gabor Korosi
+Author-X-Name-First: Gabor
+Author-X-Name-Last: Korosi
+Author-Name: Laszlo Matyas
+Author-X-Name-First: Laszlo
+Author-X-Name-Last: Matyas
+Keywords: WORD-PROCESSING; TEX
+Series: Working Paper
+Number: 9/95
+Length: 16
+Creation-Date: 1995
+Abstract: The INITB.TEX file consists of a macro collection designed to
+    write books in a form standard to many handbooks. The macro file
+    should be input before the text. Macros in this file automatically
+    number chapters, sections, and print their titles in the proper
+    format. It offers many useful features, like naming chapters,
+    formulae, pages for further references, multi-column pages etc.
+Handle: RePEc:msh:ebswps:1995-9
+
+Template-Type: ReDIF-Paper 1.0
+Title: Misspecified Heterogeneity in Panel Data Models.
+Author-Name: Pierre Blanchard
+Author-X-Name-First: Pierre
+Author-X-Name-Last: Blanchard
+Author-Name: Laszlo Matyas
+Author-X-Name-First: Laszlo
+Author-X-Name-Last: Matyas
+Length: 32 pages
+Creation-Date: 1995-08
+Keywords: Heterogeneity; Panel Data 
+Abstract: In this paper we analyse systematically through Monte Carlo
+    simulations the consequences of misspecified heterogeneity on the
+    most popular linear panel data models. We also illustrate our
+    findings, through the estimation of a well known investment demand
+    model.
+Series: Working Paper
+Number: 10/95
+Handle: RePEc:msh:ebswps:1995-10
+
+template-type: ReDIF-Paper 1.0
+title: Mixtures of Tails in Clustered Automobile Claims.
+author-name: Kalb, G.R.J.
+Author-X-Name-Last: Kalb
+Author-X-Name-First: G.R.J.
+author-name: Kofman, P.
+Author-X-Name-Last: Kofman
+Author-X-Name-First: P.
+author-name: Vorst, T.C.F.
+Author-X-Name-Last: Vorst
+Author-X-Name-First: T.C.F.
+Series: Working Paper
+Number: 11/95
+keywords: INSURANCE
+length: 30 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-11
+
+template-type: ReDIF-Paper 1.0
+title: Marginal Likelihood Based Tests of a Subvector of the Parameter Vector of 
+    Linear Regression Disturbances.
+author-name: Ara, I.
+Author-X-Name-Last: Ara
+Author-X-Name-First: I.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+Series: Working Paper
+Number: 12/95
+keywords: REGRESSION ANALYSIS; Marginal Likelihood; Hypothesis tests
+length: 39 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-12
+
+template-type: ReDIF-Paper 1.0
+title: From Dornbush to Murphy: Stylized Monetary Dynamics of a Contemporary 
+    Macroeconometric Model.
+author-name: Powell, A.A.
+Author-X-Name-Last: Powell
+Author-X-Name-First: A.A.
+Series: Working Paper
+Number: 13/95
+keywords: MACROECONOMICS;ECONOMIC MODELS
+length: 29 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-13
+
+template-type: ReDIF-Paper 1.0
+title: A Threshold Error Correction Model for Intraday Futures and Index Returns.
+author-name: Martens, M.
+Author-X-Name-Last: Martens
+Author-X-Name-First: M.
+author-name: Kofman, P.
+Author-X-Name-Last: Kofman
+Author-X-Name-First: P.
+author-name: Vorst, T.C.F.
+Author-X-Name-Last: Vorst
+Author-X-Name-First: T.C.F.
+Series: Working Paper
+Number: 14/95
+keywords: ECONOMETRICS; Financial markets, Error Correction Model
+length: 32 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-14
+
+template-type: ReDIF-Paper 1.0
+title: A Small Sample Variable Selection Procedure.
+author-name: Forbes, C.S.
+Author-X-Name-Last: Forbes
+Author-X-Name-First: C.S.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+author-name: Morgan, A.
+Author-X-Name-Last: Morgan
+Author-X-Name-First: A.
+Series: Working Paper
+Number: 15/95
+keywords: ECONOMETRICS; Model selection
+length: 24 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-15
+
+template-type: ReDIF-Paper 1.0
+title: Bayesian Analysis of a Cointegration Model Using Markov Chain Monte Carlo.
+author-name: Martin, G.
+Author-X-Name-Last: Martin
+Author-X-Name-First: G.
+Series: Working Paper
+Number: 16/95
+keywords: ECONOMETRICS; Cointegration; Markov Chain Monte Carlo
+length: 45 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-16
+
+template-type: ReDIF-Paper 1.0
+title: Fractional Cointegration: A Bayesian Aproach.
+author-name: Martin, G.
+Author-X-Name-Last: Martin
+Author-X-Name-First: G.
+Series: Working Paper
+Number: 17/95
+keywords: ECONOMETRICS; Fractional Cointegration; Bayesian Analysis
+length: 43 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-17
+
+template-type: ReDIF-Paper 1.0
+title: A Modified Fluctuation Test for Structural Change.
+author-name: Hao, K.
+Author-X-Name-Last: Hao
+Author-X-Name-First: K.
+author-name: Inder, B.
+Author-X-Name-Last: Inder
+Author-X-Name-First: B.
+Series: Working Paper
+Number: 18/95
+keywords: ECONOMETRICS; Structural Change
+length: 19 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-18
+
+template-type: ReDIF-Paper 1.0
+title: Homogeneity of Variance Test for the Comparison of Two or More Spectra.
+author-name: Maharaj, E.A.
+Author-X-Name-Last: Maharaj
+Author-X-Name-First: E.A.
+author-name: Singh, N.
+Author-X-Name-Last: Singh
+Author-X-Name-First: N.
+author-name: Inder, B.A.
+Author-X-Name-Last: Inder
+Author-X-Name-First: B.A.
+Series: Working Paper
+Number: 19/95
+keywords: ECONOMETRICS; Spectral analysis
+length: 37 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-19
+
+template-type: ReDIF-Paper 1.0
+title: Interaction Between the London and New-York Stock Market During Common Trading Hours.
+author-name: Kofman, P.
+Author-X-Name-Last: Kofman
+Author-X-Name-First: P.
+author-name: Martens, M.
+Author-X-Name-Last: Martens
+Author-X-Name-First: M.
+Series: Working Paper
+Number: 20/95
+keywords: STOCK MARKET
+length: 34 pages
+creation-date: 1995
+Handle: RePEc:msh:ebswps:1995-20
+
+
