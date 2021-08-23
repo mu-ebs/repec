@@ -1,0 +1,308 @@
+Template-Type: ReDIF-Paper 1.0
+Title: Estimating Demand with Varied Levels of Aggregation.
+Author-Name: Grose, S.
+Author-X-Name-Last: Grose
+Author-X-Name-First: S.
+Author-Name: McLaren, K.
+Author-X-Name-Last: McLaren
+Author-X-Name-First: K.
+Keywords: Singular demand systems, Linear expenditure system, Almost ideal demand system, Missing data.
+Length: 29 pages
+Abstract: The response of consumer demand to prices, income, and other characteristics 
+    is important for a range of policy issues. Naturally, the level of detail for 
+    which consumer behaviour can be estimated depends on the level of disaggregation 
+    of the available data. However, it is often the case that the available data is 
+    differently aggregated in different time periods, with the information available 
+    in later time periods usually being more detailed. The applied researcher is thus 
+    faced with choosing between detail, in which case the more highly aggregated data 
+    is ignored; or duration, in which case the data must be aggregated up to the 
+    "lowest common denominator". This paper develops a specification/estimation 
+    technique that exploits the entire information content of a variably-aggregated 
+    data set.
+Classification-JEL: C32, C51, D12, E21
+Creation-Date: 2000-02
+Number: 1/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp1-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-1
+
+Template-Type: ReDIF-Paper 1.0
+Title: An EM Algorithm for Modelling Variably-Aggregated Demand.
+Author-Name: Grose, S.
+Author-X-Name-Last: Grose
+Author-X-Name-First: S.
+Author-Name: McLaren, K.
+Author-X-Name-Last: McLaren
+Author-X-Name-First: K.
+Keywords: EM Algorithm, Singular demand systems, Linear expenditure system, Missing data.
+Length: 26 pages
+Abstract: This paper develops an EM algorithm for the estimation of a consumer demand 
+    system involving variably aggregated data. The methodology is based on the 
+    observation that more highly aggregated data does in fact contain information 
+    on the finer subcategories. It is therefore possible, under certain simplifying 
+    assumptions, to derive the distribution of the unobserved fine-level expenditures 
+    conditional on the observed but more highly aggregated data. The expectation 
+    of the log-likelihood is then taken with respect to this conditional distribution. 
+    Under the assumption of multivariate normality both these steps can be performed 
+    analytically, resulting in an EM criterion that can be maximised iteratively at 
+    comparatively little cost. The technique is applied to an ABS dataset containing 
+    historical information relating to private final consumption expenditures on up 
+    to 18 commodities.
+Classification-JEL: C32, C51, D12, E21
+Creation-Date: 2000-03
+Number: 2/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp2-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-2
+
+Template-Type: ReDIF-Paper 1.0
+Title: Predicting the Probability of a Recession with Nonlinear Autoregressive Leading 
+    Indicator Models.
+Author-Name: Anderson, H.M.
+Author-X-Name-Last: Anderson
+Author-X-Name-First: H.M.
+Author-Name: Vahid, F.
+Author-X-Name-Last: Vahid
+Author-X-Name-First: F.
+Keywords: Event probabilities, Leading Indicators, Nonlinear Models
+Length: 29 pages
+Abstract: We develop nonlinear leading indicator models for GDP growth, with the 
+    interest rate spread and growth in M2 as leading indicators. Since policy 
+    makers are typically interested in whether or not a recession is imminent, 
+    we evaluate these models according to their ability to predict the probability 
+    of a recession. Using data for the United States, we find that conditional on 
+    the spread, the marginal contribution of M2 growth in predicting recessions is 
+    negligible.
+Classification-JEL: C22, C23, E17, E37
+Creation-Date: 2000-03
+Number: 3/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp3-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-3
+
+Template-Type: ReDIF-Paper 1.0
+Title: Bayesian Soft Target Zones.
+Author-Name: Forbes, C.S.
+Author-X-Name-Last: Forbes
+Author-X-Name-First: C.S.
+Author-Name: Kofman, P.
+Author-X-Name-Last: Kofman
+Author-X-Name-First: P.
+Keywords: Bayesian estimation, griddy-Gibbs sampler, credible target zones, soft margins, European Monetary System
+Length: 23 pages
+Abstract: Several authors have postulated econometric models for exchange rates 
+    restricted to lie within known target zones. However, it is not uncommon to 
+    observe exchange rate data with known limits that are not fully 'credible'; 
+    that is, where some of the observations fall outside the stated range. An 
+    empirical model for exchange rates in a soft target zone where there is a 
+    controlled probability of the observed rates exceeding the stated limits is 
+    developed in this paper. A Bayesian approach is used to analyse the model, 
+    which is then demonstrated on Deutschemark-French franc and ECU-French franc 
+    exchange rate data.
+Classification-JEL: C11, C13, F31, F33
+Creation-Date: 2000-04
+Number: 4/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp4-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-4
+
+Template-Type: ReDIF-Paper 1.0
+Title: Implicit Bayesian Inference Using Option Prices.
+Author-Name: Martin, G.M.
+Author-X-Name-Last: Martin
+Author-X-Name-First: G.M.
+Author-Name: Forbes, C.S.
+Author-X-Name-Last: Forbes
+Author-X-Name-First: C.S.
+Author-Name: Martin, V.L.
+Author-X-Name-Last: Martin
+Author-X-Name-First: V.L.
+Keywords: Bayesian Implicit Inference; Option Pricing Errors; Option Price Prediction;
+          Hedging Errors; Nonnormal Returns Models; GARCH; Bayesian Model averaging.
+Length: 35 pages
+Abstract: A Bayesian approach to option pricing is presented, in which posterior 
+    inference about the underlying returns process is conducted implicitly, via 
+    observed option prices. A range of models which allow for conditional leptokurtosis, 
+    skewness and time-varying volatility in returns, are considered, with posterior
+    parameter distributions and model probabilities backed out from the option prices. Fit, predictive and
+    hedging densities associated with the different models are produced. Models are ranked according to
+    several criteria, including their ability to fit observed option prices, predict future option prices and
+    minimize hedging errors. In addition to model-specific results, averaged predictive and hedging
+    densities are produced, the weights used in the averaging process being the posterior model
+    probabilities. The method is applied to option price data on the S&P500 stock index. Whilst the results
+    provide some support for the Black-Scholes model, no one model dominates according to all criteria
+    considered.
+Classification-JEL: C10, G12, G10
+Creation-Date: 2000-07
+Number: 5/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp5-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-5
+
+Template-Type: ReDIF-Paper 1.0
+Title: Valid Bayesian Estimation of the Cointegrating Error Correction Model.
+Author-Name: Strachan, R.
+Author-X-Name-Last: Strachan
+Author-X-Name-First: R.
+Keywords: Identification restrictions, singular value decomposition, error-correction model, cointegration, Bayesian analysis
+Length: 31 pages
+Abstract: Two methods of identifying cointegrating vectors are commonly used: 
+    linear restrictions and the nonlinear method of Johansenos maximum likelihood 
+    procedure. That linear method can produce invalid estimates while the Johansen 
+    approach always produces valid estimates has been recognised in several recent 
+    articles. As all Bayesian studies to date have used linear restrictions, this 
+    article presents a Bayesian method for obtaining estimates of cointegrating 
+    vectors that will always be valid.
+Classification-JEL: C10, C51, C52
+Creation-Date: 2000-07
+Number: 6/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp6-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-6
+
+Template-Type: ReDIF-Paper 1.0
+Title: Bayesian Exponential Smoothing.
+Author-Name: Forbes, C.S.
+Author-X-Name-Last: Forbes
+Author-X-Name-First: C.S.
+Author-Name: Snyder, R.D.
+Author-X-Name-Last: Snyder
+Author-X-Name-First: R.D.
+Author-Name: Shami, R.S.
+Author-X-Name-Last: Shami
+Author-X-Name-First: R.S.
+Keywords: Time series analysis, forecasting, structural model, local level model, prediction interval.
+Length: 21 pages
+Abstract: In this paper, a Bayesian version of the exponential smoothing method of 
+    forecasting is proposed. The approach is based on a state space model containing 
+    only a single source of error for each time interval. This model allows us to 
+    improve current practices surrounding exponential smoothing by providing both 
+    point predictions and measures of the uncertainty surrounding them.
+Classification-JEL: C11, C22, C51
+Creation-Date: 2000-08
+Number: 7/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp7-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-7
+
+Template-Type: ReDIF-Paper 1.0
+Title: Are Casual Jobs a Freeway to Permanent Employment?
+Author-Name: Chalmers, J.
+Author-X-Name-Last: Chalmers
+Author-X-Name-First: J.
+Author-Name: Kalb, G.
+Author-X-Name-Last: Kalb
+Author-X-Name-First: G.
+Keywords: LABOUR MARKET, JOB SEEKERS, ECONOMIC MODELS
+Length: 35 pages
+Abstract: This study examines whether casual work can shorten the time taken to move 
+    from unemployment into permanent work using longitudinal data from the Survey 
+    of Employment and Unemployment Patterns. The analysis is based on comparison 
+    of the transition rate from unemployment to permanent work with the combined 
+    transition rates of unemployment to casual work and casual work to permanent 
+    work. Hazard rate models are used to estimate each of the transition rates. 
+    The models include observed and unobserved heterogeneity and allow for 
+    correlation between the transition rates. The evidence presented suggests 
+    that accepting casual work is beneficial for some unemployed people in their 
+    search for permanent work.
+Classification-JEL: J21, J64
+Creation-Date: 2000-07
+Number: 8/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp8-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-8
+
+Template-Type: ReDIF-Paper 1.0
+Title: A State Space Framework for Automatic Forecasting Using Exponential Smoothing Methods.
+Author-Name: Hyndman, R.J.
+Author-X-Name-Last: Hyndman
+Author-X-Name-First: R.J.
+Author-Name: Koehler, A.B.
+Author-X-Name-Last: Koehler
+Author-X-Name-First: A.B.
+Author-Name: Snyder, R.D.
+Author-X-Name-Last: Snyder
+Author-X-Name-First: R.D.
+Author-Name: Grose, S.
+Author-X-Name-Last: Grose
+Author-X-Name-First: S.
+Keywords: Automatic forecasting, exponential smoothing, prediction intervals, state space models.
+Length: 20 pages
+Abstract: We provide a new approach to automatic business forecasting based on an 
+    extended range of exponential smoothing methods. Each method in our taxonomy 
+    of exponential smoothing methods can be shown to be equivalent to the forecasts 
+    obtained from a state space model. This allows (1) the easy calculation of the 
+    likelihood, the AIC and other model selection criteria; (2) the computation of 
+    prediction intervals for each method; and (3) random simulation from the 
+    underlying state space model. We demonstrate the methods by applying them to 
+    the data from the M-competition on the M3-competition.
+Classification-JEL: C50, C53
+Creation-Date: 2000-08
+Number: 9/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp9-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-9
+
+Template-Type: ReDIF-Paper 1.0
+Title: A structural Time Series Model with Markov Switching.
+Author-Name: Shami, R.G.
+Author-X-Name-Last: Shami
+Author-X-Name-First: R.G.
+Author-Name: Forbes, C.S.
+Author-X-Name-Last: Forbes
+Author-X-Name-First: C.S.
+Keywords: Structural models, Markov switching regime, Gibbs sampling
+Business cycle.
+Length: 29 pages
+Abstract: We propose an innovations form of the structural model underlying exponential 
+    smoothing that is further augmented by a latent Markov switching process. A 
+    particular case of the new model is the local level model with a switching 
+    drift, where the switching component describes the change between high and low 
+    growth rate periods. This new model is used to analyse the US business cycle 
+    using US Quarterly real GNP data. Model parameters are estimated using a Gibbs 
+    sampling algorithm and subsequently used for forecasting purposes. In addition, 
+    the stability of the new model is tested against Hamilton's model over a range 
+    of observation periods.
+Classification-JEL: C11, C22, C53
+Creation-Date: 2000-12
+Number: 10/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp10-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-10
+
+Template-Type: ReDIF-Paper 1.0
+Title: Mixed Model-Based Hazard Estimation.
+Author-Name: Cai, T.
+Author-X-Name-Last: Cai
+Author-X-Name-First: T.
+Author-Name: Hyndman, R.J.
+Author-X-Name-Last: Hyndman
+Author-X-Name-First: R.J.
+Author-Name: Wand, M.P.
+Author-X-Name-Last: Wand
+Author-X-Name-First: M.P.
+Keywords: Non-parametric regression; Restricted maximum likelihood; Variance component; Survival analysis.
+Length: 14 pages
+Abstract: We propose a new method for estimation of the hazard function from a set 
+    of censored failure time data, with a view to extending the general approach 
+    to more complicated models. The approach is based on a mixed model representation 
+    of penalized spline hazard estimators. One payoff is the automation of the 
+    smoothing parameter choice through restricted maximum likelihood. Another is 
+    the option to use standard mixed model software for automatic hazard estimation.
+Classification-JEL: C51, C32, C50
+Creation-Date: 2000-12
+Number: 11/00
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2000/wp11-00.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2000-11

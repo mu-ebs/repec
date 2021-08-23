@@ -1,0 +1,435 @@
+template-type: ReDIF-Paper 1.0
+title: U.S. Deficit Sustainability: A New Approach Based on Multiple Endogenous Breaks
+author-name: Martin, G.M.
+Author-X-Name-Last: Martin
+Author-X-Name-First: G.M.
+keywords: FISCAL POLICY ; UNITED STATES ; DEFICIT
+length: 28 pages
+abstract: Recent empirical work has questioned the consistency of U.S. fiscal policy 
+    with an intertemporal budget constraint. Empirical results have tended to 
+    indicate that the deficit process has undergone at least one structural shift 
+    during recent decades, with the deficit becoming either unsustainable or 
+    sustainable in only a weak sense in the post-shift period. In this paper, 
+    we re-examine sustainability using a new approach, based on a cointegration 
+    model with multiple endogenous breaks.
+classification-jel: H62
+creation-date: 1998
+Number: 1/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-1
+
+template-type: ReDIF-Paper 1.0
+title: Estimating Long-Term Trends in Tropospheric Ozone Levels
+author-name: Smith, M.
+Author-X-Name-Last: Smith
+Author-X-Name-First: M.
+author-name: Yau, P.
+Author-X-Name-Last: Yau
+Author-X-Name-First: P.
+author-name: Shively, T.
+Author-X-Name-Last: Shively
+Author-X-Name-First: T.
+author-name: Kohn, R.
+Author-X-Name-Last: Kohn
+Author-X-Name-First: R.
+keywords: ECONOMETRICS ; ENVIRONMENT
+length: 26 pages
+abstract: This paper estimates the long-term trends in the daily maxima of tropospheric 
+    ozone at six sites around the state of Texas. The statistical methodology we 
+    use controls for the effects of meteorological variables because it is known 
+    that variables such as temperature, wind speed and humidity substantially 
+    affect the formation of tropospheric ozone. A nonparametric regression model 
+    is estimated in which a general trivaraite surface is used to model the 
+    relationship between ozone and these meteorological variables because there 
+    is little, or no, theory to specify the functional dependence of ozone on 
+    these variables.
+classification-jel: C14, Q25
+creation-date: 1998
+Number: 2/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-2
+
+template-type: ReDIF-Paper 1.0
+title: Exponential Smoothing Methods of Forecasting and General ARMA Time Series 
+    Representations
+author-name: Shami, R.G.
+Author-X-Name-Last: Shami
+Author-X-Name-First: R.G.
+author-name: Snyder, R.D.
+Author-X-Name-Last: Snyder
+Author-X-Name-First: R.D.
+keywords: FORECASTS ; TIME SERIES
+length: 13 pages
+abstract: The focus of this paper is on the relationship between the exponential 
+    smoothing methods of forecasting and the integrated autoregressive-moving 
+    average models underlying them. In this paper we derive, for the first time, 
+    the general linear relationship between their parameters. A method, suitable 
+    for implementation on computer, is proposed to determine the pertinent 
+    quantities in this relationship. It is illustrated on common forms of 
+    exponential smoothing.
+classification-jel: C53, C32
+creation-date: 1998
+Number: 3/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-3
+
+template-type: ReDIF-Paper 1.0
+title: A Comparison of Alternative Estimators for Binary Panel Probit Models
+author-name: Harris, M.N.
+Author-X-Name-Last: Harris
+Author-X-Name-First: M.N.
+author-name: Macquarie, L.R.
+Author-X-Name-Last: Macquarie
+Author-X-Name-First: L.R.
+author-name: Siouclis, A.J.
+Author-X-Name-Last: Siouclis
+Author-X-Name-First: A.J.
+keywords: MODELS ; COMPUTERS ; MAXIMUM LIKELIHOOD
+length: 19 pages
+abstract: Recent advances in computing power have brought the use of computer 
+    intensive estimation methods of binary panel data models within the reach 
+    of the applied researcher. The aim of this paper is to apply some of these 
+    techniques to a marleting data set and compare the results. In addition, 
+    their small sample performance is examined via Monte Carlo simulation 
+    experiments. The first estimation technique used was maximum likelihood 
+    estimation of the cross section probit (ignoring heterogeneity).
+classification-jel: C63
+creation-date: 1998
+Number: 4/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-4
+
+template-type: ReDIF-Paper 1.0
+title: Modified Likelihood and Related Methods for Handling Nuisance Parameters in 
+    the Linear Regression Model
+author-name: Laskar, M.R.
+Author-X-Name-Last: Laskar
+Author-X-Name-First: M.R.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+keywords: MAXIMUM LIKELIHOOD ; MODELS
+length: 37 pages
+abstract: In this paper, different approaches to dealing with nuisance parameters 
+    in the likelihood based inference are presented and illustrated by reference 
+    to the linear regression model with nonspherical errors. The estimator of 
+    the error variance using each of the approaches is also derived for the 
+    linear regression model with spherical erors. We observe that many of these 
+    estimators are unbiased. A theoretical comparison of the likelihood functions 
+    is reported and we note that some of them are equivalent.
+classification-jel: C19
+creation-date: 1998
+Number: 5/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-5
+
+template-type: ReDIF-Paper 1.0
+title: Comparisons of Estimators and Tests Based on Modified Likelihood And Message 
+    Length Functions
+author-name: Laskar, M.R.
+Author-X-Name-Last: Laskar
+Author-X-Name-First: M.R.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+keywords: MAXIMUM LIKELIHOOD ; ESTIMATOR ; TESTS
+length: 34 pages
+abstract: The presence of nuisance parameters causes unexpected complications in 
+    econometric inference problems. A number of modified likelihood and message 
+    length functions have been developed for better handling of nuisance 
+    parameters but all of them are not equally efficient. In this paper, we 
+    empirically compare different modified likelihood and message length functions 
+    in the context of estimation and testing of parameters from linear regression 
+    disturbances that follow either a first-order moving average of firts-order 
+    autoregressive error processes.
+classification-jel: C52, C13
+creation-date: 1998
+Number: 6/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-6
+
+template-type: ReDIF-Paper 1.0
+title: Nonparametric Seemingly Unrelated Regression
+author-name: Smith, M.
+Author-X-Name-Last: Smith
+Author-X-Name-First: M.
+author-name: Kohn, R.
+Author-X-Name-Last: Kohn
+Author-X-Name-First: R.
+keywords: MODELS ; ECONOMETRICS
+length: 31 pages
+abstract: This paper presnets a method for simultaneously estimating a system of 
+    nonparametric multiple regressions which may seem unrelated, but where the 
+    errors are potentially correlated between equations. We show that the prime 
+    advantage of estimating such a 'seemingly unrelated' system of nonparametric 
+    regressions is that substantially less observations can be required to obtain 
+    reliable functions estimates than if each of the regression equations was 
+    estimated separately and the correlation ignored.
+classification-jel: C15, C14
+creation-date: 1998
+Number: 7/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-7
+
+template-type: ReDIF-Paper 1.0
+title: A New Approach to Model GNP Functions: An Application of Non-Separable 
+    Two-Stage Technologies
+author-name: Wong, G.K.K.
+Author-X-Name-Last: Wong
+Author-X-Name-First: G.K.K.
+keywords: GROSS NATIONAL PRODUCT ; TECHNOLOGY ; PROFIT
+length: 33 pages
+abstract: This paper shows that two-stage technologies can provide a general 
+    procedure for combining profit and value-added functions to obtain new 
+    specifications of import demand and output supply systems. In such 
+    technologies, we assume that imports interact with other exogenous 
+    variables to produce intermediate inputs, which are in turn used to 
+    produce final outputs. To show that utility of this new approach, we 
+    use it to specify and estimate the Australian GNP function.
+classification-jel: D24, F12
+creation-date: 1998
+Number: 8/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-8
+
+template-type: ReDIF-Paper 1.0
+title: bayesian Estimation of the Reduced Rank Regression Model without Ordering 
+    Restrictions.
+author-name: Strachan, R.W.
+Author-X-Name-Last: Strachan
+Author-X-Name-First: R.W.
+keywords: COINTEGRATION ; BAYESIAN ANALYSIS ; ECONOMIC MODELS
+length: 44 pages
+abstract: In this paper we have demonstrated the implications of incorrectly 
+    normalising the parameters of a reduced rank regression model to achieve 
+    global identification, and presented a method for estimating this model 
+    without using the ordering restrictions imposed in previous Bayesian and 
+    frequentist approaches.
+classification-jel: C10, C11
+creation-date: 1998
+Number: 9/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-9
+
+template-type: ReDIF-Paper 1.0
+title: A General Volatility Framework and the Generalised Historical Volatility 
+    Estimator.
+author-name: Bollen, B.
+Author-X-Name-Last: Bollen
+Author-X-Name-First: B.
+author-name: Inder, B.
+Author-X-Name-Last: Inder
+Author-X-Name-First: B.
+keywords: EVALUATION ; TIME SERIES ; FINANCIAL MARKET
+length: 35 pages
+abstract: This study proposes a new approach to estimation of the time series 
+    properties of daily volatility in financial markets.
+classification-jel: C20, C22, C13
+creation-date: 1998
+Number: 10/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-10
+
+template-type: ReDIF-Paper 1.0
+title: Comparisons of Estimators and Tests Based on Modified Likelihood and Message 
+    Length Functions.
+author-name: Lasker, M.R.
+Author-X-Name-Last: Lasker
+Author-X-Name-First: M.R.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+keywords: REGRESSION ANALYSIS ; LINEAR MODELS
+length: 23 pages
+abstract: The presence of nuisance parameters causes unwanted complications in 
+    statistical and econometric inference procedures. A number of modified 
+    likelihood and message length functions have been developed for better 
+    handling of nuisance parameters but they are not equally efficient. In 
+    this paper, we empirically compare different modified likelihood and 
+    message length functions in the context of estimation and testing of 
+    parameters from linear regression disturbances that follow either first 
+    order moving average or first order autoregressive error processes.
+classification-jel: C10, C13
+creation-date: 1998
+Number: 11/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-11
+
+template-type: ReDIF-Paper 1.0
+title: Residual Diagnostic Plots for Checking for model Mis-Specification in Time 
+    Series Regression.
+author-name: Fraccaro, R.
+Author-X-Name-Last: Fraccaro
+Author-X-Name-First: R.
+author-name: Hyndman, R.
+Author-X-Name-Last: Hyndman
+Author-X-Name-First: R.
+author-name: Veevers, A.
+Author-X-Name-Last: Veevers
+Author-X-Name-First: A.
+keywords: TIME SERIES ; ECONOMIC MODELS ; REGRESSION ANALYSIS
+length: 21 pages
+abstract: This paper considers residuals for time series regression. Despite much 
+    literature on visual diagnostics for uncorrelated data, there is little on 
+    the autocorrelated case. In order to examine various aspects of the fitted 
+    time series regression model, three residuals are considered. The fitted 
+    regression model can be checked using orthogonal residuals; the time series 
+    error model can be analysed using marginal residuals; and the white noise 
+    error component can be tested using conditional residuals. When used
+        together, these residuals allow identification of outliers, model 
+    mis-specification and mean shifts. 
+classification-jel: C10, C22
+creation-date: 1998
+Number: 12/98
+Publication-Status: Published in Australian and New Zealand Journal of Statistics, 42(4), 463-477.
+Handle: RePEc:msh:ebswps:1998-12
+
+template-type: ReDIF-Paper 1.0
+title: Lead Time demand for Simple Exponential Smoothing.
+author-name: Snyder, R.D.
+Author-X-Name-Last: Snyder
+Author-X-Name-First: R.D.
+author-name: Koehler, A.B.
+Author-X-Name-Last: Koehler
+Author-X-Name-First: A.B.
+author-name: Ord, J.K.
+Author-X-Name-Last: Ord
+Author-X-Name-First: J.K.
+keywords: EVALUATION
+length: 11 pages
+abstract: A new simple formula is found to correct the underestimation of the standard 
+    deviation for total lead time demand when using simple exponential smoothing.
+    This new formula allows one to see readily the significant size of the 
+    underestimation of the traditional formula and can easily be implemented in 
+    practice. The formula is derived by using a state space model for simple 
+    exponential smoothing.
+classification-jel: C12, C13
+creation-date: 1998
+Number: 13/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-13
+
+template-type: ReDIF-Paper 1.0
+title: Testing Convergence in Economic Growth for OECD Countries.
+author-name: Nahar, S.
+Author-X-Name-Last: Nahar
+Author-X-Name-First: S.
+author-name: Inder, B.
+Author-X-Name-Last: Inder
+Author-X-Name-First: B.
+keywords: ECONOMIC GROWTH ; ECONOMIC MODELS ; TESTS
+length: 31 pages
+abstract: In this paper we propose a new test procedure with more general steady 
+    state information to test the convergence hypothesis for a specific economy. 
+    We consider a model where demeaned per capita output of an economy is a 
+    function of time trend and then set the convergence hypothesis as negative 
+    average slope of that model. Applying the new procedure to 22 OECD countries 
+    we find strong evidence of convergence for 20 countries towards their average 
+    level. This study also points out why using standard unit root tests with 
+        Bernard and Durlauf's (1995) definition of convergence is inappropriate. 
+classification-jel: C50, C52, F40, F43
+creation-date: 1998
+Number: 14/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-14
+
+template-type: ReDIF-Paper 1.0
+title: Model Selection when a Key Parameter Is Constrained to Be in an Interval.
+author-name: Hossain, M.Z.
+Author-X-Name-Last: Hossain
+Author-X-Name-First: M.Z.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+keywords: REGRESSION ANALYSIS ; ECONOMIC MODELS
+length: 24 pages
+abstract: This paper considers the construction of model selection procedures based 
+    on choosing the model with the largest maximised log-likelihood mimus a 
+    penalty, when key parameters are restricted to be in a closed interval.
+    The approach adopted is based on King et al.'s (1995) representative models 
+    method with the use of the parametric bootstrap to handle nuisance parameters. 
+    The method is illustrated by application to two model selection problems in the 
+    context of Box-Cox transformations and the linear regression model. Simulation 
+    for both problems indicate that the new procedure clearly dominated existing 
+    procedures in terms of having higher probabilities of correctly selecting the 
+    true model.
+classification-jel: C20, C10
+creation-date: 1998
+Number: 15/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-15
+
+template-type: ReDIF-Paper 1.0
+title: Bandwidth Selection for Kernel Conditional Density Estimation.
+author-name: Bashtannyk, D.M.
+Author-X-Name-Last: Bashtannyk
+Author-X-Name-First: D.M.
+author-name: Hyndman, R.J.
+Author-X-Name-Last: Hyndman
+Author-X-Name-First: R.J.
+keywords: EVALUATION ; KERNEL
+length: 21 pages
+abstract: We consider bandwidth selection for the kernel estimator of conditional 
+    density with one explanatory variable. Several bandwidth selection methods are 
+    derived ranging from fast rules-of-thumb which assume the underlying densities 
+    are known to relatively slow procedures which use the bootstrap. The methods 
+    are compared and a practical bandwidth selection strategy which combines the 
+    methods is proposed. The methods are compared using two simulation studies and 
+    a real data set.
+classification-jel: C87, C50
+creation-date: 1998
+Number: 16/98
+Publication-Status:
+Handle: RePEc:msh:ebswps:1998-16
+
+template-type: ReDIF-Paper 1.0
+title: Nonparametric Estimation and Symmetry Tests for Conditional Density Functions.
+author-name: Hyndman, R.J.
+Author-X-Name-Last: Hyndman
+Author-X-Name-First: R.J.
+author-name: Yao, Q.
+Author-X-Name-Last: Yao
+Author-X-Name-First: Q.
+keywords: TESTING ; STATISTICAL ANALYSIS ; ESTIMATION OF PARAMETERS
+length: 15 pages
+abstract: We suggest two new methods for conditional density estimation. The first is 
+    based on locally fitting a log-linear model, and is in the spirit of recent 
+    work on locally parametric techniques in density estimation. The second method 
+    is a constrained local polynomial estimator. Both methods always produce 
+    non-negative estimators. We propose an algorithm suitable for selecting the 
+    two bandwidths for either estimator. We also develop a new bootstrap test for 
+    the symmetry of conditional density functions. The proposed methods are 
+    illustrated by both simulation and application to a real data set.
+classification-jel: C13, C14
+creation-date: 1998
+Number: 17/98
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/1998/wp17-98.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:1998-17
+
+template-type: ReDIF-Paper 1.0
+title: Institutional Characteristics and the Relationship Between Student's Last-Year 
+    University and Final-Year Secondary School Academic Performance.
+author-name: Evans, M.
+Author-X-Name-Last: Evans
+Author-X-Name-First: M.
+author-name: Farley, A.
+Author-X-Name-Last: Farley
+Author-X-Name-First: A.
+keywords: EDUCATION ; STUDENTS ; INSTITUTION BUILDING
+length: 9 pages
+abstract: A study of academic results of a student cohort in a diverse faculty of a 
+    large multi-campus university indicates that students' first-year performance 
+    at university is related to their prior academic achievement at secondary 
+    school, both overall and discipline specific, but that the extent and form of 
+    the relationship can vary by subject area and institutional secondary school 
+    and university characteristics. This may have implications for university 
+    selection and specification of prerequisite subjects for courses.
+classification-jel: I20, I21
+creation-date: 1998
+Number: 18/98
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/1998/wp18-98.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:1998-18

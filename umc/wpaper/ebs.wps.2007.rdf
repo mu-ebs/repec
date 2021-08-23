@@ -1,0 +1,364 @@
+Template-type: ReDIF-Paper 1.0
+Title: A Comparison of Methods for Forecasting Demand for Slow Moving Car Parts
+Author-Name: Ralph D. Snyder
+Author-X-Name-First: Ralph D.
+Author-X-Name-Last: Snyder
+Author-Email: Ralph.Snyder@buseco.monash.edu.au
+Author-Name: Adrian Beaumont
+Author-X-Name-First: Adrian
+Author-X-Name-Last: Beaumont
+Keywords: Count time series; forecasting; exponential smoothing; Poisson distribution; negative binomial distribution; Croston method.
+Abstract: This paper has a focus on non-stationary time series formed from small non-negative integer values which may contain many zeros and may be over-dispersed. It describes a study undertaken to compare various suitable adaptations of the simple exponential smoothing method of forecasting on a database of demand series for slow moving car parts. The methods considered include simple exponential smoothing with Poisson measurements, a finite sample version of simple exponential smoothing with negative binomial measurements, and the Croston method of forecasting. In the case of the Croston method, a maximum likelihood approach to estimating key quantities, such as the smoothing parameter, is proposed for the first time. The results from the study indicate that the Croston method does not forecast, on average, as well as the other two methods. It is also confirmed that a common fixed smoothing constant across all the car parts works better than maximum likelihood approaches.
+Classification-JEL: C32
+Creation-Date: 2007-12
+Number: 15/07
+Length: 10 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp15-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-15
+
+Template-type: ReDIF-Paper 1.0
+Title: Non-linear exponential smoothing and positive data
+Author-Name: Muhammad Akram
+Author-X-Name-First: Muhammad
+Author-X-Name-Last: Akram
+Author-Email: Muhammad.Akram@buseco.monash.edu.au
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: J. Keith Ord
+Author-X-Name-First: J. Keith
+Author-X-Name-Last: Ord
+Keywords: Forecasting; time series; exponential smoothing; positive-valued processes; seasonality; state space models.
+Abstract: We consider the properties of nonlinear exponential smoothing state space models under various assumptions about the innovations, or error, process. Our interest is restricted to those models that are used to describe non-negative observations, because many series of practical interest are so constrained. We first demonstrate that when the innovations process is assumed to be Gaussian, the resulting prediction distribution may have an infinite variance beyond a certain forecasting horizon. Further, such processes may converge almost surely to zero; an examination of purely multiplicative models reveals the circumstances under which this condition arises. We then explore effects of using an (invalid) Gaussian distribution to describe the innovations process when the underlying distribution is lognormal. Our results suggest that this approximation causes no serious problems for parameter estimation or for forecasting one or two steps ahead. However, for longer-term forecasts the true prediction intervals become increasingly skewed, whereas those based on the Gaussian approximation may have a progressively larger negative component. In addition, the Gaussian approximation is clearly inappropriate for simulation purposes. The performance of the Gaussian approximation is compared with those of two lognormal models for short-term forecasting using data on the weekly sales of over three hundred items of costume jewelry.
+Classification-JEL: C53,C22,C51
+Creation-Date: 2007-11
+Number: 14/07
+Length: 25 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp14-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-14
+
+Template-type: ReDIF-Paper 1.0
+Title: Long-Run Effects of BSE on Meat Consumption
+Author-Name: Adam Bialowas
+Author-X-Name-First: Adam
+Author-X-Name-Last: Bialowas
+Author-Name: Lisa Farrell
+Author-X-Name-First: Lisa
+Author-X-Name-Last: Farrell
+Author-Name: Mark N. Harris
+Author-X-Name-First: Mark N.
+Author-X-Name-Last: Harris
+Author-Email: Mark.Harris@buseco.monash.edu.au
+Author-Name: Cain Polidano
+Author-X-Name-First: Cain
+Author-X-Name-Last: Polidano
+Author-Email: Cain.Polidano@buseco.monash.edu.au
+Keywords: Food health scares, Adstock, BSE, demand systems, meat demand
+Abstract: This paper considers the long-run effects of BSE on meat consumption in the United Kingdom using data from the Expenditure and Food Survey. We estimate a dynamic AIDS demand system of household food consumption, with long-run effects captured via an adstock index of adverse media coverage. The results suggest that there are long-run impacts on meat consumption that extend well beyond the period of the scare. In addition, press articles with pictures have a greater, and more long-lasting effect, on long-run consumption than articles with words alone. 
+Classification-JEL: Q10,Q18,D12 
+Creation-Date: 2007-10
+Number: 13/07
+Length: 24 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp13-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-13
+
+Template-type: ReDIF-Paper 1.0
+Title: Hierarchical forecasts for Australian domestic tourism
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@buseco.monash.edu.au
+Author-Name: Roman A. Ahmed
+Author-X-Name-First: Roman A.
+Author-X-Name-Last: Ahmed
+Author-Email: Roman.Ahmed@buseco.monash.edu.au
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Keywords: Australia, exponential smoothing, hierarchical forecasting, innovations state space models, optimal combination forecasts, top-down method, tourism demand.
+Abstract: In this paper we explore the hierarchical nature of tourism demand time series and produce short-term forecasts for Australian domestic tourism. The data and forecasts are organized in a hierarchy based on disaggregating the data for different geographical regions and for different purposes of travel. We consider five approaches to hierarchical forecasting: two variations of the top-down approach, the bottom-up method, a newly proposed top-down approach where top-level forecasts are disaggregated according to forecasted proportions of lower level series, and a recently proposed optimal combination approach. Our forecast performance evaluation shows that the top-down approach based on forecast proportions and the optimal combination method perform best for the tourism hierarchies we consider. By applying these methods, we produce detailed forecasts for the Australian domestic tourism market.
+Classification-JEL: C13,C22,C53
+Creation-Date: 2007-08
+Revision-Date: 2007-11
+Number: 12/07
+Length: 28 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp12-07.pdf
+File-Format: application/pdf
+File-Function: Revised version, November 2007
+Handle: RePEc:msh:ebswps:2007-12
+
+Template-type: ReDIF-Paper 1.0
+Title: A Bayesian approach to bandwidth selection for multivariate kernel regression with an application to state-price density estimation.
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@buseco.monash.edu.au
+Author-Name: Robert D. Brooks
+Author-X-Name-First: Robert D.
+Author-X-Name-Last: Brooks
+Author-Email: Robert.Brooks@buseco.monash.edu.au
+Author-Name: Maxwell L. King
+Author-X-Name-First: Maxwell L.
+Author-X-Name-Last: King
+Author-Email: Max.King@adm.monash.edu.au
+Keywords: Black-Scholes formula, Likelihood, Markov chain Monte Carlo, Posterior density.
+Abstract: Multivariate kernel regression is an important tool for investigating the relationship between a response and a set of explanatory variables. It is generally accepted that the performance of a kernel regression estimator largely depends on the choice of bandwidth rather than the kernel function. This nonparametric technique has been employed in a number of empirical studies including the state-price density estimation pioneered by Aït-Sahalia and Lo (1998).  However, the widespread usefulness of multivariate kernel regression has been limited by the difficulty in computing a data-driven bandwidth. In this paper, we present a Bayesian approach to bandwidth selection for multivariate kernel regression. A Markov chain Monte Carlo algorithm is presented to sample the bandwidth vector and other parameters in a multivariate kernel regression model. A Monte Carlo study shows that the proposed bandwidth selector is more accurate than the rule-of-thumb bandwidth selector known as the normal reference rule according to Scott (1992) and Bowman and Azzalini (1997). The proposed bandwidth selection algorithm is applied to a multivariate kernel regression model that is often used to estimate the state-price density of Arrow-Debreu securities.  When applying the proposed method to the S&P 500 index options and the DAX index options, we find that for short-maturity options, the proposed Bayesian bandwidth selector produces an obviously different state-price density from the one produced by using a subjective bandwidth selector discussed in Aït-Sahalia and Lo (1998).
+Classification-JEL: C11, C14, G12
+Creation-Date: 2007-08
+Number: 11/07
+Length: 30 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp11-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-11
+
+Template-type: ReDIF-Paper 1.0
+Title: Two canonical VARMA forms: Scalar component models vis-à-vis the Echelon form
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@buseco.monash.edu.au
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.S.
+Author-X-Name-Last: Poskitt
+Author-Email: Don.Poskitt@buseco.monash.edu.au
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Keywords: Echelon form, Identification, Multivariate time series, Scalar component, VARMA model.
+Abstract: In this paper we study two methodologies which identify and specify canonical form VARMA models. The two methodologies are: (i) an extension of the scalar component methodology which specifies canonical VARMA models by identifying scalar components through canonical correlations analysis and (ii) the Echelon form methodology which specifies canonical VARMA models through the estimation of Kronecker indices. We compare the actual forms and the methodologies on three levels. Firstly we present a theoretical comparison. Secondly, we present a Monte-Carlo simulation study that compares the performance of the two methodologies in identifying some pre-specified data generating processes. Lastly we compare the out-of-sample forecast performance of the two forms when models are fitted to real macroeconomic data.
+Classification-JEL: C32, C51
+Creation-Date: 2007-07
+Revision-Date: 2009-05
+Number: 10/07
+Length: 25 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp10-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-10
+
+Template-type: ReDIF-Paper 1.0
+Title: Optimal combination forecasts for hierarchical time series
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Roman A. Ahmed
+Author-X-Name-First: Roman A
+Author-X-Name-Last: Ahmed
+Author-Email: Roman.Ahmed@buseco.monash.edu.au
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@buseco.monash.edu.au
+Keywords: Bottom-up forecasting, combining forecasts, GLS regression, hierarchical forecasting, Moore-Penrose inverse, reconciling forecasts, top-down forecasting.
+Abstract: In many applications, there are multiple time series that are hierarchically organized and can be aggregated at several different levels in groups based on products, geography or some other features. We call these "hierarchical time series". They are commonly forecast using either a "bottom-up" or a "top-down" method.  In this paper we propose a new approach to hierarchical forecasting which provides optimal forecasts that are better than forecasts produced by either a top-down or a bottom-up approach.  Our method is based on independently forecasting all series at all levels of the hierarchy and then using a regression model to optimally combine and reconcile these forecasts. The resulting revised forecasts add up appropriately across the hierarchy, are unbiased and have minimum variance amongst all combination forecasts under some simple assumptions.  We show in a simulation study that our method performs well compared to the top-down approach and the bottom-up method. It also allows us to construct prediction intervals for the resultant forecasts.  Finally, we apply the method to forecasting Australian tourism demand where the data are disaggregated by purpose of visit and geographical region.
+Classification-JEL: C53,C32,C23
+Creation-Date: 2007-07
+Number: 9/07
+Length: 22 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp9-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-9
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimating the Error Distribution in the Multivariate Heteroscedastic Time Series Models
+Author-Name: Gunky Kim
+Author-X-Name-First: Gunky
+Author-X-Name-Last: Kim
+Author-Email: Gunky.Kim@buseco.monash.edu.au
+Author-Name: Mervyn J. Silvapulle
+Author-X-Name-First: Mervyn J.
+Author-X-Name-Last: Silvapulle
+Author-Email: Mervyn.Silvapulle@buseco.monash.edu.au
+Author-Name: Paramsothy Silvapulle
+Author-X-Name-First: Paramsothy
+Author-X-Name-Last: Silvapulle
+Author-Email: Param.Silvapulle@buseco.monash.edu.au
+Keywords: Association; Copula; Estimating Equation; Pseudolikelihood; Semiparametric.
+Abstract: A semiparametric method is studied for estimating the dependence parameter and the joint distribution of the error term in a class of multivariate time series models when the marginal distributions of the errors are unknown. This method is a natural extension of Genest et al. (1995a) for independent and identically distributed observations. The proposed method first obtains &radic;n-consistent estimates of the parameters of each univariate marginal time-series, and computes the corresponding residuals. These are then used to estimate the joint distribution of the multivariate error terms, which is specified using a copula. Our developments and proofs make use of, and build upon, recent elegant results of Koul and Ling (2006) and Koul (2002) for these models. The rigorous proofs provided here also lay the foundation and collect together the technical arguments that would be useful for other potential extensions of this semiparametric approach. It is shown that the proposed estimator of the dependence parameter of the multivariate error term is asymptotically normal, and a consistent estimator of its large sample variance is also given so that confidence intervals may be constructed. A large scale simulation study was carried out to compare the estimators particularly when the error distributions are unknown, which is almost always the case in practice. In this simulation study, our proposed semiparametric method performed better than the well-known parametric methods. An example on exchange rates is used to illustrate the method.
+Classification-JEL: C13, C14
+Creation-Date: 2007-06
+Number: 8/07
+Length: 27 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp8-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-8
+
+Template-type: ReDIF-Paper 1.0
+Title: A state space model for exponential smoothing with group seasonality
+Author-Name: Pim Ouwehand
+Author-X-Name-First: Pim
+Author-X-Name-Last: Ouwehand
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Ton G. de Kok
+Author-X-Name-First: Ton G. 
+Author-X-Name-Last: de Kok
+Author-Name: Karel H. van Donselaar
+Author-X-Name-First: Karel H.
+Author-X-Name-Last: van Donselaar
+Keywords: Common seasonality; demand forecasting; exponential smoothing; Holt-Winters; state space model.
+Abstract: We present an approach to improve forecast accuracy by simultaneously forecasting a group of products that exhibit similar seasonal demand patterns. Better seasonality estimates can be made by using information on all products in a group, and using these improved estimates when forecasting at the individual product level. This approach is called the group seasonal indices (GSI) approach, and is a generalization of the classical Holt-Winters procedure. This article describes an underlying state space model for this method and presents simulation results that show when it yields more accurate forecasts than Holt-Winters.
+Classification-JEL: C53,C22,C52
+Creation-Date: 2007-06
+Number: 7/07
+Length: 26 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp7-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-7
+
+Template-type: ReDIF-Paper 1.0
+Title: Automatic time series forecasting: the forecast package for R.
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Yeasmin Khandakar
+Author-X-Name-First: Yeasmin
+Author-X-Name-Last: Khandakar
+Author-Email: Yeasmin.Khandakar@buseco.monash.edu.au
+Keywords: ARIMA models; automatic forecasting; exponential smoothing; prediction intervals; state space models; time series, R.
+Abstract: Automatic forecasts of large numbers of univariate time series are often needed in business and other contexts. We describe two automatic forecasting algorithms that have been implemented in the forecast package for R. The first is based on innovations state space models that underly exponential smoothing methods. The second is a step-wise algorithm for forecasting with ARIMA models. The algorithms are applicable to both seasonal and non-seasonal data, and are compared and illustrated using four real time series. We also briefly describe some of the other functionality available in the forecast package.
+Classification-JEL: C53,C22,C52
+Creation-Date: 2007-06
+Number: 6/07
+Length: 30 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp6-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-6
+
+Template-type: ReDIF-Paper 1.0
+Title: Does the Option Market Produce Superior Forecasts of Noise-Corrected Volatility Measures?
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael M.
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@buseco.monash.edu.au
+Author-Name: Andrew Reidy
+Author-X-Name-First: Andrew
+Author-X-Name-Last: Reidy
+Author-Name: Jill Wright
+Author-X-Name-First: Jill
+Author-X-Name-Last: Wright
+Author-Email: Jill.Wright@buseco.monash.edu.au
+Keywords: Volatility Forecasts; Quadratic Variation; Intraday Volatility Measures
+Abstract: This paper presents a comprehensive empirical evaluation of option-implied and returns-based forecasts of volatility, in which recent developments related to the impact on measured volatility of market microstructure noise are taken into account. The paper also assesses the robustness of the performance of the option-implied forecasts to the way in which those forecasts are extracted from the option market. Using a test for superior predictive ability, model-free implied volatility, which aggregates information across the volatility 'smile', and at-the-money implied volatility, which ignores such information, are both tested as benchmark forecasts. The forecasting assessment is conducted using intraday data for three Dow Jones Industrial Average (DJIA) stocks and the S&P500 index over the 1996-2006 period, with future volatility proxied by a range of alternative noise-corrected realized measures. The results provide compelling evidence against the model-free forecast, with its poor performance linked to both the bias and excess variability that it exhibits as a forecast of actual volatility. The positive bias, in particular, is consistent with the option market factoring in a substantial premium for volatility risk. In contrast, implied volatility constructed from liquid at-the-money options is given strong support as a forecast of volatility, at least for the DJIA stocks. Neither benchmark is supported for the S&P500 index. Importantly, the qualitative results are robust to the measure used to proxy future volatility, although there is some evidence to suggest that any option-implied forecast may perform less well in forecasting the measure that excludes jump information, namely bi-power variation.
+Classification-JEL: C10, C53, G12
+Creation-Date: 2007-06
+Number: 5/07
+Length: 41 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp5-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-5
+
+Template-type: ReDIF-Paper 1.0
+Title: An Assessment of Alternative State Space Models for Count Time Series
+Author-Name: Ralph D. Snyder
+Author-X-Name-First: Ralph D.
+Author-X-Name-Last: Snyder
+Author-Email: Ralph.Snyder@buseco.monash.edu.au
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael M.
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@buseco.monash.edu.au
+Author-Name: Phillip Gould
+Author-X-Name-First: Phillip
+Author-X-Name-Last: Gould
+Author-Name: Paul D. Feigin
+Author-X-Name-First: Paul D.
+Author-X-Name-Last: Feigin
+Keywords: Discrete state-space model; single source of error model; hidden Markov
+Abstract: This paper compares two alternative models for autocorrelated count time series. The first model can be viewed as a 'single source of error' discrete state space model, in which a time-varying parameter is specified as a function of lagged counts, with no additional source of error introduced. The second model is the more conventional 'dual source of error' discrete state space model, in which the time-varying parameter is driven by a random autocorrelated process. Using the nomenclature of the literature, the two representations can be viewed as observation-driven and parameter-driven respectively, with the distinction between the two models mimicking that between analogous models for other non-Gaussian data such as financial returns and trade durations. The paper demonstrates that when adopting a conditional Poisson specification, the two models have vastly different dispersion/correlation properties, with the dual source model having properties that are a much closer match to the empirical properties of observed count series than are those of the single source model. Simulation experiments are used to measure the finite sample performance of maximum likelihood (ML) estimators of the parameters of each model, and ML-based predictors, with ML estimation implemented for the dual source model via a deterministic hidden Markov chain approach. Most notably, the numerical results indicate that despite the very different properties of the two models, predictive accuracy is reasonably robust to misspecification of the state space form.
+Classification-JEL: C13, C22, C46, C53
+Creation-Date: 2007-05
+Number: 4/07
+Length: 28 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp4-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-4
+
+Template-type: ReDIF-Paper 1.0
+Title: The vector innovation structural time series framework: a simple approach to multivariate forecasting
+Author-Name: Ashton de Silva
+Author-X-Name-First: Ashton
+Author-X-Name-Last: de Silva
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Ralph D. Snyder
+Author-X-Name-First: Ralph D.
+Author-X-Name-Last: Snyder
+Author-Email: Ralph.Snyder@buseco.monash.edu.au
+Keywords: Vector innovation structural time series, state space model, multivariate time series, exponential smoothing, forecast comparison, vector autoregression.
+Abstract: The vector innovation structural time series framework is proposed as a way of modelling a set of related time series. Like all multi-series approaches, the aim is to exploit potential inter-series dependencies to improve the fit and forecasts. A key feature of the framework is that the series are decomposed into common components such as trend and seasonal effects. Equations that describe the evolution of these components through time are used as the sole way of representing the inter-temporal dependencies. The approach is illustrated on a bivariate data set comprising Australian exchange rates of the UK pound and US dollar. Its forecasting capacity is compared to other common single- and multi-series approaches in an experiment using time series from a large macroeconomic database.
+Classification-JEL: C32, C51, C53
+Creation-Date: 2007-05
+Number: 3/07
+Length: 35 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp3-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-3
+
+Template-type: ReDIF-Paper 1.0
+Title: Effective global regularity and empirical modeling of direct, inverse and mixed demand systems
+Author-Name: Keith R. McLaren
+Author-X-Name-First: Keith R.
+Author-X-Name-Last: McLaren
+Author-Email: Keith.McLaren@buseco.monash.edu.au
+Author-Name: K.K. Gary Wong
+Author-X-Name-First: K.K. Gary
+Author-X-Name-Last: Wong
+Keywords: Effective Global Regularity; Mixed Demands; Conditional Indirect Utility Functions; Numerical Inversion Estimation Method
+Abstract: In this paper, we utilize the notion of "effective global regularity" and the intuition stemming from Cooper and McLaren (1996)'s General Exponential Form to develop a family of "composite" (product and ratio) direct, inverse and mixed demand systems. Apart from having larger regularity regions, the resulting specifications are also of potentially arbitrary rank, which can better approximate non-linear Engel curves. We also make extensive use of duality theory and a numerical inversion estimation method to rectify the endogeneity problem encountered in the estimation of the mixed demand systems. We illustrate the techniques by estimating different types of demand systems for Japanese quarterly meat and fish consumption. Results generally indicate that the proposed methods are promising, and may prove beneficial for modeling systems of direct, inverse and mixed demand functions in the future.
+Classification-JEL: D11, D12
+Creation-Date: 2007-05
+Number: 2/07
+Length: 38 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp2-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-2
+
+Template-type: ReDIF-Paper 1.0
+Title: Semiparametric estimation of the dependence parameter of the error terms in multivariate regression
+Author-Name: Gunky Kim
+Author-X-Name-First: Gunky
+Author-X-Name-Last: Kim
+Author-Email: Gunky.Kim@buseco.monash.edu.au
+Author-Name: Mervyn J. Silvapulle
+Author-X-Name-First: Mervyn J.
+Author-X-Name-Last: Silvapulle
+Author-Email: Mervyn.Silvapulle@buseco.monash.edu.au
+Author-Name: Paramsothy Silvapulle
+Author-X-Name-First: Paramsothy
+Author-X-Name-Last: Silvapulle
+Author-Email: Param.Silvapulle@buseco.monash.edu.au
+Keywords: Copula; Pseudo-likelihood; Robustness.
+Abstract: A semiparametric method is developed for estimating the dependence parameter and the joint distribution of the error term in the multivariate linear regression model. The nonparametric part of the method treats the marginal distributions of the error term as unknown, and estimates them by suitable empirical distribution functions. Then a pseudolikelihood is maximized to estimate the dependence parameter. It is shown that this estimator is asymptotically normal, and a consistent estimator of its large sample variance is given. A simulation study shows that the proposed semiparametric estimator is better than the parametric methods available when the error distribution is unknown, which is almost always the case in practice. It turns out that there is no loss of asymptotic efficiency due to the estimation of the regression parameters. An empirical example on portfolio management is used to illustrate the method. This is an extension of earlier work by Oakes (1994) and Genest et al. (1995) for the case when the observations are independent and identically distributed, and Oakes and Ritz (2000) for the multivariate regression model.
+Classification-JEL: C01, C12, C13, C14
+Creation-Date: 2007-02
+Number: 1/07
+Length: 29 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2007/wp1-07.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2007-1

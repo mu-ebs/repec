@@ -1,0 +1,787 @@
+Template-type: ReDIF-Paper 1.0  
+Title: Optimal forecast reconciliation for hierarchical and grouped time series through trace minimization
+Author-Name: Shanika L. Wickramasuriya
+Author-X-Name-First: Shanika 
+Author-X-Name-Last: Wickramasuriya
+Author-Email: shanika.wickramasuriya@gmail.com
+Author-Name:  George Athanasopoulos
+Author-X-Name-First: George 
+Author-X-Name-Last: Athanasopoulos
+Author-Email: george.athanasopoulos@monash.edu 
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Keywords:Aggregation, Australian tourism, Coherent forecasts, contemporaneous error correlation, forecast combinations, spatial correlations.
+Abstract: Large collections of time series often have aggregation constraints due to product or geographical
+groupings. The forecasts for the most disaggregated series are usually required to add-up
+exactly to the forecasts of the aggregated series, a constraint we refer to as "coherence". Forecast
+reconciliation is the process of adjusting forecasts to make them coherent.
+
+The reconciliation algorithm proposed by Hyndman et al. (2011) is based on a generalized least
+squares estimator that requires an estimate of the covariance matrix of the coherency errors (i.e.,
+the errors that arise due to incoherence). We show that this matrix is impossible to estimate in
+practice due to identifiability conditions.
+
+We propose a new forecast reconciliation approach that incorporates the information from a
+full covariance matrix of forecast errors in obtaining a set of coherent forecasts. Our approach
+minimizes the mean squared error of the coherent forecasts across the entire collection of time
+series under the assumption of unbiasedness. The minimization problem has a closed form
+solution. We make this solution scalable by providing a computationally efficient representation.
+We evaluate the performance of the proposed method compared to alternative methods using a
+series of simulation designs which take into account various features of the collected time series.
+This is followed by an empirical application using Australian domestic tourism data. The results
+indicate that the proposed method works well with artificial and real data.
+Classification-JEL: 
+Creation-Date: 2017
+Number: 22/17
+Length: 44
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp22-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-22
+
+Template-type: ReDIF-Paper 1.0  
+Title: Robust Bayesian exponentially tilted empirical likelihood method
+Author-Name: Zhichao Liu
+Author-X-Name-First: Zhichao
+Author-X-Name-Last: Liu
+Author-Email: zhichao.liu@monash.edu
+Author-Name: Catherine Forbes
+Author-X-Name-First: Catherine
+Author-X-Name-Last: Forbes
+Author-Email: catherine.forbes@monash.edu 
+Author-Name: Heather Anderson
+Author-X-Name-First: Heather
+Author-X-Name-Last: Anderson
+Author-Email: heather.anderson@monash.edu
+Keywords: Moment condition models, outliers, misspecification. 
+Abstract: This paper proposes a new Bayesian approach for analysing moment condition models in
+the situation where the data may be contaminated by outliers. The approach builds upon the
+foundations developed by Schennach (2005) who proposed the Bayesian exponentially tilted empirical
+likelihood (BETEL) method, justified by the fact that an empirical likelihood (EL) can
+be interpreted as the nonparametric limit of a Bayesian procedure when the implied probabilities
+are obtained from maximizing entropy subject to some given moment constraints. Considering
+the impact that outliers are thought to have on the estimation of population moments, we
+develop a new robust BETEL (RBETEL) inferential methodology to deal with this potential
+problem. We show how the BETEL methods are linked to the recent work of Bissiri et al.
+(2016) who propose a general framework to update prior belief via a loss function. A controlled
+simulation experiment is conducted to investigate the performance of the RBETEL method. We
+find that the proposed methodology produces reliable posterior inference for the fundamental
+relationships that are embedded in the majority of the data, even when outliers are present.
+The method is also illustrated in an empirical study relating brain weight to body weight using
+a dataset containing sixty-five different land animal species.
+Classification-JEL: 
+Creation-Date: 2017
+Number: 21/17
+Length: 46
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp21-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-21
+
+
+Template-type: ReDIF-Paper 1.0  
+Title: A panel data analysis of hospital variations in length of stay for hip replacements: Private versus public
+Author-Name: Yan Meng
+Author-X-Name-First: Yan
+Author-X-Name-Last: Meng
+Author-Email: yan.meng@monash.edu
+Author-Name: Xueyan Zhao
+Author-X-Name-First: Xueyan
+Author-X-Name-Last: Zhao
+Author-Email: xueyan.zhao@monash.edu 
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: xibin.zhang@monash.edu
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords: Gibbs sampler, hierarchical random coefficients, length of stay, hospital ranking. 
+Abstract: Inequality between private and public patients in Australia has been an ongoing
+concern due to its two tiered insurance system. This paper investigates the variations
+in hospital length of stay for hip replacements using Victorian Admitted Episodes
+Dataset from 2003/2004 to 2014/2015, employing a Bayesian hierarchical random coefficient
+model with trend allowing for structural break. We find systematic differences
+in the length of stay between public and private hospitals, after observable patient complexity
+is controlled. This suggests shorter stay in public hospitals due to pressure from
+Activity-based funding scheme, and longer stay in private system due to potential moral
+hazard. Our counterfactual analysis shows that public patients stay 1.4 days shorter
+than private in 2014, which leads to the 'quicker but sicker' concern that is commonly
+voiced by the public. We also identify widespread variations among individual hospitals.
+Sources for such variation warrant closer investigation by policy makers.
+Classification-JEL: C11, H51, I14
+Creation-Date: 2017
+Number: 20/17
+Length: 44
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp20-17.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-20
+
+Template-type: ReDIF-Paper 1.0  
+Title: Local logit regression for recovery rate
+Author-Name: Nithi Sopitpongstorn
+Author-X-Name-First: Nithi 
+Author-X-Name-Last: Sopitpongstorn
+Author-Email: nithi.sopitpongstorn@monash.edu
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param
+Author-X-Name-Last: Silvapulle
+Author-Email: param.silvapulle@monash.edu 
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords: Loss given default, credit risk, nonlinearity, kernel estimation, defaulted debt, simulation. 
+Abstract: We propose a flexible and robust nonparametric local logit regression for modelling
+and predicting defaulted loans' recovery rates that lie in [0,1]. Applying
+the model to the widely studied Moody's recovery dataset and estimating it by
+a data-driven method, the local logit regression uncovers the underlying nonlinear
+relationship between the recovery and covariates, which include loan/borrower characteristics
+and economic conditions. We find some significant nonlinear marginal
+and interaction effects of conditioning variables on recoveries of defaulted loans.
+The presence of such nonlinear economic effects enriches the local logit model specification
+that supports the improved recovery prediction. This paper is the first
+to study a nonparametric regression model that not only generates unbiased and
+improved recovery predictions of defaulted loans relative to the parametric counterpart,
+it also facilitates reliable inference on marginal and interaction effects of
+loan/borrower characteristics and economic conditions. Moreover, incorporating
+these nonlinear marginal and interaction effects, we improve the specification of
+parametric regression for fractional response variable, which we call "calibrated"
+model, the predictive performance of which is comparable to that of local logit
+model. This calibrated parametric model will be attractive to applied researchers
+and industry professionals working in the risk management area and unfamiliar with
+nonparametric machinery. 
+Classification-JEL:  C14, C53, G02, G32 
+Creation-Date: 2017
+Number: 19/17
+Length: 42
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp19-17.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-19
+
+Template-type: ReDIF-Paper 1.0  
+Title: A simple nonlinear predictive model for stock returns
+Author-Name: Biqing Cai
+Author-X-Name-First: Biqing 
+Author-X-Name-Last: Cai
+Author-Email: 
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords: Hermite functions, out-of-sample forecast, return predictability, series estimator, unit root. 
+Abstract: In this paper, we propose a simple approach to testing and modelling nonlinear
+predictability of stock returns using Hermite Functions. The proposed test suggests
+that there exists a kind of nonlinear predictability for the dividend yield. Furthermore,
+the out-of-sample evaluation results suggest the dividend yield has nonlinear predictive
+power for stock returns while the book-to-market ratio and earning-price ratio have
+little predictive power. 
+Classification-JEL: C14, C22, G17 
+Creation-Date: 2017
+Number: 18/17
+Length: 27
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp18-17.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-18
+
+Template-type: ReDIF-Paper 1.0  
+Title: High dimensional semiparametric moment restriction models
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua 
+Author-X-Name-Last: Dong
+Author-Email: dchaohua@hotmail.com
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton
+Author-Email: obl20@cam.ac.uk 
+Keywords: Generalized method of moments, high dimensional models, moment restriction, over-identification, sieve method. 
+Abstract: Moment restriction semiparametric models, where both the dimension of parameter
+and the number of restrictions are divergent and an unknown function is involved,
+are studied using the generalized method of moments (GMM) and sieve method
+dealing with the nonparametric parameter. The consistency and normality for the
+GMM estimators are established. Meanwhile, a new test statistic is proposed for overidentification
+issue. Numerical examples are used to verify the established theory. 
+Classification-JEL: C12, C14, C22, C30 
+Creation-Date: 2017
+Number: 17/17
+Length: 43
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp17-17.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-17
+
+Template-type: ReDIF-Paper 1.0  
+Title: Heterogeneous panel data models with cross-sectional dependence
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Kai Xia 
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton
+Author-Email: obl20@cam.ac.uk 
+Keywords: Health care expenditure, nonlinear trending function, nonstationary time series. 
+Abstract: This paper considers a semiparametric panel data model with heterogeneous coefficients
+and individual-specific trending functions, where the random errors are assumed to be
+serially correlated and cross-sectionally dependent. We propose mean group estimators for
+the coefficients and trending functions involved in the model. It can be shown that the
+proposed estimators can achieve an asymptotic consistency with rates of root-NT and
+root-NTh, respectively as (N, T) -> (&#8734, &#8734), where N is allowed to increase faster than
+T. Furthermore, a statistic for testing homogeneous coefficients is constructed based on
+the difference between the mean group estimator and a pooled estimator. Its asymptotic
+distributions are established under both the null and a sequence of local alternatives, even
+if the difference between these estimators vanishes considerably fast (can achieve root-NT2
+rate at most under the null) and consistent estimator available for the covariance matrix is
+not required explicitly. The finite sample performance of the proposed estimators together
+with the size and local power properties of the test are demonstrated by simulated data
+examples, and an empirical application with the OECD health care expenditure dataset is
+also provided.
+Classification-JEL: C14, C22, G17
+Creation-Date: 2017
+Number: 16/17
+Length: 36
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp16-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-16
+
+Template-type: ReDIF-Paper 1.0  
+Title: Bayesian assessment of Lorenz and stochastic dominance
+Author-Name: David Lander 
+Author-X-Name-First: David 
+Author-X-Name-Last: Lander
+Author-Email: djl300@psu.edu  
+Author-Name: David Gunawan 
+Author-X-Name-First: David
+Author-X-Name-Last: Gunawan
+Author-Email: david.gunawan40@gmail.com
+Author-Name: William Griffiths
+Author-X-Name-First: William 
+Author-X-Name-Last: Griffiths
+Author-Email: b.griffiths@unimelb.edu.au
+Author-Name: Duangkamon Chotikapanich 
+Author-X-Name-First: Duangkamon  
+Author-X-Name-Last: Chotikapanich 
+Author-Email: duangkamon.chotikapanich@monash.edu  
+Keywords: Dominance probabilities, poverty comparisons, MCMC, gamma mixture. 
+Abstract: We introduce a Bayesian approach for assessing Lorenz and stochastic dominance. For two
+income distributions, say X and Y, estimated via Markov chain Monte Carlo, we describe how to
+compute posterior probabilities for (i) X dominates Y, (ii) Y dominates X, and (iii) neither Y nor
+X is dominant. The proposed approach is applied to Indonesian income distributions using
+mixtures of gamma densities that ensure flexible modelling. Probability curves depicting the
+probability of dominance at each population proportion are used to explain changes in dominance
+probabilities over restricted ranges relevant for poverty orderings. They also explain some
+seemingly contradictory outcomes from the p-values of some sampling theory tests.
+Classification-JEL: C11, C12, D31, I32
+Creation-Date: 2017
+Number: 15/17
+Length: 41
+Publication-Status: 
+File-URL: http://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp15-17.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-15
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Dynamic asset price jumps and the performance of high frequency tests and measures
+Author-Name: Worapree Maneesoonthorn
+Author-X-Name-First: Worapree
+Author-X-Name-Last: Maneesoonthorn
+Author-Email: o.maneesoonthorn@mbs.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael 
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu
+Author-Name: Catherine S. Forbes
+Author-X-Name-First: Catherine 
+Author-X-Name-Last: Forbes
+Author-Email: catherine.forbes@monash.edu
+Keywords: Dynamic price jumps, price jump tests, nonparametric jump measures, Hawkes process, discretized jump diffusion model, Bayesian Markov chain Monte Carlo.
+Abstract: This paper provides an extensive evaluation of high frequency jump tests and measures, in
+the context of dynamic models for asset price jumps. Specifically, we investigate: i) the power of
+alternative tests to detect individual price jumps, including in the presence of volatility jumps; ii)
+the frequency with which sequences of dynamic jumps are identified; iii) the accuracy with which
+the magnitude and sign of sequential jumps are estimated; and iv) the robustness of inference
+about dynamic jumps to test and measure design. Substantial differences are discerned in the
+performance of alternative methods in certain dimensions, with inference being sensitive to these
+differences in some cases. Accounting for measurement error when using measures constructed
+from high frequency data to conduct inference on dynamic jump models would appear to be
+advisable.
+Classification-JEL:  C12, C22, C58 
+Creation-Date: 2017
+Number: 14/17
+Length: 34
+Publication-Status: 
+File-URL: http://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp14-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-14
+
+Template-type: ReDIF-Paper 1.0  
+Title: Multi-step non- and semi-parametric predictive regressions for short and long horizon stock return prediction
+Author-Name: Tingting Cheng
+Author-X-Name-First: Tingting 
+Author-X-Name-Last: Cheng
+Author-Email: chengtingting2015@outlook.com 
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton
+Author-Email: obl20@cam.ac.uk 
+Keywords: Kernel estimator, locally stationary process, series estimator, stock return prediction. 
+Abstract: In this paper, we propose three new predictive models: the multi-step nonparametric
+predictive regression model and the multi-step additive predictive regression model, in which
+the predictive variables are locally stationary time series; and the multi-step time-varying
+coefficient predictive regression model, in which the predictive variables are stochastically
+nonstationary. We also establish the estimation theory and asymptotic properties for these
+models in the short horizon and long horizon case. To evaluate the effectiveness of these
+models, we investigate their capability of stock return prediction. The empirical results
+show that all of these models can substantially outperform the traditional linear predictive
+regression model in terms of both in-sample and out-of-sample performance. In addition,
+we find that these models can always beat the historical mean model in terms of in-sample
+fitting, and also for some cases in terms of the out-of-sample forecasting.
+Classification-JEL: C14, C22, G17
+Creation-Date: 2017
+Number: 13/17
+Length: 39
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp13-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-13
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Asymptotic properties of approximate Bayesian computation
+Author-Name: David T. Frazier
+Author-X-Name-First: David 
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu 
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu 
+Author-Name: Christian P. Robert   
+Author-X-Name-First: Christian
+Author-X-Name-Last: Robert
+Author-Email: xian@ceremade.dauphine.fr 
+Author-Name: Judith Rousseau   
+Author-X-Name-First: Judith
+Author-X-Name-Last: Rousseau
+Author-Email: rousseau@ceremade.dauphine.fr 
+Keywords: asymptotic properties, Bayesian consistency, Bernstein-von Mises theorem, likelihood-free methods. 
+Abstract: Approximate Bayesian computation is becoming an accepted tool for statistical analysis in models with 
+intractable likelihoods. With the initial focus being primarily on the practical import of this algorithm, exploration of its 
+formal statistical properties has begun to attract more attention. In this paper we consider the asymptotic behaviour of the 
+posterior distribution obtained by this method. We give general results on: (i) the rate at which the posterior concentrates 
+on sets containing the true parameter (vector); (ii) the limiting shape of the posterior; and (iii) the asymptotic distribution 
+of the ensuing posterior mean. These results hold under given rates for the tolerance used within the method, mild regularity
+conditions on the summary statistics, and a condition linked to identification of the true parameters. Important implications of 
+the theoretical results for practitioners are discussed. 
+Classification-JEL: 
+Creation-Date: 2017
+Number: 12/17
+Length: 32
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp12-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-12
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Kernel-based inference in time-varying coefficient models with multiple integrated regressors
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: degui.li@york.ac.uk 
+Author-Name: Peter CB Phillips
+Author-X-Name-First: Peter
+Author-X-Name-Last: Phillips
+Author-Email: peter.phillips@yale.edu
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords: cointegration, FM-kernel estimation, generalized Wald test, global rotation, kernel degeneracy, local rotation, super-consistency, time-varying coecients.
+Abstract: This paper studies nonlinear cointegrating models with time-varying coecients and multiple nonstationary
+regressors using classic kernel smoothing methods to estimate the coecient functions. Extending
+earlier work on nonstationary kernel regression to take account of practical features of the data, we allow the
+regressors to be cointegrated and to embody a mixture of stochastic and deterministic trends, complications
+which result in asymptotic degeneracy of the kernel-weighted signal matrix. To address these complications
+new local and global rotation techniques are introduced to transform the covariate space to accommodate
+multiple scenarios of induced degeneracy. Under certain regularity conditions we derive asymptotic results that differ 
+substantially from existing kernel regression asymptotics, leading to new limit theory under
+multiple convergence rates. For the practically important case of endogenous nonstationary regressors we
+propose a fully-modified kernel estimator whose limit distribution theory corresponds to the prototypical pure
+(i.e., exogenous covariate) cointegration case, thereby facilitating inference using a generalized Wald-type
+test statistic. These results substantially generalize econometric estimation and testing techniques in the
+cointegration literature to accommodate time variation and complications of co-moving regressors. Finally
+an empirical illustration to aggregate US data on consumption, income, and interest rates is provided.
+Classification-JEL:  
+Creation-Date: 2017
+Number: 11/17
+Length: 60
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp11-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-11
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Inference on a Semiparametric Model with Global Power Law and Local Nonparametric Trends
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton
+Author-Email: obl20@cam.ac.uk 
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: b.peng2@bath.ac.uk 
+Keywords: global mean sea level, nonparametric kernel estimation, nonstationarity. 
+Abstract: This paper studies a model with both a parametric global trend and a nonparametric
+local trend. This model may be of interest in a number of applications in economics, finance,
+ecology, and geology. The model nests the parametric global trend model considered in
+Phillips (2007) and Robinson (2012), and the nonparametric local trend model. We first
+propose two hypothesis tests to detect whether either of the special cases are appropriate.
+For the case where both null hypotheses are rejected, we propose an estimation method
+to capture both aspects of the time trend. We establish consistency and some distribution
+theory in the presence of a large sample. Moreover, we examine the proposed hypothesis
+tests and estimation methods through both simulated and real data examples. Finally, we
+discuss some potential extensions and issues when modelling time effects.
+Classification-JEL: C14, C22, Q54
+Creation-Date: 2017
+Number: 10/17
+Length: 55
+Publication-Status: 
+File-URL: https://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp10-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-10
+
+Template-type: ReDIF-Paper 1.0
+Title: Construction and visualization of optimal confidence sets for frequentist distributional forecasts
+Author-Name: David Harris
+Author-X-Name-First: David 
+Author-X-Name-Last: Harris
+Author-Email: harrisd@unimelb.edu.au 
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu 
+Author-Name: Indeewara Perera   
+Author-X-Name-First: Indeewara
+Author-X-Name-Last: Perera
+Author-Email: indeewara.perera@monash.edu
+Author-Name: Don S. Poskitt   
+Author-X-Name-First: Don
+Author-X-Name-Last: Poskitt
+Author-Email: donald.poskitt@monash.edu
+Keywords: probabilistic forecasts, asymptotically uniformly most accurate confidence regions,
+time series models, animated graphics, realized volatility, heterogeneous autoregressive model. 
+Abstract: The focus of this paper is on the quantification of sampling variation in frequentist probabilistic
+forecasts. We propose a method of constructing confidence sets that respects the
+functional nature of the forecast distribution, and use animated graphics to visualize the
+impact of parameter uncertainty on the location, dispersion and shape of the distribution.
+The confidence sets are derived via the inversion of a Wald test and are asymptotically
+uniformly most accurate and, hence, optimal in this sense. A wide range of linear and
+non-linear time series models - encompassing long memory, state space and mixture specifications
+- is used to demonstrate the procedure, based on artificially generated data.
+An empirical example in which distributional forecasts of both financial returns and its
+stochastic volatility are produced is then used to illustrate the practical importance of
+accommodating sampling variation in the manner proposed.
+Classification-JEL: C13, C18, C53
+Creation-Date: 2017
+Number: 9/17
+Length: 30
+Publication-Status: 
+File-URL: http://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp09-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-9
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimation and inference in semiparametric quantile factor models
+Author-Name: Shujie Ma
+Author-X-Name-First: Shujie
+Author-X-Name-Last: Ma
+Author-Email: shujie.ma@ucr.edu 
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton
+Author-Email: obl20@cam.ac.uk 
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords: cross-sectional dependence, Fama-French model, inference, sieve estimation. 
+Abstract: We propose an estimation methodology for a semiparametric quantile factor panel model. We provide tools for inference 
+that are robust to the existence of moments and to the form of weak cross-sectional dependence in the idiosyncratic error term. 
+We apply our method to CRSP daily data.
+Classification-JEL: C14, C21, C23, G12
+Creation-Date: 2017
+Number: 8/17
+Length: 47
+Publication-Status: 
+File-URL: http://www.monash.edu/business/econometrics-and-business-statistics/research/publications/ebs/wp08-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-8
+
+Template-type: ReDIF-Paper 1.0
+Title: Nonparametric kernel estimation of the impact of tax policy on the demand for private health insurance in Australia
+Author-Name: Xiaodong Gong
+Author-X-Name-First: Xiaodong 
+Author-X-Name-Last: Gong
+Author-Email: xiaodong.gong@canberra.edu.au 
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords: de-convolution kernel estimator, regression discontinuity, error-in-variables, demand for private health insurance.
+Abstract: This paper is motivated by our attempt to answer an empirical question: how is private health insurance take-up in 
+Australia affected by the income threshold at which the Medicare Levy Surcharge (MLS) kicks in? We propose a new difference 
+de-convolution kernel estimator for the location and size of regression discontinuities. We also propose a bootstrapping
+procedure for estimating confidence bands for the estimated discontinuity. Performance of the estimator is evaluated by 
+Monte Carlo simulations before it is applied to estimating the effect of the income threshold of Medicare Levy Surcharge 
+on the take-up of private health insurance in Australia using contaminated data.
+Classification-JEL: C13, C14, C29, I13
+Creation-Date: 2017
+Number: 7/17
+Length: 29
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp07-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-7
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian Inference for a 1-Factor Copula Model 
+Author-Name: Ban Kheng Tan
+Author-X-Name-First: Ban 
+Author-X-Name-Last: Tan
+Author-Email: ban.tan@monash.edu
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios
+Author-X-Name-Last: Panagiotelis
+Author-Email: Anastasios.Panagiotelis@monash.edu
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George 
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Keywords: model averaging, reversible jump MCMC, vine copulas, dimension reduction, multidimensional poverty index.
+Abstract: We develop efficient Bayesian inference for the 1-factor copula model with two significant contributions over classical inference. 
+First, our approach leads to straightforward inference on the latent factor since iterates of the latent factor are generated as a by-product
+in the proposed Markov chain Monte Carlo algorithm. In contrast, there is no known classical approach for inference on the latents. Second, 
+by developing a reversible jump Markov chain Monte Carlo scheme, we are able to select or average over factor copula specifications that 
+are constructed from a large set of candidate parametric bivariate copula building blocks. Our approach can accommodate margins that are 
+discrete, continuous or a combination of both. Through extensive simulations multiple schemes are compared on the basis of computational 
+and Monte Carlo efficiency. The preferred schemes provide reliable inference on all parameters including the latent factor and model space. 
+The potential of the proposed methodology is highlighted in an empirical study of ten binary variables measuring the multidimensional nature 
+of poverty collected for 11463 East Timorese households. We construct a poverty index using estimates of the latent factor. Compared to a 
+classical analysis, our method yields better out-of-sample fit and uncovers a variety of flexible relationships between the latent measure 
+and observed variables by averaging over a diverse set of copulas.
+Classification-JEL: C11, C15, C32, C58, C63 
+Creation-Date: 2017
+Number: 6/17
+Length: 39
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp06-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-6
+
+Template-type: ReDIF-Paper 1.0
+Title: Recursive estimation in large panel data models: Theory and practice
+Author-Name: Bing Jiang 
+Author-X-Name-First: Bin
+Author-X-Name-Last: Jiang
+Author-Email: svenbinsven@gmail.com
+Author-Name: Yanrong Yang
+Author-X-Name-First: Yanrong 
+Author-X-Name-Last: Yang
+Author-Email: yanrong.yang@anu.edu.au 
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Cheng Hsiao
+Author-X-Name-First: Cheng  
+Author-X-Name-Last: Hsiao
+Author-Email: chowderlad@gmail.com
+Keywords: Bayesian average, conditional mean estimation, ergodic theorem, summary statistic.
+Abstract: Bai (2009) proposes a recursive least-squares estimation method for large panel data models
+with unobservable interactive fixed effects, but the impact of recursion on the asymptotic properties
+of the least-squares estimators is not taken into account. In this paper, we extend Bai (2009)
+by investigating the recursive estimator asymptotically. In general, the asymptotic properties we
+establish for the recursive estimators largely complement the theory and practice of the recursive
+least-squares procedure suggested by Bai (2009). In particular, we show that consistency of
+the recursive estimator depends on three key points, consistency of the initial OLS estimator, the
+number of recursive steps and the endogeneity arising due to the dependence between regressors
+and interactive effects. Compared to the theoretical estimator in Bai (2009), such endogeneity
+affects the convergence rate of recursive least-squares estimators. Finite sample properties of the
+proposed estimators are investigated using a simulation study.
+Classification-JEL: 
+Creation-Date: 2017
+Number: 5/17
+Length: 40
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp05-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-5
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian estimation based on summary statistics: Double asymptotics and practice
+Author-Name: Tingting Cheng
+Author-X-Name-First: Tingting
+Author-X-Name-Last: Cheng
+Author-Email: chengtingting2015@outlook.com 
+Author-Name: Jiti Gao   
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Peter CB Phillips
+Author-X-Name-First: Peter
+Author-X-Name-Last: Phillips
+Author-Email: peter.phillips@yale.edu
+Keywords: Bayesian average, conditional mean estimation, ergodic theorem, summary statistic.
+Abstract: Ergodic theorem shows that ergodic averages of the posterior draws converge in probability to the posterior mean under the stationarity assumption. The literature 
+also shows that the posterior distribution is asymptotically normal when the sample size of the original data considered goes to infinity. To the best of our knowledge, 
+there is little discussion on the large sample behaviour of the posterior mean. In this paper, we aim to fill this gap. In particular, we extend the posterior mean idea 
+to the conditional mean case, which is conditioning on given vector of summary statistics of the original data. We establish a new asymptotic theory for the conditional 
+mean estimator when both the sample size of the original data concerned and the number of Markov chain Monte Carlo iterations go to infinity. Simulation studies show 
+that this conditional mean estimator has very good finite sample performance. In addition, we employ the conditional mean estimator to estimate a GARCH(1,1) model for 
+S&P 500 stock returns and find that the conditional mean estimator performs better than quasi{maximum likelihood estimation in terms of out-of-sample forecasting.
+Classification-JEL: C11, C15, C21
+Creation-Date: 2017
+Number: 4/17
+Length: 32
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp04-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-4
+
+Template-type: ReDIF-Paper 1.0
+Title: Coherent Probabilistic Forecasts for Hierarchical Time Series
+Author-Name: Souhaib Ben Taieb
+Author-X-Name-First: Souhaib Ben 
+Author-X-Name-Last: Taieb
+Author-Email: Souhaib.BenTaieb@monash.edu
+Author-Name: James W. Taylor
+Author-X-Name-First: James 
+Author-X-Name-Last: Taylor
+Author-Email: James.Taylor@sbs.ox.ac.uk
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@monash.edu
+Keywords: forecast combination, probabilistic forecast, copula, machine learning.
+Abstract: Many applications require forecasts for a hierarchy comprising a set of time series along with aggregates of subsets of these series. 
+Although forecasts can be produced independently for each series in the hierarchy, typically this does not lead to coherent forecasts -- the property 
+that forecasts add up appropriately across the hierarchy. State-of-the-art hierarchical forecasting methods usually reconcile the independently 
+generated forecasts to satisfy the aggregation constraints. A fundamental limitation of prior research is that it has considered only the problem 
+of forecasting the mean of each time series. We consider the situation where probabilistic forecasts are needed for each series in the hierarchy. 
+We define forecast coherency in this setting, and propose an algorithm to compute predictive distributions for each series in the hierarchy. 
+Our algorithm has the advantage of synthesizing information from different levels in the hierarchy through a sparse forecast combination and 
+a probabilistic hierarchical aggregation. We evaluate the accuracy of our forecasting algorithm on both simulated data and large-scale electricity 
+smart meter data. The results show consistent performance gains compared to state-of-the art methods.  
+Classification-JEL: C53, Q47, C32
+Creation-Date: 2017
+Number: 3/17
+Length: 21 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp03-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-3
+
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Macroeconomic forecasting for Australia using a large number of predictors
+Author-Name: Bin Jiang
+Author-X-Name-First: Bin
+Author-X-Name-Last: Jiang
+Author-Email: svenbinsven@gmail.com
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@monash.edu
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios
+Author-X-Name-Last: Panagiotelis
+Author-Email: Anastasios.Panagiotelis@monash.edu
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: Farshid.Vahid@monash.edu
+Keywords: Australian economy, Bayesian VAR, bagging, dynamic factor model, ridge regression, least angular regression, shrinkage, regularization.
+Abstract: A popular approach to forecasting macroeconomic variables is to utilize a large number of predictors. Several regularization and 
+shrinkage methods can be used to exploit such high-dimensional datasets, and have been shown to improve forecast accuracy for the US economy. 
+To assess whether similar results hold for economies with different characteristics, an Australian dataset containing observations on 151 
+aggregate and disaggregate economic series is introduced. An extensive empirical study is carried out investigating forecasts at different 
+horizons, using a variety of methods and with information sets containing different numbers of predictors. The results share both differences 
+and similarities with the conclusions from the literature on forecasting US macroeconomic variables. The major difference is that forecasts 
+based on dynamic factor models perform relatively poorly compared to forecasts based on other methods which is the opposite of the conclusion 
+made by Stock and Watson (2012) for the US. On the other hand, a conclusion that can be made for both the Australian and US data is that there 
+is little to no improvement in forecast accuracy when the number of predictors is expanded beyond 20-40 variables.
+Classification-JEL: C52, C53, C55
+Creation-Date: 2017
+Number: 2/17
+Length: 44
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp02-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-2
+
+
+
+Template-type: ReDIF-Paper 1.0
+Title: The Australian Macro Database: An online resource for macroeconomic research in Australia
+Author-Name: Timur Behlul
+Author-X-Name-First: Timur
+Author-X-Name-Last: Behlul
+Author-Email: timur.behlul@alphabeta.com
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios
+Author-X-Name-Last: Panagiotelis
+Author-Email: Anastasios.Panagiotelis@monash.edu
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@monash.edu
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: Farshid.Vahid@monash.edu
+Keywords: Economic time series, macroeconomic data, Australian Bureau of Statistics, Reserve Bank of Australia, FRED.
+Abstract: A website that encourages and facilities the use of quantitative, publicly available Australian macroeconomic data is introduced. 
+The Australian Macro Database hosted at ausmacrodata.org provides a user friendly front end for searching among over 40000 economic variables, 
+sourced from the Australian Bureau of Statistics and the Reserve Bank of Australia. The search box, tags and categories used to facilitate data 
+retrieval, are described in detail. Known issues with the website and future plans are discussed in the conclusion.
+Classification-JEL: C55, C82 
+Creation-Date: 2017
+Number: 1/17
+Length: 13
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp01-17.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2017-1
+

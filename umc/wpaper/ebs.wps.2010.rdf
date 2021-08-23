@@ -1,0 +1,492 @@
+Template-type: ReDIF-Paper 1.0
+Title: Probabilistic Forecasts of Volatility and its Risk Premia
+Author-Name: Worapree Maneesoonthorn
+Author-X-Name-First: Worapree
+Author-X-Name-Last: Maneesoonthorn
+Author-Email: Worapree.Maneesoonthorn@buseco.monash.edu.au
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael M.
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@buseco.monash.edu.au
+Author-Name: Catherine S. Forbes
+Author-X-Name-First: Catherine S.
+Author-X-Name-Last: Forbes
+Author-Email: Catherine.Forbes@buseco.monash.edu.au
+Author-Name: Simone Grose
+Author-X-Name-First: Simone
+Author-X-Name-Last: Grose
+Author-Email: Simone.Grose@buseco.monash.edu.au
+Keywords: Volatility Forecasting; Non-linear State Space Models; Non-parametric Variance Measures; Bayesian Markov Chain Monte Carlo; VIX Futures; Risk Aversion.
+Abstract: The object of this paper is to produce distributional forecasts of physical volatility and its associated risk premia using a non-Gaussian, non-linear state space approach. Option and spot market information on the unobserved variance process is captured by using dual 'model-free' variance measures to define a bivariate observation equation in the state space model. The premium for diffusive variance risk is defined as linear in the latent variance (in the usual fashion) whilst the premium for jump variance risk is specified as a conditionally deterministic dynamic process, driven by a function of past measurements. The inferential approach adopted is Bayesian, implemented via a Markov chain Monte Carlo algorithm that caters for the multiple sources of non-linearity in the model and the bivariate measure. The method is applied to empirical spot and option price data for the S&P500 index over the 1999 to 2008 period, with conclusions drawn about investors' required compensation for variance risk during the recent financial turmoil. The accuracy of the probabilistic forecasts of the observable variance measures is demonstrated, and compared with that of forecasts yielded by more standard time series models. To illustrate the benefits of the approach, the posterior distribution is augmented by information on daily returns to produce Value at Risk predictions, as well as being used to yield forecasts of the prices of derivatives on volatility itself. Linking the variance risk premia to the risk aversion parameter in a representative agent model, probabilistic forecasts of relative risk aversion are also produced.
+Classification-JEL: C11, C53, C58
+Creation-Date: 2010-12-20
+Number: 22/10
+Length: 42 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp22-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-22
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian Adaptive Bandwidth Kernel Density Estimation of Irregular Multivariate Distributions
+Author-Name: Shuowen Hu
+Author-X-Name-First: Shuowen
+Author-X-Name-Last: Hu
+Author-Email: Shuowen.Hu@buseco.monash.edu.au
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.S.
+Author-X-Name-Last: Poskitt
+Author-Email: Donald.Poskitt@buseco.monash.edu.au
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@buseco.monash.edu.au
+Keywords: conditional density; global bandwidth; Kullback-Leibler information; marginal likelihood; Markov chain Monte Carlo; S&P500 index
+Abstract: Kernel density estimation is an important technique for understanding the distributional properties of data. Some investigations have found that the estimation of a global bandwidth can be heavily affected by observations in the tail. We propose to categorize data into low- and high-density regions, to which we assign two different bandwidths called the low-density adaptive bandwidths. We derive the posterior of the bandwidth parameters through the Kullback-Leibler information. A Bayesian sampling algorithm is presented to estimate the bandwidths. Monte Carlo simulations are conducted to examine the performance of the proposed Bayesian sampling algorithm in comparison with the performance of the normal reference rule and a Bayesian sampling algorithm for estimating a global bandwidth. According to Kullback-Leibler information, the kernel density estimator with low-density adaptive bandwidths estimated through the proposed Bayesian sampling algorithm outperforms the density estimators with bandwidth estimated through the two competitors. We apply the low-density adaptive kernel density estimator to the estimation of the bivariate density of daily stock-index returns observed from the U.S. and Australian stock markets. The derived conditional distribution of the Australian stock-index return for a given daily return in the U.S. market enables market analysts to understand how the former market is associated with the latter.
+Classification-JEL: C11; C14; C15
+Creation-Date: 2010-12
+Number: 21/10
+Length: 35 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp21-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-21
+
+Template-type: ReDIF-Paper 1.0
+Title: Forecasting Compositional Time Series with Exponential Smoothing Methods
+Author-Name: Anne B. Koehler
+Author-X-Name-First: Anne B.
+Author-X-Name-Last: Koehler
+Author-Name: Ralph D. Snyder
+Author-X-Name-First: Ralph D.
+Author-X-Name-Last: Snyder
+Author-Email: Ralph.Snyder@buseco.monash.edu.au
+Author-Name: J. Keith Ord
+Author-X-Name-First: J. Keith
+Author-X-Name-Last: Ord
+Author-Name: Adrian Beaumont
+Author-X-Name-First: Adrian
+Author-X-Name-Last: Beaumont
+Keywords: compositional time series, innovations state space models, exponential smoothing, forecasting proportions
+Abstract: Compositional time series are formed from measurements of proportions that sum to one in each period of time.   We might be interested in forecasting the proportion of home loans that have adjustable rates, the proportion of nonagricultural jobs in manufacturing, the proportion of a rock's geochemical composition that is a specific oxide, or the proportion of an election betting market choosing a particular candidate.   A problem may involve many related time series of proportions. There could be several categories of nonagricultural jobs or several oxides in the geochemical composition of a rock that are of interest. In this paper we provide a statistical framework for forecasting these special kinds of time series. We build on the innovations state space framework underpinning the widely used methods of exponential smoothing. We couple this with a generalized logistic transformation to convert the measurements from the unit interval to the entire real line.  The approach is illustrated with two applications: the proportion of new home loans in the U.S. that have adjustable rates; and four probabilities for specified candidates winning the 2008 democratic presidential nomination.
+Classification-JEL: C22
+Creation-Date: 2010-11
+Number: 20/10
+Length: 15 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp20-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-20
+
+Template-type: ReDIF-Paper 1.0
+Title: Nonparametric modeling and forecasting electricity demand: an empirical study
+Author-Name: Han Lin Shang
+Author-X-Name-First: Han Lin
+Author-X-Name-Last: Shang
+Author-Email: HanLin.Shang@buseco.monash.edu.au
+Keywords: Functional principal component analysis; functional time series; multivariate time series, ordinary least squares, penalized least squares; ridge regression; seasonal time series
+Abstract: This paper uses half-hourly electricity demand data in South Australia as an empirical study of nonparametric modeling and forecasting methods for prediction from half-hour ahead to one year ahead. A notable feature of the univariate time series of electricity demand is the presence of both intraweek and intraday seasonalities. An intraday seasonal cycle is apparent from the similarity of the demand from one day to the next, and an intraweek seasonal cycle is evident from comparing the demand on the corresponding day of adjacent weeks. There is a strong appeal in using forecasting methods that are able to capture both seasonalities. In this paper, the forecasting methods slice a seasonal univariate time series into a time series of curves. The forecasting methods reduce the dimensionality by applying functional principal component analysis to the observed data, and then utilize an univariate time series forecasting method and functional principal component regression techniques. When data points in the most recent curve are sequentially observed, updating methods can improve the point and interval forecast accuracy. We also revisit a nonparametric approach to construct prediction intervals of updated forecasts, and evaluate the interval forecast accuracy. 
+Classification-JEL: C88, C63, C14, C22
+Creation-Date: 2010-10-18
+Number: 19/10
+Length: 27 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp19-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-19
+
+Template-type: ReDIF-Paper 1.0
+Title: A Bayesian approach to parameter estimation for kernel density estimation via transformations
+Author-Name: Qing Liu
+Author-X-Name-First: Qing
+Author-X-Name-Last: Liu
+Author-Name: David Pitt
+Author-X-Name-First: David
+Author-X-Name-Last: Pitt
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@buseco.monash.edu.au
+Author-Name: Xueyuan Wu
+Author-X-Name-First: Xueyuan
+Author-X-Name-Last: Wu
+Keywords: Bandwidth parameter; kernel density estimator; Markov chain Monte Carlo; Metropolis-Hastings algorithm; power transformation; transformation parameter.
+Abstract: In this paper, we present a Markov chain Monte Carlo (MCMC) simulation algorithm for estimating parameters in the kernel density estimation of bivariate insurance claim data via transformations. Our data set consists of two types of auto insurance claim costs and exhibit a high-level of skewness in the marginal empirical distributions. Therefore, the kernel density estimator based on original data does not perform well. However, the density of the original data can be estimated through estimating the density of the transformed data using kernels. It is well known that the performance of a kernel density estimator is mainly determined by the bandwidth, and only in a minor way by the kernel choice. In the current literature, there have been some developments in the area of estimating densities based on transformed data, but bandwidth selection depends on pre-determined transformation parameters. Moreover, in the bivariate situation, each dimension is considered separately and the correlation between the two dimensions is largely ignored. We extend the Bayesian sampling algorithm proposed by Zhang, King and Hyndman (2006) and present a Metropolis-Hastings sampling procedure to sample the bandwidth and transformation parameters from their posterior density. Our contribution is to estimate the bandwidths and transformation parameters within a Metropolis-Hastings sampling procedure. Moreover, we demonstrate that the correlation between the two dimensions is well captured through the bivariate density estimator based on transformed data.
+Classification-JEL: C14, C15, C63
+Creation-Date: 2010
+Number: 18/10
+Length: 18 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp18-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-18
+
+Template-type: ReDIF-Paper 1.0
+Title: Short-term load forecasting based on a semi-parametric additive model
+Author-Name: Shu Fan
+Author-X-Name-First: Shu
+Author-X-Name-Last: Fan
+Author-Email: Shu.Fan@buseco.monash.edu.au
+Author-Name: Rob Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Keywords: Short-term load forecasting, additive model, time series, forecast distribution
+Abstract: Short-term load forecasting is an essential instrument in power system planning, operation and control. Many operating decisions are based on load forecasts, such as dispatch scheduling of generating capacity, reliability analysis, and maintenance planning for the generators. Overestimation of electricity demand will cause a conservative operation, which leads to the start-up of too many units or excessive energy purchase, thereby supplying an unnecessary level of reserve. On the contrary, underestimation may result in a risky operation, with insufficient preparation of spinning reserve, causing the system to operate in a vulnerable region to the disturbance. In this paper, semi-parametric additive models are proposed to estimate the relationships between demand and the driver variables. Specifically, the inputs for these models are calendar variables, lagged actual demand observations and historical and forecast temperature traces for one or more sites in the target power system. In addition to point forecasts, prediction intervals are also estimated using a modified bootstrap method suitable for the complex seasonality seen in electricity demand data. The proposed methodology has been used to forecast the half-hourly electricity demand for up to seven days ahead for power systems in the Australian National Electricity Market. The performance of the methodology is validated via out-of-sample experiments with real data from the power system, as well as through on-site implementation by the system operator.
+Classification-JEL: C14,C15,C52,C53,L94
+Creation-Date: 2010-08-12
+Number: 17/10
+Length: 14 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp17-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-17
+
+Template-type: ReDIF-Paper 1.0
+Title: The price elasticity of electricity demand in South Australia
+Author-Name: Shu Fan
+Author-X-Name-First: Shu
+Author-X-Name-Last: Fan
+Author-Email: Shu.Fan@buseco.monash.edu.au
+Author-Name: Rob Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Keywords: Electricity demand; Price elasticity
+Abstract: In this paper, the price elasticity of electricity demand, representing the sensitivity of customer demand to the price of electricity, has been estimated for South Australia. We first undertake a review of the scholarly literature regarding electricity price elasticity for different regions and systems. Then we perform an empirical evaluation of the historic South Australian price elasticity, focussing on the relationship between price and demand quantiles at each half-hour of the day. This work attempts to determine whether there is any variation in price sensitivity with the time of day or quantile, and to estimate the form of any relationship that might exist in South Australia.
+Classification-JEL: C32
+Creation-Date: 2010-08
+Number: 16/10
+Length: 29 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp16-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-16
+
+Template-type: ReDIF-Paper 1.0
+Title: Dual P-Values, Evidential Tension and Balanced Tests
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.S.
+Author-X-Name-Last: Poskitt
+Author-Email: Donald.Poskitt@buseco.monash.edu.au
+Author-Name: Arivalzahan Sengarapillai
+Author-X-Name-First: Arivalzahan
+Author-X-Name-Last: Sengarapillai
+Keywords: Balanced test, P-value, dual P-values, evidential tension, null hypothesis, alternative hypothesis, operating characteristics, false detection rate
+Abstract: In the classical approach to statistical hypothesis testing the role of the null hypothesis H0 and the alternative H1 is very asymmetric. Power, calculated from the distribution of the test statistic under H1, is treated as a theoretical construct that can be used to guide the choice of an appropriate test statistic or sample size, but power calculations do not explicitly enter the testing process in practice. In a significance test a decision to accept or reject H0 is driven solely by an examination of the strength of evidence against H0, summarized in the P-value calculated from the distribution of the test statistic under H0. A small P-value is taken to represent strong evidence against H0, but it need not necessarily indicate strong evidence in favour of H1. More recently, Moerkerke et al. (2006) have suggested that the special status of H0 is often unwarranted or inappropriate, and argue that evidence against H1 can be equally meaningful. They propose a balanced treatment of both H0 and H1 in which the classical P-value is supplemented by the P-value derived under H1. The alternative P-value is the dual of the null P-value and summarizes the evidence against a target alternative. Here we review how the dual P-values are used to assess the evidential tension between H0 and H1, and use decision theoretic arguments to explore a balanced hypothesis testing technique that exploits this evidential tension. The operational characteristics of balanced hypothesis tests is outlined and their relationship to conventional notions of optimal tests is laid bare. The use of balanced hypothesis tests as a conceptual tool is illustrated via model selection in linear regression and their practical implementation is demonstrated by application to the detection of cancer-specific protein markers in mass spectroscopy.
+Classification-JEL: C12, C44, C52
+Creation-Date: 2010-06-23
+Number: 15/10
+Length: 24 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp15-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-15
+
+Template-type: ReDIF-Paper 1.0
+Title: VARs, Cointegration and Common Cycle Restrictions
+Author-Name: Heather M Anderson
+Author-X-Name-First: Heather M
+Author-X-Name-Last: Anderson
+Author-Email: Heather.Anderson@buseco.monash.edu.au
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: Farshid.Vahid@buseco.monash.edu.au
+Keywords: Common factors, Cross equation restrictions, Multivariate forecasting, Reduced rank models.
+Abstract: This paper argues that VAR models with cointegration and common cycles can be usefully viewed as observable factor models. The factors are linear combinations of lagged levels and lagged differences, and as such, these observable factors have potential for forecasting. We illustrate this forecast potential in both a Monte Carlo and empirical setting, and demonstrate the difficulties in developing forecasting "rules of thumb" for forecasting in multivariate systems.
+Classification-JEL: C32, C53, E37
+Creation-Date: 2010-05
+Number: 14/10
+Length: 50 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp14-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-14
+
+Template-type: ReDIF-Paper 1.0
+Title: Description Length Based Signal Detection in singular Spectrum Analysis
+Author-Name: Md Atikur Rahman Khan
+Author-X-Name-First: Md Atikur Rahman
+Author-X-Name-Last: Khan
+Author-Email: Atikur.Khan@buseco.monash.edu.au
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.S.
+Author-X-Name-Last: Poskitt
+Author-Email: Donald.Poskitt@buseco.monash.edu.au
+Keywords: Karhunen-Loève expansion, minimum description length, signal-plus-noise model, Singular Spectrum Analysis, embedding
+Abstract: This paper provides an information theoretic analysis of the signal-noise separation problem in Singular Spectrum Analysis. We present a signal-plus-noise model based on the Karhunen-Loève expansion and use this model to motivate the construction of a minimum description length criterion that can be employed to select both the window length and the signal. We show that under very general regularity conditions the criterion will identify the true signal dimension with probability one as the sample size increases, and will choose the smallest window length consistent with the Whitney embedding theorem. Empirical results obtained using simulated and real world data sets indicate that the asymptotic theory is reflected in observed behaviour, even in relatively small samples.
+Classification-JEL: C14, C22, C52
+Creation-Date: 2010-05-24
+Number: 13/10
+Length: 35 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp13-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-13
+
+Template-type: ReDIF-Paper 1.0
+Title: Forecasting the Intermittent Demand for Slow-Moving Items
+Author-Name: Keith Ord
+Author-X-Name-First: Keith
+Author-X-Name-Last: Ord
+Author-Name: Ralph Snyder
+Author-X-Name-First: Ralph
+Author-X-Name-Last: Snyder
+Author-Email: Ralph.Snyder@buseco.monash.edu.au
+Author-Name: Adrian Beaumont
+Author-X-Name-First: Adrian
+Author-X-Name-Last: Beaumont
+Author-Email: Adrian.Beaumont@buseco.monash.edu.au
+Keywords: Croston's method; Exponential smoothing; Intermittent demand; Inventory control; Prediction likelihood; State space models; Zero-inflated Poisson distribution
+Abstract: Organizations with large-scale inventory systems typically have a large proportion of items for which demand is intermittent and low volume.  We examine different approaches to forecasting for such products, paying particular attention to the need for inventory planning over a multi-period lead-time when the underlying process may be non-stationary. We develop a forecasting framework based upon the zero-inflated Poisson distribution (ZIP), which enables the explicit evaluation of the multi-period lead-time demand distribution in special cases and an effective simulation scheme more generally. We also develop performance measures related to the entire predictive distribution, rather than focusing exclusively upon point predictions. The ZIP model is compared to a number of existing methods using data on the monthly demand for 1,046 automobile parts, provided by a US automobile manufacturer. We conclude that the ZIP scheme compares favorably to other approaches, including variations of Croston's method as well as providing a straightforward basis for inventory planning. 
+Classification-JEL: C22
+Creation-Date: 2010-05
+Number: 12/10
+Length: 34 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp12-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-12
+
+Template-type: ReDIF-Paper 1.0
+Title: Do Jumps Matter? Forecasting Multivariate Realized Volatility allowing for Common Jumps
+Author-Name: Yin Liao
+Author-X-Name-First: Yin
+Author-X-Name-Last: Liao
+Author-Name: Heather M. Anderson
+Author-X-Name-First: Heather M.
+Author-X-Name-Last: Anderson
+Author-Email: Heather.Anderson@buseco.monash.edu.au
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: Farshid.Vahid@buseco.monash.edu.au
+Keywords: Realized Volatility, Bipower Variation, Jumps, Common Factors, Forecasting
+Abstract: Realized volatility of stock returns is often decomposed into two distinct components that are attributed to continuous price variation and jumps. This paper proposes a tobit multivariate factor model for the jumps coupled with a standard multivariate factor model for the continuous sample path to jointly forecast volatility in three Chinese Mainland stocks. Out of sample forecast analysis shows that separate multivariate factor models for the two volatility processes outperform a single multivariate factor model of realized volatility, and that a single multivariate factor model of realized volatility outperforms univariate models.
+Classification-JEL: C13, C32, C52, C53, G17, G32
+Creation-Date: 2010-05
+Number: 11/10
+Length: 44 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp11-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-11
+
+Template-type: ReDIF-Paper 1.0
+Title: Automatic forecasting with a modified exponential smoothing state space framework
+Author-Name: Alysha M De Livera
+Author-X-Name-First: Alysha M
+Author-X-Name-Last: De Livera
+Author-Email: Alysha.deLivera@buseco.monash.edu.au
+Keywords: Exponential smoothing, state space models, automatic forecasting, Box-Cox transformation, residual adjustment, multiple seasonality, time series
+Abstract: A new automatic forecasting procedure is proposed based on a recent exponential smoothing framework which incorporates a Box-Cox transformation and ARMA residual corrections.  The procedure is complete with well-defined methods for initialization, estimation, likelihood evaluation, and analytical derivation of point and interval predictions under a Gaussian error assumption. The algorithm is examined extensively by applying it to single seasonal and non-seasonal time series from the M and the M3 competitions, and is shown to provide competitive out-of-sample forecast accuracy compared to the best methods in these competitions and to the traditional exponential smoothing framework. The proposed algorithm can be used as an alternative to existing automatic forecasting procedures in modeling single seasonal and non-seasonal time series. In addition, it provides the new option of automatic modeling of multiple seasonal time series which cannot be handled using any of the existing automatic forecasting procedures. The proposed automatic procedure is further illustrated by applying it to two multiple seasonal time series involving call center data and electricity demand data.
+Classification-JEL: C22, C53
+Creation-Date: 2010-04-28
+Number: 10/10
+Length: 29 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp10-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-10
+
+Template-type: ReDIF-Paper 1.0
+Title: Forecasting age-related changes in breast cancer mortality among white and black US women: A functional approach
+Author-Name: Farah Yasmeen
+Author-X-Name-First: Farah
+Author-X-Name-Last: Yasmeen
+Author-Email: Farah.Yasmeen@buseco.monash.edu.au
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Bircan Erbas
+Author-X-Name-First: Bircan
+Author-X-Name-Last: Erbas
+Keywords: Breast cancer mortality, racial and ethnic disparities, screening, trends, forecasting, functional data analysis
+Abstract: The disparity in breast cancer mortality rates among white and black US women is widening with higher mortality rates among black women. We apply functional time series models on age-specific breast cancer mortality rates for each group of women, and forecast their mortality curves using exponential smoothing state-space models with damping. The data were obtained from the Surveillance, Epidemiology and End Results (SEER) program of the US (SEER, 2007). Mortality data were obtained from the National Centre for Health Statistics (NCHS) available on the SEER*Stat database. We use annual unadjusted breast cancer mortality rates from 1969 to 2004 in 5-year age groups (45-49, 50-54, 55-59, 60-64, 65-69, 70-74, 75-79, 80-84). Age-specific mortality curves were obtained using nonparametric smoothing methods. The curves are then decomposed using functional principal components and we fit functional time series models with four basis functions for each population separately. The curves from each population are forecast and prediction intervals are calculated. Twenty-year forecasts indicate an over-all decline in future breast cancer mortality rates for both groups of women. This decline is steeper among white women aged 55-73 and black women aged 60-84. For black women under 55 years of age, the forecast rates are relatively stable indicating no significant change in future breast cancer mortality rates among young black women in the next 20 years. 
+Classification-JEL: C14,C23,J11
+Creation-Date: 2010-04-22
+Number: 9/10
+Length: 23 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp9-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-9
+
+Template-type: ReDIF-Paper 1.0
+Title: A comparison of ten principal component methods for forecasting mortality rates
+Author-Name: Han Lin Shang
+Author-X-Name-First: Han Lin
+Author-X-Name-Last: Shang
+Author-Email: Han.Shang@buseco.monash.edu.au
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Heather Booth
+Author-X-Name-First: Heather
+Author-X-Name-Last: Booth
+Keywords: Mortality forecasting, life expectancy forecasting, principal component methods, Lee-Carter method, interval forecasts, forecasting time series
+Abstract: Using the age- and sex-specific data of 14 developed countries, we compare the short- to medium-term accuracy of ten principal component methods for forecasting mortality rates and life expectancy. These ten methods include the Lee-Carter method and many of its variants and extensions. For forecasting mortality rates, the weighted Hyndman-Ullah method provides the most accurate point forecasts, while the Lee-Miller method gives the best point forecast accuracy of life expectancy. Furthermore, the weighted Hyndman-Ullah method provides the most accurate interval forecasts of mortality rates, while the robust Hyndman-Ullah method provides the best interval forecast accuracy of life expectancy.
+Classification-JEL: C14, C23
+Creation-Date: 2010-04-09
+Number: 8/10
+Length: 28 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp8-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-8
+
+Template-type: ReDIF-Paper 1.0
+Title: A Primal Divisia Technical Change Index Based on the Output Distance Function
+Author-Name: Guohua Feng
+Author-X-Name-First: Guohua
+Author-X-Name-Last: Feng
+Author-Email: Guohua.Feng@buseco.monash.edu.au
+Author-Name: Apostolos Serletis
+Author-X-Name-First: Apostolos
+Author-X-Name-Last: Serletis
+Keywords: Output distance function; Divisia technical change index; Imperfect competition; Axiomatic properties; Path independence.
+Abstract: We derive a primal Divisia technical change index based on the output distance function and further show the validity of this index from both economic and axiomatic points of view. In particular, we derive the primal Divisia technical change index by total differentiation of the output distance function with respect to a time trend. We then show that this index is dual to the Jorgenson and Griliches (1967) dual Divisia total factor productivity growth  (TFPG) index when both the output and input markets are competitive; dual to the Diewert and Fox (2008) markup-adjusted revenue-share based dual Divisia technical change index when market power is limited to output markets; dual to the Denny et al. (1981) and Fuss  (1994) cost-elasticity-share based dual Divisia TFPG index when market power is limited to output markets and constant returns to scale is present; and also dual to a markup-and-markdown adjusted Divisia technical change index when market power is present in both output and input markets. Finally, we show that the primal Divisia technical change index satisfies the properties of identity, commensurability, monotonicity, and time reversal. It also satisfies the property of proportionality in the presence of path independence, which in turn requires separability between inputs and outputs and homogeneity of subaggregator functions.
+Classification-JEL: C43; D24; O47
+Creation-Date: 2010-03-05
+Number: 7/10
+Length: 31 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp7-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-7
+
+Template-type: ReDIF-Paper 1.0
+Title: Health mobility: implications for efficiency and equity in priority setting
+Author-Name: Katharina Hauck
+Author-X-Name-First: Katharina
+Author-X-Name-Last: Hauck
+Author-Email: Katharina.Hauck@buseco.monash.edu.au
+Author-Name: Aki Tsuchiya
+Author-X-Name-First: Aki
+Author-X-Name-Last: Tsuchiya
+Keywords: Health mobility, health dynamics, panel data, resource allocation, cost effectiveness analysis, equity
+Abstract: Adverse Health mobility is a statistical measure of inter-temporal fluctuations in health of a group of individuals. Increased availability of panel data has led to a number of studies which analyse and compare health mobility across subgroups. Mobility can differ systematically across patient subgroups, even if prevalence measured at one point in time is the same. There is a lack of discussion regarding whether health mobility is a relevant concept for resource allocation decisions. In this think piece, we explore whether and how health mobility is incorporated in cost-effectiveness analysis (CEA). CEA takes health mobility into account where it matters in terms of efficiency and -depending on treatment programs- either favours groups with low mobility or gives equal priority to groups of differing levels of mobility. However, CEA fails to take into account the equity dimension of mobility. There is qualitative research to suggest that some members of the public find that patient groups with low health mobility should be given priority even if some efficiency was sacrificed. Results also indicate that this may depend on the nature of the condition, the actual lengths involved and the magnitude of the efficiency sacrifice. Health mobility may also have political implications which affect resource allocation decisions, possibly in opposing directions. Further research is required to investigate the extent to which the public is concerned with health mobility, to determine conditions for which health mobility matters most, and to explore ways of how the equity dimension of health mobility can be incorporated into CEA.
+Classification-JEL: I10, I18, D6, H4, C0
+Creation-Date: 2010-02
+Number: 6/10
+Length: 14 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp6-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-6
+
+Template-type: ReDIF-Paper 1.0
+Title: Adverse events in surgical inpatients: A comparative analysis of public hospitals in Victoria 
+Author-Name: Katharina Hauck
+Author-X-Name-First: Katharina
+Author-X-Name-Last: Hauck
+Author-Email: Katharina.Hauck@buseco.monash.edu.au
+Author-Name: Xueyan Zhao
+Author-X-Name-First: Xueyan
+Author-X-Name-Last: Zhao
+Author-Email: Xueyan.Zhao@buseco.monash.edu.au
+Author-Name: Terri Jackson
+Author-X-Name-First: Terri
+Author-X-Name-Last: Jackson
+Keywords: Adverse events, hospital performance, hospital quality, patient complexity
+Abstract: We compare adverse event rates for surgical inpatients across 36 public hospitals in the state of Victoria, Australia, conditioning on differences in patient complexity across hospitals. We estimate separate models for elective and emergency patients which stay at least one night in hospitals, using fixed effects complementary log-log models to estimate AEs as a function of patient and episode characteristics, and hospital effects. We use 4 years of patient level administrative hospital data (2002/03 to 2005/06), and estimate separate models for each year. Averaged over four years, we find that adverse event rates are 12% for elective surgical inpatients, and 12.5% for emergency surgical inpatients. Most teaching hospitals have surprisingly low adverse event rates, at least after adjusting for the higher medical complexity of their patients. Some larger regional hospitals have high adverse events rates, in particular after adjusting for the below average complexity of their patients. Also, some suburban hospitals have high rates, especially the ones located in areas of low socioeconomic profile. We speculate that high rates may be due to factors beyond the control of the hospitals, such as staff shortages. We conclude that at present, care should be taken when using adverse event rates as indicators of hospital quality
+Classification-JEL: I11, D21, C2, H4, L3
+Creation-Date: 2010-02
+Number: 5/10
+Length: 26 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp5-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-5
+
+Template-type: ReDIF-Paper 1.0
+Title: A structural equation model of adverse events and length of stay in hospitals
+Author-Name: Katharina Hauck
+Author-X-Name-First: Katharina
+Author-X-Name-Last: Hauck
+Author-Email: Katharina.Hauck@buseco.monash.edu.au
+Author-Name: Xueyan Zhao
+Author-X-Name-First: Xueyan
+Author-X-Name-Last: Zhao
+Author-Email: Xueyan.Zhao@buseco.monash.edu.au
+Keywords: Medical errors, complications of care, adverse drug reactions, infections, ulcers, hospital quality
+Abstract: Adverse events in hospitals cause significant morbidity and mortality, and considerable effort has been invested into analysing their incidence and preventability.  An unresolved issue in models of medical adverse events is potential endogeneity of length of stay (LOS): whilst the probability of suffering a medical adverse event during the episode is likely to increase as a patient stays longer, there are a range of unobservable patient and hospital factors affecting both the occurrence of adverse events and LOS, such as unobserved patient complexity and hospital management.  Therefore, statistical models of adverse events which do not account for the potential endogeneity of LOS may generate biased estimates. Our objective is to examine the effects of risk factors on the incidence of adverse events using structural equation models and accounting for endogeneity of LOS.  We estimate separate models for three of the most common and serious types of medical adverse events: adverse drug reactions, hospital acquired infections, and pressure ulcers.  We use episode level administrative hospital data from public hospitals in the state of Victoria, Australia, for the years 2004/05 and 2005/06 with detailed information on patients, in particular medical complexity and adverse events suffered during admission.  We use days and months of discharge as instruments for LOS.  Our research helps assessing the costs and benefits of additional days spent in hospital.  For example, it can contribute to identifying the ideal time of discharge of patients, or inform whether 'hospital at home' programs reduce rates of hospital acquired infections.  
+Classification-JEL: I11, D21, C3, H4, L3
+Creation-Date: 2010-02
+Number: 4/10
+Length: 26 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp4-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-4
+
+Template-type: ReDIF-Paper 1.0
+Title: A Stochastic Frontier Model for Discrete Ordinal Outcomes: A Health Production Function
+Author-Name: William Griffiths
+Author-X-Name-First: William
+Author-X-Name-Last: Griffiths
+Author-Name: Xiaohui Zhang
+Author-X-Name-First: Xiaohui
+Author-X-Name-Last: Zhang
+Author-Email: Xiaohui.Zhang@buseco.monash.edu.au
+Author-Name: Xueyan Zhao
+Author-X-Name-First: Xueyan
+Author-X-Name-Last: Zhao
+Author-Email: Xueyan.Zhao@buseco.monash.edu.au
+Keywords: Bayesian estimation, Gibbs sampling, ordered probit, production efficiency.
+Abstract: The stochastic frontier model used for continuous dependent variables is extended to accommodate output measured as a discrete ordinal outcome variable. Conditional on the inefficiency error, the assumptions of the ordered probit model are adopted for the log of output. Bayesian estimation utilizing a Gibbs sampler with data augmentation is applied to a convenient re-parameterisation of the model. Using panel data from an Australian longitudinal survey, demographic and socioeconomic characteristics are specified as inputs to health production, whereas production efficiency is made dependent on lifestyle factors. Posterior summary statistics are obtained for selected health status probabilities, efficiencies, and marginal effects.
+Classification-JEL: C11, C21, C23, I12
+Creation-Date: 2010-02
+Number: 3/10
+Length: 56 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp3-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-3
+
+Template-type: ReDIF-Paper 1.0
+Title: A Quasi-locally Most powerful Test for Correlation in the conditional Variance of Positive Data 
+Author-Name: Brendan P.M. McCabe
+Author-X-Name-First: Brendan P.M.
+Author-X-Name-Last: McCabe
+Author-Name: Gael Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@buseco.monash.edu.au
+Author-Name: Keith Freeland
+Author-X-Name-First: Keith
+Author-X-Name-Last: Freeland
+Keywords: Locally most powerful test; quasi-likelihood; asymptotic relative efficiency; durations data; gamma distribution; Weibull distribution.
+Abstract: A test is derived for short-memory correlation in the conditional variance of strictly positive, skewed data. The test is quasi-locally most powerful (QLMP) under the assumption of conditionally gamma data. Analytical asymptotic relative efficiency calculations show that an alternative test, based on the first-order autocorrelation coefficient of the squared data, has negligible relative power to detect correlation in the conditional variance. Finite sample simulation results con.rm the poor performance of the squares-based test for fixed alternatives, as well as demonstrating the poor performance of the test based on the first-order autocorrelation coefficient of the raw (levels) data. Robustness of the QLMP test, both to misspecification of the conditional distribution and misspecification of the dynamics is also demonstrated using simulation. The test is illustrated using financial trade durations data. 
+Classification-JEL: C12, C16, C22
+Creation-Date: 2010-02-09
+Number: 2/10
+Length: 26 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp2-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-2
+
+Template-type: ReDIF-Paper 1.0
+Title: What Do the Bingers Drink? Microeconometric Evidence on Negative Externatilities of Alcohol Consumption by Beverage Types
+Author-Name: Preety Srivastava
+Author-X-Name-First: Preety
+Author-X-Name-Last: Srivastava
+Author-Name: Xueyan Zhao
+Author-X-Name-First: Xueyan
+Author-X-Name-Last: Zhao
+Author-Email: Xueyan.Zhao@buseco.monash.edu.au
+Keywords: Alcohol consumption, alcohol tax, binge drinking, beer, wine and spirits
+Abstract: The recent debate on alcohol tax reform and recommendations from the Henry Tax Review in Australia have highlighted the need for quantifying externalities of excessive alcohol consumption by beverage types. This paper presents micro-level information from the Australian National Drug Strategy Household Surveys to examine the association between risky drinking behaviour, drinker characteristics, health and labour market status, and types of alcohol beverages consumed. Drinkers of regular strength beer (RSB) and RTDs in a can (RTDC) have the highest incidences of heavy bingeing, and low alcohol beer and fortified and bottled wine least likely. Bottled spirits (BS), RSB and RTDC are most likely linked to risky behaviour such as property damage and physical abuse under alcohol influence. All three spirit products are overwhelmingly the favourable drinks for the underage and young drinkers. Risky drinking behaviour is not found to be strictly associated with the alcohol strength of the products.
+Classification-JEL: C10, D10, H20, I10, J10
+Creation-Date: 2010-01
+Number: 1/10
+Length: 28 pages
+Publication-Status: 
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2010/wp1-10.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2010-1
+

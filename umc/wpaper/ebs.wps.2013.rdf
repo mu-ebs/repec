@@ -1,0 +1,722 @@
+Template-type: ReDIF-Paper 1.0
+Title: Bias Correction of Persistence Measures in Fractionally Integrated Models
+Author-Name: Simone D. Grose
+Author-X-Name-First: Simone D.
+Author-X-Name-Last: Grose
+Author-Email: Simone.Grose@monash.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael M. 
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: Donald S. Poskitt
+Author-X-Name-First: Donald S.
+Author-X-Name-Last: Poskitt
+Author-Email: donald.poskitt@monash.edu
+Keywords: and phrases:Long memory, ARFIMA, sieve bootstrap, bootstrap-based bias correction, sample autocorrelation function, impulse response function.
+Abstract: This paper investigates the accuracy of bootstrap-based bias correction of persistence measures for long memory fractionally integrated processes. The bootstrap method is based on the semi-parametric sieve approach, with the dynamics in the long memory process captured by an autoregressive approximation. With a view to improving accuracy, the sieve method is also applied to data pre-filtered by a semi-parametric estimate of the long memory parameter. Both versions of the bootstrap technique are used to estimate the finite sample distributions of the sample autocorrelation coefficients and the impulse response coefficients and, in turn, to bias-adjust these statistics. The accuracy of the resultant estimators in the case of the autocorrelation coefficients is also compared with that yielded by analytical bias adjustment methods when available.
+Classification-JEL: 
+Creation-Date: 2013 
+Number: 29/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp29-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-29
+
+Template-type: ReDIF-Paper 1.0
+Title: Inference on Self-Exciting Jumps in Prices and Volatility using High Frequency Measures
+Author-Name: Worapree Maneesoonthorn
+Author-X-Name-First: Worapree
+Author-X-Name-Last: Maneesoonthorn
+Author-Email: O.Maneesoonthorn@monash.edu
+Author-Name: Catherine S. Forbes
+Author-X-Name-First: Catherine S.
+Author-X-Name-Last: Forbes
+Author-Email: Catherine.Forbes@monash.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael M.
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Keywords: and phrases: Dynamic price and volatility jumps; Stochastic volatility; Hawkes process; Nonlinear state space model; Bayesian Markov chain Monte Carlo; Global financial cri-
+Abstract: This paper investigates the dynamic behaviour of jumps in financial prices and volatility. The proposed model is based on a standard jump diffusion process for price and volatility augmented by a bivariate Hawkes process for the two jump components. The latter process speci.es a joint dynamic structure for the price and volatility jump intensities, with the intensity of a volatility jump also directly affected by a jump in the price. The impact of certain aspects of the model on the higher-order conditional moments for returns is investigated. In particular, the differential effects of the jump intensities and the random process for latent volatility itself, are measured and documented. A state space representation of the model is constructed using both financial returns and non-parametric measures of integrated volatility and price jumps as the observable quantities. Bayesian inference, based on a Markov chain Monte Carlo algorithm, is used to obtain a posterior distribution for the relevant model parameters and latent variables, and to analyze various hypotheses about the dynamics in, and the relationship between, the jump intensities. An extensive empirical investigation using data based on the S&P500 market index over a period ending in early-2013 is conducted. Substantial empirical support for dynamic jump intensities is documented, with predictive accuracy enhanced by the inclusion of this type of specification. In addition, movements in the intensity parameter for volatility jumps are found to track key market events closely over this period.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 28/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp28-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-28
+
+Template-type: ReDIF-Paper 1.0
+Title: Uniform Consistency of Nonstationary Kernel-Weighted Sample Covariances for Nonparametric Regression
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: degui.li@york.ac.uk
+Author-Name: Peter C. B. Phillips
+Author-X-Name-First: Peter C. B.
+Author-X-Name-Last: Phillips
+Author-Email: peter.phillips@yale.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords: and phrases: Cointegration; Functional coefficients; Kernel degeneracy; Nonparametric kernel smoothing; Random coordinate rotation; Super-consistency; Uniform convergence rates; Time varying coefficients.
+Abstract: We obtain uniform consistency results for kernel-weighted sample covariances in a nonstationary multiple regression framework that allows for both fixed design and random design coefficient variation. In the fixed design case these nonparametric sample covariances have different uniform convergence rates depending on direction, a result that differs fundamentally from the random design and stationary cases. The uniform convergence rates derived are faster than the corresponding rates in the stationary case and confirm the existence of uniform super-consistency. The modelling framework and convergence rates allow for endogeneity and thus broaden the practical econometric import of these results. As a specific application, we establish uniform consistency of nonparametric kernel estimators of the coefficient functions in nonlinear cointegration models with time varying coefficients and provide sharp convergence rates in that case. For the fixed design models, in particular, there are two uniform convergence rates that apply in two different directions, both rates exceeding the usual rate in the stationary case.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 27/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp27-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-27
+
+Template-type: ReDIF-Paper 1.0
+Title: Two-dimensional smoothing of mortality rates
+Author-Name: Alexander Dokumentov
+Author-X-Name-First: Alexander
+Author-X-Name-Last: Dokumentov
+Author-Email: Alexander.Dokumentov@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@monash.edu
+Keywords:  Mortality rates, nonparametric smoothing, graduation, cohort effects, period effects.
+Abstract: We propose three new practical methods of smoothing mortality rates (the procedure known in demography as graduation) over two dimensions: age and time. The first method uses bivariate thin plate splines. The second uses a similar procedure but with lasso-type regularization. The third method also uses bivariate lasso-type regularization, but allows for both period and cohort effects. Thus the mortality rates are modelled as the sum of four components: a smooth bivariate function of age and time, smooth one-dimensional cohort effects, smooth one-dimensional period effects and random errors. Cross validation is used to compare these new methods of graduation with existing approaches.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 26/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp26-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-26
+
+Template-type: ReDIF-Paper 1.0
+Title: Higher-Order Improvements of the Sieve Bootstrap for Fractionally Integrated Processes
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.S.
+Author-X-Name-Last: Poskitt
+Author-Email: Don.Poskitt@monash.edu
+Author-Name: Simone D. Grose
+Author-X-Name-First: Simone D.
+Author-X-Name-Last: Grose
+Author-Email: Simone.Grose@monash.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael M.
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Keywords:  Long memory, ARFIMA, sieve bootstrap, bootstrap-based inference, Edgeworth expansion, sampling distribution.
+Abstract: This paper investigates the accuracy of bootstrap-based inference in the case of long memory fractionally integrated processes. The re-sampling method is based on the semi-parametric sieve approach, whereby the dynamics in the process used to produce the bootstrap draws are captured by an autoregressive approximation. Application of the sieve method to data pre-filtered by a semi-parametric estimate of the long memory parameter is also explored. Higher-order improvements yielded by both forms of re-sampling are demonstrated using Edgeworth expansions for a broad class of statistics that includes first- and second-order moments, the discrete Fourier transform and regression coefficients. The methods are then applied to the problem of estimating the sampling distributions of the sample mean and of selected sample autocorrelation coefficients, in experimental settings. In the case of the sample mean, the pre-filtered version of the bootstrap is shown to avoid the distinct underestimation of the sampling variance of the mean which the raw sieve method demonstrates in finite samples, higher order accuracy of the latter notwithstanding. Pre-filtering also produces gains in terms of the accuracy with which the sampling distributions of the sample autocorrelations are reproduced, most notably in the part of the parameter space in which asymptotic normality does not obtain. Most importantly, the sieve bootstrap is shown to reproduce the (empirically infeasible) Edgeworth expansion of the sampling distribution of the autocorrelation coefficients, in the part of the parameter space in which the expansion is valid.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 25/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp25-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-25
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian estimation of a discrete response model with double rules of sample selection
+Author-Name: Rong Zhang
+Author-X-Name-First: Rong
+Author-X-Name-Last: Zhang
+Author-Email: Rong.Zhang@monash.edu
+Author-Name: Brett A. Inder
+Author-X-Name-First: Brett A.
+Author-X-Name-Last: Inder
+Author-Email: Brett.Inder@monash.edu
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@monash.edu
+Keywords:  Gibbs sampler, Marginal effects, Mental illness, Metropolis-Hastings algorithm, Ordered outcome.
+Abstract: We present a Bayesian sampling algorithm for parameter estimation in a discrete-response model, where the dependent variables contain two layers of binary choices and one ordered response. Our investigation is motivated by an empirical study using such a double-selection rule for three labour-market outcomes, namely labour-force participation, employment and occupational skill level. It is of particular interest to measure the marginal effects of some mental health factors on these labour-market outcomes. The contribution of our investigation is to present a sampling algorithm, which is a hybrid of Gibbs and Metropolis-Hastings algorithms. In Monte Carlo simulations, numerical maximization of likelihood fails to converge for more than half of the simulated samples. Our Bayesian method represents a substantial improvement: it converges in every sample, and performs with similar or better precision than maximum likelihood. We apply our sampling algorithm to the double-selection model of labour-force participation, employment and occupational skill level, where marginal effects of explanatory variables, in particular the mental health factors, on the three labour-force outcomes are assessed through 95% Bayesian credible intervals. The proposed sampling algorithm can easily be modified for other multivariate nonlinear models that involve selectivity and are difficult to estimate by other means.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 24/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp24-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-24
+
+Template-type: ReDIF-Paper 1.0
+Title: Non-parametric Estimation of Operational Risk and Expected Shortfall
+Author-Name: Ainura Tursunalieva
+Author-X-Name-First: Ainura
+Author-X-Name-Last: Tursunalieva
+Author-Email: Ainura.Tursunalieva@monash.edu
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param
+Author-X-Name-Last: Silvapulle
+Author-Email: Param.Silvapulle@monash.edu
+Keywords:  Heavy-tailed distribution, Loss severity distribution, Data tilting method, OpVaR, Expected shortfall
+Abstract: This paper proposes improvements to advanced measurement approach (AMA) to estimating operational risks, and applies the improved methods to US business losses categorised into five business lines and three event types operational losses. The AMA involves, among others, modelling a loss severity distribution and estimating the Expected Loss and the 99.9% operational value-at-risk (OpVaR). These measures form a basis for calculating the levels of regulatory and economic capitals required to cover risks arising from operational losses. In this paper, Expected Loss and OpVaR are estimated consistently and efficiently by nonparametric methods, which use the large (tail) losses as primary inputs. In addition, the 95% intervals for the underlying true OpVaR are estimated by the weighted empirical likelihood method. As an alternate measure to OpVaR, the Expected Shortfall - a coherent risk- is also estimated. The empirical findings show that the interval estimates are asymmetric, with very large upper bounds, highlighting the extent of uncertainties associated with the 99.9% OpVaR point estimates. The Expected Shortfalls are invariably greater than the corresponding OpVaRs. The heavier the loss severity distribution the greater the difference between OpVaR and Expected Shortfall, from which we infer that the latter would provide the right level of capital to cover risks than would the former, particularly during 
+Classification-JEL: 
+Creation-Date: 2013
+Number: 23/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp23-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-23
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimating Smooth Structural Change in Cointegration Models
+Author-Name: Peter C. B. Phillips
+Author-X-Name-First: Peter C. B.
+Author-X-Name-Last: Phillips
+Author-Email: peter.phillips@yale.edu
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: degui.li@york.ac.uk
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords:  Cointegration, Endogeneity, Kernel degeneracy, Nonparametric regression, Super-consistency, Time varying coefficients
+Abstract: This paper studies nonlinear cointegration models in which the structural coefficients may evolve smoothly over time. These time-varying coefficient functions are well-suited to many practical applications and can be estimated conveniently by nonparametric kernel methods. It is shown that the usual asymptotic methods of kernel estimation completely break down in this setting when the functional coefficients are multivariate. The reason for this breakdown is a kernel-induced degeneracy in the weighted signal matrix associated with the nonstationary regressors, a new phenomenon in the kernel regression literature. Some new techniques are developed to address the degeneracy and resolve the asymptotics, using a path-dependent local coordinate transformation to re-orient coordinates and accommodate the degeneracy. The resulting asymptotic theory is fundamentally different from the existing kernel literature, giving two different limit distributions with different convergence rates in the different directions (or combinations) of the (functional) parameter space. Both rates are faster than the usual (√nh) rate for nonlinear models with smoothly changing coefficients and local stationarity. Hence two types of super-consistency apply in nonparametric kernel estimation of time-varying coefficient cointegration models. The higher rate of convergence (n√h) lies in the direction of the nonstationary regressor vector at the local coordinate point. The lower rate (nh) lies in the degenerate directions but is still super-consistent for nonparametric estimators. In addition, local linear methods are used to reduce asymptotic bias and a fully modified kernel regression method is proposed to deal with the general endogenous nonstationary regressor case. Simulations are conducted to explore the finite sample properties of the methods and a practical application is given to examine time varying empirical relationships involving consumption, disposable income, investment and real interest rates.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 22/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp22-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-22
+
+Template-type: ReDIF-Paper 1.0
+Title: Nonparametric Estimation and Parametric Calibration of Time-Varying Coefficient Realized Volatility Models
+Author-Name: Xiangjin B. Chen
+Author-X-Name-First: Xiangjin B.
+Author-X-Name-Last: Chen
+Author-Email: xiangjin.chen@monash.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: degui.li@york.ac.uk
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param
+Author-X-Name-Last: Silvapulle
+Author-Email: param.silvapulle@monash.edu
+Keywords:  Bootstrap method, heterogeneous autoregressive model, locally stationary process, nonparametric method
+Abstract: This paper introduces a new specification for the heterogeneous autoregressive (HAR) model for the realized volatility of S&P500 index returns. In this new model, the coeffcients of the HAR are allowed to be time-varying with unknown functional forms. We propose a local linear method for estimating this TVC-HAR model as well as a bootstrap method for constructing confidence intervals for the time varying coefficient functions. In addition, the estimated nonparametric TVC-HAR was calibrated by fitting parametric polynomial functions by minimising the L2-type criterion. The calibrated TVC-HAR and the simple HAR models were tested separately against the nonparametric TVC-HAR model. The test statistics constructed based on the generalised likelihood ratio method augmented with bootstrap method provide evidence in favour of calibrated TVC-HAR model. More importantly, the results of conditional predictive ability test developed by Giacomini and White (2006) indicate that the non-parametric TVC-HAR model consistently outperforms its calibrated counterpart as well as the simple HAR and the HAR-GARCH models in out-of-sample forecasting. 
+Classification-JEL: 
+Creation-Date: 2013
+Number: 21/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp21-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-21
+
+
+Template-type: ReDIF-Paper 1.0
+Title: A sampling algorithm for bandwidth estimation in a nonparametric regression model with a flexible error density
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: xibin.zhang@monash.edu
+Author-Name: Maxwell L. King
+Author-X-Name-First: Maxwell L.
+Author-X-Name-Last: King
+Author-Email: max.king@monash.edu
+Author-Name: Han Lin Shang
+Author-X-Name-First: Han Lin
+Author-X-Name-Last: Shang
+Author-Email: h.shang@soton.ac.uk
+Keywords:  Bayes factors, kernel-form error density, Metropolis-Hastings algorithm, state–price density, value-at-risk
+Abstract: We propose to approximate the unknown error density of a nonparametric regression model by a mixture of Gaussian densities with means being the individual error realizations and variance a constant parameter. This mixture density has the form of a kernel density estimator of error realizations. We derive an approximate likelihood and posterior for bandwidth parameters in the kernel-form error density and the Nadaraya-Watson regression estimator and develop a sampling algorithm. A simulation study shows that when the true error density is non-Gaussian, the kernel-form error density is often favored against its parametric counterparts including the correct error density assumption. Our approach is demonstrated through a nonparametric regression model of the Australian All Ordinaries daily return on the overnight FTSE and S&P 500 returns. Using the estimated bandwidths, we derive the one-day-ahead density forecast of the All Ordinaries return, and a distribution-free value-at-risk is obtained. The proposed algorithm is also applied to a nonparametric regression model involved in state–price density estimation based on S&P 500 options data.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 20/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp20-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-20
+
+Template-type: ReDIF-Paper 1.0
+Title: Gaussian kernel GARCH models
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: xibin.zhang@monash.edu
+Author-Name: Maxwell L. King
+Author-X-Name-First: Maxwell L.
+Author-X-Name-Last: King
+Author-Email: max.king@monash.edu
+Keywords:  Bayes factors, Gaussian kernel error density, localized bandwidths, Markov chain Monte Carlo, value-at-risk
+Abstract: This paper aims to investigate a Bayesian sampling approach to parameter estimation in the GARCH model with an unknown conditional error density, which we approximate by a mixture of Gaussian densities centered at individual errors and scaled by a common standard deviation. This mixture density has the form of a kernel density estimator of the errors with its bandwidth being the standard deviation. This study is motivated by the lack of robustness in GARCH models with a parametric assumption for the error density when used for error-density based inference such as value-at-risk (VaR) estimation. A contribution of the paper is to construct the likelihood and posterior of the model and bandwidth parameters under the kernel-form error density, and to derive the one-step-ahead posterior predictive density of asset returns. We also investigate the use and benefit of localized bandwidths in the kernel-form error density. A Monte Carlo simulation study reveals that the robustness of the kernel-form error density compensates for the loss of accuracy when using this density. Applying this GARCH model to daily return series of 42 assets in stock, commodity and currency markets, we find that this GARCH model is favored against the GARCH model with a skewed Student t error density for all stock indices, two out of 11 currencies and nearly half of the commodities. This provides an empirical justification for the value of the proposed GARCH model. 
+Classification-JEL: 
+Creation-Date: 2013
+Number: 19/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp19-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-19
+
+Template-type: ReDIF-Paper 1.0
+Title: Non- and Semi-Parametric Panel Data Models: A Selective Review
+Author-Name: Jia Chen
+Author-X-Name-First: Jia
+Author-X-Name-Last: Chen
+Author-Email: jia.chen@york.ac.uk
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: degui.li@york.ac.uk
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords:  Deterministic trends, local linear fitting, panel data, semiparametric estimation, single-index models
+Abstract: This article provides a selective review on the recent developments of some nonlinear nonparametric and semiparametric panel data models. In particular, we focus on two types of modelling frameworks: nonparametric and semiparametric panel data models with deterministic trends, and semiparametric single-index panel data models with individual effects. We also review various estimation methodologies which can consistently estimate both the parametric and nonparametric components in these models. The time series length and cross-sectional size in this article are allowed to be very large, under which the panel data are called “large dimensional panels".
+Classification-JEL: 
+Creation-Date: 2013
+Number: 18/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp18-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-18
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Hermite Series Estimation in Nonlinear Cointegrating Models
+Author-Name: Biqing Cai
+Author-X-Name-First: Biqing
+Author-X-Name-Last: Cai
+Author-Email: biqing.cai@monash.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords:  Cointegration, Hermite Functions, Return Predictability, Series Estimator, Unit Root
+Abstract: This paper discusses nonparametric series estimation of integrable cointegration models using Hermite functions. We establish the uniform consistency and asymptotic normality of the series estimator. The Monte Carlo simulation results show that the performance of the estimator is numerically satisfactory. We then apply the estimator to estimate the stock return predictive function. The out-of-sample evaluation results suggest that dividend yield has nonlinear predictive power for stock returns while book-to-market ratio and earning-price ratio have little predictive power.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 17/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp17-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-17
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Functional Coefficient Nonstationary Regression with Non- and Semi-Parametric Cointegration
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Peter C.B. Phillips
+Author-X-Name-First: Peter C.B.
+Author-X-Name-Last: Phillips
+Author-Email: peter.phillips@yale.edu
+Keywords: fractional Aggregate consumption, Asymptotic theory, cointegration, density, local time, nonlinear functional, nonparametric estimation, semiparametric, time series, varying coefficient model.
+Abstract: This paper studies a general class of nonlinear varying coefficient time series models with possible nonstationarity in both the regressors and the varying coefficient components. The model accommodates a cointegrating structure and allows for endo-geneity with contemporaneous correlation among the regressors, the varying coefficient drivers, and the residuals. This framework allows for a mixture of stationary and non-stationary data and is well suited to a variety of models that are commonly used in applied econometric work. Nonparametric and semiparametric estimation methods are proposed to estimate the varying coefficient functions. The analytical findings reveal some important differences, including convergence rates, that can arise in the conduct of semiparametric regression with nonstationary data. The results include some new asymptotic theory for nonlinear functionals of nonstationary and stationary time series that are of wider interest and applicability and subsume much earlier research on such systems. The finite sample properties of the proposed econometric methods are analyzed in simulations. An empirical illustration examines nonlinear dependencies in aggregate consumption function behavior in the US over the period 1960 - 2009.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 16/13
+Length: 
+Publication-Status: 
+File-URL: https://www.monash.edu/__data/assets/pdf_file/0007/925369/wp16-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-16
+
+Template-type: ReDIF-Paper 1.0
+Title: Inference on Nonstationary Time Series with Moving Mean
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Peter M. Robinson
+Author-X-Name-First: Peter M.
+Author-X-Name-Last: Robinson
+Author-Email: p.m.robinson@lse.ac.uk
+Keywords: fractional time series; fixed design nonparametric regression; non-stationary time series; unit root tests.
+Abstract: A semiparametric model is proposed in which a parametric filtering of a non-stationary time series, incorporating fractionally differencing with short memory correction, removes correlation but leaves a nonparametric deterministic trend. Estimates of the memory parameter and other dependence parameters are proposed, and shown to be consistent and asymptotically normally distributed with parametric rate. Unit root tests with standard asymptotics are thereby justified. Estimation of the trend function is also considered. We include a Monte Carlo study of finite-sample performance.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 15/13
+Length: 
+Publication-Status: 
+File-URL: https://www.monash.edu/__data/assets/pdf_file/0006/925368/wp15-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-15
+
+Template-type: ReDIF-Paper 1.0
+Title: A Semiparametric Approach to Value-at-Risk, Expected Shortfall and Optimum Asset Allocation in Stock-Bond Portfolios
+Author-Name: Xiangjin B. Chen
+Author-X-Name-First: Xiangjin B.
+Author-X-Name-Last: Chen
+Author-Email: xiangjin.chen@monash.edu
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param
+Author-X-Name-Last: Silvapulle
+Author-Email: param.silvapulle@monash.edu
+Author-Name: Mervyn Silvapulle
+Author-X-Name-First: Mervyn
+Author-X-Name-Last: Silvapulle
+Author-Email: mervyn.silvapulle@monash.edu
+Keywords: Copula; semiparametric method; value-at-Risk; investment decision
+Abstract: This paper investigates stock-bond portfolios' tail risks such as value-at-risk (VaR) and expected shortfall (ES), 
+and the way in which these measures have been affected by the global financial crisis. 
+The semiparametric t-copula is found to be adequate for modelling stock-bond joint distributions of G7 countries and Australia. 
+Empirical results show that weak (negative) dependence has increased for seven countries after the crisis, while it has decreased for Italy. 
+However, both VaR and ES have increased for all eight countries. Before the crisis, the minimum portfolio VaR and ES were achieved at an interior solution only for the US, the UK, 
+Australia, Canada and Italy. After the crisis, the corner solution was found for all eight countries. 
+Evidence of "flight to quality" and "safety first" investor behaviour was found to be strong, after the global financial crisis. 
+The semiparametric t-copula adequately forecasts the outer-sample VaR. These findings have implications for global financial regulators and the Basel Committee, 
+whose central focus is currently on increasing the capital requirements as a consequence of the recent global financial crisis.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 14/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp14-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-14
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian bandwidth selection for a nonparametric regession model with mixed types of regressors
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: xibin.zhang@monash.edu
+Author-Name: Maxwell L. King
+Author-X-Name-First: Maxwell L.
+Author-X-Name-Last: King
+Author-Email: max.king@monash.edu
+Author-Name: Han Lin Shang
+Author-X-Name-First: Han Lin
+Author-X-Name-Last: Shang
+Author-Email: h.shang@soton.ac.uk
+Keywords: cross-validation, exceedance, Nadaraya-Watson estimator, random-walk Metropolis algorithm, unknown error density, value-at-risk
+Abstract: We propose a sampling approach to bandwidth estimation for a nonparametric regression model with continuous and discrete types of regressors and unknown error density. The unknown error density is approximated by a location-mixture of Gaussian densities with means being the individual errors, and variance a constant parameter. This error density has a form of a kernel density estimator of errors with its bandwidth being the common standard deviation. We derive an approximate likelihood and posterior for bandwidth parameters, and a sampling algorithm is also developed. Monte Carlo simulation studies show that the proposed Bayesian sampling approach leads to better accuracy of the resulting estimators, especially the error density estimator, than the cross-validation. We apply the proposed sampling method to bandwidth estimation for a nonparametric regression model of the Australian All Ordinaries (Aord) daily returns on the overnight S&P 500 return and an indicator of the FTSE return. With the estimated bandwidths, we obtain the one-day-ahead density forecast of the Aord return and a distribution-free measure of value-at-risk. We also use the proposed sampling method to estimate bandwidths for the kernel estimator of the joint density of GDP growth rate, its year level and OECD status.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 13/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp13-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-13
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Do Policy-Related Shocks Affect Real Exchange Rates of Asian Developing Countries?
+Author-Name: Taya Dumrongrittikul
+Author-X-Name-First: Taya
+Author-X-Name-Last: Dumrongrittikul
+Author-Email: Taya.Dumrongrittikul@monash.edu
+Author-Name: Heather M. Anderson 
+Author-X-Name-First: Heather 
+Author-X-Name-Last: Anderson
+Author-Email: Heather.Anderson@monash.edu
+Keywords: Real exchange rates, exchange rate determination, vector error correction model, monetary policy shock, sign restrictions, penalty function
+Abstract: This paper examines real exchange rate responses to shocks in exchange rate determinants and monetary policy for eight Asian developing countries. The analysis is based on a panel pseudo-Bayesian structural vector error correction model, and the shocks are identified using sign and zero restrictions. We find that trade liberalization generates permanent depreciation, and higher government consumption causes persistent appreciation. Traded-sector productivity gains induce appreciation but their effects are short-lived. Real exchange rate responses to unexpected monetary tightening are consistent with the Dornbusch overshooting hypothesis and long-run neutrality of monetary policy. The evidence suggests that trade liberalization provides an effective device for driving exchange rate movements.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 12/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp12-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-12
+
+Template-type: ReDIF-Paper 1.0
+Title: Structural-break models under mis-specification: implications for forecasting
+Author-Name: Boonsoo Koo
+Author-X-Name-First: Boonsoo
+Author-X-Name-Last: Koo
+Author-Email: Boonsoo.Koo@monash.edu
+Author-Name: Myung Hwan Seo 
+Author-X-Name-First: Myung Hwan
+Author-X-Name-Last: Seo
+Author-Email: M.Seo@lse.ac.uk
+Keywords: structural breaks, forecasting, mis-specification, cube-root asymptotics, bagging
+Abstract: This paper revisits the least squares estimator of the linear regression with a structural break. We view the model as an approximation to the true data generating process whose exact nature is unknown but perhaps changing over time either continuously or with some jumps. This view is widely held in the forecasting literature and under this view, the time series dependence property of all the observed variables is unstable as well. We establish that the rate of convergence of the estimator to a properly defined limit is much slower than the standard super consistent rate, even slower than the square root of the sample size T and as slow as the cube root of T. We also provide an asymptotic distribution of the estimator and that of the Gaussian quasi likelihood ratio statistic for a certain class of true data generating process. We relate our finding to current forecast combination methods and bagging and propose a new averaging scheme. The performance of various contemporary forecasting methods is compared to ours using a number of macroeconomic data.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 11/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp11-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-11
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Semi-parametric Analysis of Shape-Invariant Engel Curves with Control Function Approach
+Author-Name: Nam H Kim
+Author-X-Name-First: Nam H
+Author-X-Name-Last: Kim
+Author-Email: am-hyun.kim@adelaide.edu.au
+Author-Name: Patrick W Saart
+Author-X-Name-First: Patrick W
+Author-X-Name-Last: Saart
+Author-Email: Patrick.WSaart@canterbury.ac.nz
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti 
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords: Control function approach, endogeneity, generalised partially linear single-index, semiparametric regression.
+Abstract: An extended generalised partially linear single-index (EGPLSI) model provides flexibility of a partially linear model and a single-index model. Furthermore, it also allows for the analysis of the shape-invariant specification. Nonetheless, the model's practicality in the empirical studies has been hampered by lack of appropriate estimation procedure and method to deal with endogeneity. In the current paper, we establish an alternative control function approach to address the endogeneity issue in the estimation of the EGPLSI model. We also show that all attractive features of the EGPLSI model discussed in the literature are still available under the proposed estimation procedure. Economic literature suggests that semiparametric technique is an important tool for an empirical analysis of Engel curves, which often involves endogeneity of the total expenditure. We show that our newly developed method is applicable and able to address the endogeneity issue involved in semiparametric analysis of the empirical Engel curves.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 10/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp10-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-10
+
+Template-type: ReDIF-Paper 1.0
+Title: Testing Independence for a Large Number of High Dimensional Random Vectors
+Author-Name: Guangming Pan
+Author-X-Name-First: Guangming
+Author-X-Name-Last: Pan
+Author-Email: gmpan@ntu.edu.sg
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Yanrong Yang
+Author-X-Name-First: Yanrong
+Author-X-Name-Last: Yang
+Author-Email: 
+Keywords: Central limit theorem, Covariance stationary time series, Empirical spectral distribution, Independence test, Large dimensional sample covariance matrix; Linear spectral statistics.
+Abstract: Capturing dependence among a large number of high dimensional random vectors is a very important and challenging problem. By arranging n random vectors of length p in the form of a matrix, we develop a linear spectral statistic of the constructed matrix to test whether the n random vectors are independent or not. Specifically, the proposed statistic can also be applied to n random vectors, each of whose elements can be written as either a linear stationary process or a linear combination of a random vector with independent elements. The asymptotic distribution of the proposed test statistic is established in the case where both p and n go to infinity at the same order. In order to avoid estimating the spectrum of each random vector, a modified test statistic, which is based on splitting the original n vectors into two equal parts and eliminating the term that contains the inner structure of each random vector or time series, is constructed. The facts that the limiting distribution is a normal distribution and there is no need to know the inner structure of each investigated random vector result in simple implementation of the constructed test statistic. Simulation results demonstrate that the proposed test is powerful against many common dependent cases. An empirical application to detecting dependence of the closed prices from several stocks in S&P 500 also illustrates the applicability and effectiveness of our provided test.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 9/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp09-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-9
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Structural-break models under mis-specification: implications for forecasting
+Author-Name: Boonsoo Koo
+Author-X-Name-First: Boonsoo
+Author-X-Name-Last: Koo
+Author-Email: Boonsoo.Koo@monash.edu
+Author-Name: Myung Hwan Seo 
+Author-X-Name-First: Myung Hwan 
+Author-X-Name-Last: Seo 
+Author-Email: M.Seo@lse.ac.uk
+Keywords: structural breaks, forecasting, mis-specification, cube-root asymptotics, bagging
+Abstract: This paper shows that in the presence of model mis-specification, the conventional inference procedures for structural-break models are invalid. In doing so, we establish new distribution theory for structural break models under the relaxed assumption that our structural break model is the best linear approximation of the true but unknown data generating process. Our distribution theory involves cube-root asymptotics and it is used to shed light on forecasting practice. We show that the conventional forecasting methods do not necessarily produce the best forecasts in our setting. We also propose a new forecasting strategy, which incorporates our new distribution theory, and apply our forecasting method to numerous macroeconomic data. The performance of various contemporary forecasting methods is compared to ours.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 8/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp08-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-8
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian Bandwidth Selection in Nonparametric Time-Varying Coefficient Models
+Author-Name: Tingting Cheng
+Author-X-Name-First: Tingting
+Author-X-Name-Last: Cheng
+Author-Email: Tingting.Cheng@monash.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@monash.edu
+Keywords: Bayes factors, bandwidth, marginal likelihood, local linear estimator, random-walk Metropolis algorithm.
+Abstract: Bandwidth plays an important role in determining the performance of local linear estimators. In this paper, we propose a Bayesian approach to bandwidth selection for local linear estimation of time–varying coefficient time series models, where the errors are assumed to follow the Gaussian kernel error density. A Markov chain Monte Carlo algorithm is presented to simultaneously estimate the bandwidths for local linear estimators in the regression function and the bandwidth for the Gaussian kernel error–density estimator. A Monte Carlo simulation study shows that:     1) our proposed Bayesian approach achieves better performance in estimating the bandwidths for local linear estimators than normal reference rule and cross–validation; 2) compared with the parametric assumption of either the Gaussian or the mixture of two Gaussians, Gaussian kernel error–density assumption is a data–driven choice and helps gain robustness in terms of different specification of the true error density. Moreover, we apply our proposed Bayesian sampling method to the estimation of bandwidth for the time–varying coefficient models that explain Okun’s law and the relationship between consumption growth and income growth in the U.S. For each model, we also provide calibrated parametric form of its time–varying coefficients.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 7/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp07-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-7
+
+Template-type: ReDIF-Paper 1.0
+Title: Domestic and outbound tourism demand in Australia: a System-of-Equations Approach
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Minfeng Deng
+Author-X-Name-First: Minfeng
+Author-X-Name-Last: Deng
+Author-Email: Minfeng.Deng@monash.edu
+Author-Name: Gang Li
+Author-X-Name-First: Gang
+Author-X-Name-Last: Li
+Author-Email: g.li@surrey.ac.uk
+Author-Name: Haiyan Song
+Author-X-Name-First: Haiyan
+Author-X-Name-Last: Song
+Author-Email: haiyan.song@polyu.edu.hk
+Keywords:  domestic tourism, substitution, almost ideal demand system, purchasing power parity, Australia
+Abstract: This study uses a system-of-equations approach to model the substitution relationship between Australian domestic and outbound tourism demand. A new price variable based on relative ratios of purchasing power parity index is developed for the substitution analysis. Short-run demand elasticities are calculated based on the estimated dynamic almost ideal demand system. The empirical results reveal significant substitution relationships between Australian domestic tourism and outbound travel to Asia, the UK and the US. This study provides scientific support for necessary policy considerations to promote domestic tourism further.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 6/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp06-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-6
+
+Template-type: ReDIF-Paper 1.0
+Title: From Amazon to Apple: Modeling Online Retail Sales, Purchase Incidence and Visit Behavior
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios
+Author-X-Name-Last: Panagiotelis
+Author-Email: Anastasios.Panagiotelis@monash.edu
+Author-Name: Michael S. Smith
+Author-X-Name-First: Michael S.
+Author-X-Name-Last: Smith
+Author-Email: mike.smith@mbs.edu
+Author-Name: Peter J Danaher
+Author-X-Name-First: Peter J
+Author-X-Name-Last: Danaher
+Author-Email: Peter.Danaher@monash.edu
+Keywords:  Online purchasing, panel data, copulas, marketing models
+Abstract: In this study we construct a multivariate stochastic model for website visit duration, page views, purchase incidence and the sale amount for online retailers. The model is constructed by composition from parametric distributions that account for consumer heterogeneity, and involves copula components. Our model is readily estimated using full maximum likelihood, allows for the strong nonlinear relationships between the sales and visit variables to be explored in detail, and can be used to construct sales predictions. We examine a number of top-ranked U.S. online retailers, and find that the visit duration and the number of pages viewed are both related to sales, but in very different ways for different products. Using Bayesian methodology we show how the model can be extended to account for latent household segments, further accounting for consumer heterogeneity. The model can also be adjusted to accommodate a more accurate analysis of online retailers like apple.com that sell products at a very limited number of price points. In a validation study across a range of different websites, we find that the purchase incidence and sales amount are both forecast more accurately using our stochastic model, when compared to regression, probit regression and a popular data-mining method.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 5/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp05-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-5
+
+Template-type: ReDIF-Paper 1.0
+Title: Canadian Monetary Policy Analysis using a Structural VARMA Model
+Author-Name: Mala Raghavan
+Author-X-Name-First: Mala
+Author-X-Name-Last: Raghavan
+Author-Email: mala.raghavan@utas.edu.au
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param
+Author-X-Name-Last: Silvapulle
+Author-Email: Param.Silvapulle@monash.edu
+Keywords:  VARMA models, Identification, Impulse responses, Open economy, Transmission mechanism
+Abstract: This paper builds a structural VARMA (SVARMA) model for investigating Canadian monetary policy. Despite the support for a VARMA model for monetary policy analysis, the traditional VAR and SVAR models have predominantly been used in the literature mainly due to difficulties associated with the identification and estimation of such a model. Using the scalar component model (SCM) proposed by Athanasopoulos and Vahid (2008a), this paper first identifies a VARMA model and then constructs a SVARMA model for Canadian monetary policy. We included the SVAR model in our study for a comparison purpose. Relative to this model, the impulse responses generated by the SVARMA model appear to be consistent with those predicted by various economic theoretical models, and solves the economic puzzles found commonly in the empirical literature on monetary policy. The successful construction and implementation of the SVARMA model for Canadian monetary policy analysis along with its promising impulse responses, indicate the suitability of this framework for small open economies.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 4/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp04-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-4
+
+Template-type: ReDIF-Paper 1.0
+Title: Orthogonal Expansion of Levy Process Functionals: Theory and Practice
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua
+Author-X-Name-Last: Dong
+Author-Email: Chaohua.Dong@monash.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords:  Asymptotic theory Expansion, Levy Process, Nonstationary time series, Orthogonal Series, 
+Abstract: In this paper, expansions of functionals of Levy processes are established under some Hilbert spaces and their orthogonal bases. From practical standpoint, both time-homogeneous and time-inhomogeneous functionals of Levy processes are considered. Several expansions and rates of convergence are established. In order to state asymptotic distributions for statistical estimators of unknown parameters involved in a general regression model, we develop a general asymptotic theory for partial sums of functionals of Levy processes. The results show that these estimators of the unknown parameters in different situations converge to quite different random variables. In addition, the rates of convergence depend on various factors rather than just the sample size. Simulations and empirical study are provided to illustrate the theoretical results.
+Classification-JEL: 
+Creation-Date: 2013 
+Number: 3/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp03-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-3
+
+Template-type: ReDIF-Paper 1.0
+Title: Semiparametric Profile Likelihood Estimation of Varying Coefficient Models with Nonstationary Regressors
+Author-Name: Kunpeng Li
+Author-X-Name-First: Kunpeng
+Author-X-Name-Last: Li
+Author-Email: 
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: Degui.Li@monash.edu
+Author-Name: Zhongwen Lian
+Author-X-Name-First: Zhongwen
+Author-X-Name-Last: Lian
+Author-Email: zliang3@albany.edu
+Author-Name: Cheng Hsiao 
+Author-X-Name-First: Cheng 
+Author-X-Name-Last: Hsiao 
+Author-Email: chsiao@usc.edu 
+Keywords: Functional coefficients, local polynomial fitting, profile likelihood, semiparametric estimation, unit root process.
+Abstract: We study a partially linear varying coefficient model where the regressors are generated by the multivariate unit root I(1) processes. The influence of the explanatory 
+vectors on the response variable satisfies the semiparametric partially linear structure with the nonlinear component being functional coefficients. The profile likelihood estimation 
+methodology with the first-stage local polynomial smoothing is applied to estimate both the constant coefficients in the linear component and the functional coefficients in the 
+nonlinear component. The asymptotic distribution theory for the proposed semiparametric estimators is established under some mild conditions, from which both the parametric and 
+nonparametric estimators are shown to enjoy the well-known super-consistency property. Furthermore, a simulation study is conducted to investigate the finite sample performance of the 
+developed methodology and results.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 2/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp02-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-2
+
+Template-type: ReDIF-Paper 1.0
+Title: Common non-linearities in multiple series of stock market volatility
+Author-Name: Heather M. Anderson
+Author-X-Name-First: Heather M.
+Author-X-Name-Last: Anderson
+Author-Email: Heather.Anderson@monash.edu
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: Farshid.Vahid@monash.edu
+Keywords: Realized Volatility, Bipower Variation, Common Factors, Fore-casting, Leverage, Smooth Transition Models.
+Abstract: Decreases in stock market returns often lead to higher increases in volatility than increases in returns of the same magnitude, and it is common to incorporate these 
+so-called leverage effects in GARCH and stochastic volatility models. Recent research has also found it useful to account for leverage in models of realized volatility, as well as in 
+models of the continuous and jump components of realized volatility. This paper explores the use of smooth transition autoregressive (STAR) models for capturing leverage effects in 
+multiple series of the continuous components of realized volatility. We find that the leverage effect is well captured by a common nonlinear factor driven by returns, even though the 
+persistence in each country’s volatility is country specific. A three country model that incorporates both country specific persistence and a common leverage effect offers slight 
+forecast improvements for mid-range horizons, relative to other models that do not allow for the common nonlinearity.
+Classification-JEL: 
+Creation-Date: 2013
+Number: 1/13
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp01-13.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2013-1
+
+
+
+
+

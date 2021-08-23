@@ -1,0 +1,551 @@
+Template-type: ReDIF-Paper 1.0
+Title: Do Policy-Related Shocks Affect Real Exchange Rates? An Empirical Analysis Using Sign Restrictions and a Penalty-Function Approach
+Author-Name: Taya Dumrongrittikul
+Author-X-Name-First: Taya
+Author-X-Name-Last: Dumrongrittikul
+Author-Email: Taya.Dumrongrittikul@monash.edu
+Keywords: Real exchange rate, Vector error correction model, Monetary policy shocks, Sign restriction, Penalty function, Identification
+Abstract: We examine the response of real exchange rates to shocks in real exchange rate determinants, a monetary policy shock, and a fiscal policy shock in 30 countries over the period 1970-2008. The country set is divided into 4 groups - European, developed-country, Asian developing-country, and non Asian developing-country groups. We propose and apply a new approach, i.e. we employ a panel Bayesian structural vector error correction model, and we impose sign restrictions with a penalty-function approach to identify the shocks. We find that most of our impulse response analysis is in line with economic theories. Specifically, there is strong evidence that trade liberalization generates a real depreciation and an increase in government spending leads to a real appreciation over the long run. We also find that a contractionary monetary policy shock has only short-run impacts on real exchange rates, corresponding to the long-run neutrality of monetary policy. The responses to a productivity shock are interesting, i.e. productivity growth in traded sectors has no effect on the real exchange rate of the Asian developing-country group, and it leads to a long-run real appreciation in the non Asian developing-country group. In contrast, this shock causes a real depreciation in the European country group over the long run. Variance decomposition suggests that international trade policy contributes the most to real exchange rate movements in most country groups, with the exception of the non Asian developing-country group, for which fiscal policy via government spending seems to be the most important.
+Classification-JEL: C33, C51, E52, F31
+Creation-Date: 2011-11-10
+Number: 25/11
+Length: 77 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp25-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-25
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian semiparametric GARCH models
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@monash.edu
+Author-Name: Maxwell L. King
+Author-X-Name-First: Maxwell L.
+Author-X-Name-Last: King
+Author-Email: Maxwell.King@monash.edu
+Keywords:  Bayes factors, kernel-form error density, localized bandwidths, Markov chain Monte Carlo, value-at-risk
+Abstract: This paper aims to investigate a Bayesian sampling approach to parameter estimation in the semiparametric GARCH model with an unknown conditional error density, which we approximate by a mixture of Gaussian densities centered at individual errors and scaled by a common standard deviation. This mixture density has the form of a kernel density estimator of the errors with its bandwidth being the standard deviation. The proposed investigation is motivated by the lack of robustness in GARCH models with any parametric assumption of the error density for the purpose of error-density based inference such as value-at-risk (VaR) estimation. The contribution of the paper is to construct the likelihood and posterior of model and bandwidth parameters under the proposed mixture error density, and to forecast the one-step out-of-sample density of asset returns. The resulting VaR measure therefore would be distribution-free. Applying the semiparametric GARCH(1,1) model to daily stock-index returns in eight stock markets, we find that this semiparametric GARCH model is favoured against the GARCH(1,1) model with Student t errors for five indices, and that the GARCH model underestimates VaR compared to its semiparametric counterpart. We also investigate the use and benefit of localized bandwidths in the proposed mixture density of the errors. 
+Classification-JEL: C11, C14, C15, G15
+Creation-Date: 2011-11-03
+Number: 24/11
+Length: 38 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp24-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-24
+
+Template-type: ReDIF-Paper 1.0
+Title: Window Length Selection and Signal-Noise Separation and Reconstruction in Singular Spectrum Analysis
+Author-Name: Md Atikur Rahman Khan
+Author-X-Name-First: Md Atikur Rahman
+Author-X-Name-Last: Khan
+Author-Email: Atikur.Khan@monash.edu
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.S.
+Author-X-Name-Last: Poskitt
+Author-Email: Donald.Poskitt@monash.edu
+Keywords: Dimension, Embedding, Mean squared error, Reconstruction, Signal-noise separation, Window length.
+Abstract: In Singular Spectrum Analysis (SSA) window length is a critical tuning parameter that must be assigned by the practitioner. This paper provides a theoretical analysis of signal-noise separation and reconstruction in SSA that can serve as a guide to optimal window choice. We establish numerical bounds on the mean squared reconstruction error and present their almost sure limits under very general regularity conditions on the underlying data generating mechanism. We also provide asymptotic bounds for the mean squared separation error. Evidence obtained using simulation experiments indicates that the theoretical properties are reflected in observed behaviour, even in relatively small samples, and the results indicate how an optimal choice for the window length can be made.
+Classification-JEL: C18, C22, C52
+Creation-Date: 2011-10
+Number: 23/11
+Length: 20 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp23-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-23
+
+Template-type: ReDIF-Paper 1.0
+Title: Moment Tests for Window Length Selection in Singular Spectrum Analysis of Short- and Long-Memory Processes
+Author-Name: Md Atikur Rahman Khan
+Author-X-Name-First: Md Atikur Rahman
+Author-X-Name-Last: Khan
+Author-Email: Atikur.Khan@monash.edu
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.S.
+Author-X-Name-Last: Poskitt
+Author-Email: Donald.Poskitt@monash.edu
+Keywords: Portmanteau type test, Conditional moment test, Asymptotic distribution, Linear regular process, Singular spectrum analysis, Embedding
+Abstract: In this paper we propose a new methodology for selecting the window length in Singular Spectral Analysis in which the window length is determined from the data prior to the commencement of modeling. The selection procedure is based on statistical tests designed to test the convergence of the autocovariance function. A classical time series portmanteau type statistic and two test statistics derived using a conditional moment principle are considered. The first two are applicable to short-memory processes, and the third is applicable to both short- and long-memory processes. We derive the asymptotic distribution of the statistics under fairly general regularity conditions and show that the criteria will identify true convergence with a finite window length with probability one as the sample size increases. Results obtained using Monte-Carlo simulation indicate the relevance of the asymptotic theory, even in relatively small samples, and that the conditional moment tests will choose a window length consistent with the Whitney embedding theorem. Application to observations on the Southern Oscillation Index shows how observed experimental behaviour can be reflected in features seen with real world data sets.
+Classification-JEL: C12, C22, C52
+Creation-Date: 2011-09
+Number: 22/11
+Length: 22 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp22-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-22
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimation in threshold autoregressive models with a stationary and a unit root regime
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Dag Tjøstheim
+Author-X-Name-First: Dag
+Author-X-Name-Last: Tjøstheim
+Author-Name: Jiying Yin
+Author-X-Name-First: Jiying
+Author-X-Name-Last: Yin
+Keywords: Autoregressive process; null-recurrent process; semiparametric model; threshold time series; unit root structure.
+Abstract: This paper treats estimation in a class of new nonlinear threshold autoregressive models with both a stationary and a unit root regime. Existing literature on nonstationary threshold models have basically focused on models where the nonstationarity can be removed by differencing and/or where the threshold variable is stationary. This is not the case for the process we consider, and nonstandard estimation problems are the result. This paper proposes a parameter estimation method for such nonlinear threshold autoregressive models using the theory of null recurrent Markov chains. Under certain assumptions, we show that the ordinary least squares (OLS) estimators of the parameters involved are asymptotically consistent. Furthermore, it can be shown that the OLS estimator of the coefficient parameter involved in the stationary regime can still be asymptotically normal while the OLS estimator of the coefficient parameter involved in the nonstationary regime has a nonstandard asymptotic distribution. In the limit, the rate of convergence in the stationary regime is asymptotically proportional to n-1/4, whereas it is n-1 in the nonstationary regime. The proposed theory and estimation method are illustrated by both simulated data and a real data example.
+Classification-JEL: C14, C18, C22
+Creation-Date: 2011-09
+Number: 21/11
+Length: 36 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp21-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-21
+
+Template-type: ReDIF-Paper 1.0
+Title: A New Test in Parametric Linear Models against Nonparametric Autoregressive Errors
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Maxwell King
+Author-X-Name-First: Maxwell
+Author-X-Name-Last: King
+Author-Email: Max.King@monash.edu
+Keywords: Autoregressive process; nonlinear time series; nonparametric method; random walk; semiparametric model; unit root test.
+Abstract: This paper considers a class of parametric models with nonparametric autoregressive errors. A new test is proposed and studied to deal with the parametric specification of the nonparametric autoregressive errors with either stationarity or nonstationarity. Such a test procedure can initially avoid misspecification through the need to parametrically specify the form of the errors. In other words, we propose estimating the form of the errors and testing for stationarity or nonstationarity simultaneously. We establish asymptotic distributions of the proposed test. Both the setting and the results differ from earlier work on testing for unit roots in parametric time series regression. We provide both simulated and real-data examples to show that the proposed nonparametric unit-root test works in practice.
+Classification-JEL: C12, C14, C22
+Creation-Date: 2011-09
+Number: 20/11
+Length: 40 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp20-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-20
+
+Template-type: ReDIF-Paper 1.0
+Title: Expansion of Brownian Motion Functionals and Its Application in Econometric Estimation
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua
+Author-X-Name-Last: Dong
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords: Asymptotic theory; Brownian motion; econometric estimation, series expansion.
+Abstract: Two types of Brownian motion functionals, both time-homogeneous and time-inhomogeneous, are expanded in terms of orthonormal bases in respective Hilbert spaces. Meanwhile, different time horizons are treated from the applicability point of view. Moreover, the degrees of approximation of truncation series to the corresponding series are established. An asymptotic theory is established. Both the proposed expansions and asymptotic theory are applied to establish consistent estimators in a class of time series econometric models.
+Classification-JEL: C14, C32
+Creation-Date: 2011-09
+Number: 19/11
+Length: 60 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp19-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-19
+
+Template-type: ReDIF-Paper 1.0
+Title: Nonparametric Kernel Testing in Semiparametric Autoregressive Conditional Duration Model
+Author-Name: Pipat Wongsaart
+Author-X-Name-First: Pipat
+Author-X-Name-Last: Wongsaart
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords:  Duration model, hazard rates and random measures, nonparametric kernel testing.
+Abstract: A crucially important advantage of the semiparametric regression approach to the nonlinear autoregressive conditional duration (ACD) model developed in Wongsaart et al. (2011), i.e. the so-called Semiparametric ACD (SEMI-ACD) model, is the fact that its estimation method does not require a parametric assumption on the conditional distribution of the standardized duration process and, therefore, the shape of the baseline hazard function. The research in this paper complements that of Wongsaart et al. (2011) by introducing a nonparametric procedure to test the parametric density function of ACD error through the use of the SEMI-ACD based residual. The hypothetical structure of the test is useful, not only to the establishment of a better parametric ACD model, but also to the specification testing of a number of financial market microstructure hypotheses, especially those related to the information asymmetry in finance. The testing procedure introduced in this paper differs in many ways from those discussed in existing literatures, for example Aït-Sahalia (1996), Gao and King (2004) and Fernandes and Grammig (2005). We show theoretically and experimentally the statistical validity of our testing procedure, while demonstrating its usefulness and practicality using datasets from New York and Australia Stock Exchange.
+Classification-JEL: C14, C41, F31
+Creation-Date: 2011-09
+Number: 18/11
+Length: 44 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp18-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-18
+
+Template-type: ReDIF-Paper 1.0
+Title: Semiparametric Estimation in Multivariate Nonstationary Time Series Models
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Peter C.B. Phillips
+Author-X-Name-First: Peter C.B.
+Author-X-Name-Last: Phillips
+Keywords: Endogeneity; integrated process, nonstationarity; partial linear model; simultaneity; vector semiparametric regression.
+Abstract: A system of multivariate semiparametric nonlinear time series models is studied with possible dependence structures and nonstationarities in the parametric and nonparametric components. The parametric regressors may be endogenous while the nonparametric regressors are assumed to be strictly exogenous. The parametric regressors may be stationary or nonstationary and the nonparametric regressors are nonstationary integrated time series. Semiparametric least squares (SLS) estimation is considered and its asymptotic properties are derived. Due to endogeneity in the parametric regressors, SLS is not consistent for the parametric component and a semiparametric instrumental variable (SIV) method is proposed instead. Under certain regularity conditions, the SIV estimator of the parametric component is shown to have a limiting normal distribution. The rate of convergence in the parametric component depends on the properties of the regressors. The conventional &radic;n rate may apply even when nonstationarity is involved in both sets of regressors.
+Classification-JEL: C23, C25
+Creation-Date: 2011-09-05
+Number: 17/11
+Length: 44 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp17-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-17
+
+Template-type: ReDIF-Paper 1.0
+Title: Local Linear Fitting Under Near Epoch Dependence: Uniform consistency with Convergence Rates
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: Degui.Li@monash.edu
+Author-Name: Zudi Lu
+Author-X-Name-First: Zudi
+Author-X-Name-Last: Lu
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton
+Keywords: &alpha;-mixing, local linear fitting, near epoch dependence, convergence rates, uniform consistency
+Abstract: Local linear fitting is a popular nonparametric method in statistical and econometric modelling. Lu and Linton (2007) established the pointwise asymptotic distribution for the local linear estimator of a nonparametric regression function under the condition of near epoch dependence. In this paper, we further investigate the uniform consistency of this estimator. The uniform strong and weak consistencies with convergence rates for the local linear fitting are established under mild conditions. Furthermore, general results regarding uniform convergence rates for nonparametric kernel-based estimators are provided. The results of this paper will be of wide potential interest in time series semiparametric modelling.
+Classification-JEL: C13, C14, C22
+Creation-Date: 2011-09
+Number: 16/11
+Length: 23 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp16-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-16
+
+Template-type: ReDIF-Paper 1.0
+Title: Semiparametric Trending Panel Data Models with Cross-Sectional Dependence
+Author-Name: Jia Chen
+Author-X-Name-First: Jia
+Author-X-Name-Last: Chen
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: Degui.Li@monash.edu
+Keywords: Cross-sectional dependence, nonlinear time trend, panel data, profile likelihood, semiparametric regression.
+Abstract: A semiparametric fixed effects model is introduced to describe the nonlinear trending phenomenon in panel data analysis and it allows for the cross-sectional dependence in both the regressors and the residuals. A pooled semiparametric profile likelihood dummy variable approach based on the first-stage local linear fitting is developed to estimate both the parameter vector and the nonparametric time trend function. As both the time series length T and the cross-sectional size N tend to infinity simultaneously, the resulting estimator of the parameter vector is asymptotically normal with a rate of convergence of Op(NT)^{-1/2}. Meanwhile, the asymptotic distribution for the estimator of the nonparametric trend function is also established with a rate of convergence of Op(NTh)^{-1/2}. Two simulated examples are provided to illustrate the finite sample performance of the proposed method. In addition, the proposed model and estimation method is applied to analyze a CPI data set as well as an input-output data set.
+Classification-JEL: C13, C14, C23
+Creation-Date: 2011-09
+Number: 15/11
+Length: 34 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp15-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-15
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimation in Partially Linear Single-Index Panel Data Models with Fixed Effects
+Author-Name: Jia Chen
+Author-X-Name-First: Jia
+Author-X-Name-Last: Chen
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: Degui.Li@monash.edu
+Keywords: Fixed effects, local linear smoothing, panel data, semiparametric estimation, single-index models
+Abstract: In this paper, we consider semiparametric estimation in a partially linear single-index panel data model with fixed effects. Without taking the difference explicitly, we propose using a semiparametric minimum average variance estimation (SMAVE) based on a dummy-variable method to remove the fixed effects and obtain consistent estimators for both the parameters and the unknown link function. As both the cross section size and the time series length tend to infinity, we not only establish an asymptotically normal distribution for the estimators of the parameters in the single index and the linear component of the model, but also obtain an asymptotically normal distribution for the nonparametric local linear estimator of the unknown link function. The asymptotically normal distributions of the proposed estimators are similar to those obtained in the random effects case. In addition, we study several partially linear single-index dynamic panel data models. The methods and results are augmented by simulation studies and illustrated by an application to a cigarette-demand data set in the US from 1963-1992 
+Classification-JEL: C13, C14, C23
+Creation-Date: 2011-09
+Number: 14/11
+Length: 32 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp14-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-14
+
+Template-type: ReDIF-Paper 1.0
+Title: Uniform Consistency for Nonparametric Estimators in Null Recurrent Time Series
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: Degui.Li@monash.edu
+Author-Name: Dag Tjøstheim
+Author-X-Name-First: Dag
+Author-X-Name-Last: Tjøstheim
+Keywords: &beta;-null recurrent Markov chain, nonparametric estimation, rate of convergence, uniform consistency
+Abstract: This paper establishes a suite of uniform consistency results for nonparametric kernel density and regression estimators when the time series regressors concerned are nonstationary null-recurrent Markov chains. Under suitable conditions, certain rates of convergence are also obtained for the proposed estimators. Our results can be viewed as an extension of some well-known uniform consistency results for the stationary time series case to the nonstationary time series case. 
+Classification-JEL: C13, C14, C22
+Creation-Date: 2011-09
+Number: 13/11
+Length: 32 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp13-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-13
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimation in Single-Index Panel Data Models with Heterogeneous Link Functions
+Author-Name: Jia Chen
+Author-X-Name-First: Jia
+Author-X-Name-Last: Chen
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: Degui.Li@monash.edu
+Keywords: Asymptotic distribution; local linear smoother; minimum average variance estimation; panel data; semiparametric estimation; single-index models.
+Abstract: In this paper, we study semiparametric estimation for a single-index panel data model where the nonlinear link function varies among the individuals. We propose using the refined minimum average variance estimation method to estimate the parameter in the single-index. As the cross-section dimension N and the time series dimension T tend to infinity simultaneously, we establish asymptotic distributions for the proposed estimator. In addition, we provide a real-data example to illustrate the finite sample behaviour of the proposed estimation method.
+Classification-JEL: C13; C14; C23
+Creation-Date: 2011-09
+Number: 12/11
+Length: 28 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp12-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-12
+
+Template-type: ReDIF-Paper 1.0
+Title: Non-Parametric Estimation of Forecast Distributions in Non-Gaussian, Non-linear State Space Models
+Author-Name: Jason Ng
+Author-X-Name-First: Jason
+Author-X-Name-Last: Ng
+Author-Email: Jason.Ng@monash.edu
+Author-Name: Catherine S. Forbes
+Author-X-Name-First: Catherine S.
+Author-X-Name-Last: Forbes
+Author-Email: Catherine.Forbes@monash.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael M.
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: Brendan P.M. McCabe
+Author-X-Name-First: Brendan P.M.
+Author-X-Name-Last: McCabe
+Keywords:  Probabilistic Forecasting; Non-Gaussian Time Series; Grid-based Filtering; Penalized Likelihood; Subsampling; Realized Volatility.
+Abstract: The object of this paper is to produce non-parametric maximum likelihood estimates of forecast distributions in a general non-Gaussian, non-linear state space setting. The transition densities that define the evolution of the dynamic state process are represented in parametric form, but the conditional distribution of the non-Gaussian variable is estimated non-parametrically. The filtering and prediction distributions are estimated via a computationally efficient algorithm that exploits the functional relationship between the observed variable, the state variable and a measurement error with an invariant distribution. Simulation experiments are used to document the accuracy of the non-parametric method relative to both correctly and incorrectly specified parametric alternatives. In an empirical illustration, the method is used to produce sequential estimates of the forecast distribution of realized volatility on the S&P500 stock index during the recent financial crisis. A resampling technique for measuring sampling variation in the estimated forecast distributions is also demonstrated.
+Classification-JEL: C14, C22, C53
+Creation-Date: 2011-08-31
+Number: 11/11
+Length: 37 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp11-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-11
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian estimation of bandwidths for a nonparametric regression model with a flexible error density 
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@monash.edu
+Author-Name: Maxwell L. King
+Author-X-Name-First: Maxwell L.
+Author-X-Name-Last: King
+Author-Email: Maxw.King@monash.edu
+Author-Name: Han Lin Shang
+Author-X-Name-First: Han Lin
+Author-X-Name-Last: Shang
+Author-Email: HanLin.Shang@monash.edu
+Keywords:  Bayes factors, Gaussian-component mixture density, Markov chain Monte Carlo, state-price density, value-at-risk.
+Abstract: We approximate the error density of a nonparametric regression model by a mixture of Gaussian densities with means being the individual error realizations and variance a constant parameter. We investigate the construction of a likelihood and posterior for bandwidth parameters under this Gaussian-component mixture density of errors in a nonparametric regression. A Markov chain Monte Carlo algorithm is presented to sample bandwidths for the kernel estimators of the regression function and error density. A simulation study shows that the proposed Gaussian-component mixture density of errors is clearly favored against wrong assumptions of the error density. We apply our sampling algorithm to a nonparametric regression model of the All Ordinaries daily return on the overnight FTSE and S&P 500 returns, where the error density is approximated by the proposed mixture density. With the estimated bandwidths, we estimate the density of the one-step-ahead point forecast of the All Ordinaries return, and therefore, a distribution-free value-at-risk is obtained. The proposed Gaussian component mixture density of regression errors is also validated through the nonparametric regression involved in the state-price density estimation proposed by Aït-Sahalia and Lo (1998).
+Classification-JEL: C11, C14, C15, G15
+Creation-Date: 2011-08-22
+Number: 10/11
+Length: 39 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp10-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-10
+
+Template-type: ReDIF-Paper 1.0
+Title: Testing for co-jumps in high-frequency financial data: an approach based on first-high-low-last prices
+Author-Name: Yin Liao
+Author-X-Name-First: Yin
+Author-X-Name-Last: Liao
+Author-Name: Heather M. Anderson
+Author-X-Name-First: Heather M.
+Author-X-Name-Last: Anderson
+Author-Email: Heather.Anderson@monash.edu
+Keywords:  Covariance, Co-jumps, High-frequency data, First-High-Low-Last price, Microstructure bias, Nonsynchronous trades, Realized covariance, Realized co-range.
+Abstract: This paper proposes a new test for simultaneous intraday jumps in a panel of high frequency financial data. We utilize intraday first-high-low-last values of asset prices to construct estimates for the cross-variation of returns in a large panel of high frequency financial data, and then employ these estimates to provide a first-high-low-last price based test statistic to detect common large discrete movements (co-jumps). We study the finite sample behavior of our first-high-low-last price based test using Monte Carlo simulation, and find that it is more powerful than the Bollerslev et al (2008) return-based co-jump test. When applied to a panel of high frequency data from the Chinese mainland stock market, our first-high-low-last price based test identifies more common jumps than the return-based test in this emerging market.
+Classification-JEL: C12, C22, C32, G12, G14
+Creation-Date: 2011-08-18
+Number: 9/11
+Length: 52 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp9-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-9
+
+Template-type: ReDIF-Paper 1.0
+Title: Forecasting Under Strucural Break Uncertainty
+Author-Name: Jing Tian
+Author-X-Name-First: Jing
+Author-X-Name-Last: Tian
+Author-Name: Heather M. Anderson
+Author-X-Name-First: Heather M.
+Author-X-Name-Last: Anderson
+Author-Email: Heather.Anderson@monash.edu
+Keywords:  Forecasting with Structural breaks, Parameter Shifts, break Uncertainty, Structural break Tests, Choice of Estimation Sample, Forecast Combinations, NAIRU Phillips Curve.
+Abstract: This paper proposes two new weighting schemes that average forecasts using different estimation windows to account for structural change. We let the weights reflect the probability of each time point being the most-recent break point, and we use the reversed ordered Cusum test statistics to capture this intuition. The second weighting method simply imposes heavier weights on those forecasts that use more recent information. The proposed combination forecasts are evaluated using Monte Carlo techniques, and we compare them with forecasts based on other methods that try to account for structural change, including average forecasts weighted by past forecasting performance and techniques that first estimate a break point and then forecast using the post break data. Simulation results show that our proposed weighting methods often outperform the others in the presence of structural breaks. An empirical application based on a NAIRU Phillips curve model for the United States indicates that it is possible to outperform the random walk forecasting model when we employ forecasting methods that account for break uncertainty.
+Classification-JEL: C22, C53, E37
+Creation-Date: 2011-07
+Number: 8/11
+Length: 36 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp8-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-8
+
+Template-type: ReDIF-Paper 1.0
+Title: A New Procedure For Multiple Testing Of Econometric Models
+Author-Name: Maxwell L. King
+Author-X-Name-First: Maxwell L.
+Author-X-Name-Last: King 
+Author-Email: Max.King@monash.edu
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@monash.edu
+Author-Name: Muhammad Akram
+Author-X-Name-First: Muhammad
+Author-X-Name-Last: Akram
+Keywords: Bootstrapping, consistency, information matrix test, Markov chain Monte Carlo simulation, multivariate kernel density, normality, serial correlation, test vector
+Abstract: A significant role for hypothesis testing in econometrics involves diagnostic checking. When checking the adequacy of a chosen model, researchers typically employ a range of diagnostic tests, each of which is designed to detect a particular form of model inadequacy. A major problem is how best to control the overall probability of rejecting the model when it is true and multiple test statistics are used. This paper presents a new multiple testing procedure, which involves checking whether the calculated values of the diagnostic statistics are consistent with the postulated model being true. This is done through a combination of bootstrapping to obtain a multivariate kernel density estimator of the joint density of the test statistics under the null hypothesis and Monte Carlo simulations to obtain a p value using this kernel density. We prove that under some regularity conditions, the estimated p value of our test procedure is a consistent estimate of the true p value. The proposed testing procedure is applied to tests for autocorrelation in an observed time series, for normality, and for model misspecification through the information matrix. We find that our testing procedure has correct or nearly correct sizes and good powers, particular for more complicated testing problems. We believe it is the first good method for calculating the overall p value for a vector of test statistics based on simulation.
+Classification-JEL: 
+Creation-Date: 2011-05-25
+Number: 7/11
+Length: 38 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp7-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-7
+
+Template-type: ReDIF-Paper 1.0
+Title: A survey of functional principal component analysis
+Author-Name: Han Lin Shang
+Author-X-Name-First: Han Lin
+Author-X-Name-Last: Shang
+Author-Email: HanLin.Shang@buseco.monash.edu.au
+Keywords: Bootstrap, functional principal component regression, functional time series, Stiefel manifold, Von Mise-Fisher distribution.
+Abstract: Advances in data collection and storage have tremendously increased the presence of functional data, whose graphical representations are curves, images or shapes. As a new area of Statistics, functional data analysis extends existing methodologies and theories from the fields of functional analysis, generalized linear models, multivariate data analysis, nonparametric statistics and many others. This paper provides a review into functional data analysis with main emphasis on functional principal component analysis, functional principal component regression, and bootstrap in functional principal component regression. Recent trends as well as open problems in the area are discussed.
+Classification-JEL: 
+Creation-Date: 2011-05
+Number: 6/11
+Length: 37 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp6-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-6
+
+Template-type: ReDIF-Paper 1.0
+Title: Real Exchange Rate Movements in Developed and Developing Economies: an Interpretation of the Balassa-Samuelson's Framework
+Author-Name: Taya Dumrongrittikul
+Author-X-Name-First: Taya
+Author-X-Name-Last: Dumrongrittikul
+Author-Email: Taya.Dumrongrittikul@buseco.monash.edu.au
+Keywords: Balassa-Samuelson effect, real exchange rate, non-stationary panels, traded and nontraded sectors, persistence profile
+Abstract: This paper investigates empirically the Balassa-Samuelson hypothesis (BSH) using annual data over 1970-2008 from 33 countries grouped into developed and developing countries. The innovative feature of our study is that we introduce a new approach for classifying traded and nontraded industries. Our proposed approach allows for country specific heterogeneity over each industry, and changes in classifications of industries across periods. We apply panel cointegration tests with group-mean panel dynamic ordinary least squares (DOLS) estimators suggested in Pedroni (2000, 2001) to examine the BSH. We also use persistence profiles in order to investigate the speed of adjustment to equilibrium in response to shocks on cointegrating relations, and employ them as a complementary tool for checking whether the long run relationships obtained from the tests are actually valid. Our main finding is that there is not enough evidence in favour of the BSH nor in favour of purchasing power parity (PPP) in either developed or developing countries. In developed countries, there is strong evidence that higher growth countries will experience real exchange rate appreciation. However, this relation does not provide evidence in favour of the BSH. We actually find opposing evidence that as productivity growth in traded goods relative to that in nontraded goods increases, the real exchange rated tends to depreciate. For developing countries, our results support the BSH. However, the speed of reversion to equilibrium is very slow. We also find moderate evidence that comparatively rapidly growing developing countries will experience real exchange rate depreciation.
+Classification-JEL: C12, C23, F31, F43
+Creation-Date: 2011-04-22
+Number: 5/11
+Length: 48 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp5-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-5
+
+Template-type: ReDIF-Paper 1.0
+Title: Global Temperature Trends
+Author-Name: Trevor Breusch
+Author-X-Name-First: Trevor
+Author-X-Name-Last: Breusch
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: Farshid.Vahid@buseco.monash.edu.au
+Keywords: Land and ocean temperatures; deterministic and stochastic trends; persistence; piecewise linear trends
+Abstract: Are global temperatures on a warming trend? It is difficult to be certain about trends when there is so much variation in the data and very high correlation from year to year. We investigate the question using statistical time series methods. Our analysis shows that the upward movement over the last 130-160 years is persistent and not explained by the high correlation, so it is best described as a trend. The warming trend becomes steeper after the mid-1970s, but there is no significant evidence for a break in trend in the late 1990s. Viewed from the perspective of 30 or 50 years ago, the temperatures recorded in most of the last decade lie above the confidence band of forecasts produced by a model that does not allow for a warming trend.
+Classification-JEL: C2, Q54
+Creation-Date: 2011-03
+Number: 4/11
+Length: 14 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp4-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-4
+
+Template-type: ReDIF-Paper 1.0
+Title: The value of feedback in forecasting competitions
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@buseco.monash.edu.au
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Keywords: Forecasting competition, feedback.
+Abstract: In this paper we challenge the traditional design used for forecasting competitions. We implement an online competition with a public leaderboard that provides instant feedback to competitors who are allowed to revise and resubmit forecasts. The results show that feedback significantly improves forecasting accuracy.
+Classification-JEL: C53,L83
+Creation-Date: 2011-02-09
+Number: 3/11
+Length: 8 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp3-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-3
+
+Template-type: ReDIF-Paper 1.0
+Title: Worker time and the cost of stability
+Author-Name: Susan Tregeagle
+Author-X-Name-First: Susan
+Author-X-Name-Last: Tregeagle
+Author-Name: Elizabeth Cox
+Author-X-Name-First: Elizabeth
+Author-X-Name-Last: Cox
+Author-Name: Catherine Forbes
+Author-X-Name-First: Catherine
+Author-X-Name-Last: Forbes
+Author-Email: Catherine.Forbes@buseco.monash.edu.au
+Author-Name: Cathy Humphreys
+Author-X-Name-First: Cathy
+Author-X-Name-Last: Humphreys
+Author-Name: Cas O'Neill
+Author-X-Name-First: Cas
+Author-X-Name-Last: O'Neill
+Keywords: stability; longterm foster care; unit costing; permanency; adoption; costs.
+Abstract: This paper investigates the time caseworkers spend supporting long-term foster care and adoption placements. Undertaken in Australia through collaboration between university and nongovernment agency researchers, the 'Cost of Support Study' tracked the hours that caseworkers spent supporting twenty-seven children and their carers over a nine month period. The placements were part of a 'Find-A-Family' program for 'hard to place children', many of whom had previously experienced multiple placement breakdowns. The program has a history of 78% stability on the first placement (over the young person's time in the program) and 93% by the second, with the type of support provided by this accredited agency's program detailed here. The weekly worker diaries reveal an average of 3 hours 32 minutes of worker time per week per placement; however wide variation is apparent in the time given to each placement, and depends on the characteristics of the child involved. Further, the resources required to support each placement are found by multiplying worker hours by the hourly cost per worker, using New South Wales government costings. The paper contributes to the important debate regarding the link between worker time and stability in care, by deepening our understanding of the costs involved in providing high quality support and supervision of casework.
+Classification-JEL: C19, D63, H75, I38
+Creation-Date: 2011-02
+Number: 2/11
+Length: 37 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp2-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-2
+
+Template-type: ReDIF-Paper 1.0
+Title: Coherent mortality forecasting: the product-ratio method with functional time
+series models
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@buseco.monash.edu.au
+Author-Name: Heather Booth
+Author-X-Name-First: Heather
+Author-X-Name-Last: Booth
+Author-Email: Heather.Booth@buseco.monash.edu.au
+Author-Name: Farah Yasmeen
+Author-X-Name-First: Farah
+Author-X-Name-Last: Yasmeen
+Author-Email: Farah.Yasmeen@buseco.monash.edu.au
+Keywords: Mortality forecasting, coherent forecasts, functional data, Lee-Carter
+method, life expectancy, mortality, age pattern of mortality, sex-ratio
+Abstract: When independence is assumed, forecasts of mortality for subpopulations are almost always divergent in the long term. We propose a method for non-divergent or coherent forecasting of mortality rates for two or more subpopulations, based on functional principal components models of simple and interpretable functions of rates. The product-ratio functional forecasting method models and forecasts the geometric mean of subpopulation rates and the ratio of subpopulation rates to product rates. Coherence is imposed by constraining the forecast ratio function through stationary time series models. The method is applied to sex-specific data for Sweden and state-specific data for Australia. Based on out-of-sample forecasts, the coherent forecasts are at least as accurate in overall terms as comparable independent forecasts, and forecast accuracy is homogenised across subpopulations.
+Classification-JEL: J11,C53,C14
+Creation-Date: 2011-02-04
+Number: 1/11
+Length: 30 pages
+Publication-Status:
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp1-11.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2011-1
+

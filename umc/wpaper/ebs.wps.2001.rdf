@@ -1,0 +1,304 @@
+Template-Type: ReDIF-Paper 1.0
+Title: Prediction Intervals for Exponential Smoothing State Space Models.
+Author-Name: Hyndman, R.J. 
+Author-X-Name-First: R.J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@BusEco.monash.edu.au
+Author-Name: Koehler, A.B.
+Author-X-Name-First: A.B.
+Author-X-Name-Last: Koehler
+Author-Name: Ord, J.K.
+Author-X-Name-First: J.K.
+Author-X-Name-Last: Ord
+Author-Name: Snyder, R.D.
+Author-X-Name-First: R.D.
+Author-X-Name-Last: Snyder
+Keywords: Forecast distribution; Holt-Winters method; Structural models
+Length: 22 pages
+Abstract: The main objective of this paper is to provide analytical expression for forecast 
+    variances that can be used in prediction intervals for the exponential smoothing 
+    methods. These expressions are based on state space models with a single source of 
+    error that underlie the exponential smoothing methods. In cases where an ARIMA model 
+    also underlies an exponential smoothing method, there is an equivalent state space 
+    model with the same variance expression. We also discuss relationships between these 
+    new ideas and previous suggestions for finding forecast variances and prediction 
+    intervals for the exponential smoothing methods. 
+Classification-JEL: C32, C53
+Creation-Date: 2001-12
+Number: 11/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp11-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-11
+
+Template-Type: ReDIF-Paper 1.0
+Title: Using R to Teach Econometrics.
+Author-Name: Racine, J
+Author-X-Name-First: J.
+Author-X-Name-Last: Racine
+Author-Name: Hyndman, R.J.
+Author-X-Name-First: R.J.
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@BusEco.monash.edu.au
+Keywords: Econometrics; Statistical software; Teaching
+Length: 15 pages
+Abstract: R, an open-source programming environment for data analysis and graphics, has 
+    in only a decade grown to become a de-facto standard for statistical analysis 
+    against which many popular commercial programs may be measured. The use of R for 
+    the teaching of econometric methods is appealing. It provides cutting-edge
+        statistical methods which are, by R's open-source nature, available immediately. 
+    The software is stable,available at no cost, and exists for a number of platforms. 
+    This review focuses on using R for teaching econometrics. Since R is an extremely 
+    powerful environment, this review should also be of interest to researchers.
+Classification-JEL: A23, C87
+Creation-Date: 2001-11
+Number: 10/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp10-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-10
+
+Template-Type: ReDIF-Paper 1.0
+Title: The Missing Link: Using the NBER Recession Indicator to Construct Coincident 
+    and Leading Indices of Economic Activity.
+Author-Name: Issler, J.V.
+Author-X-Name-Last: Issler
+Author-X-Name-First: J.V.
+Author-Name: Vahid, F.
+Author-X-Name-Last: Vahid
+Author-X-Name-First: F.
+Author-Email: Farshid.Vahid@BusEco.monash.edu.au
+Keywords: Coincident and Leading Indicators; Business Cycle; Canonical Correlation; 
+    Instrumental Variable Probit; Encompassing
+Length: 34 pages
+Abstract: We use the information content in the decisions of the NBER Business cycle 
+    Dating Committee to construct coincident and leading indices of economic 
+    activity for United States. Specifically, we use canonical correlation analysis 
+    to filter out the noisy information contained in the coincident series. 
+    Finally, to construct our preferred coincident index of the U.S. business cycle, 
+    we take account of measurement error in the commonly used coincident series by 
+    using instrumental-variable methods. The resulting index is a simple linear 
+    combination of four coincident series that encompassed
+    currently popular coincident indices. 
+Classification-JEL: C32, E32
+Creation-Date: 2001-07
+Number: 9/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp9-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-9
+
+Template-Type: ReDIF-Paper 1.0
+Title: Strategy Similarity and Coordination.
+Author-Name: Vahid, F.
+Author-X-Name-Last: Vahid
+Author-X-Name-First: F.
+Author-Email: Farshid.Vahid@BusEco.monash.edu.au
+Author-Name: Sarin, R.
+Author-X-Name-Last: Sarin
+Author-X-Name-First: R.
+Keywords: Econometric analysis of experimental data; Adaptive learning; Similarity; 
+    Coordination games; Payoff assessments without probabilities
+Length: 23 pages
+Abstract: This paper introduces similarity among strategies in the payoff assessment 
+    model of choice (Sarin and Vahid (1999, GEB)). The assessments of strategies that 
+    are more similar to the chosen strategy are updated more similarly to the 
+    chosen strategy. We use this model to explain a recent experiment.
+Classification-JEL: C70; D81, D80
+Creation-Date: 2001-07
+Number: 8/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp8-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-8
+
+Template-Type: ReDIF-Paper 1.0
+Title: Capturing the Shape of Business Cycles with Nonlinear Autoregressive Leading 
+    Indicator Models.
+Author-Name: Athanasopoulos, G.
+Author-X-Name-Last: Athanasopoulos
+Author-X-Name-First: G.
+Author-Name: Anderson, H.M.
+Author-X-Name-Last: Anderson
+Author-X-Name-First: H.M.
+Author-Email: Heather.Anderson@BusEco.monash.edu.au
+Author-Name: Vahid, F.
+Author-X-Name-Last: Vahid
+Author-X-Name-First: F.
+Author-Email: Farshid.Vahid@BusEco.monash.edu.au
+Keywords: Business Cycles; Leading Indicators; Nonlinear Models; Yield Spread
+Length: 36 pages
+Abstract: This paper studies linear and linear autoregressive leading indicator 
+    models of business cycles in OECD countries. The models use the spread 
+    between short-term and long-term interest rates as leading indicators
+    for GDP, and their success in capturing business cycles gauged by the 
+    non-parametric procedures developed by Harding and Pagan (2001). Our 
+    preliminary findings indicate that bivariate nonlinear models of output and
+    the interest rate spread can successfully capture the shape of the business 
+    cycle. In particular, they can capture the features of recession and the 
+    deviation of the actual path of the cycles from a triangular approximation 
+    to this path, both characteristics that other models of GDP fail to reproduce.
+Classification-JEL: C22, C23, E17, E37
+Creation-Date: 2001-06
+Number: 7/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp7-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-7
+
+Template-Type: ReDIF-Paper 1.0
+Title: Statistical Methodological Issues in Studies of Air Pollution and Respiratory 
+    Disease.
+Author-Name: Hyndman, R.J.
+Author-X-Name-Last: Hyndman
+Author-X-Name-First: R.J.
+Author-Email: Rob.Hyndman@BusEco.monash.edu.au
+Author-Name: Erbas, B.
+Author-X-Name-Last: Erbas
+Author-X-Name-First: B.
+Keywords: Air pollution; Autocorrelation; Generalized additive models; 
+    Seasonal adjustment; Respiratory disease
+Length: 20 pages
+Abstract: Epidemiological studies have consistently shown short term associations 
+    between levels of air pollution and respiratory disease in countries of 
+    diverse populations, geographical locations and varying levels of air 
+    pollution and climate. The aims of this paper are: (1) to assess the 
+    sensitivity of the observed pollution effects to model specification, 
+    with particular emphasis on the inclusion of seasonally adjusted covariates; 
+    and (2) to study the effect of air pollution on respiratory disease in 
+    Melbourne, Australia.
+Classification-JEL: Q25, C51, I10
+Creation-Date: 2001-09
+Number: 6/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp6-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-6
+
+Template-Type: ReDIF-Paper 1.0
+Title: Unmasking the Theta Method.
+Author-Name: Hyndman, R.J.
+Author-X-Name-Last: Hyndman
+Author-X-Name-First: R.J.
+Author-Email: Rob.Hyndman@BusEco.monash.edu.au
+Author-Name: Billah, B.
+Author-X-Name-Last: Billah
+Author-X-Name-First: B.
+Keywords: exponential smoothing; forecasting competitions; state space models
+Length: 6 pages
+Abstract: The Theta method of forecasting performed particularly well in the 
+    M3-competition and is therefore of interest to forecast practitioners. 
+    The description of the method given by Assimakopoulos and Nikolopoulos 
+    (2000) involves several pages of algebraic manipulation and is difficult 
+    to comprehend. We show that the method can be expressed much more simply; 
+    furthermore we show that the forecasts obtained are equivalent to simple 
+    exponential smoothing with drift.
+Classification-JEL: C50, C53
+Creation-Date: 2001-06
+Number: 5/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp5-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-5
+
+Template-Type: ReDIF-Paper 1.0
+Title: On the Nature and Role of Hypothesis Tests.
+Author-Name: McLean, A.
+Author-X-Name-Last: McLean
+Author-X-Name-First: A.
+Author-Email: Alan.McLean@BusEco.monash.edu.au
+Keywords: Hypothesis test; Significance; p value; Probability Model; Statistical model; 
+    Prediction
+Length: 22 pages
+Abstract: Hypothesis testing is widely regarded as an essential part of statistics, 
+    but it s use in research has led to considerable controversy in a number of 
+    disciplines, especially psychology, with a number of commentators suggesting 
+    it should not be used at all. A root cause of this controversy was the 
+    overenthusiastic adoption of hypothesis testing, based on a greatly exaggerated 
+    view of its role in research. A second cause was confusion between the two 
+    forms of hypothesis testing developed by Fisher on the one hand and Neyman and 
+    Pearson on the other. This paper discusses these two causes, and also proposes 
+    that there is a more general misunderstanding of the role of hypothesis testing. 
+    This misunderstanding is reflected in vocabulary such as 'the true value' of the 
+    parameter.
+Classification-JEL: C12, C52
+Creation-Date: 2001-06
+Number: 4/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp4-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-4
+
+Template-Type: ReDIF-Paper 1.0
+Title: Market Architecture and Nonlinear Dynamics of Australian Stock and Future Indices.
+Author-Name: Anderson, H.M.
+Author-X-Name-Last: Anderson
+Author-X-Name-First: H.M.
+Author-Email: Heather.Anderson@BusEco.monash.edu.au
+Author-Name: Vahid, F.
+Author-X-Name-Last: Vahid
+Author-X-Name-First: F.
+Author-Email: Farshid.Vahid@BusEco.monash.edu.au
+Keywords: Arbitrage; Electronic trading; Mean reversion; Nonlinear error correction;  
+        Smooth transition models; Thresholds; Transaction Costs
+Length: 35 pages
+Abstract: This paper studies the All Ordinaries Index in Australia, and its futures 
+    contract known as the Share Price Index. We use a new form of smooth transition 
+    model to account for a variety of nonlinearities caused by transaction costs 
+    and other market/data imperfections, and given the recent interest in the 
+    effects of market automation on price discovery, we focus on how the nonlinear 
+    properties of the basis and returns have changed, now that floor trading in 
+    futures contract has been replaced by electronic trading.
+Classification-JEL: C22, C23, E17; E37; G13
+Creation-Date: 2001-05
+Number: 3/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp3-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-3
+
+Template-Type: ReDIF-Paper 1.0
+Title: The Importance Of Common Cyclical Features in VAR Analysis: A Monte-Carlo Study.
+Author-Name: Vahid, F.
+Author-X-Name-Last: Vahid
+Author-X-Name-First: F.
+Author-Email: Farshid.Vahid@BusEco.monash.edu.au
+Author-Name: Issler, J.V.
+Author-X-Name-Last: Issler
+Author-X-Name-First: J.V.
+Keywords: Reduced rank models; model selection criteria; forecasting; variance decomposition
+Length: 20 pages
+Abstract: Despite the commonly held belief that aggregate data display short-run 
+    comovement, there has been little discussion about the econometric consequences 
+    of this feature of the data. We use exhaustive Monte-Carlo simulations to 
+    investigate the importance of restrictions implied by common-cyclical features 
+    for estimates and forecasts based on vector autoregressive models.
+Classification-JEL: C32, C15, C53
+Creation-Date: 2001-03
+Number: 2/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp2-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-2
+
+Template-Type: ReDIF-Paper 1.0
+Title: Comparison of Non-Stationary Time Series in the Frequency Domain.
+Author-Name: Maharaj, E.A.
+Author-X-Name-Last: Maharaj
+Author-X-Name-First: E.A.
+Author-Email: Ann.Maharaj@BusEco.monash.edu.au
+Keywords: Tests, Time series, Simulation, Evolutionary Spectra
+Length: 18 pages
+Abstract: In this paper we compare two non-stationary time series using non-parametric 
+    procedures. Evolutionary spectra are estimated for the two series. Randomization 
+    tests are performed on groups of spectral estimates for both related and 
+    independent time series. Simul ation studies show that in certain cases the 
+    tests perform reasonably well. The tests are applied to observed geological 
+    and financial time series.
+Classification-JEL: C32, C30
+Creation-Date: 2001-03
+Number: 1/01
+Publication-Status:
+File-URL: http://www.buseco.monash.edu.au/ebs/pubs/wpapers/2001/wp1-01.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2001-1

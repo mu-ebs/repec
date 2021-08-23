@@ -1,0 +1,502 @@
+Template-type: ReDIF-Paper 1.0
+Title: Semiparametric Methods in Nonlinear Time Series Analysis: A Selective Review
+Author-Name: Patrick Saart
+Author-X-Name-First: Patrick
+Author-X-Name-Last: Saart
+Author-Email: Patrick.Saart@monash.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords: Autoregressive time series; nonparametric model; nonstationary process; partially linear structure; semiparametric method
+Abstract: Time series analysis is a tremendous research area in statistics and econometrics. As remarked in a review by Howell Tong in 2001, for about 100 years up to 2001 Biometrika (alone) published over 400 papers on the subject. [Tong (2001)] Furthermore, in the review, Howell Tong is able break down up to fifteen key areas of research interest in time series analysis. Nonetheless, unlike that of Howell Tong, the aim of the review in this paper is not to cover a wide range of topics on the subject, but is to concentrate on a small, but extremely essential, point he made on the semiparametric methods in nonlinear time series analysis and to explore into various aspect of this research area in much more detail. It is also an objective of this review to provide some discussion on a future research where appropriate.
+Classification-JEL: 
+Creation-Date: 2012
+Number: 21/12
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp21-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-21
+
+Template-type: ReDIF-Paper 1.0
+Title: Specification Testing Driven by Orthogonal Series in Nonstationary Time Series Models
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua
+Author-X-Name-Last: Dong
+Author-Email: Chaohua.Dong@monash.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords: Consumption–income model; Integrated time series; Local–time process; Orthogonal series estimation; Parametric specification
+Abstract: This paper establishes two simple and new specification tests based on the use of an orthogonal series. The paper then establishes an asymptotic theory for each of the proposed tests. The first test is initially proposed for the case where the regression function involved is integrable and the second test is an extended version of the first test for covering a class of non–integrable functions. The finite sample performance of the proposed tests is examined through using several simulated examples. Meanwhile, an application of the second test shows that a second–order polynomial model is more appropriate than a commonly used linear model for modelling the relationship between the United States consumers’ consumption expenditure and disposable income over the time period of 1960–2009. Our experience generally shows that the proposed tests are easily implementable and also have stable sizes and good power properties even when the ’distance’ between the null hypothesis and a sequence of local alternatives is asymptotically negligible.
+Classification-JEL: 
+Creation-Date: 2012
+Number: 20/12
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp20-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-20
+
+Template-type: ReDIF-Paper 1.0
+Title: Recursive and direct multi-step forecasting: the best of both worlds
+Author-Name: Souhaib Ben Taieb
+Author-X-Name-First: Souhaib Ben
+Author-X-Name-Last: Taieb
+Author-Email: Souhaib.Taieb@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: Rob.Hyndman@monash.edu
+Keywords: Multi-step forecasting; forecasting strategies; recursive forecasting; direct forecasting; linear time series; nonlinear time series; M3 competition; NN5 competition
+Abstract: We propose a new forecasting strategy, called rectify, that seeks to combine the best properties of both the recursive and direct forecasting strategies. The rationale behind the rectify strategy is to begin with biased recursive forecasts and adjust them so they are unbiased and have smaller error. We use linear and nonlinear simulated time series to investigate the performance of the rectify strategy and compare the results with those from the recursive and the direct strategies. We also carry out some experiments using real world time series from the M3 and the NN5 forecasting competitions. We find that the rectify strategy is always better than, or at least has comparable performance to, the best of the recursive and the direct strategies. This finding makes the rectify strategy very attractive as it avoids making a choice between the recursive and the direct strategies which can be a difficult task in real-world applications.
+Classification-JEL: 
+Creation-Date: 2012
+Number: 19/12
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp19-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-19
+
+Template-type: ReDIF-Paper 1.0
+Title: Model Specification between Parametric and Nonparametric Cointegration
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Dag Tjøstheim
+Author-X-Name-First: Dag
+Author-X-Name-Last: Tjøstheim
+Author-Email: Dag.Tjostheim@monash.edu
+Author-Name: Jiying Yin
+Author-X-Name-First: Jiying
+Author-X-Name-Last: Yin
+Author-Email: Jiying.Yin@monash.edu
+Keywords: Cointegration, nonparametric kernel estimation, parametric model specification, time series.
+Abstract: This paper considers a general model specification between a parametric co-integrating model and a nonparametric co-integrating model in a multivariate regression model, which involves a univariate integrated time series regressor and a vector of stationary time series regressors. A new and simple test is proposed and the resulting asymptotic theory is established. The test statistic is constructed based on a natural distance function between a nonparametric estimate and a smoothed parametric counterpart. The asymptotic distribution of the test statistic under the parametric specification is proportional to that of a local-time random variable with a known distribution. In addition, the finite sample performance of the proposed test is evaluated through using both simulated and real data examples.
+Classification-JEL: 
+Creation-Date: 2012
+Number: 18/12
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp18-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-18
+
+Template-type: ReDIF-Paper 1.0
+Title: A Flexible Semiparametric Model for Time Series
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: Degui.Li@monash.edu
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton
+Author-Email: Oliver.Linton@monash.edu
+Author-Name: Zudi Lu
+Author-X-Name-First: Zudi
+Author-X-Name-Last: Lu
+Author-Email: Zudi.Lu@monash.edu
+Keywords: Asymptotic normality, model averaging, Nadaraya-Watson kernel estimation, near epoch dependence, semiparametric method
+Abstract: We consider approximating a multivariate regression function by an affine combination of one-dimensional conditional component regression functions. The weight parameters involved in the approximation are estimated by least squares on the first-stage nonparametric kernel estimates. We establish asymptotic normality for the estimated weights and the regression function in two cases: the number of the covariates is finite, and the number of the covariates is diverging. As the observations are assumed to be stationary and near epoch dependent, the approach in this paper is applicable to estimation and forecasting issues in time series analysis. Furthermore, the methods and results are augmented by a simulation study and illustrated by application in the analysis of the Australian annual mean temperature anomaly series. We also apply our methods to high frequency volatility forecasting, where we obtain superior results to parametric methods.
+Classification-JEL: 
+Creation-Date: 2012
+Number: 17/12
+Length: 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp17-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-17
+
+Template-type: ReDIF-Paper 1.0
+Title: An Improved Nonparametric Unit-Root Test
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Maxwell King
+Author-X-Name-First: Maxwell
+Author-X-Name-Last: King
+Author-Email: Max.King@monash.edu
+Keywords: Autoregression, nonparametric unit?root test, nonstationary time series, specification testing.
+Abstract: This paper proposes a simple and improved nonparametric unit-root test. An asymptotic distribution of the proposed test is established. Finite sample comparisons with an existing nonparametric test are discussed. Some issues about possible extensions are outlined.
+Classification-JEL: C12, C14, C22
+Creation-Date: 2012-08
+Number: 16/12
+Length: 24 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp16-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-16
+
+Template-type: ReDIF-Paper 1.0
+Title: Intermittent demand forecasting for inventory control: A multi-series approach
+Author-Name: Ralph Snyder
+Author-X-Name-First: Ralph
+Author-X-Name-Last: Snyder
+Author-Email: Ralph.Snyder@monash.edu
+Author-Name: Adrian Beaumont
+Author-X-Name-First: Adrian
+Author-X-Name-Last: Beaumont
+Author-Name: J. Keith Ord
+Author-X-Name-First: J. Keith
+Author-X-Name-Last: Ord
+Keywords: Demand forecasting; inventory control; shifted Poisson distribution
+Abstract: This paper is concerned with identifying an effective method for forecasting the lead time demand of slow-moving inventories.  Particular emphasis is placed on prediction distributions instead of point predictions alone. It is also placed on methods which work with small samples as well as large samples in recognition of the fact that the typical range of items has a mix of vintages due to different commissioning and decommissioning dates over time. Various forecasting methods are compared using monthly demand data for more than one thousand car parts. It is found that a multi-series version of exponential smoothing coupled with a Pólya (negative binomial) distribution works better than the other twenty-four methods considered, including the Croston method.
+Classification-JEL: C22
+Creation-Date: 2012-07
+Number: 15/12
+Length: 23 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp15-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-15
+
+Template-type: ReDIF-Paper 1.0
+Title: Nonlinear Regression with Harris Recurrent Markov Chains
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: Degui.Li@monash.edu
+Author-Name: Dag Tjøstheim
+Author-X-Name-First: Dag
+Author-X-Name-Last: Tjøstheim
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords: Asymptotic distribution, asymptotically homogeneous functions, ?-null recurrent Markov chains, Harris recurrence, integrable functions, least squares estimation, nonlinear regression.
+Abstract: In this paper, we study parametric nonlinear regression under the Harris recurrent Markov chain framework. We first consider the nonlinear least squares estimators of the parameters in the homoskedastic case, and establish asymptotic theory for the proposed estimators. Our results show that the convergence rates for the estimators rely not only on the properties of the nonlinear regression function, but also on the number of regenerations for the Harris recurrent Markov chain. We also discuss the estimation of the parameter vector in a conditional volatility function and its asymptotic theory. Furthermore, we apply our results to the nonlinear regression with I(1) processes and establish an asymptotic distribution theory which is comparable to that obtained by Park and Phillips (2001). Some simulation studies are provided to illustrate the proposed approaches and results.
+Classification-JEL: C13, C22
+Creation-Date: 2012-07
+Number: 14/12
+Length: 46 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp14-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-14
+
+Template-type: ReDIF-Paper 1.0
+Title: Using Engel Curves to Measure CPI Bias for Indonesia
+Author-Name: Susan Olivia
+Author-X-Name-First: Susan
+Author-X-Name-Last: Olivia
+Author-Email: Susan.Olivia@monash.edu
+Author-Name: John Gibson
+Author-X-Name-First: John
+Author-X-Name-Last: Gibson
+Keywords: CPI bias, Engel curved, Inflation Measurement error
+Abstract: To measure real income growth over time a price index is needed to adjust for changes in the cost of living. The Consumer Price Index (CPI) is often used for this task but studies from several countries show the CPI is a biased measure of changes in the cost of living, leading to potentially wrong estimates of the rate of growth of real income in this paper CPI bias for Indonesia is calculated by estimating food Engel curves for households with the same level of CPI-deflated incomes at four different points in time between 1993 and 2008. The results suggest CPI bias was initially negative during the Asian Crisis but has been positive since 2000. Over the entire period, CPI bias has averaged four precent annually, equivalent to almost one third of the measured inflation rate.
+Classification-JEL: C43, E31
+Creation-Date: 2012-06
+Number: 13/12
+Length: 24 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp13-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-13
+
+Template-type: ReDIF-Paper 1.0
+Title: Extending Unobserved Heterogeneity - A Strategy for Accounting for Respondent Perceptions in the Absence of Suitable Data
+Author-Name: Timothy A. Weterings
+Author-X-Name-First: Timothy A.
+Author-X-Name-Last: Weterings
+Author-Email: Timothy.Weterings@monash.edu
+Author-Name: Mark N. Harris
+Author-X-Name-First: Mark N.
+Author-X-Name-Last: Harris
+Author-Name: Bruce Hollingsworth
+Author-X-Name-First: Bruce
+Author-X-Name-Last: Hollingsworth
+Keywords: Ordered Choice Modeling, Unobserved Heterogeneity, Simulated Maximum Likelihood
+Abstract: This research proposes that, in cases where threshold covariates are either unavailable or difficult to observe, practitioners should treat these characteristics as latent, and use simulated maximum likelihood techniques to control for them. Two econometric frameworks for doing so in a more flexible manner are proposed. The finite sample performance of these new specifications are investigated with the use of Monte Carlo simulation. Applications of successively more flexible models are then given, with extensive post-estimation analysis utilised to better assess the likely implications of model choice on conclusions made in empirical research.
+Classification-JEL: C01, C23, C52
+Creation-Date: 2012-05
+Number: 12/12
+Length: 31 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp12-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-12
+
+Template-type: ReDIF-Paper 1.0
+Title: VAR Modeling and Business Cycle Analysis: A Taxonomy of Errors
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.S.
+Author-X-Name-Last: Poskitt
+Author-Email: Don.Poskitt@monash.edu
+Author-Name: Wenying Yao
+Author-X-Name-First: Wenying
+Author-X-Name-Last: Yao
+Author-Email: Wenying.Yao@monash.edu
+Keywords: VAR, estimation error, approximation error, RBC model
+Abstract: In this article we investigate the theoretical behaviour of finite lag VAR(n) models fitted to time series that in truth come from an infinite order VAR(?) data generating mechanism. We show that overall error can be broken down into two basic components, an estimation error that stems from the difference between the parameter estimates and their population ensemble VAR(n) counterparts, and an approximation error that stems from the difference between the VAR(n) and the true VAR(?). The two sources of error are shown to be present in other performance indicators previously employed in the literature to characterize, so called, truncation effects. Our theoretical analysis indicates that the magnitude of the estimation error exceeds that of the approximation error, but experimental results based upon a prototypical real business cycle model indicate that in practice the approximation error approaches its asymptotic position far more slowly than does the estimation error, their relative orders of magnitude notwithstanding. The experimental results suggest that with sample sizes and lag lengths like those commonly employed in practice VAR(n) models are likely to exhibit serious errors of both types when attempting to replicate the dynamics of the true underlying process and that inferences based on VAR(n) models can be very untrustworthy.
+Classification-JEL: C18, C32, C52, C54, E37
+Creation-Date: 2012-04-19
+Number: 11/12
+Length: 22 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp11-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-11
+
+Template-type: ReDIF-Paper 1.0
+Title: Point and interval forecasts of age-specific fertility rates:  a comparison of functional principal component methods
+Author-Name: Han Lin Shang
+Author-X-Name-First: Han Lin
+Author-X-Name-Last: Shang
+Author-Email: Han.Shang@monash.edu
+Keywords: Functional data analysis, functional principal component analysis, forecast accuracy comparison, random walk with drift, random walk, ARIMA model
+Abstract: Accurate forecasts of age-specific fertility rates are critical for government policy, planning and decision making. With the availability of Human Fertility Database (2011), we compare the empirical accuracy of the point and interval forecasts, obtained by the approach of Hyndman and Ullah (2007) and its variants for forecasting age-specific fertility rates. The analyses are carried out using the age-specific fertility data of 15 mostly developed countries. Based on the one-step-ahead to 20-step-ahead forecast error measures, the weighted Hyndman-Ullah method provides the most accurate point and interval forecasts for forecasting age-specific fertility rates, among all the methods we investigated.
+Classification-JEL: J11, J13, C14
+Creation-Date: 2012-04-16
+Number: 10/12
+Length: 28 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp10-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-10
+
+Template-type: ReDIF-Paper 1.0
+Title: Higher Order Improvements of the Sieve Bootstrap for Fractionally Integrated Processes
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.S.
+Author-X-Name-Last: Poskitt
+Author-Email: Don.Poskitt@monash.edu
+Author-Name: Simone D. Grose
+Author-X-Name-First: Simone D.
+Author-X-Name-Last: Grose
+Author-Email: Simone.Grose@monash.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael M.
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Keywords: Bias, bootstrap-based inference, Edgeworth expansion, pre-filtered sieve bootstrap, sampling distribution.
+Abstract: This paper investigates the accuracy of bootstrap-based inference in the case of long memory fractionally integrated processes. The re-sampling method is based on the semi-parametric sieve approach, whereby the dynamics in the process used to produce the bootstrap draws are captured by an autoregressive approximation. Application of the sieve method to data pre-filtered by a semi-parametric estimate of the long memory parameter is also explored. Higher-order improvements yielded by both forms of re-sampling are demonstrated using Edgeworth expansions for a broad class of linear statistics. The methods are then applied to the problem of estimating the sampling distribution of the sample mean under long memory, in an experimental setting. The pre-filtered version of the bootstrap is shown to avoid the distinct underestimation of the sampling variance of the mean which the raw sieve method demonstrates in finite samples, higher order accuracy of the latter notwithstanding.
+Classification-JEL: C18, C22, C52
+Creation-Date: 2012-04
+Number: 9/12
+Length: 26 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp9-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-9
+
+Template-type: ReDIF-Paper 1.0
+Title: Bias Reduction of Long Memory Parameter Estimators via the Pre-filtered Sieve Bootstrap
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.S.
+Author-X-Name-Last: Poskitt
+Author-Email: Don.Poskitt@monash.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael M.
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: Simone D. Grose
+Author-X-Name-First: Simone D.
+Author-X-Name-Last: Grose
+Author-Email: Simone.Grose@monash.edu
+Keywords: Analytical bias correction, bootstrap bias correction, confidence interval, coverage, precision, log periodogram estimator, local Whittle estimator.
+Abstract: This paper investigates the use of bootstrap-based bias correction of semi-parametric estimators of the long memory parameter in fractionally integrated processes. The re-sampling method involves the application of the sieve bootstrap to data pre-filtered by a preliminary semi-parametric estimate of the long memory parameter. Theoretical justification for using the bootstrap techniques to bias adjust log periodogram and semi-parametric local Whittle estimators of the memory parameter is provided. Simulation evidence comparing the performance of the bootstrap bias correction with analytical bias correction techniques is also presented. The bootstrap method is shown to produce notable bias reductions, in particular when applied to an estimator for which analytical adjustments have already been used. The empirical coverage of confidence intervals based on the bias-adjusted estimators is very close to the nominal, for a reasonably large sample size, more so than for the comparable analytically adjusted estimators. The precision of inferences (as measured by interval length) is also greater when the bootstrap is used to bias correct rather than analytical adjustments.
+Classification-JEL: C18, C22, C52
+Creation-Date: 2012-04
+Number: 8/12
+Length: 37 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp8-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-8
+
+Template-type: ReDIF-Paper 1.0
+Title: Solving Replication Problems in Complete Market by Orthogonal Series Expansion
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua
+Author-X-Name-Last: Dong
+Author-Email: Chaohua.Dong@monash.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords:  Approximation theory, Black-Scholes theory, complete market, stochastic process, time series
+Abstract: We reconsider the replication problem for contingent claims in a complete market under a general framework. Since there are various limitations in the Black-Scholes pricing formula, we propose a new method to obtain an explicit self-financing trading strategy expression for replications of claims in a general model. The departure of our method from the literature is, using an orthogonal expansion of a process related to the proposed trading strategy, we can construct a complete orthonormal basis for the space of cumulative gains in the complete market so that every self-financing strategy can be expressed as a combination of the basis. Hence, a replication strategy is obtained for a European option. Converse to the traditional Black-Scholes theory, we derive a pricing formula for a European option from the proposed replication strategy that is quite different from the Black-Scholes pricing formula. We then provide an implementation procedure to show how the proposed trading strategy works in practice and then compare with a replication strategy based on the Black-Scholes theory.
+Classification-JEL: C13, C22, C45
+Creation-Date: 2012-03
+Number: 7/12
+Length: 13 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp7-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-7
+
+Template-type: ReDIF-Paper 1.0
+Title: Identification, Estimation and Specification in a Class of Semiparametic Time Series Models
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords:  Asymptotic theory, departure function, kernel method, nonlinearity, nonstationarity, semiparametric model, stationarity, time series
+Abstract: In this paper, we consider some identification, estimation and specification problems in a class of semiparametric time series models. Existing studies for the stationary time series case have been reviewed and discussed. We also consider the case where new studies for the integrated nonstationary case are established. In the meantime, we propose some new estimation methods and establish some new results for a new class of semiparametric autoregressive models. In addition, we discuss certain directions for further research.
+Classification-JEL: C13, C14, C22
+Creation-Date: 2012-03
+Number: 6/12
+Length: 15 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp6-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-6
+
+Template-type: ReDIF-Paper 1.0
+Title: Parameter estimation for a discrete-response model with double rules of sample selection: A Bayesian approach
+Author-Name: Rong Zhang
+Author-X-Name-First: Rong
+Author-X-Name-Last: Zhang
+Author-Email: Rong.Zhang@monash.edu
+Author-Name: Brett A. Inder
+Author-X-Name-First: Brett A.
+Author-X-Name-Last: Inder
+Author-Email: Brett.Inder@monash.edu
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@monash.edu
+Keywords:  Bayesian sampling; conditional posterior; marginal effects; mental illness; reparameterization.
+Abstract: We present a Bayesian sampling approach to parameter estimation in a discrete-response model with double rules of selectivity, where the dependent variables contain two layers of binary choices and one ordered response. Our investigation is motivated by an empirical study using such a double-selection rule for three labor-market outcomes, namely labor force participation, employment and occupational skill level. Full information maximum likelihood (FIML) estimation often encounters convergence problems in numerical optimization. The contribution of our investigation is to present a sampling algorithm through a new reparameterization strategy. We conduct Monte Carlo simulation studies and find that the numerical optimization of FIML fails for more than half of the simulated samples. Our Bayesian method performs as well as FIML for the simulated samples where FIML works. Moreover, for the simulated samples where FIML fails, Bayesian works as well as it does for the simulated samples where FIML works. We apply the proposed sampling algorithm to the double-selection model of labor-force participation, employment and occupational skill level. We derive the 95% Bayesian credible intervals for marginal effects of the explanatory variable on the three labor-force outcomes. In particular, the marginal effects of mental health factors on these three outcomes are discussed.
+Classification-JEL: C35, C11
+Creation-Date: 2012-02
+Number: 5/12
+Length: 32 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp5-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-5
+
+Template-type: ReDIF-Paper 1.0
+Title: Measuring Poverty and Inequality from Highly Aggregated Small Area Data: The Changing Fortunes of Latrobe Valley Households
+Author-Name: Jill Wright
+Author-X-Name-First: Jill
+Author-X-Name-Last: Wright
+Author-Email: Jill.Wright@monash.edu
+Author-Name: Ma. Rebecca Valenzuela
+Author-X-Name-First: Ma. Rebecca
+Author-X-Name-Last: Valenzuela
+Author-Name: Duangkamon Chotikapanich
+Author-X-Name-First: Duangkamon
+Author-X-Name-Last: Chotikapanich
+Author-Email: Duangkamon.Chotikapanich@monash.edu
+Keywords:  Poverty, inequality, restructure, privatization, small-area income distribution.
+Abstract: The Latrobe Valley generates 85% of Victoria's electricity. The progressive privatisation of the electricity industry between 1989 and 1997, had a lasting effect on income distribution in the region. This paper investigates the change in income level, inequality and poverty for this region between 1986 and 2006. To circumvent data availability issues, we propose a general method of using aggregated data to obtain regional income distributions. We find that in 1986 Latrobe Valley incomes were well above other non-metropolitan areas while inequality measures were relatively low. Mean income subsequently dropped below comparable locations while inequality rose. Although income levels had partially recovered by 2006, inequality measures continued to rise.
+Classification-JEL: D31, D63, R13, I32
+Creation-Date: 2011-12-08
+Number: 4/12
+Length: 41 pages
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp4-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-4
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian Approaches to Non-parametric Estimation of Densities on the Unit Interval
+Author-Name: Song Li
+Author-X-Name-First: Song
+Author-X-Name-Last: Li
+Author-Email: Song.Li@monash.edu
+Author-Name: Mervyn J. Silvapulle
+Author-X-Name-First: Mervyn J.
+Author-X-Name-Last: Silvapulle
+Author-Email: Mervyn.Silvapulle@monash.edu
+Author-Name: Param Silvapulle
+Author-X-Name-First: Param
+Author-X-Name-Last: Silvapulle
+Author-Email: Param.Silvapulle@monash.edu
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: Xibin.Zhang@monash.edu
+Keywords: Asymmetric kernel, Bayes factor, boundary bias, kernel selection, marginal
+likelihood, recovery-rate density
+Abstract: This paper investigates nonparametric estimation of density on [0,1]. The kernel
+estimator of density on [0,1] has been found to be sensitive to both bandwidth and kernel.
+This paper proposes a unified Bayesian framework for choosing both the bandwidth and kernel
+function. In a simulation study, the Bayesian bandwidth estimator performed better than
+others, and kernel estimators were sensitive to the choice of the kernel and the shapes of
+the population densities on [0,1]. The simulation and empirical results demonstrate that the
+methods proposed in this paper can improve the way the probability densities on [0,1] are
+presently estimated.
+Classification-JEL: C11, C14, C15
+Creation-Date: 2012-01
+Number: 3/12
+Length: 31 pages
+Publication-Status:
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp3-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-3
+
+Template-type: ReDIF-Paper 1.0
+Title: Expansion of Lévy Process Functionals and Its Application in Statistical Estimation
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua
+Author-X-Name-Last: Dong
+Author-Email: Chaohua.Dong@monash.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Keywords: Expansion, Lévy Process, Orthogonal Series, Statistical Estimation.
+Abstract: In this paper, expansions of functionals of Lévy processes are established under
+some Hilbert spaces and their orthogonal bases. From practical standpoint, both
+time-homogeneous and time-inhomogeneous functionals of Lévy processes are considered.
+Several expansions and rates of convergence are established. In order to state asymptotic
+distributions for statistical estimators of unknown parameters involved in a general
+regression model, we develop a general asymptotic theory for partial sums of functionals of
+Lévy processes. The results show that these estimators of the unknown parameters in
+different situations converge to quite different random variables. In addition, the rates of
+convergence depend on various factors rather than just the sample size.
+Classification-JEL: C13, C14, C22
+Creation-Date: 2012-01
+Number: 2/12
+Length: 89 pages
+Publication-Status:
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp2-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-2
+
+Template-type: ReDIF-Paper 1.0
+Title: Independence Test for High Dimensional Random Vectors
+Author-Name: G. Pan
+Author-X-Name-First: G.
+Author-X-Name-Last: Pan
+Author-Name: J. Gao
+Author-X-Name-First: J.
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Y. Yang
+Author-X-Name-First: Y.
+Author-X-Name-Last: Yang
+Author-Name: M. Guo
+Author-X-Name-First: M.
+Author-X-Name-Last: Guo
+Keywords: Independence test, cross-sectional dependence, empirical spectral distribution,
+characteristic function, Marcenko-Pastur Law
+Abstract: This paper proposes a new mutual independence test for a large number of high
+dimensional random vectors. The test statistic is based on the characteristic function of
+the empirical spectral distribution of the sample covariance matrix. The asymptotic
+distributions of the test statistic under the null and local alternative hypotheses are
+established as dimensionality and the sample size of the data are comparable. We apply this
+test to examine multiple MA(1) and AR(1) models, panel data models with some spatial
+cross-sectional structures. In addition, in a flexible applied fashion, the proposed test
+can capture some dependent but uncorrelated structures, for example, nonlinear MA(1) models,
+multiple ARCH(1) models and vandermonde matrices. Simulation results are provided for
+detecting these dependent structures. An empirical study of dependence between closed stock
+prices of several companies from New York Stock Exchange (NYSE) demonstrates that the
+feature of cross-sectional dependence is popular in stock markets
+Classification-JEL: C12, C21, C22
+Creation-Date: 2012-01-20
+Number: 1/12
+Length: 41 pages
+Publication-Status:
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp1-12.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2012-1

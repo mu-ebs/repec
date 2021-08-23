@@ -1,0 +1,584 @@
+Template-type: ReDIF-Paper 1.0
+Title: A Quantile Regression Approach to Panel Data Analysis of Health Care Expenditure in OECD Countries
+Author-Name: Fengping Tian
+Author-X-Name-First: Fengping
+Author-X-Name-Last: Tian
+Author-Email: tfengp@mail.sysu.edu.cn
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Ke Yang
+Author-X-Name-First: Ke
+Author-X-Name-Last: Yang
+Author-Email: yangkedc@foxmail.com
+Keywords: health care expenditure, quantile regression, OECD countries, unbalanced growth
+Abstract: This article investigates the variation in the effects of various determinants on the per capita health care expenditure. A total of 28 OECD countries are studied over the period 1990-2012, employing an instrumental variable quantile regression method for a dynamic panel model with fixed effects. The results show that the determinants of per capita health care expenditure do vary with the distribution of the health care expenditure growth, while the change patterns are dissimilar. Specifically, the lagged health spending growth has a significantly positive effect, with an effect that decreases towards the higher quantiles of growth of per capita health care expenditure. Per capita GDP has a significantly positive effect, both the short and long run income elasticities are smaller than one, and health care is a necessity. The density of physicians only has a significant negative effect at the lower tail of the distribution. The elderly population has the reverse effect at the lower and upper tails, and this shows an upward trend with the increase in health expenditure growth. Life expectancy has an effect similar to the proportion of the old. Variable representing Baumol's model of "unbalanced growth" theory has a significantly positive effect, and the change pattern of its influence shows a marked upward trend. However, one component of "Baumol variable", labor productivity, only shows significant effect in the low half of the distribution. More attention needs to be paid to the influence of determinants in health expenditure study.
+Classification-JEL: C22, C23, I11
+Creation-Date: 2016
+Number: 20/16
+Length: 26 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp20-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-20
+
+Template-type: ReDIF-Paper 1.0
+Title: Another Look at Single-Index Models Based on Series Estimation
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua
+Author-X-Name-Last: Dong
+Author-Email: dchaohua@hotmail.com
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@uts.edu.au 
+Keywords: asymptotic theory, closed-form estimate, cross-sectional model, Hermite orthogonal expansion, series method
+Abstract: In this paper, a semiparametric single-index model is investigated. The link function is allowed to be unbounded and has unbounded support that answers a pen ding issue in the literature. Meanwhile, the link function is treated as a point in an infinitely many dimensional function space which enables us to derive the estimates for the index parameter and the link function simultaneously. This approach is different from the profile method commonly used in the literature. The estimator is derive d from an optimization with the constraint of identification condition for index parameter, which is a natural way but ignored in the literature. 
+
+In addition, making use of a property of Hermite orthogonal polynomials, an explicit estimator for the index parameter is obtained. Asymptotic properties for the two estimators of the index parameter are established. Their efficiency is discussed in some special cases as well. The finite sample properties of the two estimates are demonstrated through an extensive Monte Carlo study and an empirical example. 
+Classification-JEL: C13, C14, C51
+Creation-Date: 2016
+Number: 19/16
+Length: 40
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp19-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-19
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Asymptotic Properties of Approximate Bayesian Computation
+Author-Name: D.T. Frazier
+Author-X-Name-First: David
+Author-X-Name-Last: Frazier
+Author-Email: David.Frazier@monash.edu
+Author-Name: G.M. Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: C.P. Robert
+Author-X-Name-First: Christian
+Author-X-Name-Last: Robert
+Author-Email: xian@ceremade.dauphine.fr
+Author-Name: J. Rousseau
+Author-X-Name-First: J.
+Author-X-Name-Last: Rousseau
+Author-Email: rousseau@ceremade.dauphine.fr
+Keywords: asymptotic properties, Bayesian inference, Bernstein-von Mises theorem, consistency, likelihood-free methods
+Abstract: Approximate Bayesian computation (ABC) is becoming an accepted tool for statistical analysis in models with intractable likelihoods. With the initial focus being primarily on the practical import of ABC, exploration of its formal statistical properties has begun to attract more attention. In this paper we consider the asymptotic behaviour of the posterior obtained from ABC and the ensuing posterior mean. We give general results on: (i) the rate of concentration of the ABC posterior on sets containing the true parameter (vector); (ii) the limiting shape of the posterior; and (iii) the asymptotic distribution of the ABC posterior mean. These results hold under given rates for the tolerance used within ABC, mild regularity conditions on the summary statistics, and a condition linked to identification of the true parameters. Important implication of the theoretical results for practitioners of ABC are highlighted.
+Classification-JEL: C11, C15, C18 
+Creation-Date: 2016
+Number: 18/16
+Length: 24
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp18-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-18
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Data-driven particle Filters for particle Markov Chain Monte Carlo
+Author-Name: Patrick Leung
+Author-X-Name-First: Patrick
+Author-X-Name-Last: Leung
+Author-Email: Patrick.Leung@monash.edu
+Author-Name: Catherine S. Forbes
+Author-X-Name-First: Catherine 
+Author-X-Name-Last: Forbes
+Author-Email: Catherine.Forbes@monash.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael 
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: Brendan McCabe
+Author-X-Name-First: Brendan
+Author-X-Name-Last: McCabe
+Author-Email: Brendan.McCabe@liverpool.ac.uk
+Keywords: Bayesian inference, non-Gaussian time series, state space models, unbiased likelihood estimation, sequential Monte Carlo
+Abstract: This paper proposes new automated proposal distributions for sequential Monte Carlo algorithms, including particle filtering and related sequential importance sampling methods. The wrights for these proposal distributions are easily established, as is the unbiasedness property of the resultant likelihood estimators, so that the methods may be used within a particle Markov chain Monte Carlo (PMCMC) inferential setting. Simulation exercises, based on a range of state space models, are used to demonstrate the linkage between the signal-to-noise ratio of the system and the performance of the new particle filters, in comparison with existing filters. In particular, we demonstrate that one of our proposed filters performs well in a high signal-to-noise ratio setting, that is, when the observation is informative in identifying the location of the unobserved state. A second filter, deliberately designed to draw proposals that are informed by both the current observation and past states, is shown to work well across a range of signal-to noise ratios and to be much more robust than the auxiliary particle filter, which is often used as the default choice. We then extend the study to explore the performance of the PMCMC algorithm using the new filters to estimate the likelihood function, once again in comparison with existing alternatives. Taking into consideration robustness to the signal-to-noise ratio, computation time and the efficiency of the chain, the second of the new filters is again found to be the best-performing method. Application of the preferred filter to a stochastic volatility model for weekly Australian/US exchange rate returns completes the paper.
+Classification-JEL: C11, C32, C53
+Creation-Date: 2016
+Number: 17/16
+Length: 40 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp17-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-17
+
+
+Template-type: ReDIF-Paper 1.0
+Title: The Bivariate Probit Model, Maximum Likelihood Estimation, Pseudo True Parameters and Partial Identification
+Author-Name: Chuhui Li
+Author-X-Name-First: Chuhui
+Author-X-Name-Last: Li
+Author-Email: chuhui.li@monash.edu
+Author-Name: Donald S. Poskitt
+Author-X-Name-First: Donald 
+Author-X-Name-Last: Poskitt
+Author-Email: donald.poskitt@monash.edu
+Author-Name: Xueyan Zhao
+Author-X-Name-First: Xueyan
+Author-X-Name-Last: Zhao
+Author-Email: xueyan.zhao@monash.edu
+Keywords: partial identification, binary outcome models, mis-specification, average treatment effect
+Abstract: This paper presents an examination of the finite sample performance of likelihood based estimators derived from different functional forms. We evaluate the impact of 
+functional form miss-specification on the performance of the maximum likelihood estimator derived from the bivariate probit model. We also investigate the practical importance 
+of available instruments in both cases of correct and incorrect distributional specifications. We analyze the finite sample properties of the endogenous dummy variable and 
+covariate coefficient estimates, and the correlation coefficient estimates, and we examine the existence of possible "compensating effects" between the latter and estimates of 
+parametric functions such as the predicted probabilities and the average treatment effect. Finally, we provide a bridge between the literature on the bivariate probit model 
+and that on partial identification by demonstrating how the properties of likelihood based estimators are explicable via a link between the notion of pseudo-true parameter 
+values and the concepts of partial identification.
+Classification-JEL: C31, C35, C36 
+Creation-Date: 2016
+Number: 16/16
+Length: 33 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp16-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-16 
+
+Template-type: ReDIF-Paper 1.0
+Title: Singular Spectrum Analysis of Grenander Processes and Sequential Time Series Reconstruction
+Author-Name: D.S. Poskitt
+Author-X-Name-First: D.
+Author-X-Name-Last: Poskitt
+Author-Email: donald.poskitt@monash.edu
+Keywords: embedding, principle components, re-scaled trajectory matrix, singular value decomposition, spectrum.
+Abstract: This paper provides a detailed analysis of the properties of Singular Spectrum Analysis (SSa) under very general conditions concerning the structure of the observed 
+series. It translates the SSA interpretation of the singular value decomposition of the so called trajectory matrix as a discrete Karhunen-Loeve expansion into conventional 
+principle components analysis, and shows how this motivates a consideration of SSA constructed using standardized or re-scaled trajectories (R-SSA). The asymptotic properties of 
+R-SSA are derived assuming that the true data generating process (DGP) satisfies sufficient regularity to ensure that Grenander's conditions are satisfied. The spectral structure 
+of different population ensemble models implicit in the large sample properties so derived is examined and it is shown how the decomposition of the spectrum into discrete and 
+continuous components leads to an application of sequential R-SSA series reconstruction. As part of the latter exercise the paper presents a generalization of Szego's theorem 
+to fractionally integrated processes. The operation of the theoretical results is demonstrated via simulation experiments. The latter serve as a vehicle to illustrate the 
+numerical consequences of the results in the context of different processes, and to assess the practical impact of the sequential R-SSA processing methodology.
+Classification-JEL: C14, C22, C52 
+Creation-Date: 2016
+Number: 15/16
+Length: 45 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp15-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-15
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Specification Testing for Nonlinear Multivariate Cointegrating Regressions
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua
+Author-X-Name-Last: Dong
+Author-Email: dchaohua@hotmail.com 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Dag Tjostheim
+Author-X-Name-First: Dag
+Author-X-Name-Last: Tjostheim
+Author-Email: dag.tjostheim@math.uib.no
+Author-Name: Jiying Yin
+Author-X-Name-First: Jiying
+Author-X-Name-Last: Yin
+Author-Email: 
+Keywords: cointegration, endogeneity, nonparametric kernel estimation, parametric model specification, time series
+Abstract: This paper considers a general model specification test for nonlinear multivariate cointegrating regressions where the regressor consists of a univariate 
+integrated time series and a vector of stationary time series. The regressors and the errors are generated from the same innovations, so that the model accommodates 
+endogeneity. A new and simple test is proposed and the resulting asymptotic theory is established. The test statistic is constructed based on a natural distance function 
+between a nonparametric estimate and a smoothed parametric counterpart. The asymptotic distribution of the test statistic under the parametric specification is proportional
+to that of a local-time random variable with a known distribution. In addition, the finite sample performance of the proposed test is evaluated through using both simulated 
+and real data examples.
+Classification-JEL: C12, C14, C22
+Creation-Date: 2016
+Number: 14/16
+Length: 85 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp14-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-14
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Error-in-Variables Jump Regression Using Local Clustering
+Author-Name: Yicheng Kang
+Author-X-Name-First: Yicheng
+Author-X-Name-Last: Kang
+Author-Email: 
+Author-Name: Xiaodong Gong
+Author-X-Name-First: Xiaodong
+Author-X-Name-Last: Gong
+Author-Email: xiaodong.gong@canberra.edu.au 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Peihua Qiu
+Author-X-Name-First: Peihua
+Author-X-Name-Last: Qiu
+Author-Email: pqiu@ufl.edu
+Keywords: clustering, demand for private health insurance, kernel smoothing, local regression, measurement errors, price elasticity
+Abstract: Error-in-variables regression is widely used in econometric models. The statistical analysis becomes challenging when the regression function is discontinuous and 
+the distribution of measurement error is unknown. In this paper, we propose a novel jump-preserving curve estimation method. A major feature of our method is that it can remove 
+the noise effectively while preserving the jumps well, without requiring much prior knowledge about the measurement error distribution. The jump-preserving property is achieved 
+mainly by local clustering. We show that the proposed curve estimator is statistical consistent, and it performs favourably, in comparison with an existing jump-preserving estimator. 
+Finally, we demonstrate our method by an application to a health tax policy study in Australia.
+Classification-JEL: C13, C14
+Creation-Date: 2016
+Number: 13/16
+Length: 49
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp13-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-13
+
+
+
+Template-type: ReDIF-Paper 1.0
+Title: CEstimation of Structural Breaks in Large Panels with Cross-Sectional Dependence
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: Jiti.Gao@monash.edu
+Author-Name: Guangming Pan
+Author-X-Name-First: Guangming
+Author-X-Name-Last: Pan
+Author-Email: gmpan@ntu.edu.sg
+Author-Name: Yanrong Yang
+Author-X-Name-First: Yanrong
+Author-X-Name-Last: Yang
+Author-Email: yanrong.yang@monash.edu
+Keywords: cross-sectional averages, dynamic factor model, joint estimation, marginal estimation, strong factor loading
+Abstract: This paper considers modelling and detecting structure breaks associated with cross-sectional dependence for large dimensional panel data models, which are popular 
+in many fields including economics and finance. We propose a dynamic factor structure to measure the degree of cross-sectional dependence. The extent of such cross-sectional 
+dependence is parameterized as an unknown parameter, which is defined by assuming that a small proportion of the total factor loadings are important. Compared with the usual 
+parameterized style, this exponential description of extent covers the case of small proportion of the total sections being cross-sectionally dependent. We established a 
+'moment' criterion to estimate the unknown based on the covariance of cross-sectional averages at different time lags. By taking into account the fact that the serial dependence 
+of common factors is stronger than that of idiosyncratic components, the proposed criterion is able to capture weak cross-sectional dependence that is reflected on relatively 
+small values of the unknown parameter. Due to the involvement of some unknown parameter, both joint and marginal estimators are constructed. This paper then establishes that 
+the joint estimators of a pair of unknown parameters converge in distribution to bivariate normal. In the case where the other unknown parameter is being assumed to be known, 
+an asymptotic distribution for an estimator of the original unknown parameter is also established, which naturally coincides with the joint asymptotic distribution for the case 
+where the other unknown parameter is assumed to be known. Simulation results show the finite-sample effectiveness of the proposed method. Empirical applications to cross-country 
+macro-variables and stock returns in SP500 market are also reported to show the practical relevance of the proposed estimation theory.
+Classification-JEL: C21, C32
+Creation-Date: 2016
+Number: 12/16
+Length: 45 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp12-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-12
+
+
+Template-type: ReDIF-Paper 1.0
+Title: CLT for Largest Eigenvalues and Unit Root Tests for High-Dimensional Nonstationary Time Series
+Author-Name: Bo Zhang
+Author-X-Name-First: Bo
+Author-X-Name-Last: Zhang
+Author-Email: bzhang007@e.ntu.edu.sg
+Author-Name: Guangming Pan
+Author-X-Name-First: Guangming
+Author-X-Name-Last: Pan
+Author-Email: gmpan@ntu.edu.sg
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords: asymptotic normality, largest eigenvalue, linear process, unit root test
+Abstract: This paper first considers some testing issues for a vector of high-dimensional time series before it establishes a joint distribution for the largest eigenvalues of the 
+corresponding co-variance matrix associated with the high-dimensional time series for the case where both the dimensionality of the time series and the length of time series go to 
+infinity.
+
+As an application, a new unit root test for a vector of high-dimensional time series is proposed and then studied both theoretically and numerically to show that existing unit tests 
+for the fixed-dimensional case are not applicable
+Classification-JEL: C21, C32
+Creation-Date: 2016
+Number: 11/16
+Length: 40 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp11-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-11
+
+Template-type: ReDIF-Paper 1.0
+Title: Visualising forecasting Algorithm Performance using Time Series Instance Spaces
+Author-Name: Yanfei Kang
+Author-X-Name-First: Yanfei
+Author-X-Name-Last: Kang
+Author-Email: yanfei.kang@outlook.com
+Author-Name: Rob J. Hyndman
+Author-X-Name-First: Rob 
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Kate Smith-Miles 
+Author-X-Name-First: Kate 
+Author-X-Name-Last: Smith-Miles
+Author-Email: kate.smith-miles@monash.edu
+Keywords: M3-competition, time series visualisation, time series generation, forecasting algorithm comparison
+Abstract: It is common practice to evaluate the strength of forecasting methods using collections of well-studied time series datasets, such as the M3 data. But how diverse are these time series, how challenging, and do they enable us to study the unique strengths and weaknesses of different forecasting methods? In this paper we propose a visualisation method for a collection of time series that enables a time series to be represented as a point in a 2-dimensional instance space. The effectiveness of different forecasting methods can be visualised easily across this space, and the diversity of the time series in an existing collection can be assessed. Noting that the M3 dataset is not as diverse as we would ideally like, this paper also proposes a method for generating new time series with controllable characteristics to fill in and spread out the instance space, making generalisations of forecasting method performance as robust as possible.
+Classification-JEL: C52, C53, C55
+Creation-Date: 2016
+Number: 10/16
+Length: 23
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp10-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-10
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Auxiliary Likelihood-Based Approximate Bayesian Computation in State Space Models
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael 
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu
+Author-Name: Brendan P.M. McCabe
+Author-X-Name-First: Brendan 
+Author-X-Name-Last: McCabe
+Author-Email: Brendan.McCabe@liverpool.ac.uk
+Author-Name: David T. Frazier
+Author-X-Name-First: David 
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Author-Name: Worapree Maneesoonthorn
+Author-X-Name-First: Worapree
+Author-X-Name-Last: Maneesoonthorn
+Author-Email: o.maneesoonthorn@mbs.edu 
+Author-Name: Christian P. Robert 
+Author-X-Name-First: Christian 
+Author-X-Name-Last: 
+Author-Email: xian@ceremade.dauphine.fr
+Keywords: likelihood-free methods, latent diffusion models, Bayesian consistency, asymptotic sufficiency, unscented Kalman filter, stochastic volatility
+Abstract: A new approach to inference in state space models is proposed, using approximate Bayesian computation (ABC). ABC avoids evaluation of an intractable likelihood by matching summary statistics computed from observed data with statistics computed from data simulated from the true process, based on parameter draws from the prior. Draws that produce a ‘match’ between observed and simulated summaries are retained, and used to estimate the inaccessible posterior; exact inference being possible in the state space setting, we pursue summaries via the maximization of an auxiliary likelihood function. We derive conditions under which this auxiliary likelihood-based approach achieves Bayesian consistency and show that – in a precise limiting sense – results yielded by the auxiliary maximum likelihood estimator are replicated by the auxiliary score. Particular attention is given to a structure in which the state variable is driven by a continuous time process, with exact inference typically infeasible in this case due to intractable transitions Two models for continuous time stochastic volatility are used for illustration, with auxiliary likelihoods constructed by applying computationally efficient filtering methods to discrete time approximations. The extent to which the conditions for consistency are satisfied is demonstrated in both cases, and the accuracy of the proposed technique when applied to a square root volatility model also demonstrated numerically. In multiple parameter settings a separate treatment of each parameter, based on integrated likelihood techniques, is advocated as a way of avoiding the curse of dimensionality associated with ABC methods.
+Classification-JEL: C11, C22, C58
+Creation-Date: 2016
+Number: 09/16
+Length: 41 
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp09-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-09
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Inference on Self-Exciting Jumps in Prices and Volatility using High Frequency Measures
+Author-Name: Worapree Maneesoonthorn
+Author-X-Name-First: Worapree
+Author-X-Name-Last: Maneesoonthorn
+Author-Email: o.maneesoonthorn@mbs.edu
+Author-Name: Catherine S. Forbes
+Author-X-Name-First: Catherine 
+Author-X-Name-Last: Forbes
+Author-Email: catherine.forbes@monash.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael 
+Author-X-Name-Last: Martin
+Author-Email: gael.martin@monash.edu
+Keywords: dynamic price and volatility jumps, stochastic volatility, Hawkes process, nonlinear state space model, Bayesian Markov chain Monte Carlo, global financial crises
+Abstract: Dynamic jumps in the price and volatility of an asset are modelled using a joint Hawkes process in conjunction with a bivariate jump diffusion. A state space representation is used to link observed returns, plus nonparametric measures of integrated volatility and price jumps, to the specified model components; with Bayesian inference conducted using a Markov chain Monte Carlo algorithm. An evaluation of marginal likelihoods for the proposed model relative to a large number of alternative models, including some that have featured in the literature, is provided. An extensive empirical investigation is undertaken using data on the S&P500 market index over the 1996 to 2014 period, with substantial support for dynamic jump intensities -- including in terms of predictive accuracy -- documented.
+Classification-JEL: C11, C58, G01
+Creation-Date: 2016
+Number: 8/16
+Length: 35
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp08-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-8
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Nonparametric Localized Bandwidth Selection for Kernel Density Estimation
+Author-Name: Tingting Cheng
+Author-X-Name-First: Tingting
+Author-X-Name-Last: Cheng
+Author-Email: chengtingting2015@outlook.com
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: xibin.zhang@monash.edu
+Keywords: density estimation, localized bandwidth, GARCH model
+Abstract: As conventional cross-validation bandwidth selection methods do not work properly in the situation where the data are serially dependent time series, alternative bandwidth selection methods are necessary. In recent years, Bayesian based methods for global bandwidth selection have been studied. Our experience shows that a global bandwidth is however less suitable than a localized bandwidth in kernel density estimation based on serially dependent time series data. Nonetheless, a difficult issue is how we can consistently estimate a localized bandwidth. This paper presents a nonparametric localized bandwidth estimator, for which we established a completely new asymptotic theory. Applications of this new bandwidth estimator to the kernel density estimation of Eurodollar deposit rate and the S&P 500 daily return demonstrate the effectiveness and competitiveness of the proposed localized bandwidth.
+Classification-JEL: C13, C14, C21 
+Creation-Date: 2016
+Number: 7/16
+Length: 35
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp07-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-7
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian Rank Selection in Multivariate Regression
+Author-Name: Bin Jiang
+Author-X-Name-First: Bin
+Author-X-Name-Last: Jiang
+Author-Email: bin.jiang@monash.edu
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios
+Author-X-Name-Last: Panagiotelis
+Author-Email: anastasios.panagiotelis@monash.edu
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: george.athanasopoulos@monash.edu
+Author-Name: Rob Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: farshid.vahid@monash.edu
+Keywords: singular value decomposition, model selection, vector autoregression, macroeconomic forecasting, dynamic factor models
+Abstract: Estimating the rank of the coefficient matrix is a major challenge in multivariate regression, including vector autoregression (VAR). In this paper, we develop a novel fully Bayesian approach that allows for rank estimation. The key to our approach is reparameterizing the coefficient matrix using its singular value decomposition and conducting Bayesian inference on the decomposed parameters. By implementing a stochastic search variable selection on the singular values of the coefficient matrix, the ultimate selected rank can be identified as the number of nonzero singular values. Our approach is appropriate for small multivariate regressions as well as for higher dimensional models with up to about 40 predictors. In macroeconomic forecasting using VARs, the advantages of shrinkage through proper Bayesian priors are well documented. Consequently, the shrinkage approach proposed here that selects or averages over low rank coefficient matrices is evaluated in a forecasting environment. We show in both simulations and empirical studies that our Bayesian approach provides forecasts that are better than those of the most promising benchmark methods, dynamic factor models and factor augmented VARs.
+Classification-JEL: C11, C52, C53 
+Creation-Date: 2016
+Number: 6/16
+Length: 43
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp06-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-6
+
+Template-type: ReDIF-Paper 1.0
+Title: A Frequency Approach to Bayesian Asymptotics
+Author-Name: Tingting Cheng
+Author-X-Name-First: Tingting
+Author-X-Name-Last: Cheng
+Author-Email: chengtingting2015@outlook.com
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Peter CB Phillips
+Author-X-Name-First: Peter CB
+Author-X-Name-Last: Phillips
+Author-Email: peter.phillips@yale.edu
+Keywords: Bayesian average, conditional mean estimation, ergodic theorem, summary statistic
+Abstract: Ergodic theorem shows that ergodic averages of the posterior draws converge in probability to the posterior mean under the stationarity assumption. The literature also shows that the posterior distribution is asymptotically normal when the sample size of the original data considered goes to infinity. To the best of our knowledge, there is little discussion on the large sample behaviour of the posterior mean. In this paper, we aim to fill this gap. In particular, we extend the posterior mean idea to the conditional mean case, which is conditioning on a given summary statistics of the original data. We stablish a new asymptotic theory for the conditional mean estimator for the case when both the sample size of the original data concerned and the number of Markov chain Monte Carlo iterations go to infinity. Simulation studies show that this conditional mean estimator has very good finite sample performance. In addition, we employ the conditional mean estimator to estimate a GARCH(1,1) model for S&P 500 stock returns and find that the conditional mean estimator performs better than quasi-maximum likelihood estimation in terms of out-of-sample forecasting.
+Classification-JEL: C11, C15, C21 
+Creation-Date: 2016
+Number: 5/16
+Length: 31
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp05-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-5
+
+Template-type: ReDIF-Paper 1.0
+Title: Grouped functional time series forecasting: An application to age-specific mortality rates
+Author-Name: Han Lin Shang
+Author-X-Name-First: Han 
+Author-X-Name-Last: Shang
+Author-Email: hanlin.shang@anu.edu
+Author-Name: Rob J Hyndman 
+Author-X-Name-First: Rob 
+Author-X-Name-Last: Hyndman 
+Author-Email: rob.hyndman@monash.edu
+Keywords: Forecast reconciliation, hierarchical time series forecasting, bottom-up, optimal combination, Japanese Mortality Database
+Abstract: Age-specific mortality rates are often disaggregated by different attributes, such as sex, state and ethnicity. Forecasting age-specific mortality rates at the national and sub-national levels plays an important role in developing social policy. However, independent forecasts of age-specific mortality rates at the sub-national levels may not add up to the forecasts at the national level. To address this issue, we consider the problem of reconciling age-specific mortality rate forecasts from the viewpoint of grouped univariate time series forecasting methods (Hyndman, Ahmed, et al., 2011), and extend these methods to functional time series forecasting, where age is considered as a continuum. The grouped functional time series methods are used to produce point forecasts of mortality rates that are aggregated appropriately across different disaggregation factors. For evaluating forecast uncertainty, we propose a bootstrap method for reconciling interval forecasts. Using the regional age-specific mortality rates in Japan, obtained from the Japanese Mortality Database, we investigate the one- to ten-step-ahead point and interval forecast accuracies between the independent and grouped functional time series forecasting methods. The proposed methods are shown to be useful for reconciling forecasts of age-specific mortality rates at the national and sub-national levels, and they also enjoy improved forecast accuracy averaged over different disaggregation factors.
+Classification-JEL: C14, C32, J11
+Creation-Date: 2016
+Number: 4/16
+Length: 30
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp04-16.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-4
+
+Template-type: ReDIF-Paper 1.0
+Title: Long-term forecasts of age-specific participation rates with functional data models
+Author-Name: Thomas Url
+Author-X-Name-First: Thomas
+Author-X-Name-Last: Url
+Author-Email: thomas.url@wifo.ac.at
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob J
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Alexander Dokumentov
+Author-X-Name-First: Alexander
+Author-X-Name-Last: Dokumentov
+Author-Email: alexander.dokumentov@monash.edu
+Keywords: forecast, labour supply, age-profile, smoothing
+Abstract: Many countries have implemented social programs providing long-term financial or in-kind entitlements. These programs often focus on specific age-groups and consequently their expenditure streams are subject to demographic change. Given the strains already existing on public budgets, long-term forecasts are an increasingly important instrument to monitor the budgetary consequences of social programs. The expected development of the labour force is a key input to these forecasts. We Produce forecasts of age-specific labour market participation rates, combining a functional data approach with information on education, marital status and other exogenous variables.
+Classification-JEL: C14, C33, J11
+Creation-Date: 2016
+Number: 3/16
+Length: 39
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp03-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-3
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimation of Technical Change and Price Elasticities: A Categorical Time-varying Coefficient Approach
+Author-Name: Guohua Feng
+Author-X-Name-First: Guohua
+Author-X-Name-Last: Feng
+Author-Email: guohua.feng@unt.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Xiaohui Zhang
+Author-X-Name-First: Xiaohui
+Author-X-Name-Last: Zhang
+Author-Email: xiaohui.zhang@murdoch.edu.au
+Keywords: semiparametric method, categorical time-varying coefficient model, technical change and productivity
+Abstract: In this paper we outline new procedure for estimating technical change and price elasticities. Specifically, we propose a categorical time-varying coefficient translog cost 
+function, where each coefficient is expressed as a nonparametric function of a categorical time variable, thereby allowing each time period to have its own set of coefficients. Our 
+application to U.S. electricity firms reveals that compared with the traditional time trend representation of technical change that has remained a cornerstone of the productivity 
+literature, this model offers two advantages: (1) it is capable of producing estimates of productivity growth that closely track those obtained using the Tornqvist approximation to 
+the Divisia index; and (2) it can solve a well-known problem commonly referred to as "the problem of trending elasticities", i.e. estimated price elasticities show little temporal 
+variation even when in fact they do.
+Classification-JEL:  C33, D24
+Creation-Date: 2016
+Number: 2/16
+Length: 38
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp02-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-2
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian Indirect Inference and the ABC of GMM
+Author-Name: Michael Creel
+Author-X-Name-First: Michael
+Author-X-Name-Last: Creel
+Author-Email: michael.creel@uab.es
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Han Hong
+Author-X-Name-First: Han
+Author-X-Name-Last: Hong
+Author-Email: doubleh@stanford.edu
+Author-Name: Dennis Kristensen
+Author-X-Name-First: Dennis
+Author-X-Name-Last: Kristensen
+Author-Email: d.kristensen@ucl.ac.uk
+Keywords: GMM-estimators, Laplace transformations, ABC estimators, nonparametric regressions, simulation-based estimation
+Abstract: We propose and study local linear and polynomial based nonparametric regression methods for implementing Approximate Bayesian Computation (ABC) style indirect inference and 
+GMM estimators. These estimators do not need to rely on numerical optimization or Markov Chain Monte Carlo (MCMC) simulations. They provide an effective complement to the classical 
+M-estimators and to MCMC methods, and can be applied to both likelihood and method of moment based models. We provide formal conditions under which frequentist inference is 
+asymptotically valid and demonstrate the validity of estimated posterior quantiles for confidence interval construction. We also show that in this setting, local linear kernel 
+regression methods have theoretical advantages over local constant kernel methods that are also reflected in finite sample simulation results. Our results apply to both exactly and 
+over identified models.
+Classification-JEL: C12, C15, C22, C52 
+Creation-Date: 2016
+Number: 1/16
+Length: 70
+Publication-Status: 
+File-URL: http://business.monash.edu/econometrics-and-business-statistics/research/publications/ebs/wp01-16.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2016-1
+

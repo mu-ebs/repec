@@ -1,0 +1,390 @@
+template-type: ReDIF-Paper 1.0
+title: Trends, Lead Times and Forecasting.
+author-name: Saligari, G.R.
+Author-X-Name-Last: Saligari
+Author-X-Name-First: G.R.
+author-name: Snyder, R.D.
+Author-X-Name-Last: Snyder
+Author-X-Name-First: R.D.
+keywords: COMPETITION;TIME SERIES;FORECASTING
+length: 40 pages
+abstract: The local linear trend and global linear trend models embody extreme 
+    assumptions about trends. According to the local linear trend formulation 
+    the level and growth rate are allowed to rapidly adapt to changes in the 
+    data path. On the other hand, the Glaobal linear trend model makes no 
+    allowance for structural change. In this paper we introduce a new model that, 
+    as well as encompassing the global linear trend and local linear trend models, 
+    allows for a range of "in between" cases.
+classification-jel: C51, C52, C22
+creation-date: 1996
+Number: 1/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-1
+
+template-type: ReDIF-Paper 1.0
+title: Principal Components Analysis of Cointegrated Time Series.
+author-name: Harris, D.
+Author-X-Name-Last: Harris
+Author-X-Name-First: D.
+keywords: COINTEGRATION;TIME SERIES;EVALUATION
+length: 43 pages
+abstract: This paper considers the analysis of cointegrated time series using principal 
+    components methods. These methods have the advantage of neither requiring the 
+    normalisation imposed by the triangular eror correction model, nor the 
+    specification of a finite order vector autoregression.
+classification-jel: C22, C33
+creation-date: 1996
+Number: 2/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-2
+
+template-type: ReDIF-Paper 1.0
+title: Testing for Structural Change in Cointegrated Regression Models: Some 
+    Comparisons and Generalizations.
+author-name: Hao, K.
+Author-X-Name-Last: Hao
+Author-X-Name-First: K.
+keywords: COINTEGRATION;TESTS
+length: 28 pages
+abstract: This paper compares and generalizes some testing procedures for structural 
+    change in the context of cointegrated regression models.
+classification-jel: C22, C52
+creation-date: 1996
+Number: 3/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-3
+
+template-type: ReDIF-Paper 1.0
+title: A Comparative Analysis of Different Estimatiors for Dynamic Panel data Models.
+author-name: Harris, M.N.
+Author-X-Name-Last: Harris
+Author-X-Name-First: M.N.
+author-name: Matyas, L.
+Author-X-Name-Last: Matyas
+Author-X-Name-First: L.
+keywords: EVALUATION;ECONOMIC MODELS;PANEL DATA
+length: 52 pages
+abstract: In this paper two new estimators are offred (one each for the fixed random 
+    effects specifications), and small sample performance compared with that of 
+    all the existing estimators.
+classification-jel: C13, C15, C23
+creation-date: 1996
+Number: 4/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-4
+
+template-type: ReDIF-Paper 1.0
+title: Using the EM Algorithm with Complete, but Scrambled, data.
+author-name: Kalb, G.
+Author-X-Name-Last: Kalb
+Author-X-Name-First: G.
+keywords: EVALUATION;STATISTICS
+length: 30 pages
+abstract: In this paper the EM algorithm, which has been used successfully with 
+    censored and incomplete data sets, is adapted to the problem of scrambled data. 
+    The performance of the method is assayed using an artificially constructed data 
+    set. The relevance of the results for a real world labour market problem is 
+    explored.
+classification-jel: C13, C15, C81
+creation-date: 1996
+Number: 5/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-5
+
+template-type: ReDIF-Paper 1.0
+title: Estimation of Regression Disturbances Based on Minimum Message Length.
+author-name: Laskar, M.R.
+Author-X-Name-Last: Laskar
+Author-X-Name-First: M.R.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+keywords: EVALUATION;REGRESSION ANALYSIS
+length: 19 pages
+abstract: This paper derives six different forms of message length functions for 
+    general linear regression model. In so doing, two different prior densities 
+    and the idea of parameter orthogonality are employed.
+classification-jel: C13, C15, C81
+creation-date: 1996
+Number: 6/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-6
+
+template-type: ReDIF-Paper 1.0
+title: Testing for Serial Correlation in the of Dynamic Heteroscedasticity.
+author-name: Silvapulle, P.
+Author-X-Name-Last: Silvapulle
+Author-X-Name-First: P.
+author-name: Evans, M.
+Author-X-Name-Last: Evans
+Author-X-Name-First: M.
+keywords: ECONOMIC MODELS;ECONOMETRICS;CORRELATION TESTS
+length: 35 pages
+abstract: The main objective of this study is to investigate the rebustness of the 
+    popular Durbin-Watson (DW), Langrage multiplier (LM), Box-Pierce (BP) and 
+    Ljung-Box (LB) tests and their corrected versions against autoregressive 
+    distrurbances in the presence of dynamic heteroscedastic disturbances with 
+    normal or non-normal distributions.
+classification-jel: C13, C15, C81
+creation-date: 1996
+Number: 7/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-7
+
+template-type: ReDIF-Paper 1.0
+title: A Comparison of the Accuracy of Asymptotic Approximations in the Dynamic 
+    Regression Model Using Kullback-Leibler Information.
+author-name: Atukorala, R.
+Author-X-Name-Last: Atukorala
+Author-X-Name-First: R.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+keywords: REGRESSION ANALYSIS;ECONOMIC MODELS;INFORMATION
+length: 16 pages
+abstract: This paper illustrates the use of Kullback-Leibler Information (KLI) 
+    measure for assessing the relative quality of two approximations to an 
+    unknown distribution from which we ca obtain simple random drawings.
+classification-jel: C13, C14
+creation-date: 1996
+Number: 8/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-8
+
+template-type: ReDIF-Paper 1.0
+title: The Robustness of Estimators for Dynamic Panel Data Models to Misspecification.
+author-name: Harris, M.N.
+Author-X-Name-Last: Harris
+Author-X-Name-First: M.N.
+author-name: Longmire, R.J.
+Author-X-Name-Last: Longmire
+Author-X-Name-First: R.J.
+author-name: Matyas, L.
+Author-X-Name-Last: Matyas
+Author-X-Name-First: L.
+keywords: REGRESSION ANALYSIS;ECONOMIC MODELS;EVALUATION
+length: 21 pages
+abstract: It is well known that the usual techniques for estimating random and fixed 
+    effects panel data models are inconsistent in the dynamic setting. As a 
+    consequence, numerous consistent estimators have been proposed in the 
+    literature. However, all such estimators rely on certain well defined 
+    assumption, which in practice my be violated.The purpose of this paper is 
+    to ascertain how robust the available estimators are to such misspecifications, 
+    thus providing guidance to applied researcher as to an appropriate choice of 
+    estimator in such situation.
+classification-jel: C13, C15, C23
+creation-date: 1996
+Number: 9/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-9
+
+template-type: ReDIF-Paper 1.0
+title: A Test to Compare two Related Stationary Time Series.
+author-name: Maharaj, A.
+Author-X-Name-Last: Maharaj
+Author-X-Name-First: A.
+author-name: Inder, B.
+Author-X-Name-Last: Inder
+Author-X-Name-First: B.
+keywords: TIME SERIES;TESTS;EVALUATION;ECONOMIC MODELS
+length: 20 pages
+abstract: In this paper we present a test statistic, which will be used to test for 
+    significant differences between generating processes of two time series that 
+    may be logically connected. The test statistic is based on the differences 
+    between estimated parameters of the autoregressive models which are fitted 
+    to the series.
+classification-jel: C13, C22, C23
+creation-date: 1996
+Number: 10/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-10
+
+template-type: ReDIF-Paper 1.0
+title: Business Forecasting with Exponential Smoothing : Computation of Prediction 
+    Intervals.
+author-name: Snyder, R.D.
+Author-X-Name-Last: Snyder
+Author-X-Name-First: R.D.
+author-name: Grose, S.
+Author-X-Name-Last: Grose
+Author-X-Name-First: S.
+keywords: FORECASTS;ECONOMIC MODELS;SIMULATION
+length: 19 pages
+abstract: The problem considered in this paper is how to find reliable prediction 
+    intervals with simple exponential smoothing and trend corrected exponential 
+    smoothing. Methods for constructing prediction intervals based on linear 
+    approximation and bootstrapping are proposed.
+classification-jel: C13, C15
+creation-date: 1996
+Number: 11/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-11
+
+template-type: ReDIF-Paper 1.0
+title: Cointegration Analysis of Purchasing Power Parity in a Small Country Context.
+author-name: Ravindiran, T.
+Author-X-Name-Last: Ravindiran
+Author-X-Name-First: T.
+keywords: COINTEGRATION;UNIT ROOTS
+length: 18 pages
+abstract: We present an empirical analysis of a long run Purchasing Power Parity (PPP) 
+    for thirteen Asian-Pacific countries using cointegration techniques.
+classification-jel: C32, F41
+creation-date: 1996
+Number: 12/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-12
+
+template-type: ReDIF-Paper 1.0
+title: Estimating Daily Volatility from Intraday Data.
+author-name: Bollen, B.
+Author-X-Name-Last: Bollen
+Author-X-Name-First: B.
+author-name: Kofman, P.
+Author-X-Name-Last: Kofman
+Author-X-Name-First: P.
+keywords: EVALUATION;STATISTICS
+length: 20 pages
+abstract: This study proposes a new approach to the estimation of daily volatility. 
+    This approach is different ( in the sense of using all available intraday 
+    price data) and unbiased ( in the sense of accounting for the high levels of 
+    autocorrelation found in intraday price data).
+classification-jel: C13, C22, C23
+creation-date: 1996
+Number: 13/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-13
+
+template-type: ReDIF-Paper 1.0
+title: Growth Convergence: Some Panel Data Evidence.
+author-name: Lee, M.
+Author-X-Name-Last: Lee
+Author-X-Name-First: M.
+author-name: Longmire, R.
+Author-X-Name-Last: Longmire
+Author-X-Name-First: R.
+author-name: Matyas, L.
+Author-X-Name-Last: Matyas
+Author-X-Name-First: L.
+author-name: Harris, M.
+Author-X-Name-Last: Harris
+Author-X-Name-First: M.
+keywords: ECONOMIC GROWTH;CONVERGENCE
+length: 8 pages
+abstract: This paper implements a panel data approach of the Solow model to study the 
+    phenomenon of growth convergence for 22 OECD countries. It shows that the 
+    derived estimable Solow model is probably underspecified from an econometric 
+    point of view, it is still possible to conclude that there is a likely 
+    convergence to a steady state of a rate about 2-4%.
+classification-jel: O40, O41, C33
+creation-date: 1996
+Number: 14/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-14
+
+template-type: ReDIF-Paper 1.0
+title: Computers and Productivity in France: Some Evidence.
+author-name: Greenman, N.
+Author-X-Name-Last: Greenman
+Author-X-Name-First: N.
+author-name: Mairesse, J.
+Author-X-Name-Last: Mairesse
+Author-X-Name-First: J.
+keywords: COMPUTERS;PRODUCTIVITY
+length: 55 pages
+abstract: In this paper we make a first attempt to explore the relationship between 
+    computer use and productivity in French manufacturing and services industries.
+classification-jel: C20, C81, D24, L63, O33
+creation-date: 1996
+Number: 15/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-15
+
+template-type: ReDIF-Paper 1.0
+title: A Logit Model of Laudry Detergent Brand Choice in Melbourne.
+author-name: Fry, T.R.L.
+Author-X-Name-Last: Fry
+Author-X-Name-First: T.R.L.
+author-name: Longmire, R.
+Author-X-Name-Last: Longmire
+Author-X-Name-First: R.
+keywords: CONSUMPTION;ECONOMIC MODELS
+length: 21 pages
+abstract: The Consumer Panel of Australia data collected by the Roy Morgan Research 
+    Centre is used to investigate the determinantes of brand choice behavior in 
+    the laundry detergent market.
+classification-jel: M31, C25
+creation-date: 1996
+Number: 17/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-17
+
+template-type: ReDIF-Paper 1.0
+title: Improved Small Sample Midel selection Procedures.
+author-name: King, M.L.
+Author-X-Name-Last: King
+Author-X-Name-First: M.L.
+author-name: Forbes, C.S.
+Author-X-Name-Last: Forbes
+Author-X-Name-First: C.S.
+author-name: Morgan, A.
+Author-X-Name-Last: Morgan
+Author-X-Name-First: A.
+keywords: ECONOMIC MODELS;INFORMATION
+length: 19 pages
+abstract: This paper is concerned with model selection based on penalized maximized 
+    log likelihood function. Its main emphasis is on how these penalities might 
+    be chosen in small samples to give good statistical properties.
+classification-jel: C10, C15
+creation-date: 1996
+Number: 18/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-18
+
+template-type: ReDIF-Paper 1.0
+title: Additive Nonparametric Regression with Autocorrelated Errors.
+author-name: Smith, M.
+Author-X-Name-Last: Smith
+Author-X-Name-First: M.
+author-name: Wong, C.M.
+Author-X-Name-Last: Wong
+Author-X-Name-First: C.M.
+author-name: Kohn, R.
+Author-X-Name-Last: Kohn
+Author-X-Name-First: R.
+keywords: REGRESSION ANALYSIS;ECONOMIC MODELS
+length: 30 pages
+abstract: A Bayesian approach is presented for nonparametric estimation of an additive 
+    regression model with autocorrelated errors.
+classification-jel: C10, C15
+creation-date: 1996
+Number: 19/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-19
+
+template-type: ReDIF-Paper 1.0
+title: Aggregation and Cointegration.
+author-name: Korosi, G.
+Author-X-Name-Last: Korosi
+Author-X-Name-First: G.
+author-name: Longmire, R.
+Author-X-Name-Last: Longmire
+Author-X-Name-First: R.
+author-name: Matyas, L.
+Author-X-Name-Last: Matyas
+Author-X-Name-First: L.
+keywords: STATISTICS;COINTEGRATION;ECONOMIC MODELS;TESTS
+length: 34 pages
+abstract: The analysis of economic time series assumes specific economic behaviour of 
+    a representative agent. The data used in analysis is generated by aggregating 
+    observations of all individuals in a population. This is valid only if all 
+    members of a population have the same data generating process, but what 
+    happens if their behaviour is heterogeneous? This paper examines the properties 
+    of test statistics for cointegration when the aggregate data consists of 
+    heterogeneous individuals.
+classification-jel: C14, C15, C21
+creation-date: 1996
+Number: 20/96
+Publication-Status:
+Handle: RePEc:msh:ebswps:1996-20
+
