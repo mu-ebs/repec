@@ -40,7 +40,7 @@ Title: Principles and Algorithms for Forecasting Groups of Time Series: Locality
 Author-Name: Pablo Montero-Manso
 Author-X-Name-First: Pablo 
 Author-X-Name-Last: Montero-Manso
-Author-Email: Pablo Montero-Manso
+Author-Email: pablo.monteromanso@sydney.edu.au
 Author-Name: Rob J Hyndman
 Author-X-Name-First: Rob
 Author-X-Name-Last: Hyndman
@@ -451,8 +451,8 @@ automated analysis of large temporal data sets. This paper describes classes of 
 using linear and cyclic time granularities. Linear time granularities respect the
 linear progression of time such as hours, days, weeks and months. Cyclic time granularities
 can be circular such as hour-of-the-day, quasi-circular such as day-of-the-month, and aperiodic 
-such as public holidays. The hierarchical structure of granularities creates a nested
-ordering: hour-of-the-day and second-of-the-minute are single-order-up. Hour-of-the-week
+such as public holidays. The hierarchical structure of granularities creates a nested ordering: 
+hour-of-the-day and second-of-the-minute are single-order-up. Hour-of-the-week
 is multiple-order-up, because it passes over day-of-the-week. Methods are provided 
 for creating all possible granularities for a time index. A recommendation algorithm 
 provides an indication whether a pair of granularities can be meaningfully examined 

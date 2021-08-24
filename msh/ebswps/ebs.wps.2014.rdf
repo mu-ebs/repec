@@ -237,7 +237,20 @@ Author-X-Name-First: Xibin
 Author-X-Name-Last: Zhang
 Author-Email: Xibin.Zhang@monash.edu
 Keywords: Chow test, model validation, p-value, multivariate kernel density estimation, structural break
-Abstract: Statistical models can play a crucial role in decision making. Traditional model validation tests typically make restrictive parametric assumptions about the model under the null and the alternative hypotheses. The majority of these tests examine one type of change at a time. This paper presents a method for determining whether new data continues to support the chosen model. We suggest using simulation and the kernel density estimator instead of assuming a parametric distribution for the data under the hull hypothesis. This leads to a more versatile testing procedure, one that can be applied to test different types of models and look for a variety of different types of divergences from the null hypothesis. Such a flexible testing procedure, in some cases, can also replace a range of tests that each test against particular alternative hypotheses. The procedure’s ability to recognize a change in the underlying model is demonstrated through AR(1) and linear models. We examine the power of our procedure to detect changes in the variance of the error term and the AR coefficient in the AR(1) model. In the linear model, we examine the performance of the procedure when there are changes in the error variance and error distribution, and when an economic cycle is introduced into the model. We find that the procedure has correct empirical size and high power to recognize the changes in the data generating process after 10 to 15 new observations, depending on the type and extent of the change.
+Abstract: Statistical models can play a crucial role in decision making. Traditional model validation tests 
+typically make restrictive parametric assumptions about the model under the null and the alternative hypotheses. 
+The majority of these tests examine one type of change at a time. This paper presents a method for determining 
+whether new data continues to support the chosen model. We suggest using simulation and the kernel density estimator 
+instead of assuming a parametric distribution for the data under the hull hypothesis. This leads to a more versatile 
+testing procedure, one that can be applied to test different types of models and look for a variety of different 
+types of divergences from the null hypothesis. Such a flexible testing procedure, in some cases, can also replace 
+a range of tests that each test against particular alternative hypotheses. The procedure’s ability to recognize a 
+change in the underlying model is demonstrated through AR(1) and linear models. We examine the power of our 
+procedure to detect changes in the variance of the error term and the AR coefficient in the AR(1) model. In the 
+linear model, we examine the performance of the procedure when there are changes in the error variance and error 
+distribution, and when an economic cycle is introduced into the model. We find that the procedure has correct 
+empirical size and high power to recognize the changes in the data generating process after 10 to 15 new 
+observations, depending on the type and extent of the change.
 Classification-JEL: C12, C14, C52, C53
 Creation-Date: 2014
 Number: 21/14
