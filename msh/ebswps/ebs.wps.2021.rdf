@@ -1,4 +1,66 @@
 Template-type: ReDIF-Paper 1.0
+Title: On the evaluation of hierarchical forecasts
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Nikolaos Kourentzes
+Author-X-Name-First: Nikolaos
+Author-X-Name-Last: Kourentzes
+Author-Email: n.kourentzes@lancaster.ac.uk
+Keywords: Aggregation, coherence, hierarchical time series, reconciliation 
+Abstract: The aim of this paper is to provide a thinking road-map and a practical
+guide to researchers and practitioners working on hierarchical forecasting
+problems. Evaluating the performance of hierarchical forecasts comes with
+new challenges stemming from both the structure of the hierarchy and the
+application context. We discuss several relevant dimensions for researchers
+and analysts: the scale and units of the time series, the issue of sparsity,
+the forecast horizon, the importance of multiple evaluation windows and the
+multiple objective decision context. We conclude with a series of practical
+recommendations.
+Classification-JEL: C18, C53, C55
+Creation-Date: 2021
+Number: 10/21
+Length: 28
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp10-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-10 
+
+Template-type: ReDIF-Paper 1.0
+Title: Inexpensive Heating Reduces Winter Mortality
+Author-Name: Janjala Chirakijja
+Author-X-Name-First: Janjala
+Author-X-Name-Last: Chirakijja
+Author-Email: janjala.chirakijja@monash.edu
+Author-Name: Seema Jayachandran 
+Author-X-Name-First: Seema
+Author-X-Name-Last: Jayachandran
+Author-Email: seema@northwestern.edu
+Author-Name: Pinchuan Ong
+Author-X-Name-First: Pinchuan  
+Author-X-Name-Last: Ong
+Author-Email: ong.pinchuan@nus.edu.sg
+Keywords: 
+Abstract: This paper examines how the price of home heating affects mortality in the US.
+Exposure to cold is one of the reasons that mortality peaks in winter, and a higher
+heating price increases exposure to cold by reducing heating use. In addition, a higher
+price raises energy bills, which could also affect health by decreasing other healthpromoting 
+spending. Our empirical approach combines spatial variation in the energy
+source used for home heating and temporal variation in the national prices of natural
+gas and electricity. We find that a lower heating price reduces winter mortality, driven
+mostly by cardiovascular and respiratory causes. The effect is especially large in 
+highpoverty communities.
+Classification-JEL: 
+Creation-Date: 2021
+Number: 9/21 
+Length: 55
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp09-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-9
+
+Template-type: ReDIF-Paper 1.0
 Title: Loss-Based Variational Bayes Prediction
 Author-Name: David T. Frazier
 Author-X-Name-First: David
