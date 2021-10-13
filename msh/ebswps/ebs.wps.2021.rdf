@@ -1,4 +1,172 @@
 Template-type: ReDIF-Paper 1.0
+Title: Conditional Heteroscedasticity Models with Time-Varying Parameters: Estimation and Asymptotics
+Author-Name: Armin Pourkhanali
+Author-X-Name-First: Armin
+Author-X-Name-Last: Pourkhanali  
+Author-Email: armin.pourkhanali@monash.edu
+Author-Name: Jonathan Keith
+Author-X-Name-First: Jonathan
+Author-X-Name-Last: Keith 
+Author-Email: jonathan.keith@monash.edu 
+Author-Name: Xibin Zhang
+Author-X-Name-First: Xibin
+Author-X-Name-Last: Zhang
+Author-Email: xibin.zhang@monash.edu
+Keywords: : Chebyshev polynomials, function gradient descent algorithm, loss function, one-day-ahead forecast
+Abstract: This paper proposes using Chebyshev polynomials to approximate time-varying parameters
+of a GARCH model, where polynomial coefficients are estimated via numerical optimization
+using the function gradient descent method. We investigate the asymptotic properties of the
+estimates of polynomial coefficients and the subsequent estimate of conditional variance.
+Monte Carlo studies are conducted to examine the performance of the proposed polynomial
+approximation. With empirical studies of modelling daily returns of the US 30-year T-bond
+daily closing price and daily returns of the gold futures closing price, we find that in terms of
+in-sample fitting and out-of-sample forecasting, our proposed time-varying model outperforms 
+the constant-parameter counterpart and a benchmark time-varying model.  
+Classification-JEL: C14, C58
+Creation-Date: 2021
+Number: 15/21
+Length: 48
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp15-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-15
+
+Template-type: ReDIF-Paper 1.0
+Title: A Note on Inequality Measures for Mixtures of Double Pareto-Lognormal Distributions
+Author-Name: William Griffiths
+Author-X-Name-First: William
+Author-X-Name-Last: Griffiths  
+Author-Email: wegrif@unimelb.edu.au 
+Author-Name: Duangkamon Chotikapanich
+Author-X-Name-First: Duangkamon
+Author-X-Name-Last: Chotikapanich 
+Author-Email: duangkamon.chotikapanich@monash.edu 
+Author-Name: Gholamreza Hajargasht
+Author-X-Name-First: Gholamreza
+Author-X-Name-Last: Hajargasht
+Author-Email: rhajargasht@uq.swin.au
+Keywords: Gini coefficient, Theil index, Pietra index
+Abstract: Formulas are derived for the Gini, Theil and Pietra coefficients for a population-weighted
+mixture of double Pareto-lognormal distributions; they are applied to South America for two
+years. Results are also provided for the special case Pareto-lognormal and lognormal
+distributions. The formulas are useful for measuring regional or global inequality in large-scale
+projects that utilise double Pareto-lognormal distributions or their special cases.  
+Classification-JEL:  
+Creation-Date: 2021
+Number: 14/21
+Length: 19
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp14-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-14
+
+Template-type: ReDIF-Paper 1.0
+Title: Inequality in Education: A Comparison of Australian Indigenous and Nonindigenous Populations
+Author-Name: David Gunawan
+Author-X-Name-First: David
+Author-X-Name-Last: Gunawan
+Author-Email: dgunawan@uow.edu.au
+Author-Name: William Griffiths
+Author-X-Name-First: William
+Author-X-Name-Last: Griffiths  
+Author-Email: wegrif@unimelb.edu.au 
+Author-Name: Duangkamon Chotikapanich
+Author-X-Name-First: Duangkamon
+Author-X-Name-Last: Chotikapanich 
+Author-Email: duangkamon.chotikapanich@monash.edu 
+Keywords: 
+Abstract: Educational achievement distributions for Australian indigenous and nonindigenous populations in the
+years 2001, 2006, 2014 and 2017 are considered. Bayesian inference is used to analyse how these
+ordinal categorical distributions have changed over time and to compare indigenous and nonindigenous
+distributions. Both the level of educational achievement and inequality in educational achievement are
+considered. To compare changes in levels over time, as well as inequality between the two populations,
+first order stochastic dominance and an index of educational poverty are used. To examine changes in
+inequality over time, two inequality indices and generalised Lorenz dominance are considered. Results
+are presented in terms of posterior densities for the indices and posterior probabilities for dominance
+for the dominance comparisons. We find some evidence of improvement over time, especially in the
+lower parts of the indigenous distribution and that inequality has significantly increased from 2001 to
+2017.  
+Classification-JEL:  
+Creation-Date: 2021
+Number: 13/21
+Length: 19
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp13-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-13
+
+Template-type: ReDIF-Paper 1.0
+Title: Comparisons of Australian Mental Health Distributions
+Author-Name: David Gunawan
+Author-X-Name-First: David
+Author-X-Name-Last: Gunawan
+Author-Email: dgunawan@uow.edu.au
+Author-Name: William Griffiths
+Author-X-Name-First: William
+Author-X-Name-Last: Griffiths  
+Author-Email: wegrif@unimelb.edu.au 
+Author-Name: Duangkamon Chotikapanich
+Author-X-Name-First: Duangkamon
+Author-X-Name-Last: Chotikapanich 
+Author-Email: duangkamon.chotikapanich@monash.edu 
+Keywords: stochastic dominance, Bayesian nonparametric estimation, posterior probabilities,
+indigenous population, male and female populations 
+Abstract: Bayesian nonparametric estimates of Australian mental health distributions are obtained to 
+assess how the mental health status of the population has changed over time, and to compare the 
+mental health status of female/male and indigenous/non-indigenous population subgroups. First-order 
+and secondorder stochastic dominance are used to compare distributions, with results presented in 
+terms of the posterior probability of dominance and the posterior probability of no dominance. If a 
+criterion for dominance is satisfied, then, in terms of that criterion, the mental health status of 
+the dominant population is superior to that of the dominated population. If neither distribution is 
+dominant, then the mental health status of neither population is superior in the same sense. Our 
+results suggest mental health has deteriorated in recent years, that males' mental health status 
+is better than that of females, and that non-indigenous health status is better than that of the 
+indigenous population. 
+Classification-JEL:  
+Creation-Date: 2021
+Number: 12/21
+Length: 57
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp12-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-12
+
+Template-type: ReDIF-Paper 1.0
+Title: Parameter Stability Testing for Multivariate Dynamic Time-Varying Models
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng 
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi  
+Author-X-Name-Last: Yan
+Author-Email: yayi.yan@monash.edu
+Keywords: multivariate time series, parameter instability, specification testing, time-varying coefficient
+Abstract: Multivariate dynamic models are widely used in practical studies providing a tractable
+way to capture evolving interrelationships among multivariate time series, but not many studies 
+focus on inferences. Along this line, a key question is that whether some coefficients (if
+not all) evolve with time. To settle this issue, the paper develops a Wald–type test statistic
+for detecting time–invariant parameters in a class of multivariate dynamic time-varying models. 
+Since Gaussian/stationary approximation methods initially proposed for univariate time
+series settings are inapplicable to the setting under consideration in this paper, we develop
+an approximation method using a time–varying vector moving average infinity process. We
+show that the test statistic is asymptotically normal under both the null hypothesis and the
+local alternative. Simulation studies show that the proposed test has a desirable finite sample
+performance.
+Classification-JEL: C12, C14, C32
+Creation-Date: 2021
+Number: 11/21 
+Length: 30
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp11-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-11
+
+Template-type: ReDIF-Paper 1.0
 Title: On the Evaluation of Hierarchical Forecasts
 Author-Name: George Athanasopoulos
 Author-X-Name-First: George
@@ -8,7 +176,7 @@ Author-Name: Nikolaos Kourentzes
 Author-X-Name-First: Nikolaos
 Author-X-Name-Last: Kourentzes
 Author-Email: n.kourentzes@lancaster.ac.uk
-Keywords: Aggregation, coherence, hierarchical time series, reconciliation 
+Keywords: aggregation, coherence, hierarchical time series, reconciliation 
 Abstract: The aim of this paper is to provide a thinking road-map and a practical
 guide to researchers and practitioners working on hierarchical forecasting
 problems. Evaluating the performance of hierarchical forecasts comes with
