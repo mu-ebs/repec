@@ -149,11 +149,11 @@ Keywords: multivariate time series, parameter instability, specification testing
 Abstract: Multivariate dynamic models are widely used in practical studies providing a tractable
 way to capture evolving interrelationships among multivariate time series, but not many studies 
 focus on inferences. Along this line, a key question is that whether some coefficients (if
-not all) evolve with time. To settle this issue, the paper develops a Wald–type test statistic
-for detecting time–invariant parameters in a class of multivariate dynamic time-varying models. 
+not all) evolve with time. To settle this issue, the paper develops a Wald-type test statistic
+for detecting time-invariant parameters in a class of multivariate dynamic time-varying models. 
 Since Gaussian/stationary approximation methods initially proposed for univariate time
 series settings are inapplicable to the setting under consideration in this paper, we develop
-an approximation method using a time–varying vector moving average infinity process. We
+an approximation method using a time-varying vector moving average infinity process. We
 show that the test statistic is asymptotically normal under both the null hypothesis and the
 local alternative. Simulation studies show that the proposed test has a desirable finite sample
 performance.
