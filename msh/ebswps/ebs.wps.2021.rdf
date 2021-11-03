@@ -1,4 +1,112 @@
 Template-type: ReDIF-Paper 1.0
+Title: Multiple-index Nonstationary Time Series Models: Robust Estimation Theory and Practice
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua  
+Author-X-Name-Last: Dong
+Author-Email: yayi.yan@monash.edu
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng 
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu
+Author-Name: Yundong Tu 
+Author-X-Name-First: Yundong
+Author-X-Name-Last: Tu
+Author-Email: yundong.tu@gsm.pku.edu.cn
+Keywords: multivariate dynamic time series, time-varying impulse response, testing for parameter stability
+Abstract: This paper proposes a class of parametric multiple-index time series models that involve
+linear combinations of time trends, stationary variables and unit root processes as regressors.
+The inclusion of the three different types of time series, along with the use of a multiple-index
+structure for these variables to circumvent the curse of dimensionality, is due to both theoretical
+and practical considerations. The M-type estimators (including OLS, LAD, Huber’s estimator,
+quantile and expectile estimators, etc.) for the index vectors are proposed, and their asymptotic
+properties are established, with the aid of the generalized function approach to accommodate
+a wide class of loss functions that may not be necessarily differentiable at every point. The
+proposed multiple-index model is then applied to study the stock return predictability, which
+reveals strong nonlinear predictability under various loss measures. Monte Carlo simulations
+are also included to evaluate the finite-sample performance of the proposed estimators.
+Classification-JEL: C13, C22
+Creation-Date: 2021
+Number: 18/21 
+Length: 40
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp18-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-18
+
+Template-type: ReDIF-Paper 1.0
+Title: On Time-Varying VAR models: Estimation, Testing and Impulse Response Analysis
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi  
+Author-X-Name-Last: Yan
+Author-Email: yayi.yan@monash.edu
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng 
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu
+Keywords: multivariate dynamic time series, time-varying impulse response, testing for parameter stability
+Abstract: Vector autoregressive (VAR) models are widely used in practical studies, e.g., forecasting,
+modelling policy transmission mechanism, and measuring connection of economic agents. To
+better capture the dynamics, this paper introduces a new class of time-varying VAR models
+in which the coefficients and covariance matrix of the error innovations are allowed to change
+smoothly over time. Accordingly, we establish a set of theories, including the impulse responses
+analyses subject to both of the short-run timing and the long-run restrictions, an information
+criterion to select the optimal lag, and a Wald-type test to determine the constant coefficients.
+Simulation studies are conducted to evaluate the theoretical findings. Finally, we demonstrate
+the empirical relevance and usefulness of the proposed methods through an application to the
+transmission mechanism of U.S. monetary policy.
+Classification-JEL: C14, C32, E52
+Creation-Date: 2021
+Number: 17/21 
+Length: 48
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp17-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-17
+
+Template-type: ReDIF-Paper 1.0
+Title: Productivity Convergence in Manufacturing: A Hierarchical Panel Data Approach
+Author-Name: Guohua Feng 
+Author-X-Name-First: Guohua
+Author-X-Name-Last: Feng
+Author-Email: Guohua.Feng@unt.edu
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng 
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu
+Keywords: growth regressions, convergence in manufacturing, cross-sectional dependence, hierarchical model, 
+asymptotic theory
+Abstract: Despite its paramount importance in the empirical growth literature, productivity convergence analysis
+has three problems that have yet to be resolved: (1) little attempt has been made to explore the hierarchical 
+structure of industry-level datasets; (2) industry-level technology heterogeneity has largely been ignored; and
+(3) cross-sectional dependence has rarely been allowed for. This paper aims to address these three problems 
+within a hierarchical panel data framework. We propose an estimation procedure and then derive the corresponding 
+asymptotic theory. Finally, we apply the framework to a dataset of 23 manufacturing industries from a wide range 
+of countries over the period 1963-2018. Our results show that both the manufacturing industry as a whole and 
+individual manufacturing industries at the ISIC two-digit level exhibit strong conditional convergence in 
+labour productivity, but not unconditional convergence. In addition, our results show that both global and 
+industry-specific shocks are important in explaining the convergence behaviours of the manufacturing industries.
+Classification-JEL: L60, O10, C23
+Creation-Date: 2021
+Number: 16/21 
+Length: 58
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp16-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-16
+
+Template-type: ReDIF-Paper 1.0
 Title: Conditional Heteroscedasticity Models with Time-Varying Parameters: Estimation and Asymptotics
 Author-Name: Armin Pourkhanali
 Author-X-Name-First: Armin
@@ -12,7 +120,7 @@ Author-Name: Xibin Zhang
 Author-X-Name-First: Xibin
 Author-X-Name-Last: Zhang
 Author-Email: xibin.zhang@monash.edu
-Keywords: : Chebyshev polynomials, function gradient descent algorithm, loss function, one-day-ahead forecast
+Keywords: Chebyshev polynomials, function gradient descent algorithm, loss function, one-day-ahead forecast
 Abstract: This paper proposes using Chebyshev polynomials to approximate time-varying parameters
 of a GARCH model, where polynomial coefficients are estimated via numerical optimization
 using the function gradient descent method. We investigate the asymptotic properties of the
@@ -30,6 +138,7 @@ Publication-Status:
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp15-2021.pdf 
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2021-15
+
 
 Template-type: ReDIF-Paper 1.0
 Title: A Note on Inequality Measures for Mixtures of Double Pareto-Lognormal Distributions
