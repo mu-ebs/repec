@@ -1,4 +1,38 @@
 Template-type: ReDIF-Paper 1.0
+Title: Real Options Valuation of Wind Energy Based on the Empirical Production Uncertainty
+Author-Name: Didier Nibbering
+Author-X-Name-First: Didier  
+Author-X-Name-Last: Nibbering
+Author-Email: didier.nibbering@monash.edu 
+Author-Name: Coos van Buuren 
+Author-X-Name-First: Coos
+Author-X-Name-Last: van Buuren
+Author-Email: 
+Author-Name: Wei Wei
+Author-X-Name-First: Wei
+Author-X-Name-Last: Wei
+Author-Email: wei.wei2@monash.edu
+Keywords: OR in energy, wind electricity, production uncertainty, real options, hierarchical Bayesian model
+Abstract: Using a real options approach, we analyze the valuation of wind energy projects and associated 
+investment decisions while accounting for both price and production uncertainty. We propose a new approach 
+to explicitly incorporate production uncertainty into the valuation. Specifically, we account for the production 
+risk using a stochastic process for wind speed, a cubic spline model for the conversion of wind speed to wind 
+electricity, and a Bayesian procedure for estimating and forecasting the wind electricity processes. In a 
+case-study on a comprehensive dataset of a Dutch offshore wind farm, we evaluate the financial consequences 
+of ignoring production risk for different levelized costs of energy values. We find that fixing the production
+at a capacity factor value leads to substantial underestimation of the real options value, and relying on 
+theoretical instead of empirical power curves
+leads to overestimation.
+Classification-JEL: Q42, G11, C11
+Creation-Date: 2021
+Number: 19/21 
+Length: 43
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp19-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-19
+
+Template-type: ReDIF-Paper 1.0
 Title: Multiple-index Nonstationary Time Series Models: Robust Estimation Theory and Practice
 Author-Name: Chaohua Dong
 Author-X-Name-First: Chaohua  
