@@ -1,4 +1,77 @@
 Template-type: ReDIF-Paper 1.0
+Title: Decomposing Identification Gains and Evaluating Instrument Identification Power 
+for Partially Identified Average Treatment Effects
+Author-Name: Lina Zhang
+Author-X-Name-First: Lina
+Author-X-Name-Last: Zhang
+Author-Email: l.zhang5@uva.nl
+Author-Name: David T. Frazier
+Author-X-Name-First: David
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Author-Name: Don S. Poskitt
+Author-X-Name-First: Don  
+Author-X-Name-Last: Poskitt
+Author-Email: donald.poskitt@monash.edu
+Author-Name: Xueyan Zhao
+Author-X-Name-First: Xueyan  
+Author-X-Name-Last: Zhao
+Author-Email: xueyan.zhao@monash.edu
+Keywords: heterogeneous treatment effect, binary dependent variables, propensity score,
+asymmetric endogeneity, instrument identification power
+Abstract: This paper examines the identification power of instrumental variables (IVs) for average
+treatment effect (ATE) in partially identified models. We decompose the ATE identification
+gains into components of contributions driven by IV relevancy, IV strength, direction and
+degree of treatment endogeneity, and matching via exogenous covariates. Our decomposition
+is demonstrated with graphical illustrations, simulation studies and an empirical example of
+childbearing and women’s labour supply. Our analysis offers insights for understanding the
+complex role of IVs in ATE identification and for selecting IVs in practical policy designs.
+Simulations also suggest potential uses of our analysis for detecting irrelevant instruments.
+Classification-JEL: C14, C31, C35, C36
+Creation-Date: 2021
+Number: 21/21 
+Length: 56
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp21-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-21
+
+Template-type: ReDIF-Paper 1.0
+Title: Detecting Distributional Differences between Temporal Granularities for Exploratory Time Series Analysis
+Author-Name: Sayani Gupta
+Author-X-Name-First: Sayani
+Author-X-Name-Last: Gupta
+Author-Email: Sayani.Gupta@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Dianne Cook
+Author-X-Name-First: Dianne
+Author-X-Name-Last: Cook
+Author-Email: DiCook@monash.edu
+Keywords: data visualization, cyclic granularities, periodicities, permutation tests, distributional
+difference, Jensen-Shannon distances, smart meter data, R
+Abstract: Cyclic temporal granularities are temporal deconstructions of a time period into units such as
+hour-of-theday and work-day/weekend. They can be useful for measuring repetitive patterns in large univariate time
+series data, and feed new approaches to exploring time series data. One use is to take pairs of granularities,
+and make plots of response values across the categories induced by the temporal deconstruction. However,
+when there are many granularities that can be constructed for a time period, there will also be too many
+possible displays to decide which might be the more interesting to display. This work proposes a new
+distance metric to screen and rank the possible granularities, and hence choose the most interesting ones
+to plot. The distance measure is computed for a single or pairs of cyclic granularities and can be compared
+across different cyclic granularities or on a collection of time series. The methods are implemented in the
+open-source R package hakear.
+Classification-JEL: C55, C65, C80
+Creation-Date: 2021
+Number: 20/21 
+Length: 24
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp20-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-20
+
+Template-type: ReDIF-Paper 1.0
 Title: Real Options Valuation of Wind Energy Based on the Empirical Production Uncertainty
 Author-Name: Didier Nibbering
 Author-X-Name-First: Didier  
@@ -398,7 +471,7 @@ approximation to a loss-based, or Gibbs, posterior that is directly focused on p
 The theoretical behavior of the new prediction approach is analyzed and a form of optimality demonstrated. 
 Applications to both simulated and empirical data using high-dimensional Bayesian neural
 network and autoregressive mixture models demonstrate that the approach provides more accurate
-results than various alternatives, including misspecified likelihood-based predictions
+results than various alternatives, including misspecified likelihood-based predictions.
 Classification-JEL: C11, C53, C58
 Creation-Date: 2021
 Number: 8/21 
