@@ -24,7 +24,7 @@ treatment effect (ATE) in partially identified models. We decompose the ATE iden
 gains into components of contributions driven by IV relevancy, IV strength, direction and
 degree of treatment endogeneity, and matching via exogenous covariates. Our decomposition
 is demonstrated with graphical illustrations, simulation studies and an empirical example of
-childbearing and women’s labour supply. Our analysis offers insights for understanding the
+childbearing and women's labour supply. Our analysis offers insights for understanding the
 complex role of IVs in ATE identification and for selecting IVs in practical policy designs.
 Simulations also suggest potential uses of our analysis for detecting irrelevant instruments.
 Classification-JEL: C14, C31, C35, C36
