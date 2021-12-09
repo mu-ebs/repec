@@ -1,4 +1,80 @@
 Template-type: ReDIF-Paper 1.0
+Title: Interactive Effects Panel Data Models with General Factors and Regressors
+Author-Name: Bin Peng 
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu
+Author-Name: Liangjun Su
+Author-X-Name-First: Liangjun
+Author-X-Name-Last: Su
+Author-Email: sulj@sem.tsinghua.edu.cn
+Author-Name: Joakim Westerlund
+Author-X-Name-First: Joakim
+Author-X-Name-Last: Westerlund
+Author-Email: joakim.westerlund@nek.lu.se 
+Author-Name: Yanrong Yang
+Author-X-Name-First: Yanrong
+Author-X-Name-Last: Yang
+Author-Email: yanrong.yang@anu.edu.au 
+Keywords: panel data, non-stationarity, principal components, interactive effects
+Abstract: This paper considers a model with general regressors and unobservable factors.
+An estimator based on iterated principal components is proposed, which is shown
+to be not only asymptotically normal and oracle efficient, but under certain conditions 
+also free of the otherwise so common asymptotic incidental parameters bias.
+Interestingly, the conditions required to achieve unbiasedness become weaker the
+stronger the trends in the factors, and if the trending is strong enough unbiasedness
+comes at no cost at all. In particular, the approach does not require any knowledge
+of how many factors there are, or whether they are deterministic or stochastic. The
+order of integration of the factors is also treated as unknown, as is the order of
+integration of the regressors, which means that there is no need to pre-test for unit
+roots, or to decide on which deterministic terms to include in the model.
+Classification-JEL: C14, C23, C51
+Creation-Date: 2021
+Number: 23/21 
+Length: 76
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp23-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-23
+
+Template-type: ReDIF-Paper 1.0
+Title: Asymptotics for Time-Varying Vector MA(&#8734) Processes
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi  
+Author-X-Name-Last: Yan
+Author-Email: yayi.yan@monash.edu
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng 
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu
+Keywords: multivariate time series, nonparametric kernel estimation, time-varying
+Beveridge–Nelson decomposition
+Abstract: Moving average infinity (MA(&#8734)) processes play an important role in modeling time series data. 
+While a strand of literature on time series analysis emphasizes the importance of modeling smooth changes 
+over time and therefore is shifting its focus from parametric models to nonparametric ones, MA(&#8734) processes 
+with constant parameters are often part of the fundamental data generating mechanism. Along this line of 
+research, an intuitive question is how to allow the underlying data generating mechanism evolves over time. 
+To better capture the dynamics, this paper considers a new class of time–varying vector moving average
+infinity (VMA(&#8734)) processes. Accordingly, we establish some new asymptotic properties,
+including the law of large numbers, the uniform convergence, the central limit theory, the
+bootstrap consistency, and the long-run covariance matrix estimation for the class of time-varying 
+VMA(&#8734) processes. Finally, we demonstrate the empirical relevance and usefulness
+of the newly proposed model and estimation theory through extensive simulated and real data
+studies.
+Classification-JEL: C14, C32, E52
+Creation-Date: 2021
+Number: 22/21 
+Length: 56
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp22-2021.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-22
+
+Template-type: ReDIF-Paper 1.0
 Title: Decomposing Identification Gains and Evaluating Instrument Identification Power 
 for Partially Identified Average Treatment Effects
 Author-Name: Lina Zhang
