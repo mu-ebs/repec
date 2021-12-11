@@ -58,7 +58,7 @@ While a strand of literature on time series analysis emphasizes the importance o
 over time and therefore is shifting its focus from parametric models to nonparametric ones, MA(&#8734) processes 
 with constant parameters are often part of the fundamental data generating mechanism. Along this line of 
 research, an intuitive question is how to allow the underlying data generating mechanism evolves over time. 
-To better capture the dynamics, this paper considers a new class of time–varying vector moving average
+To better capture the dynamics, this paper considers a new class of time-varying vector moving average
 infinity (VMA(&#8734)) processes. Accordingly, we establish some new asymptotic properties,
 including the law of large numbers, the uniform convergence, the central limit theory, the
 bootstrap consistency, and the long-run covariance matrix estimation for the class of time-varying 
