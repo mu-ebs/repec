@@ -1,0 +1,78 @@
+Template-type: ReDIF-Paper 1.0
+Title: Familial Inference
+Author-Name: Ryan Thompson
+Author-X-Name-First: Ryan
+Author-X-Name-Last: Thompson
+Author-Email: ryan.thompson@monash.edu
+Author-Name: Catherine S. Forbes
+Author-X-Name-First: Catherine
+Author-X-Name-Last: Forbes
+Author-Email: catherine.forbes@monash.edu
+Author-Name: Steven N. MacEachern
+Author-X-Name-First: Steven
+Author-X-Name-Last: MacEachern
+Author-Email: snm@stat.osu.edu 
+Author-Name: Mario Peruggia
+Author-X-Name-First: Mario
+Author-X-Name-Last: Peruggia
+Author-Email: peruggia@stat.osu.edu  
+Keywords: Bayesian bootstrap, Dirichlet process, Huber loss, hypothesis testing, pathwise optimization
+Abstract: Statistical hypotheses are translations of scientific hypotheses into statements about
+one or more distributions, often concerning their center. Tests that assess statistical
+hypotheses of center implicitly assume a specific center, e.g., the mean or median. Yet,
+scientific hypotheses do not always specify a particular center. This ambiguity leaves
+the possibility for a gap between scientific theory and statistical practice that can lead
+to rejection of a true null. In the face of replicability crises in many scientific disciplines,
+"significant results" of this kind are concerning. Rather than testing a single center,
+this paper proposes testing a family of plausible centers, such as that induced by the
+Huber loss function (the "Huber family"). Each center in the family generates a testing
+problem, and the resulting family of hypotheses constitutes a familial hypothesis. A
+Bayesian nonparametric procedure is devised to test familial hypotheses, enabled by a
+pathwise optimization routine to fit the Huber family. The favorable properties of the
+new test are verified through numerical simulation in one- and two-sample settings. Two
+experiments from psychology serve as real-world case studies. 
+Classification-JEL:  
+Creation-Date: 2022
+Number: 2/22 
+Length: 26
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp2-2022.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-2
+
+Template-type: ReDIF-Paper 1.0
+Title: Variational Bayes in State Space Models: Inferential and Predictive Accuracy
+Author-Name: David T. Frazier
+Author-X-Name-First: David
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael  
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: Ruben Loaiza-Maya 
+Author-X-Name-First: Ruben
+Author-X-Name-Last: Loaiza-Maya
+Author-Email: Ruben.LoaizaMaya@monash.edu 
+Keywords: state space models, variational inference, probabilistic forecasting, Bayesian
+consistency, scoring rules
+Abstract: Using theoretical and numerical results, we document the accuracy of commonly
+applied variational Bayes methods across a range of state space models. The results
+demonstrate that, in terms of accuracy on fixed parameters, there is a clear hierarchy
+in terms of the methods, with approaches that do not approximate the states yielding
+superior accuracy over methods that do. We also document numerically that the inferential 
+discrepancies between the various methods often yield only small discrepancies
+in predictive accuracy over small out-of-sample evaluation periods. Nevertheless, in
+certain settings, these predictive discrepancies can become meaningful over a longer
+out-of-sample period. This finding indicates that the invariance of predictive results
+to inferential inaccuracy, which has been an oft-touted point made by practitioners seeking to 
+justify the use of variational inference, is not ubiquitous and must be
+assessed on a case-by-case basis.
+Classification-JEL: 
+Creation-Date: 2022
+Number: 1/22 
+Length: 53
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp1-2022.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2021-1
