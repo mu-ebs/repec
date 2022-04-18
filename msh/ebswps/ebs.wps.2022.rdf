@@ -1,4 +1,38 @@
 Template-type: ReDIF-Paper 1.0
+Title: Multi–Level Panel Data Models: Estimation and Empirical Analysis
+Author-Name: Guohua Feng
+Author-X-Name-First: Guohua
+Author-X-Name-Last: Feng
+Author-Email: guohua.feng@unt.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Keywords: Convergence in manufacturing, cross-sectional dependence, growth regression, hierarchical model
+Abstract: Despite its paramount importance in the empirical growth literature, productivity convergence 
+analysis has three issues that have yet to be addressed: (1) the hierarchical structure of industry-level 
+datasets has little been fully explored; (2) industry-level technology heterogeneity has largely been ignored; 
+and (3) crosssectional dependence has rarely been allowed for. This paper aims to address these
+three problems within a hierarchical panel data framework. We establish asymptotic properties for the proposed 
+estimator, and apply the framework to a dataset of 23 manufacturing industries from a wide range of countries 
+over the period 1963-2018. Our results show that both the manufacturing industry as a whole and
+individual manufacturing industries at the ISIC two-digit level exhibit strong conditional convergence in 
+labour productivity, but not unconditional convergence. In addition, our results show that both global and 
+industry-specific shocks are important in explaining the convergence behaviours of the manufacturing industries. 
+Classification-JEL: L60, O10, C23 
+Creation-Date: 2022
+Number: 3/22 
+Length: 60
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp3-2022.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2022-3
+
+Template-type: ReDIF-Paper 1.0
 Title: Familial Inference
 Author-Name: Ryan Thompson
 Author-X-Name-First: Ryan
