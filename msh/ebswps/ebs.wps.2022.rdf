@@ -1,4 +1,37 @@
 Template-type: ReDIF-Paper 1.0
+Title: Nonparametric Estimation and Testing for Time-Varying VAR Models
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi
+Author-X-Name-Last: Yan
+Author-Email: Yayi.Yan@monash.edu  
+Keywords: time-varying impulse response, parameter stability, instrumental variable approach
+Abstract: Vector autoregressive (VAR) models are widely used in practical studies, e.g., forecasting, modelling 
+policy transmission mechanism, and measuring connection of economic agents. To better capture the dynamics, 
+this paper introduces a new class of time-varying VAR models in which the coefficients and covariance matrix 
+of the error innovations are allowed to change smoothly over time. Accordingly, we establish a set of 
+asymptotic properties including the impulse response analyses subject to structural VAR identification 
+conditions, an information criterion to select the optimal lag, and a Wald-type test to determine the 
+constant coefficients. Simulation studies are conducted to evaluate the theoretical findings. Finally, 
+we demonstrate the empirical relevance and usefulness of the proposed methods through an application on US
+government spending multipliers. 
+Classification-JEL: C14, C32, E52 
+Creation-Date: 2022
+Number: 4/22 
+Length: 56
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp4-2022.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2022-4
+
+Template-type: ReDIF-Paper 1.0
 Title: Multi-Level Panel Data Models: Estimation and Empirical Analysis
 Author-Name: Guohua Feng
 Author-X-Name-First: Guohua
