@@ -1,38 +1,40 @@
 Template-type: ReDIF-Paper 1.0
-Title: Nonparametric Estimation and Testing for Time-Varying VAR Models
-Author-Name: Jiti Gao
-Author-X-Name-First: Jiti
-Author-X-Name-Last: Gao
-Author-Email: jiti.gao@monash.edu
-Author-Name: Bin Peng
-Author-X-Name-First: Bin
-Author-X-Name-Last: Peng
-Author-Email: bin.peng@monash.edu 
-Author-Name: Yayi Yan
-Author-X-Name-First: Yayi
-Author-X-Name-Last: Yan
-Author-Email: Yayi.Yan@monash.edu  
-Keywords: time-varying impulse response, parameter stability, instrumental variable approach
-Abstract: Vector autoregressive (VAR) models are widely used in practical studies, e.g., forecasting, modelling 
-policy transmission mechanism, and measuring connection of economic agents. To better capture the dynamics, 
-this paper introduces a new class of time-varying VAR models in which the coefficients and covariance matrix 
-of the error innovations are allowed to change smoothly over time. Accordingly, we establish a set of 
-asymptotic properties including the impulse response analyses subject to structural VAR identification 
-conditions, an information criterion to select the optimal lag, and a Wald-type test to determine the 
-constant coefficients. Simulation studies are conducted to evaluate the theoretical findings. Finally, 
-we demonstrate the empirical relevance and usefulness of the proposed methods through an application on US
-government spending multipliers. 
-Classification-JEL: C14, C32, E52 
+Title: Risk-Sharing Tests with Network Transaction Costs
+Author-Name: Christian Cox
+Author-X-Name-First: Christian
+Author-X-Name-Last: Cox
+Author-Email: christian.cox@yale.edu
+Author-Name: Akanksha Negi
+Author-X-Name-First: Akanksha
+Author-X-Name-Last: Negi
+Author-Email: akanksha.negi@monash.edu
+Author-Name: Digvijay Negi
+Author-X-Name-First: Digvijay
+Author-X-Name-Last: Negi
+Author-Email: digvijay@igidr.ac.in 
+Keywords: 
+Abstract: In a world with costly transfers, some agents with high transaction costs may not find it feasible
+to trade. Hence, their consumption will co-vary with their endowment, leading to imperfect risksharing. 
+In this paper, we augment the canonical risk-sharing model to incorporate frictions in
+the form of transaction costs. In this augmented model, given a particular network structure, risk
+sharing will happen within networks and not the whole universe of agents. We show that transaction 
+costs and the implied network structure of trade have important implications for the tests
+of risk sharing. Using this model, we derive a structural risk-sharing test that uses consumption
+and production data alongside the trade network structure. We implement our method using data
+from the global trade of three major staple food commodities. Comparing our estimates with the
+benchmark of frictionless trade, we find some evidence of transaction costs impeding risk-sharing
+in these commodities. 
+Classification-JEL: 
 Creation-Date: 2022
-Number: 4/22 
-Length: 56
+Number: 5/22 
+Length: 55
 Publication-Status: 
-File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp4-2022.pdf 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp5-2022.pdf 
 File-Format: application/pdf
-Handle: RePEc:msh:ebswps:2022-4
+Handle: RePEc:msh:ebswps:2022-5
 
 Template-type: ReDIF-Paper 1.0
-Title: Multi-Level Panel Data Models: Estimation and Empirical Analysis
+Title: Multi–Level Panel Data Models: Estimation and Empirical Analysis
 Author-Name: Guohua Feng
 Author-X-Name-First: Guohua
 Author-X-Name-Last: Feng
@@ -58,8 +60,41 @@ labour productivity, but not unconditional convergence. In addition, our results
 industry-specific shocks are important in explaining the convergence behaviours of the manufacturing industries. 
 Classification-JEL: L60, O10, C23 
 Creation-Date: 2022
-Number: 3/22 
+Number: 4/22 
 Length: 60
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp4-2022.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2022-4
+
+Template-type: ReDIF-Paper 1.0
+Title: Nonparametric Estimation and Testing for Time-Varying VAR Models
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi
+Author-X-Name-Last: Yan
+Author-Email: Yayi.Yan@monash.edu  
+Keywords: time-varying impulse response, parameter stability, instrumental variable approach
+Abstract: Vector autoregressive (VAR) models are widely used in practical studies, e.g., forecasting, modelling 
+policy transmission mechanism, and measuring connection of economic agents. To better capture the dynamics, 
+this paper introduces a new class of time-varying VAR models in which the coefficients and covariance matrix 
+of the error innovations are allowed to change smoothly over time. Accordingly, we establish a set of 
+asymptotic properties including the impulse response analyses subject to structural VAR identification 
+conditions, an information criterion to select the optimal lag, and a Wald-type test to determine the 
+constant coefficients. Simulation studies are conducted to evaluate the theoretical findings. Finally, 
+we demonstrate the empirical relevance and usefulness of the proposed methods through an application on US
+government spending multipliers. 
+Classification-JEL: C14, C32, E52 
+Creation-Date: 2022
+Number: 3/22 
+Length: 56
 Publication-Status: 
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp3-2022.pdf 
 File-Format: application/pdf
