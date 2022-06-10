@@ -1,4 +1,50 @@
 Template-type: ReDIF-Paper 1.0
+Title: The Impact of Sampling Variability on Estimated Combinations of Distributional Forecasts
+Author-Name: Ryan Zischke
+Author-X-Name-First: Ryan
+Author-X-Name-Last: Zischke
+Author-Email: ryan.zischke@monash.edu
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: David T. Frazier
+Author-X-Name-First: David
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Author-Name: Donald S. Poskitt
+Author-X-Name-First: Donald
+Author-X-Name-Last: Poskitt
+Author-Email: donald.poskitt@monash.edu 
+Keywords: forecast combination, forecast combination puzzle, probabilistic forecasting,
+scoring rules, S&P500 forecasting, two-stage estimation
+Abstract: We investigate the performance and sampling variability of estimated forecast
+combinations, with particular attention given to the combination of forecast distributions. 
+Unknown parameters in the forecast combination are optimized according
+to criterion functions based on proper scoring rules, which are chosen to reward the
+form of forecast accuracy that matters for the problem at hand, and forecast performance 
+is measured using the out-of-sample expectation of said scoring rule. Our
+results provide novel insights into the behavior of estimated forecast combinations.
+Firstly, we show that, asymptotically, the sampling variability in the performance of
+standard forecast combinations is determined solely by estimation of the constituent
+models, with estimation of the combination weights contributing no sampling variability 
+whatsoever, at first order. Secondly, we show that, if computationally feasible,
+forecast combinations produced in a single step -- in which the constituent model and
+combination function parameters are estimated jointly -- have superior predictive 
+accuracy and lower sampling variability than standard forecast combinations -- where
+constituent model and combination function parameters are estimated in two steps.
+These theoretical insights are demonstrated numerically, both in simulation settings
+and in an extensive empirical illustration using a time series of S&P500 returns 
+Classification-JEL: 
+Creation-Date: 2022
+Number: 6/22 
+Length: 42
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp6-2022.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2022-6
+
+Template-type: ReDIF-Paper 1.0
 Title: Risk-Sharing Tests with Network Transaction Costs
 Author-Name: Christian Cox
 Author-X-Name-First: Christian
@@ -34,7 +80,7 @@ File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2022-5
 
 Template-type: ReDIF-Paper 1.0
-Title: Multi–Level Panel Data Models: Estimation and Empirical Analysis
+Title: Multi-Level Panel Data Models: Estimation and Empirical Analysis
 Author-Name: Guohua Feng
 Author-X-Name-First: Guohua
 Author-X-Name-Last: Feng
