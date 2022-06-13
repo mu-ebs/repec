@@ -1,4 +1,39 @@
 Template-type: ReDIF-Paper 1.0
+Title: A Simple Bootstrap Method for Panel Data Inferences
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi
+Author-X-Name-Last: Yan
+Author-Email: Yayi.Yan@monash.edu  
+Keywords: cross-sectional dependence, Edgeworth expansion, panel data bootstrap, time series
+autocorrelation
+Abstract: In this paper, we propose a simple dependent wild bootstrap procedure for us to
+establish valid inferences for a wide class of panel data models including those with
+interactive fixed effects. The proposed method allows for the error components having weak 
+correlation over both dimensions, and heteroskedasticity. The asymptotic
+properties are established under a set of simple and general conditions, and bridge
+the literature on bootstrap methods and the literature of heteroskedasticity and autocorrlation 
+consistent (HAC) approaches for panel data models. The new findings fill
+some gaps left by the bulk literature of the block bootstrap based panel data studies.
+Finally, we show the superiority of our approach over several natural competitors using
+extensive numerical studies. 
+Classification-JEL: C12, C18, C23 
+Creation-Date: 2022
+Number: 7/22 
+Length: 67
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp7-2022.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2022-7
+
+Template-type: ReDIF-Paper 1.0
 Title: The Impact of Sampling Variability on Estimated Combinations of Distributional Forecasts
 Author-Name: Ryan Zischke
 Author-X-Name-First: Ryan
