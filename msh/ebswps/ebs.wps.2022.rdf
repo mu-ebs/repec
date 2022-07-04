@@ -1,4 +1,113 @@
 Template-type: ReDIF-Paper 1.0
+Title: Semiparametric Single–Index Estimation for Average Treatment Effects
+Author-Name: Difang Huang
+Author-X-Name-First: Difang
+Author-X-Name-Last: Huang
+Author-Email: 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Tatsushi Oka
+Author-X-Name-First: Tatsushi
+Author-X-Name-Last: Oka
+Author-Email: 
+Keywords: average treatment effects, causal inference; Hermite series expansion,
+propensity score
+Abstract: We propose a semiparametric method to estimate the average treatment effect
+under the assumption of unconfoundedness given observational data. Our estimation
+method alleviates misspecification issues of the propensity score function by estimating 
+the single-index link function involved through Hermite polynomials. Our
+approach is computationally tractable and allows for moderately large dimension
+covariates. We provide the large sample properties of the estimator and show its validity. 
+Also, the average treatment effect estimator achieves the parametric rate and
+asymptotic normality. Our extensive Monte Carlo study shows that the proposed estimator 
+is valid in finite samples. We also provide an empirical analysis on the effect
+of maternal smoking on babies' birth weight and the effect of job training program
+on future earnings. 
+Classification-JEL: C14, C21, C31 
+Creation-Date: 2022
+Number: 10/22 
+Length: 64
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp10-2022.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2022-10
+
+Template-type: ReDIF-Paper 1.0
+Title: A Nonparametric Panel Model for Climate Data with Seasonal and Spatial Variation
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton
+Author-Email: obl20@cam.ac.uk
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Keywords: bootstrap method, interactive fixed-effect, panel rainfall data, time trend
+Abstract: In this paper, we consider a panel data model which allows for heterogeneous time
+trends at different locations. We propose a new estimation method for the panel data
+model before we establish an asymptotic theory for the proposed estimation method.
+For inferential purposes, we develop a bootstrap method for the case where weak
+correlation presents in both dimensions of the error terms. We examine the finite-sample 
+properties of the proposed model and estimation method through extensive
+simulated studies. Finally, we use the newly proposed model and method to investigate 
+rainfall, temperature and sunshine data of U.K. respectively. Overall, we find
+the weather of winter has changed dramatically over the past fifty years. Changes
+may vary with respect to locations for the other seasons. 
+Classification-JEL: Q50, C23 
+Creation-Date: 2022
+Number: 9/22 
+Length: 58
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp9-2022.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2022-9
+
+Template-type: ReDIF-Paper 1.0
+Title: Time-Varying Multivariate Causal Processes
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Author-Name: Wei Biao Wu
+Author-X-Name-First: Wei
+Author-X-Name-Last: Wu
+Author-Email: wbwu@galton.uchicago.edu 
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi
+Author-X-Name-Last: Yan
+Author-Email: Yayi.Yan@monash.edu  
+Keywords: local linear quasi-maximum likelihood estimation, multivariate causal
+process simultaneous confidence interval
+Abstract: In this paper, we consider a wide class of time-varying multivariate causal 
+processes that nests many classical and new examples as special cases. We first prove
+the existence of a weakly dependent stationary approximation for our model which
+is the foundation to initiate the theoretical development. Afterwards, we consider
+the QMLE estimation approach, and provide both point-wise and simultaneous inferences 
+on the coefficient functions. In addition, we demonstrate the theoretical
+findings through both simulated and real data examples. In particular, we show
+the empirical relevance of our study using an application to evaluate the conditional
+correlations between the stock markets of China and U.S. We find that the 
+interdependence between the two stock markets is increasing over time. 
+Classification-JEL: C14, C32, G15 
+Creation-Date: 2022
+Number: 8/22 
+Length: 64
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp8-2022.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2022-8
+
+Template-type: ReDIF-Paper 1.0
 Title: A Simple Bootstrap Method for Panel Data Inferences
 Author-Name: Jiti Gao
 Author-X-Name-First: Jiti
