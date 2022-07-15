@@ -1,4 +1,48 @@
 Template-type: ReDIF-Paper 1.0
+Title: GMM Estimation for High-Dimensional Panel Data Models
+Author-Name: Tingting Cheng
+Author-X-Name-First: Tingting
+Author-X-Name-Last: Cheng
+Author-Email: tingting.cheng@nankai.edu.cn
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua  
+Author-X-Name-Last: Dong
+Author-Email: chaohuadong@outlook.com 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Oliver Linton
+Author-X-Name-First: Oliver
+Author-X-Name-Last: Linton
+Author-Email: obl20@cam.ac.uk
+Keywords: generalized method of moments, high dimensional moment model, interactive effect,
+over-identification issue, panel data, sieve method
+Abstract: In this paper, we study a class of high dimensional moment restriction panel data models 
+with interactive effects, where factors are unobserved and factor loadings are nonparametrically 
+unknown smooth functions of individual characteristics variables. We allow the dimension of the 
+parameter vector and the number of moment conditions to diverge with sample size. This is a very 
+general framework and includes many existing linear and nonlinear panel data models as special 
+cases. In order to estimate the unknown parameters, factors and factor loadings, we propose a 
+sieve-based generalized method of moments estimation method and we show that under a set of 
+simple identification conditions, all those unknown quantities can be consistently estimated. 
+Further we establish asymptotic distributions of the proposed estimators. In addition, we propose 
+tests for over-identification, specification of factor loading functions, and establish their 
+large sample properties. Moreover, a number of simulation studies are conducted to examine the 
+performance of the proposed estimators and test statistics in finite samples. An empirical 
+example on stock return prediction is studied to demonstrate the usefulness of the proposed 
+framework and corresponding estimation methods and
+testing procedures. 
+Classification-JEL: C13, C14, C23 
+Creation-Date: 2022
+Number: 11/22 
+Length: 58
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp11-2022.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2022-11
+
+Template-type: ReDIF-Paper 1.0
 Title: Semiparametric Single-Index Estimation for Average Treatment Effects
 Author-Name: Difang Huang
 Author-X-Name-First: Difang
