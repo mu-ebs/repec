@@ -1,4 +1,46 @@
 Template-type: ReDIF-Paper 1.0
+Title: Estimating the Effect of an EU-ETS Type Scheme in Australia Using a Synthetic Treatment Approach
+Author-Name: Heather M. Anderson
+Author-X-Name-First: Heather 
+Author-X-Name-Last: Anderson
+Author-Email: heather.anderson@monash.edu 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Guido Turnip
+Author-X-Name-First: Guido
+Author-X-Name-Last: Turnip
+Author-Email: guido.turnip@monash.edu
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid 
+Author-X-Name-Last: Vahid
+Author-Email: farshid.vahid@monash.edu
+Author-Name: Wei Wei
+Author-X-Name-First: Wei
+Author-X-Name-Last: Wei
+Author-Email: wei.wei2@monash.edu 
+Keywords: carbon emissions, climate change, common trends, mitigation policy,
+synthetic treatment
+Abstract: The 2011 Clean Energy Act sought to align Australia’s carbon pricing to the
+2005 European Union Emission Trading Scheme (EU-ETS) by 2015, but this act
+was repealed in 2014. We estimate the hypothetical impact of Australia adopting
+an emissions trading policy in 2005, which corresponds with the establishment of
+the EU-ETS. We use a synthetic treatment approach that constructs a counterfactual measure 
+of Australian carbon emissions that makes use of the time series
+properties of pre-2005 and post-2005 emissions in European countries. We find that
+Australian per-capita carbon emissions would have been lower by about 4.5% as a
+result of the policy -- a result that is robust to several variations of our methodology. 
+Classification-JEL: C32, H23, Q53, Q58 
+Creation-Date: 2022
+Number: 12/22 
+Length: 32
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp12-2022.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2022-12
+
+Template-type: ReDIF-Paper 1.0
 Title: GMM Estimation for High-Dimensional Panel Data Models
 Author-Name: Tingting Cheng
 Author-X-Name-First: Tingting
@@ -31,8 +73,7 @@ tests for over-identification, specification of factor loading functions, and es
 large sample properties. Moreover, a number of simulation studies are conducted to examine the 
 performance of the proposed estimators and test statistics in finite samples. An empirical 
 example on stock return prediction is studied to demonstrate the usefulness of the proposed 
-framework and corresponding estimation methods and
-testing procedures. 
+framework and corresponding estimation methods and testing procedures. 
 Classification-JEL: C13, C14, C23 
 Creation-Date: 2022
 Number: 11/22 
