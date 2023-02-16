@@ -1,0 +1,110 @@
+Template-type: ReDIF-Paper 1.0
+Title: Robust M-Estimation for Additive Single-Index Cointegrating Time Series Models
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua  
+Author-X-Name-Last: Dong
+Author-Email: chaohuadong@outlook.com 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Author-Name: Yundong Tu 
+Author-X-Name-First: Yundong
+Author-X-Name-Last: Tu
+Author-Email: yundong.tu@gsm.pku.edu.cn
+Keywords: Additive single index models, generalized function, nonstationary time series,
+quadratic approximation, regular function sequence, robust M–estimation
+Abstract: Robust M-estimation uses loss functions, such as least absolute deviation (LAD), quantile
+loss and Huber’s loss, to construct its objective function, in order to for example eschew the
+impact of outliers, whereas the difficulty in analysing the resultant estimators rests on the
+nonsmoothness of these losses.
+
+Generalized functions have advantages over ordinary functions in several aspects, especially
+generalized functions possess derivatives of any order. Generalized functions incorporate local
+integrable functions, the so-called regular generalized functions, while the so-called singular
+generalized functions (e.g. Dirac delta function) can be obtained as the limits of a sequence
+of sufficient smooth functions, so-called regular sequence in generalized function context. This
+makes it possible to use these singular generalized functions through approximation. Nevertheless, 
+a significant contribution of this paper is to establish the convergence rate of regular
+sequence to nonsmooth loss that answers a call from the relevant literature.
+
+For parameter estimation where objective function may be nonsmooth, this paper first shows
+as a general paradigm that how generalized function approach can be used to tackle the nonsmooth 
+loss functions in Section two using a very simple model. This approach is of general
+interest and applicability. We further use the approach in robust M-estimation for additive
+single–index cointegrating time series models; the asymptotic theory is established for the 
+proposed estimators. We evaluate the finite–sample performance of the proposed estimation method
+and theory by both simulated data and an empirical analysis of predictive regression of stock
+returns.
+Classification-JEL: C13, G14, C22
+Creation-Date: 2023
+Number: 2/23 
+Length: 53
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp02-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-2
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian Forecasting in the 21st Century: A Modern Review 
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: David T. Frazier
+Author-X-Name-First: David
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Worapree Maneesoonthorn
+Author-Name: Worapree Maneesoonthorn
+Author-X-Name-First: Worapree 
+Author-X-Name-Last: Maneesoonthorn
+Author-Email: ole.maneesoonthorn@monash.edu 
+Author-Name: Ruben Loaiza-Maya 
+Author-X-Name-First: Ruben
+Author-X-Name-Last: Loaiza-Maya
+Author-Email: Ruben.LoaizaMaya@monash.edu 
+Author-Name: Florian Huber 
+Author-X-Name-First: Florian
+Author-X-Name-Last: Huber
+Author-Email: 
+Author-Name: Gary Koop 
+Author-X-Name-First: Gary
+Author-X-Name-Last: Koop
+Author-Email: gary.koop@strath.ac.uk
+Author-Name: John Maheu 
+Author-X-Name-First: John
+Author-X-Name-Last: Maheu
+Author-Email: maheujm@mcmaster.ca
+Author-Name: Didier Nibbering 
+Author-X-Name-First: Didier
+Author-X-Name-Last: Nibbering
+Author-Email: didier.nibbering@monash.edu
+Author-Name: Anastasios Panagiotelis 
+Author-X-Name-First: Anastasios 
+Author-X-Name-Last: Panagiotelis
+Author-Email: anastasios.panagiotelis@sydney.edu.au
+Keywords: Bayesian prediction, macroeconomics, finance, marketing, electricity demand, Bayesian
+computational methods, loss-based Bayesian prediction
+Abstract: The Bayesian statistical paradigm provides a principled and coherent approach to probabilistic
+forecasting. Uncertainty about all unknowns that characterize any forecasting problem -- model,
+parameters, latent states -- is factored into the forecast distribution, with forecasts conditioned only
+on what is known or observed. Allied with the elegance of the method, Bayesian forecasting is
+now underpinned by the burgeoning field of Bayesian computation, which enables Bayesian forecasts
+to be produced for virtually any problem, no matter how large, or complex. The current state of
+play in Bayesian forecasting is the subject of this review. The aim is to provide readers with an
+overview of modern approaches to the field, set in some historical context. Whilst our primary focus
+is on applications in the fields of economics and finance, and their allied disciplines, sufficient general
+details about implementation are provided to aid and inform all investigators. 
+Classification-JEL: C01, C11, C53
+Creation-Date: 2023
+Number: 1/23 
+Length: 57
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp01-2023.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-1
