@@ -1,4 +1,123 @@
 Template-type: ReDIF-Paper 1.0
+Title: The incidence of positive bloodstream and urine cultures in five Australian hospitals during the COVID-19 pandemic
+Author-Name: Brett G. Mitchell
+Author-X-Name-First: Brett
+Author-X-Name-Last: Mitchell
+Author-Email: 
+Author-Name: Andrew Stewardson
+Author-X-Name-First: Andrew 
+Author-X-Name-Last: Stewardson
+Author-Email: 
+Author-Name: Lucille Kerr
+Author-X-Name-First: Lucille
+Author-X-Name-Last: Kerr
+Author-Email: 
+Author-Name: John K. Ferguson
+Author-X-Name-First: John
+Author-X-Name-Last: Ferguson
+Author-Email: 
+Author-Name: Stephanie Curtis
+Author-X-Name-First: Stephanie
+Author-X-Name-Last: Curtis 
+Author-Email: 
+Author-Name: Lucy Busija
+Author-X-Name-First: Lucy 
+Author-X-Name-Last: Busija
+Author-Email: 
+Author-Name: Kirsty Graham
+Author-X-Name-First: Kirsty
+Author-X-Name-Last: Graham
+Author-Email: 
+Author-Name: Michael J. Lydeamore
+Author-X-Name-First: Michael
+Author-X-Name-Last: Lydeamore
+Author-Email: michael.lydeamore@monash.edu
+Author-Name: Philip L. Russo
+Author-X-Name-First: Philip
+Author-X-Name-Last: Russo
+Author-Email: Philip.russo@monash.edu
+Author-Name: Christopher M. Baker
+Author-X-Name-First: Christopher
+Author-X-Name-Last: Baker
+Author-Email: 
+Keywords: 
+Abstract: 
+Classification-JEL: 
+Creation-Date: 2023
+Number: 4/23 
+Length: 25
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp04-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-4
+
+Template-type: ReDIF-Paper 1.0
+Title: Modelling the impact of hybrid immunity on future COVID-19 epidemic waves
+Author-Name: Thao P. Le
+Author-X-Name-First: Thao
+Author-X-Name-Last: Le 
+Author-Email: 
+Author-Name: Isobel Abell
+Author-X-Name-First: Isobel
+Author-X-Name-Last: Abell
+Author-Email: 
+Author-Name: Eamon Conway
+Author-X-Name-First: Eamon
+Author-X-Name-Last: Conway
+Author-Email: 
+Author-Name: Patricia T. Campbell
+Author-X-Name-First: Patricia
+Author-X-Name-Last: Campbell
+Author-Email: 
+Author-Name: Alexandra B. Hogan
+Author-X-Name-First: Alexandra
+Author-X-Name-Last: Hogan 
+Author-Email: 
+Author-Name: Michael J. Lydeamore
+Author-X-Name-First: Michael
+Author-X-Name-Last: Lydeamore
+Author-Email: michael.lydeamore@monash.edu
+Author-Name: Jodie McVernon
+Author-X-Name-First: Jodie
+Author-X-Name-Last: McVernon
+Author-Email: 
+Author-Name: Ivo Mueller
+Author-X-Name-First: Ivo
+Author-X-Name-Last: Mueller
+Author-Email: 
+Author-Name: Camelia R. Walker
+Author-X-Name-First: Camelia
+Author-X-Name-Last: Walker
+Author-Email: 
+Author-Name: Christopher M. Baker
+Author-X-Name-First: Christopher
+Author-X-Name-Last: Baker
+Author-Email: 
+Keywords: epidemiology, mathematical modelling, vaccination, variants 
+Abstract: Since the emergence of SARS-CoV-2 (COVID-19), there have been multiple waves of infection and
+multiple rounds of vaccination rollouts. Both prior infection and vaccination can prevent future infection
+and reduce severity of outcomes, combining to form hybrid immunity against COVID-19 at the individual
+and population level. Here, we explore how different combinations of hybrid immunity affect the size
+and severity of near-future Omicron waves. To investigate the role of hybrid immunity, we use an agentbased 
+model of COVID-19 transmission with waning immunity to simulate outbreaks in populations with varied past 
+attack rates and past vaccine coverages, basing the demographics and past histories on the
+World Health Organization (WHO) Western Pacific Region (WPR). We find that if the past infection
+immunity is high but vaccination levels are low, then the secondary outbreak with the same variant
+can occur within a few months after the first outbreak; meanwhile, high vaccination levels can suppress
+near-term outbreaks and delay the second wave. Additionally, hybrid immunity has limited impact
+on future COVID-19 waves with immune-escape variants. Enhanced understanding of the interplay
+between infection and vaccine exposure can aid anticipation of future epidemic activity due to current
+and emergent variants, including the likely impact of responsive vaccine interventions.
+Classification-JEL: 
+Creation-Date: 2023
+Number: 3/23 
+Length: 34
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp03-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-3
+
+Template-type: ReDIF-Paper 1.0
 Title: Robust M-Estimation for Additive Single-Index Cointegrating Time Series Models
 Author-Name: Chaohua Dong
 Author-X-Name-First: Chaohua  
@@ -16,10 +135,10 @@ Author-Name: Yundong Tu
 Author-X-Name-First: Yundong
 Author-X-Name-Last: Tu
 Author-Email: yundong.tu@gsm.pku.edu.cn
-Keywords: Additive single index models, generalized function, nonstationary time series,
+Keywords: additive single index models, generalized function, nonstationary time series,
 quadratic approximation, regular function sequence, robust M–estimation
 Abstract: Robust M-estimation uses loss functions, such as least absolute deviation (LAD), quantile
-loss and Huber’s loss, to construct its objective function, in order to for example eschew the
+loss and Huber's loss, to construct its objective function, in order to for example eschew the
 impact of outliers, whereas the difficulty in analysing the resultant estimators rests on the
 nonsmoothness of these losses.
 
@@ -59,11 +178,6 @@ Author-Name: David T. Frazier
 Author-X-Name-First: David
 Author-X-Name-Last: Frazier
 Author-Email: david.frazier@monash.edu
-Worapree Maneesoonthorn
-Author-Name: Worapree Maneesoonthorn
-Author-X-Name-First: Worapree 
-Author-X-Name-Last: Maneesoonthorn
-Author-Email: ole.maneesoonthorn@monash.edu 
 Author-Name: Ruben Loaiza-Maya 
 Author-X-Name-First: Ruben
 Author-X-Name-Last: Loaiza-Maya
@@ -107,4 +221,4 @@ Length: 57
 Publication-Status: 
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp01-2023.pdf 
 File-Format: application/pdf
-Handle: RePEc:msh:ebswps:2023-1
+Handle: RePEc:msh:ebswps:2023-1 
