@@ -1,4 +1,169 @@
 Template-type: ReDIF-Paper 1.0
+Title: Conditional Normalization in Time Series Analysis 
+Author-Name: Puwasala Gamakumara
+Author-X-Name-First: Puwasala
+Author-X-Name-Last: Gamakumara
+Author-Email: puwasala.gamakumara@gmail.com
+Author-Name: Edgar Santos-Fernandez
+Author-X-Name-First: Edgar
+Author-X-Name-Last: Santos-Fernandez
+Author-Email: edgar.santosfernandez@qut.edu.au
+Author-Name: Priyanga Dilini Talagala
+Author-X-Name-First: Priyanga
+Author-X-Name-Last: Talagala 
+Author-Email: priyangad@uom.lk
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Kerrie Mengersen
+Author-X-Name-First: Kerrie
+Author-X-Name-Last: Mengersen 
+Author-Email: k.mengersen@qut.edu.au
+Author-Name: Catherine Leigh
+Author-X-Name-First: Catherine
+Author-X-Name-Last: Leigh 
+Author-Email: catherine.leigh@rmit.edu.au
+Keywords: aggregation, coherence, cross-temporal, hierarchical time series, grouped time
+series, temporal aggregation
+Abstract: Collections of time series that are formed via aggregation are prevalent in many fields. These
+are commonly referred to as hierarchical time series and may be constructed cross-sectionally
+across different variables, temporally by aggregating a single series at different frequencies,
+or may even be generalised beyond aggregation as time series that respect linear constraints.
+When forecasting such time series, a desirable condition is for forecasts to be coherent, that
+is to respect the constraints. The past decades have seen substantial growth in this field with
+the development of reconciliation methods that not only ensure coherent forecasts but can
+also improve forecast accuracy. This paper serves as both an encyclopaedic review of forecast
+reconciliation and an entry point for researchers and practitioners dealing with hierarchical time
+series. The scope of the article includes perspectives on forecast reconciliation from machine
+learning, Bayesian statistics and probabilistic forecasting as well as applications in economics,
+energy, tourism, retail demand and demography.
+Classification-JEL: 
+Creation-Date: 2023
+Number: 10/23
+Length: 36
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp10-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-10 
+
+Template-type: ReDIF-Paper 1.0
+Title: Bootstrap Hausdorff Confidence Regions for Average Treatment Effect Identified Sets 
+Author-Name: Donald S. Poskitt
+Author-X-Name-First: Donald
+Author-X-Name-Last: Poskitt
+Author-Email: donald.poskitt@monash.edu
+Author-Name: Xueyan Zhao
+Author-X-Name-First: Xueyan
+Author-X-Name-Last: Zhao
+Author-Email: xueyan.zhao@monash.edu
+Keywords: binary models, bounds, coverage, partial identification
+Abstract: This paper introduces a new bootstrap approach to the construction of confidence
+regions for Average Treatment Effect (ATE) identified sets. Minimum Hausdorff
+distance bootstrap confidence regions are developed and shown to be valid under
+suitable regularity. A novel measure of the discrepancy between a confidence region
+and the target identified set is advanced that contains two components analogous to
+conventional hypothesis test Type I and Type II errors. Monte Carlo experimentation
+is employed to compare the behaviour of the new confidence regions with an existing 
+state of the art approach and the impact of different features on the properties
+of the alternative techniques are investigated. Properties arising from the application
+of quasi-maximum likelihood estimation as a tool for conducting inference on ATEs
+are also examined.
+Classification-JEL: 
+Creation-Date: 2023
+Number: 9/23
+Length: 33
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp09-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-9
+
+Template-type: ReDIF-Paper 1.0
+Title: Forecast Reconciliation: A Review 
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Nikolaos Kourentzes
+Author-X-Name-First: Nikolaos
+Author-X-Name-Last: Kourentzes 
+Author-Email: nikolaos@kourentzes.com
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios
+Author-X-Name-Last: Panagiotelis 
+Author-Email: anastasios.panagiotelis@sydney.edu.au
+Keywords: aggregation, coherence, cross-temporal, hierarchical time series, grouped time
+series, temporal aggregation
+Abstract: Collections of time series that are formed via aggregation are prevalent in many fields. These
+are commonly referred to as hierarchical time series and may be constructed cross-sectionally
+across different variables, temporally by aggregating a single series at different frequencies,
+or may even be generalised beyond aggregation as time series that respect linear constraints.
+When forecasting such time series, a desirable condition is for forecasts to be coherent, that
+is to respect the constraints. The past decades have seen substantial growth in this field with
+the development of reconciliation methods that not only ensure coherent forecasts but can
+also improve forecast accuracy. This paper serves as both an encyclopaedic review of forecast
+reconciliation and an entry point for researchers and practitioners dealing with hierarchical time
+series. The scope of the article includes perspectives on forecast reconciliation from machine
+learning, Bayesian statistics and probabilistic forecasting as well as applications in economics,
+energy, tourism, retail demand and demography.
+Classification-JEL: C10, C14, C53
+Creation-Date: 2023
+Number: 8/23
+Length: 57
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp08-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-8 
+
+Template-type: ReDIF-Paper 1.0
+Title:Does Climate Sensitivity Differ Across Regions?
+Author-Name: Heather Anderson
+Author-X-Name-First: Heather
+Author-X-Name-Last: Anderson
+Author-Email: heather.anderson@monash.edu 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: Farshid.Vahid@monash.edu 
+Author-Name: Wei Wei
+Author-X-Name-First: Wei
+Author-X-Name-Last: Wei
+Author-Email: wei.wei2@monash.edu 
+Author-Name: Yang Yang
+Author-X-Name-First: Yang
+Author-X-Name-Last: Yang
+Author-Email: 
+Keywords: climate sensitivity, dynamic panel, varying-coefficient model, cointegration
+Abstract: Global mean surface temperature has been increasing in response to growing greenhouse
+gas concentrations (IPCC, 2021). While Earth is getting warmer overall, regions that differ in
+local geographical features experience unequal increases in temperature. In this paper, we
+develop a dynamic varying-coefficient panel data model and use it to measure regional climate
+sensitivity, defined as the increase in temperature in that region, following a doubling of CO2
+concentration. The inference method proposed in this paper is capable of accommodating
+heterogeneous co-integrating relationships between global and local variables, and it allows 
+comoving climate time series to possess both stochastic and deterministic trending components.
+Using observational data of mean surface temperatures, solar radiation, and carbon dioxide
+concentrations between 1959-2017, our model provides an estimate of a 3.7C increase for
+average climate sensitivity. Moreover, our estimates indicate that high-latitude regions in the
+Northern Hemisphere are most vulnerable to global warming.
+Classification-JEL: C22, C53, Q54
+Creation-Date: 2023
+Number: 7/23 
+Length: 49
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp07-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-7
+
+Template-type: ReDIF-Paper 1.0
 Title: Cross-temporal Probabilistic Forecast Reconciliation 
 Author-Name: Daniele Girolimetto
 Author-X-Name-First: Daniele 
