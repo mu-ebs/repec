@@ -1,4 +1,110 @@
 Template-type: ReDIF-Paper 1.0
+Title: Higher-order Expansions and Inference for Panel Data Models 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi 
+Author-X-Name-Last: Yan
+Author-Email: yanyayi0812@gmail.com
+Keywords: dependent wild bootstrap, edgeworth expansion, fund performance
+evaluation
+Abstract: In this paper, we propose a simple inferential method for a wide class of panel
+data models with a focus on such cases that have both serial correlation and 
+crosssectional dependence. In order to establish an asymptotic theory to support the
+inferential method, we develop some new and useful higher-order expansions, such
+as Berry-Esseen bound and Edgeworth Expansion, under a set of simple and general
+conditions. We further demonstrate the usefulness of these theoretical results by
+explicitly investigating a panel data model with interactive effects which nests many
+traditional panel data models as special cases. Finally, we show the superiority of
+our approach over several natural competitors using extensive numerical studies. 
+Classification-JEL: C14, C32, E44
+Creation-Date: 2023
+Number: 15/23 
+Length: 73
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp15-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-15
+
+Template-type: ReDIF-Paper 1.0
+Title: Mean Group Instrumental Variable Estimation of Time-Varying Large Heterogeneous Panels with Endogenous Regressors 
+Author-Name: Yu Bai
+Author-X-Name-First: Yu
+Author-X-Name-Last: Bai
+Author-Email: yu.bai1@monash.edu
+Author-Name: Massimiliano Marcellino
+Author-X-Name-First: Massimiliano
+Author-X-Name-Last: Marcellino
+Author-Email:  
+Author-Name: George Kapetanios
+Author-X-Name-First: George
+Author-X-Name-Last: Kapetanios
+Author-Email: 
+Keywords: large heterogeneous panels, non-parametric methods, time-varying parameters, mean
+group estimator
+Abstract: The large heterogeneous panel data models are extended to the setting where 
+the heterogenous coefficients are changing over time and the regressors are endogenous. 
+Kernel-based non-parametric timevarying parameter instrumental variable mean group (TVP-IV-MG) 
+estimator is proposed for the timevarying cross-sectional mean coefficients. The uniform 
+consistency is shown and the pointwise asymptotic normality of the proposed estimator is 
+derived. A data-driven bandwidth selection procedure is also
+proposed. The finite sample performance of the proposed estimator is investigated through 
+a Monte Carlo study and an empirical application on multi-country Phillips curve with 
+time-varying parameters. 
+Classification-JEL: C14, C26, C51
+Creation-Date: 2023
+Number: 13/23 
+Length: 28
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp13-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-13
+
+Template-type: ReDIF-Paper 1.0
+Title: Time-Varying Vector Error-Correction Models: Estimation and Inference 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi 
+Author-X-Name-Last: Yan
+Author-Email: yanyayi0812@gmail.com
+Keywords: cointegration, Gaussian approximations, Granger representation theorem,
+iterated time-varying functions, term structure of interest rates
+Abstract: This paper considers a time-varying vector error-correction model that allows 
+for different time series behaviours (e.g., unit-root and locally stationary processes) 
+to interact with
+each other to co-exist. From practical perspectives, this framework can be used to estimate
+shifts in the predictability of non-stationary variables, test whether economic theories hold
+periodically, etc. We first develop a time-varying Granger Representation Theorem, which
+facilitates the establishment of asymptotic properties for the model, and then propose 
+estimation and inferential methods and theory for both short-run and long-run coefficients.
+We also propose an information criterion to estimate the lag length, a singular-value ratio
+test to determine the cointegration rank, and a hypothesis test to examine the parameter
+stability. To validate the theoretical findings, we conduct extensive simulations. Finally, we
+demonstrate the empirical relevance by applying the framework to investigate the rational
+expectations hypothesis of the U.S. term structure. 
+Classification-JEL: C14, C32, E44
+Creation-Date: 2023
+Number: 11/23 
+Length: 70
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp11-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-11
+
+Template-type: ReDIF-Paper 1.0
 Title: Conditional Normalization in Time Series Analysis 
 Author-Name: Puwasala Gamakumara
 Author-X-Name-First: Puwasala
