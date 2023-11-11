@@ -1,4 +1,108 @@
 Template-type: ReDIF-Paper 1.0
+Title: A High-dimensional Multinomial Logit Model
+Author-Name: Didier Nibbering 
+Author-X-Name-First: Didier
+Author-X-Name-Last: Nibbering
+Author-Email: didier.nibbering@monash.edu
+Keywords: large choice sets, Dirichlet process prior, multinomial logit model, highdimensional models
+Abstract: The number of parameters in a standard multinomial logit model increases linearly
+with the number of choice alternatives and number of explanatory variables. Since
+many modern applications involve large choice sets with categorical explanatory
+variables, which enter the model as large sets of binary dummies, the number of
+parameters in a multinomial logit model is often large. This paper proposes a new
+method for data-driven two-way parameter clustering over outcome categories and
+explanatory dummy categories in a multinomial logit model. A Bayesian Dirichlet
+process mixture model encourages parameters to cluster over the categories, which
+reduces the number of unique model parameters and provides interpretable clusters
+of categories. In an empirical application, we estimate the holiday preferences of 11
+household types over 49 holiday destinations, and identify a small number of 
+household segments with different preferences across clusters of holiday destinations. 
+Classification-JEL: C11, C14, C25, C35, C51
+Creation-Date: 2023
+Number: 19/23 
+Length: 60
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp19-2023.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-19
+
+Template-type: ReDIF-Paper 1.0
+Title: Solving the Forecast Combination Puzzle 
+Author-Name: David T. Frazier
+Author-X-Name-First: David
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Author-Name: Ryan Covey
+Author-X-Name-First: Ryan
+Author-X-Name-Last: Covey
+Author-Email: 
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: Donald S. Poskitt
+Author-X-Name-First: Donald
+Author-X-Name-Last: Poskitt
+Author-Email: donald.poskitt@monash.edu
+Keywords: optimal forecast combinations, tests for forecast accuracy, probabilistic forecasting, scoring 
+rules, S&P500 forecasting, one-step versus two-step estimation
+Abstract: The forecast combination puzzle is the commonly encountered empirical result
+whereby predictions formed by combining multiple forecasts in complex ways do not
+out-perform more naive, e.g. equally-weighted, approaches. While various solutions
+for the cause of the puzzle exist in the literature, these solutions are limited in their
+scope and applicability. In contrast, we demonstrate a general solution to the puzzle 
+by showing that this phenomenon is a direct consequence of the methodology
+used to produce forecast combinations. In particular, we show that tests which aim
+to discriminate between the predictive accuracy of competing forecast combination
+strategies have low power, and can lack size control, leading to an outcome that
+favours the naive approach. In addition, we demonstrate that the low power of
+such predictive accuracy tests in the forecast combination setting can be completely
+avoided if more efficient strategies are used in the production of the combinations.
+We illustrate these findings both in the context of forecasting a functional of interest
+and in terms of predictive densities. A short empirical example using daily financial
+returns exemplifies how researchers can avoid the puzzle in practical settings.
+Classification-JEL: C18, C12, C53
+Creation-Date: 2023
+Number: 18/23
+Length: 65
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp18-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-18
+
+Template-type: ReDIF-Paper 1.0
+Title: Improving out-of-sample Forecasts of Stock Price Indexes with Forecast Reconciliation and Clustering
+Author-Name: George Athanasopoulos
+Author-X-Name-First: George
+Author-X-Name-Last: Athanasopoulos
+Author-Email: George.Athanasopoulos@monash.edu
+Author-Name: Rob J Hyndman
+Author-X-Name-First: Rob
+Author-X-Name-Last: Hyndman
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Raffaele Mattera
+Author-X-Name-First: Raffaele 
+Author-X-Name-Last: Mattera
+Author-Email: raffaele.mattera@uniroma1.it
+Keywords: financial time series, hierarchical forecasting, clustering, unsupervised learning, prediction,
+machine learning, finance
+Abstract: This paper discusses the use of forecast reconciliation with stock price time series and the 
+corresponding stock index. The individual stock price series may be grouped using known meta-data or other
+clustering methods. We propose a novel forecasting framework that combines forecast reconciliation
+and clustering, to lead to better forecasts of both the index and the individual stock price series. The
+proposed approach is applied to the Dow Jones Industrial Average Index and its component stocks.
+The results demonstrate empirically that reconciliation improves forecasts of the stock market index
+and its constituents. 
+Classification-JEL: C53, C10
+Creation-Date: 2023
+Number: 17/23 
+Length: 30
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp17-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-17
+
+Template-type: ReDIF-Paper 1.0
 Title: Higher-order Expansions and Inference for Panel Data Models 
 Author-Name: Jiti Gao
 Author-X-Name-First: Jiti
