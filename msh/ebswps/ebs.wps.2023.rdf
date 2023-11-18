@@ -103,6 +103,48 @@ File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2023-17
 
 Template-type: ReDIF-Paper 1.0
+Title: Familial Inference: Tests for Hypotheses on a Family of Centres
+Author-Name: Ryan Thompson
+Author-X-Name-First: Ryan
+Author-X-Name-Last: Thompson
+Author-Email: ryan.thompson1@unsw.edu.au
+Author-Name: Catherine S. Forbes
+Author-X-Name-First: Catherine
+Author-X-Name-Last: Forbes
+Author-Email: catherine.forbes@monash.edu
+Author-Name: Steven N. MacEachern
+Author-X-Name-First: Steven
+Author-X-Name-Last: MacEachern
+Author-Email: snm@stat.osu.edu 
+Author-Name: Mario Peruggia
+Author-X-Name-First: Mario
+Author-X-Name-Last: Peruggia
+Author-Email: peruggia@stat.osu.edu  
+Keywords: Bayesian bootstrap, Dirichlet process, Huber loss, hypothesis testing, pathwise optimization
+Abstract: Statistical hypotheses are translations of scientific hypotheses into statements about
+one or more distributions, often concerning their centre. Tests that assess statistical
+hypotheses of centre implicitly assume a specific centre, e.g., the mean or median. Yet,
+scientific hypotheses do not always specify a particular centre. This ambiguity leaves
+the possibility for a gap between scientific theory and statistical practice that can lead
+to rejection of a true null. In the face of replicability crises in many scientific disciplines,
+significant results of this kind are concerning. Rather than testing a single centre, this
+paper proposes testing a family of plausible centres, such as that induced by the Huber
+loss function (the Huber family). Each centre in the family generates a testing problem,
+and the resulting family of hypotheses constitutes a familial hypothesis. A Bayesian
+nonparametric procedure is devised to test familial hypotheses, enabled by a novel
+pathwise optimization routine to fit the Huber family. The favourable properties of
+the new test are demonstrated theoretically and experimentally. Two examples from
+psychology serve as real-world case studies. 
+Classification-JEL:  
+Creation-Date: 2023
+Number: 16/23 
+Length: 34
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp16-2023.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-16
+
+Template-type: ReDIF-Paper 1.0
 Title: Higher-order Expansions and Inference for Panel Data Models 
 Author-Name: Jiti Gao
 Author-X-Name-First: Jiti
