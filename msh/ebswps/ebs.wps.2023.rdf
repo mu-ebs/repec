@@ -1,4 +1,42 @@
 Template-type: ReDIF-Paper 1.0
+Title: Estimation and Inference for Three-Dimensional Panel Data Models
+Author-Name: Guohua Feng 
+Author-X-Name-First: Guohua
+Author-X-Name-Last: Feng
+Author-Email: Guohua.Feng@unt.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Fei Liu
+Author-X-Name-First: Fei
+Author-X-Name-Last: Liu
+Author-Email: feiliu.econ@outlook.com 
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Keywords: asymptotic theory, bias correction, dependent wild bootstrap, hierarchical model
+Abstract: In this paper, we develop estimation and inferential methods for threedimensional (3D) 
+panel data models with homogeneous/heterogeneous coefficients. Our 3D panel data models specify 
+the nature of common shocks through the use of a hierarchical factor structure (i.e., global 
+factors and sector factors). Accordingly, we develop an approach to estimating the hierarchy,
+thus enabling us to have a better understanding of the relative importance of the two types 
+of unobservable shocks. Second, we propose bias corrected estimators, and give bootstrap 
+procedures to construct the confidence intervals for the parameters of interest while 
+allowing for correlation along three dimensions of idiosyncratic errors. We justify the 
+theoretical findings using extensive simulations. In an empirical study, we examine the twin 
+hypotheses of conditional and unconditional-convergence for manufacturing industries across countries. 
+Classification-JEL: C23, O10, L60 
+Creation-Date: 2023
+Number: 20/23 
+Length: 55
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp20-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-20
+
+Template-type: ReDIF-Paper 1.0
 Title: A High-dimensional Multinomial Logit Model
 Author-Name: Didier Nibbering 
 Author-X-Name-First: Didier
@@ -276,20 +314,19 @@ Author-Name: Catherine Leigh
 Author-X-Name-First: Catherine
 Author-X-Name-Last: Leigh 
 Author-Email: catherine.leigh@rmit.edu.au
-Keywords: aggregation, coherence, cross-temporal, hierarchical time series, grouped time
-series, temporal aggregation
-Abstract: Collections of time series that are formed via aggregation are prevalent in many fields. These
-are commonly referred to as hierarchical time series and may be constructed cross-sectionally
-across different variables, temporally by aggregating a single series at different frequencies,
-or may even be generalised beyond aggregation as time series that respect linear constraints.
-When forecasting such time series, a desirable condition is for forecasts to be coherent, that
-is to respect the constraints. The past decades have seen substantial growth in this field with
-the development of reconciliation methods that not only ensure coherent forecasts but can
-also improve forecast accuracy. This paper serves as both an encyclopaedic review of forecast
-reconciliation and an entry point for researchers and practitioners dealing with hierarchical time
-series. The scope of the article includes perspectives on forecast reconciliation from machine
-learning, Bayesian statistics and probabilistic forecasting as well as applications in economics,
-energy, tourism, retail demand and demography.
+Keywords: conditional normalization, missing value imputation, conditional autocorrelation,
+conditional cross-correlation, lag time estimation, stream data, water quality
+Abstract: Time series often reflect variation associated with other related variables. Controlling for the
+effect of these variables is useful when modeling or analysing the time series. We introduce a
+novel approach to normalize time series data conditional on a set of covariates. We do this by
+modeling the conditional mean and the conditional variance of the time series with generalized
+additive models using a set of covariates. The conditional mean and variance are then used to
+normalize the time series. We illustrate the use of conditionally normalized series using two
+applications involving river network data. First, we show how these normalized time series can
+be used to impute missing values in the data. Second, we show how the normalized series can
+be used to estimate the conditional autocorrelation function and conditional cross-correlation
+functions via additive models. Finally we use the conditional cross-correlations to estimate the
+time it takes water to flow between two locations in a river network.
 Classification-JEL: 
 Creation-Date: 2023
 Number: 10/23
