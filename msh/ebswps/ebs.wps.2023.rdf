@@ -83,7 +83,7 @@ Author-X-Name-First: Donald
 Author-X-Name-Last: Poskitt
 Author-Email: donald.poskitt@monash.edu
 Keywords: optimal forecast combinations, tests for forecast accuracy, probabilistic forecasting, scoring 
-rules, S&P500 forecasting, one-step versus two-step estimation
+rules, S&#8496;P500 forecasting, one-step versus two-step estimation
 Abstract: The forecast combination puzzle is the commonly encountered empirical result
 whereby predictions formed by combining multiple forecasts in complex ways do not
 out-perform more naive, e.g. equally-weighted, approaches. While various solutions
@@ -249,6 +249,49 @@ Publication-Status:
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp13-2023.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2023-13
+
+Template-type: ReDIF-Paper 1.0
+Title: ABC-based Forecasting in State Space Models
+Author-Name: Chaya Weerasinghe 
+Author-X-Name-First: Chaya
+Author-X-Name-Last: Weerasinghe
+Author-Email: Chaya.W.PatabediMuhamdiramalage@monash.edu
+Author-Name: Ruben Loaiza-Maya 
+Author-X-Name-First: Ruben
+Author-X-Name-Last: Loaiza-Maya
+Author-Email: Ruben.LoaizaMaya@monash.edu 
+Author-Name: Gael M. Martin
+Author-X-Name-First: Gael
+Author-X-Name-Last: Martin
+Author-Email: Gael.Martin@monash.edu
+Author-Name: David T. Frazier
+Author-X-Name-First: David
+Author-X-Name-Last: Frazier
+Author-Email: david.frazier@monash.edu
+Keywords: Approximate Bayesian computation, auxiliary model, loss-based prediction, 
+focused Bayesian prediction,proper scoring rules, stochastic volatility model
+Abstract: Approximate Bayesian Computation (ABC) has gained popularity as a method for
+conducting inference and forecasting in complex models, most notably those which are
+intractable in some sense. In this paper we use ABC to produce probabilistic forecasts
+in state space models (SSMs). Whilst ABC-based forecasting in correctly-specified
+SSMs has been studied, the misspecified case has not been investigated, and it is that
+case which we emphasize. We invoke recent principles of ‘focused’ Bayesian prediction, 
+whereby Bayesian updates are driven by a scoring rule that rewards predictive
+accuracy; the aim being to produce predictives that perform well in that rule, despite
+misspecification. Two methods are investigated for producing the focused predictions.
+In a simulation setting, `coherent' predictions are in evidence for both methods: the
+predictive constructed via the use of a particular scoring rule predicts best according
+to that rule. Importantly, both focused methods typically produce more accurate forecasts 
+than an exact, but misspecified, predictive. An empirical application to a truly
+intractable SSM completes the paper. 
+Classification-JEL: C11, C53, C58
+Creation-Date: 2023
+Number: 12/23 
+Length: 25
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp12-2023.pdf 
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-12
 
 Template-type: ReDIF-Paper 1.0
 Title: Time-Varying Vector Error-Correction Models: Estimation and Inference 
