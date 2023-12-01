@@ -1,4 +1,87 @@
 Template-type: ReDIF-Paper 1.0
+Title: Eigen-Analysis for High-Dimensional Time Series Clustering
+Author-Name: Bo Zhang
+Author-X-Name-First: Bo 
+Author-X-Name-Last: Zhang
+Author-Email: zhangbo890301@outlook.com
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Guangming Pan
+Author-X-Name-First: Guangming 
+Author-X-Name-Last: Pan 
+Author-Email: gmpan@ntu.edu.sg
+Author-Name: Yanrong Yang  
+Author-X-Name-First: Yanrong
+Author-X-Name-Last: Yang
+Author-Email: yanrong.yang@anu.edu.au
+Keywords: factor model, non-stationarity, sample covariance matrix, stationarity
+Abstract: Cross-sectional structures and temporal tendency are important features 
+of highdimensional time series. Based on eigen-analysis on sample covariance matrices, 
+we propose a novel approach to identifying four popular structures of high-dimensional
+time series, which are grouped in terms of factor structures and stationarity. The
+proposed three-step method includes: 
+(1) the ratio statistic of empirical eigenvalues; 
+(2) a projected Augmented Dickey-Fuller Test; 
+(3) a new unit-root test based on the largest empirical eigenvalues. 
+We develop asymptotic properties for these three statistics to ensure the feasibility
+for the whole procedure. Finite sample performances are illustrated via various 
+simulations. Our results are further applied to analyze U.S. mortality data, U.S. house
+prices and income, and U.S. sectoral employment, all of which possess cross-sectional
+dependence as well as non-stationary temporal dependence. It is worth mentioning
+that we also contribute to statistical justification for the benchmark paper by Lee
+and Carter (1992) in mortality forecasting. 
+Classification-JEL: C18; C32; C55
+Creation-Date: 2023
+Number: 22/23 
+Length: 69
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp22-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-22
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimation of Semiparametric Multi–Index Models Using Deep Neural Networks
+Author-Name: Chaohua Dong
+Author-X-Name-First: Chaohua  
+Author-X-Name-Last: Dong
+Author-Email: chaohuadong@outlook.com 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi 
+Author-X-Name-Last: Yan
+Author-Email: yanyayi0812@gmail.com
+Keywords: asymptotic theory, multi-index model, ReLU, semiparametric regression
+Abstract: In this paper, we consider estimation and inference for both the multi-index
+parameters and the link function involved in a class of semiparametric multi–index
+models via deep neural networks (DNNs). We contribute to the design of DNN
+by i) providing more transparency for practical implementation, ii) defining different 
+types of sparsity, iii) showing the differentiability, iv) pointing out the set
+of effective parameters, and v) offering a new variant of rectified linear activation
+function (ReLU), etc. Asymptotic properties for the joint estimates of both the
+index parameters and the link functions are established, and a feasible procedure
+for the purpose of inference is also proposed. We conduct extensive numerical studies 
+to examine the finite-sample performance of the estimation methods, and we
+also evaluate the empirical relevance and applicability of the proposed models and
+estimation methods to real data. 
+Classification-JEL: 
+Creation-Date: 2023
+Number: 21/23 
+Length: 69
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp21-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-21
+
+Template-type: ReDIF-Paper 1.0
 Title: Estimation and Inference for Three-Dimensional Panel Data Models
 Author-Name: Guohua Feng 
 Author-X-Name-First: Guohua
