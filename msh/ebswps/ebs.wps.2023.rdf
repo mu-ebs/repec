@@ -42,7 +42,7 @@ File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2023-22
 
 Template-type: ReDIF-Paper 1.0
-Title: Estimation of Semiparametric Multi–Index Models Using Deep Neural Networks
+Title: Estimation of Semiparametric Multi-Index Models Using Deep Neural Networks
 Author-Name: Chaohua Dong
 Author-X-Name-First: Chaohua  
 Author-X-Name-Last: Dong
@@ -61,7 +61,7 @@ Author-X-Name-Last: Yan
 Author-Email: yanyayi0812@gmail.com
 Keywords: asymptotic theory, multi-index model, ReLU, semiparametric regression
 Abstract: In this paper, we consider estimation and inference for both the multi-index
-parameters and the link function involved in a class of semiparametric multi–index
+parameters and the link function involved in a class of semiparametric multi-index
 models via deep neural networks (DNNs). We contribute to the design of DNN
 by i) providing more transparency for practical implementation, ii) defining different 
 types of sparsity, iii) showing the differentiability, iv) pointing out the set
