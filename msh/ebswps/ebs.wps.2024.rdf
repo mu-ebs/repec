@@ -1,0 +1,64 @@
+
+Template-type: ReDIF-Paper 1.0
+Title: The Information Projection in Moment Inequality Models: Existence, Dual Representation, and Approximation
+Author-Name: Rami V. Tabri
+Author-X-Name-First: Rami
+Author-X-Name-Last: Tabri
+Author-Email: rami.tabri@monash.edu
+Keywords: I-Projection; Moment Inequality Constraints; Approximation; Convergence
+Abstract: This paper presents new existence, dual representation, and approximation results
+for the information projection (I-projection) in the infinite-dimensional setting for moment inequality
+constraint sets. These results are established under a general specification of the moment inequalities,
+nesting both conditional and unconditional moments and allowing for an infinite number of such
+inequalities. An essential innovation of the paper is the exhibition of the dual variable as a weak
+vector-valued integral, enabling the formulation of an approximation scheme of the I-projection's
+equivalent Fenchel dual problem. In particular, we show under suitable assumptions that the values
+of finite-dimensional programs can approximate the dual problem's optimum value and that, in
+addition, every accumulation point of a sequence of optimal solutions for the approximating programs
+is an optimal solution of the dual problem. 
+Classification-JEL: 
+Creation-Date: 2024
+Number: 2/24 
+Length: 39
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp02-2024.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2024-2
+
+Template-type: ReDIF-Paper 1.0
+Title: Statistical Models for Repeated Categorical Ratings: The R Package Rater
+Author-Name: Jeffrey M. Pullin
+Author-X-Name-First: Jeffrey 
+Author-X-Name-Last: Pullin
+Author-Email: 
+Author-Name: Lyle C. Gurrin
+Author-X-Name-First: Lyle
+Author-X-Name-Last: Gurrin
+Author-Email: 
+Author-Name: Damjan Vukcevic
+Author-X-Name-First: Damjan 
+Author-X-Name-Last: Vukcevic 
+Author-Email: Damjan.Vukcevic@monash.edu 
+Keywords: factor model, non-stationarity, sample covariance matrix, stationarity
+Abstract: A common problem in many disciplines is the need to assign a set of items into categories
+or classes with known labels. This is often done by one or more expert raters, or sometimes by an
+automated process. If these assignments or ‘ratings’ are difficult to make accurately, a common tactic
+is to repeat them by different raters, or even by the same rater multiple times on different occasions.
+We present an R package rater, available on CRAN, that implements Bayesian versions of several
+statistical models for analysis of repeated categorical rating data. Inference is possible for the true
+underlying (latent) class of each item, as well as the accuracy of each rater. The models are extensions
+of, and include, the Dawid–Skene model, and we implemented them using the Stan probabilistic
+programming language. We illustrate the use of rater through a few examples. We also discuss in
+detail the techniques of marginalisation and conditioning, which are necessary for these models but
+also apply more generally to other models implemented in Stan. This article was originally published in 
+The R Journal (https://doi.org/10.32614/RJ-2023-064).
+The current version has largely the same content but with the formatting optimised for PDF. 
+Classification-JEL:  
+Creation-Date: 2024
+Number: 1/24 
+Length: 26
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp01-2024.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2024-1
+
