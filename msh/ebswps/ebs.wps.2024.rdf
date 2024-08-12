@@ -1,3 +1,42 @@
+Template-type: ReDIF-Paper 1.0
+Title: RLAs for 2-Seat STV Elections: Revisited
+Author-Name: Michelle Blom
+Author-X-Name-First: Michelle 
+Author-X-Name-Last: Blom
+Author-Email: 
+Author-Name: Peter J. Stuckey
+Author-X-Name-First: Peter
+Author-X-Name-Last: Stuckey
+Author-Email: 
+Author-Name: Vanessa Teague
+Author-X-Name-First: Vanessa
+Author-X-Name-Last: Teague
+Author-Email: 
+Author-Name: Damjan Vukcevic
+Author-X-Name-First: Damjan 
+Author-X-Name-Last: Vukcevic 
+Author-Email: Damjan.Vukcevic@monash.edu 
+Keywords: 
+Abstract: Single Transferable Vote (STV) elections are a principled
+approach to electing multiple candidates in a single election. Each ballot
+has a starting value of 1, and a candidate is elected if they gather a total
+vote value more than a defined quota. Votes over the quota have their
+value reduced by a transfer value so as to remove the quota, and are
+passed to the next candidate on the ballot. Risk-limiting audits (RLAs)
+are a statistically sound approach to election auditing which guarantees
+that failure to detect an error in the result is bounded by a limit. A
+first approach to RLAs for 2-seat STV elections has been defined. In this
+paper we show how we can improve this approach by reasoning about
+lower bounds on transfer values, and how we can extend the approach to
+partially audit an election, if the method does not support a full audit. 
+Classification-JEL:  
+Creation-Date: 2024
+Number: 3/24 
+Length: 30
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp03-2024.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2024-3
 
 Template-type: ReDIF-Paper 1.0
 Title: The Information Projection in Moment Inequality Models: Existence, Dual Representation, and Approximation
