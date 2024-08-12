@@ -39,10 +39,10 @@ Author-Name: Damjan Vukcevic
 Author-X-Name-First: Damjan 
 Author-X-Name-Last: Vukcevic 
 Author-Email: Damjan.Vukcevic@monash.edu 
-Keywords: factor model, non-stationarity, sample covariance matrix, stationarity
+Keywords: 
 Abstract: A common problem in many disciplines is the need to assign a set of items into categories
 or classes with known labels. This is often done by one or more expert raters, or sometimes by an
-automated process. If these assignments or ‘ratings’ are difficult to make accurately, a common tactic
+automated process. If these assignments or `ratings' are difficult to make accurately, a common tactic
 is to repeat them by different raters, or even by the same rater multiple times on different occasions.
 We present an R package rater, available on CRAN, that implements Bayesian versions of several
 statistical models for analysis of repeated categorical rating data. Inference is possible for the true
