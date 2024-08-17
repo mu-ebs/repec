@@ -86,7 +86,7 @@ is to repeat them by different raters, or even by the same rater multiple times 
 We present an R package rater, available on CRAN, that implements Bayesian versions of several
 statistical models for analysis of repeated categorical rating data. Inference is possible for the true
 underlying (latent) class of each item, as well as the accuracy of each rater. The models are extensions
-of, and include, the Dawid–Skene model, and we implemented them using the Stan probabilistic
+of, and include, the Dawid-Skene model, and we implemented them using the Stan probabilistic
 programming language. We illustrate the use of rater through a few examples. We also discuss in
 detail the techniques of marginalisation and conditioning, which are necessary for these models but
 also apply more generally to other models implemented in Stan. This article was originally published in 
