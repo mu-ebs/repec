@@ -1,4 +1,25 @@
 Template-type: ReDIF-Paper 1.0
+Title: Testing for Restricted Stochastic Dominance under Survey Nonresponse with Panel Data: Theory and an Evaluation of Poverty in Australia
+Author-Name: Matthew J. Elias
+Author-X-Name-First: Matthew
+Author-X-Name-Last: Elias
+Author-Email: ​ 
+Author-Name: Rami V. Tabri
+Author-X-Name-First: Rami 
+Author-X-Name-Last: ​Tabri
+Author-Email:​ : rami.tabri@monash.edu
+Keywords: Empirical Likelihood; Panel Data; Stochastic Dominance; Nonresponse
+Abstract: This paper lays the groundwork for a unifying approach to stochastic dominance testing under survey nonresponse that integrates the partial identification approach to incomplete data and design-based inference for complex survey data. We propose a novel inference procedure for restricted sth-order stochastic dominance, tailored to accommodate a broad spectrum of nonresponse assumptions. The method uses pseudo-empirical likelihood to formulate the test statistic and compares it to a critical value from the chi​ squared distribution with one degree of freedom. We detail the procedure’s asymptotic properties under both null and alternative hypotheses, establishing its uniform validity under the null and consistency against various alternatives. Using the Household, Income and Labour Dynamics in Australia survey, we demonstrate the procedure’s utility in a sensitivity analysis of temporal poverty comparisons among Australian households.
+Classification-JEL: C12​, C14
+Creation-Date: 2024
+Number: 1​2/24
+Length: ​64
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp1​2-2024.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2024-12
+
+Template-type: ReDIF-Paper 1.0
 Title: Efficient Weighting Schemes for Auditing Instant-Runoff Voting Elections?
 Author-Name: Alexander Ek
 Author-X-Name-First: Alexander
@@ -17,13 +38,21 @@ Author-X-Name-First: Damjan
 Author-X-Name-Last: Vukcevic
 Author-Email: Damjan.Vukcevic@monash.edu
 Keywords:
-Abstract: Various risk-limiting audit (RLA) methods have been developed for instant-runoff voting (IRV) elections. A recent method, AWAIRE, is the first efficient approach that can take advantage of but does not require cast vote records (CVRs). AWAIRE involves adaptively weighted averages of test statistics, essentially “learning” an effective set of hypotheses to test. However, the initial paper on AWAIRE only examined a few weighting schemes and parameter settings. 
+Abstract: Various risk-limiting audit (RLA) methods have been developed for instant-runoff voting (IRV) elections. A recent method, AWAIRE, is the first 
+efficient approach that can take advantage of but does not require cast vote records (CVRs). AWAIRE involves adaptively weighted averages of test 
+statistics, essentially “learning” an effective set of hypotheses to test. However, the initial paper on AWAIRE only examined a few weighting schemes 
+and parameter settings. 
 
-We explore schemes and settings more extensively, to identify and recommend efficient choices for practice. We focus on the case where CVRs are not available, assessing performance using simulations based on real election data. 
+We explore schemes and settings more extensively, to identify and recommend efficient choices for practice. We focus on the case where CVRs are not 
+available, assessing performance using simulations based on real election data. 
 
-The most effective schemes are often those that place most or all of the weight on the apparent “best” hypotheses based on already seen data. Conversely, the optimal tuning parameters tended to vary based on the election margin. Nonetheless, we quantify the performance trade-offs for different choices across varying election margins, aiding in selecting the most desirable trade-off if a default option is needed. 
+The most effective schemes are often those that place most or all of the weight on the apparent “best” hypotheses based on already seen data. 
+Conversely, the optimal tuning parameters tended to vary based on the election margin. Nonetheless, we quantify the performance trade-offs 
+for different choices across varying election margins, aiding in selecting the most desirable trade-off if a default option is needed. 
 
-A limitation of the current AWAIRE implementation is its restriction to a small number of candidates -- up to six in previous implementations. One path to a more computationally efficient implementation would be to use lazy evaluation and avoid considering all possible hypotheses. Our findings suggest that such an approach could be done without substantially compromising statistical performance.
+A limitation of the current AWAIRE implementation is its restriction to a small number of candidates -- up to six in previous implementations. 
+One path to a more computationally efficient implementation would be to use lazy evaluation and avoid considering all possible hypotheses. 
+Our findings suggest that such an approach could be done without substantially compromising statistical performance.
 Classification-JEL:  
 Creation-Date: 2024
 Number: 11/24
@@ -47,17 +76,22 @@ Author-Name: Yayi Yan
 Author-X-Name-First: Yayi
 Author-X-Name-Last: Yan
 Author-Email: yanyayi@ mail.shufe.edu.cn
-Keywords: Factor model; structural change; residual test; serial correlation; cross sectional dependence
-Abstract: In this paper, we propose an easy-to-implement residual-based specification testing procedure for detecting structural changes in factor models, which is powerful against both smooth and abrupt structural changes with unknown break dates. The proposed test is robust against the over-specified number of factors, and serially and cross sectionally correlated error processes. A new central limit theorem is given for the quadratic forms of panel data with dependence over both dimensions, thereby filling a gap in the literature. We establish the asymptotic properties of the proposed test statistic, and accordingly develop a simulation-based scheme to select critical value in order to improve finite sample performance. Through extensive simulations and a real-world application, we confirm our theoretical results and demonstrate that the proposed test exhibits desirable size and power in practice.
+Keywords: Factor Model; Structural Change; Residual Test; Serial Correlation; Cross Sectional Dependence
+Abstract: In this paper, we propose an easy-to-implement residual-based specification testing procedure for detecting structural changes 
+in factor models, which is powerful against both smooth and abrupt structural changes with unknown break dates. The proposed test is 
+robust against the over-specified number of factors, and serially and cross sectionally correlated error processes. A new central limit 
+theorem is given for the quadratic forms of panel data with dependence over both dimensions, thereby filling a gap in the literature. 
+We establish the asymptotic properties of the proposed test statistic, and accordingly develop a simulation-based scheme to select 
+critical value in order to improve finite sample performance. Through extensive simulations and a real-world application, we confirm 
+our theoretical results and demonstrate that the proposed test exhibits desirable size and power in practice.
 Classification-JEL: C14, C23, C33
 Creation-Date: 2024
 Number: 10/24
 Length: 56
 Publication-Status:
-File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp010-2024.pdf
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp10-2024.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2024-10
-
 
 Template-type: ReDIF-Paper 1.0
 Title: Robust Inference for HighDimensional Panel Data Models
@@ -73,8 +107,18 @@ Author-Name: Yayi Yan
 Author-X-Name-First: Yayi
 Author-X-Name-Last: Yan
 Author-Email: yanyayi@ mail.shufe.edu.cn
-Keywords: Asset pPricing; Concentration inequality; Heavy-tailed distribution; High dimensional Long-run covariance matrix; Thresholding
-Abstract: In this paper, we propose a robust estimation and inferential method for high dimensional panel data models. Specifically, (1) we investigate the case where the number of regressors can grow faster than the sample size, (2) we pay particular attention to non-Gaussian, serially and cross-sectionally correlated and heteroskedastic error processes, and (3) we develop an estimation method for high-dimensional long-run covariance matrix using a thresholded estimator. Methodologically and technically, we develop two Nagaev-types of concentration inequalities: one for a partial sum and the other for a quadratic form, subject to a set of easily verifiable conditions. Leveraging these two inequalities, we also derive a non-asymptotic bound for the LASSO estimator, achieve asymptotic normality via the node-wise LASSO regression, and establish a sharp convergence rate for the thresholded heteroskedasticity and autocorrelation consistent (HAC) estimator. Our study thus provides the relevant literature with a complete toolkit for conducting inference about the parameters of interest involved in a high-dimensional panel data framework. We also demonstrate the practical relevance of these theoretical results by investigating a high-dimensional panel data model with interactive fixed effects. Moreover, we conduct extensive numerical studies using simulated and real data examples.
+Keywords: Asset Pricing; Concentration Inequality; Heavy-Tailed Distribution; High Dimensional Long-Run Covariance Matrix; Thresholding
+Abstract: In this paper, we propose a robust estimation and inferential method for high dimensional panel data models. Specifically, 
+(1) we investigate the case where the number of regressors can grow faster than the sample size, (2) we pay particular attention to 
+non-Gaussian, serially and cross-sectionally correlated and heteroskedastic error processes, and (3) we develop an estimation method 
+for high-dimensional long-run covariance matrix using a thresholded estimator. Methodologically and technically, we develop two 
+Nagaev-types of concentration inequalities: one for a partial sum and the other for a quadratic form, subject to a set of easily 
+verifiable conditions. Leveraging these two inequalities, we also derive a non-asymptotic bound for the LASSO estimator, achieve 
+asymptotic normality via the node-wise LASSO regression, and establish a sharp convergence rate for the thresholded heteroskedasticity 
+and autocorrelation consistent (HAC) estimator. Our study thus provides the relevant literature with a complete toolkit for conducting 
+inference about the parameters of interest involved in a high-dimensional panel data framework. We also demonstrate the practical 
+relevance of these theoretical results by investigating a high-dimensional panel data model with interactive fixed effects. Moreover, 
+we conduct extensive numerical studies using simulated and real data examples.
 Classification-JEL: C14, C45, G12
 Creation-Date: 2024
 Number: 9/24
@@ -104,7 +148,14 @@ Author-X-Name-First: Bin
 Author-X-Name-Last: Peng
 Author-Email: bin.peng@monash.edu
 Keywords: Asymptotic Theory; Bias Correction; Dependent Wild Bootstrap; Hierarchical Model
-Abstract: IHierarchical panel data models have recently garnered significant attention. This study contributes to the relevant literature by introducing a novel three-dimensional (3D) hierarchical panel data model, which integrates panel regression with three sets of latent factor structures: one set of global factors and two sets of local factors. Instead of aggregating latent factors from various nodes, as seen in the literature of distributed principal component analysis (PCA), we propose an estimation approach capable of recovering the parameters of interest and disentangling latent factors at different levels and across different dimensions. We establish an asymptotic theory and provide a bootstrap procedure to obtain inference for the parameters of interest while accommodating various types of cross-sectional dependence and time series autocorrelation. Finally, we demonstrate the applicability of our framework by examining productivity convergence in manufacturing industries worldwide.
+Abstract: IHierarchical panel data models have recently garnered significant attention. This study contributes to the relevant literature 
+by introducing a novel three-dimensional (3D) hierarchical panel data model, which integrates panel regression with three sets of latent 
+factor structures: one set of global factors and two sets of local factors. Instead of aggregating latent factors from various nodes, as 
+seen in the literature of distributed principal component analysis (PCA), we propose an estimation approach capable of recovering the 
+parameters of interest and disentangling latent factors at different levels and across different dimensions. We establish an asymptotic 
+theory and provide a bootstrap procedure to obtain inference for the parameters of interest while accommodating various types of 
+cross-sectional dependence and time series autocorrelation. Finally, we demonstrate the applicability of our framework by examining 
+productivity convergence in manufacturing industries worldwide.
 Classification-JEL: C23, O10, L60
 Creation-Date: 2024
 Number: 8/24
@@ -133,7 +184,14 @@ Author-X-Name-First: Yayi
 Author-X-Name-Last: Yan
 Author-Email: yanyayi@ mail.shufe.edu.cn
 Keywords: Estimation Theory; Deep Neural Network; Hierarchical Model; ReLU
-Abstract: In this paper, we consider estimation and inference for the unknown parameters and function involved in a class of generalized hierarchical models. Such models are of great interest in the literature of neural networks (such as Bauer and Kohler, 2019). We propose a rectified linear unit (ReLU) based deep neural network (DNN) approach, and contribute to the design of DNN by i) providing more transparency for practical implementation, ii) defining different types of sparsity, iii) showing the differentiability, iv) pointing out the set of effective parameters, and v) offering a new variant of rectified linear activation function (ReLU), etc. Asymptotic properties are established accordingly, and a feasible procedure for the purpose of inference is also proposed. We conduct extensive numerical studies to examine the finite-sample performance of the estimation methods, and we also evaluate the empirical relevance and applicability of the proposed models and estimation methods to real data.
+Abstract: In this paper, we consider estimation and inference for the unknown parameters and function involved in a class of generalized 
+hierarchical models. Such models are of great interest in the literature of neural networks (such as Bauer and Kohler, 2019). We propose 
+a rectified linear unit (ReLU) based deep neural network (DNN) approach, and contribute to the design of DNN by i) providing more transparency 
+for practical implementation, ii) defining different types of sparsity, iii) showing the differentiability, iv) pointing out the set of 
+effective parameters, and v) offering a new variant of rectified linear activation function (ReLU), etc. Asymptotic properties are 
+established accordingly, and a feasible procedure for the purpose of inference is also proposed. We conduct extensive numerical studies 
+to examine the finite-sample performance of the estimation methods, and we also evaluate the empirical relevance and applicability of 
+the proposed models and estimation methods to real data.
 Classification-JEL: C14, C45, G12
 Creation-Date: 2024
 Number: 7/24
