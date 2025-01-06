@@ -14,12 +14,12 @@ Author-X-Name-First: Wei 
 Author-X-Name-Last: Wei
 Author-Email: wei.wei2@monash.edu
 Keywords: Information Leakage; Tardy News; Public News; Realized Volatility
-Abstract: We introduce the tardy news hypothesis as a new channel that complements information leakage to explain why 
-volatility rises before public news. Through a novelinformation processing framework, we show that both channels can 
-lead to bias and inconsistency in the estimated relationship between news and volatility, and we establishbounds for 
-the true relationship. Using a dataset that combines realized volatility withRavenPack news analytics for S&P 500 
-constituents, we find that the type of events anews item covers is related to the likelihood of a rise in pre-news 
-volatility, and the sizeof the firm is related to the magnitude of the rise. This heterogeneity from event andfirm 
+Abstract: We introduce the tardy news hypothesis as a new channel that complements information leakage to explain why
+volatility rises before public news. Through a novel information processing framework, we show that both channels can
+lead to bias and inconsistency in the estimated relationship between news and volatility, and we establish bounds for
+the true relationship. Using a dataset that combines realized volatility withRavenPack news analytics for S&P 500
+constituents, we find that the type of events anews item covers is related to the likelihood of a rise in pre-news
+volatility, and the sizeof the firm is related to the magnitude of the rise. This heterogeneity from event andfirm
 types is consistent with the tardy news hypothesis.
 Classification-JEL: G14, C51
 Creation-Date: 2024
@@ -40,18 +40,18 @@ Author-X-Name-First: Rob
 Author-X-Name-Last: Hyndman
 Author-Email: rob.hyndman@monash.edu
 Keywords: Conformal Prediction, Coverage Guarantee, Distribution-Free Inference, Exchangeability,Weighted Quantile Estimate
-Abstract: We consider the problem of constructing distribution-free prediction intervals for multi-steptime series 
-forecasting, with a focus on the temporal dependencies inherent in multi-step forecasterrors. We establish that the 
-optimal h-step-ahead forecast errors exhibit serial correlationup to lag (h-1) under a general non-stationary 
-autoregressive data generating process. Toleverage these properties, we propose the Autocorrelated Multi-step 
-Conformal Prediction(AcMCP) method, which effectively incorporates autocorrelations in multi-step forecast errors, 
-resulting in more statistically efficient prediction intervals. This method ensures theoreticallong-run coverage 
-guarantees for multi-step prediction intervals, though we note that increasedforecasting horizons may exacerbate 
-deviations from the target coverage, particularly in thecontext of limited sample sizes. Additionally, we extend 
-several easy-to-implement conformalprediction methods, originally designed for single-step forecasting, 
-to accommodate multi-stepscenarios. Through empirical evaluations, including simulations and applications to data, 
-we demonstrate that AcMCP achieves coverage that closely aligns with the target within localwindows, while providing 
-adaptive prediction intervals that effectively respond to varyingconditions.
+Abstract: We consider the problem of constructing distribution-free prediction intervals for multi-step​ time series
+forecasting, with a focus on the temporal dependencies inherent in multi-step forecast​ errors. We establish that the
+optimal h-step-ahead forecast errors exhibit serial correlation​ up to lag (h-1) under a general non-stationary
+autoregressive data generating process. To​ leverage these properties, we propose the Autocorrelated Multi-step
+Conformal Prediction(AcMCP) method, which effectively incorporates autocorrelations in multi-step forecast errors,
+resulting in more statistically efficient prediction intervals. This method ensures theoretical​ long-run coverage
+guarantees for multi-step prediction intervals, though we note that increasedf​ orecasting horizons may exacerbate
+deviations from the target coverage, particularly in the​ context of limited sample sizes. Additionally, we extend
+several easy-to-implement conformal prediction methods, originally designed for single-step forecasting,
+to accommodate multi-step scenarios. Through empirical evaluations, including simulations and applications to data,
+we demonstrate that AcMCP achieves coverage that closely aligns with the target within local windows, while providing
+adaptive prediction intervals that effectively respond to varying conditions.
 Classification-JEL:
 Creation-Date: 2024
 Number: 20/24
