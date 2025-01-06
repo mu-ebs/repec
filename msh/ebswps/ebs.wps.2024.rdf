@@ -202,6 +202,45 @@ File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2024-7
 
 Template-type: ReDIF-Paper 1.0
+Title: Estimation of Grouped Time-Varying Network Vector Autoregression Models
+Author-Name: Degui Li
+Author-X-Name-First: Degui
+Author-X-Name-Last: Li
+Author-Email: deguili@um.edu.mo
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu
+Author-Name: Songqiao Tang
+Author-X-Name-First: Songqiao
+Author-X-Name-Last: Tang
+Author-Email:
+Author-Name: Weibiao Wu
+Author-X-Name-First: Weibiao
+Author-X-Name-Last: Wu
+Author-Email: wbwu@uchicago.edu
+Keywords: ​Cluster ​Analysis​; ​Network VAR​; ​Latent ​Groups​; ​Local ​Linear ​Estimator​; ​Time-varying ​Coefficients
+Abstract: This paper introduces a flexible time-varying network vector autoregressive model framework for 
+large-scale time series. A latent group structure is imposed on the heterogeneous and node-specific time-varying 
+momentum and network spillover effects so that the number of unknown time-varying coefficients to be estimated 
+can be reduced considerably. A classic agglomerative clustering algorithm with nonparametrically estimated 
+distance matrix is combined with a ratio criterion to consistently estimate the latent group number and 
+membership. A post-grouping local linear smoothing method is proposed to estimate the group-specific 
+time-varying momentum and network effects, substantially improving the convergence rates of the 
+preliminary estimates which ignore the latent structure. We further modify the methodology and theory 
+to allow for structural breaks in either the group membership, group number or group-specific coefficient 
+functions. Numerical studies including Monte-Carlo simulation and an empirical application are presented 
+to examine the finite-sample performance of the developed model and methodology.
+Classification-JEL:​ 
+Creation-Date: 2024
+Number: 6/24
+Length: 35
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp06-2024.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2024-6
+
+Template-type: ReDIF-Paper 1.0
 Title: Efficient Weighting Schemes for Auditing Instant-Runoff Voting Elections
 Author-Name: Alexander Ek
 Author-X-Name-First: Alexander
