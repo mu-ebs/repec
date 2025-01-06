@@ -62,6 +62,43 @@ File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2024-20
 
 Template-type: ReDIF-Paper 1.0
+Title: The Checkerboard Copula and Dependence Concepts
+Author-Name: Liyuan LinAuthor-X-Name-First: Liyuan Lin
+Author-X-Name-Last: Lin
+Author-Email: Liyuan.Lin@monash.edu
+Author-Name: Ruodu Wang
+Author-X-Name-First: Ruodu
+Author-X-Name-Last: Wang
+Author-Email: wang@uwaterloo.ca
+Author-Name: Ruixun Zhang
+Author-X-Name-First: Ruixun
+Author-X-Name-Last: Zhang
+Author-Email: zhangruixun@pku.edu.cn
+Author-Name: Chaoyi Zhao
+Author-X-Name-First: Chaoyi
+Author-X-Name-Last: Zhao
+Author-Email: zhaochaoyi@pku.edu.cn
+Keywords: Orthant Dependence; Positive and Negative Association; Shannon Entropy; Co-VaR; Simulation
+Abstract: We study the problem of choosing the copula when the marginal distributions of a random
+vector are not all continuous. Inspired by four motivating examples including simulation from
+copulas, stress scenarios, co-risk measures, and dependence measures, we propose to use the
+checkerboard copula, that is, intuitively, the unique copula with a distribution that is as uniform
+as possible within regions of flexibility. We show that the checkerboard copula has the
+largest Shannon entropy, which means that it carries the least information among all possible
+copulas for a given random vector. Furthermore, the checkerboard copula preserves the dependence
+information of the original random vector, leading to two applications in the context of
+diversification penalty and impact portfolios. The numerical and empirical results illustrate the
+benefits of using the checkerboard copula in the calculation of co-risk measures.
+Classification-JEL:
+Creation-Date: 2024
+Number: 19/24
+Length:​ 27 
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp19-2024.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2024-19
+
+Template-type: ReDIF-Paper 1.0
 Title: Risk Sharing, Measuring Variability, and Distortion Riskmetrics
 Author-Name: Jean-Gabriel Lauzier
 Author-X-Name-First: Jean-Gabriel
