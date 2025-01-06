@@ -148,7 +148,7 @@ Author-X-Name-First: Bin
 Author-X-Name-Last: Peng
 Author-Email: bin.peng@monash.edu
 Keywords: Asymptotic Theory; Bias Correction; Dependent Wild Bootstrap; Hierarchical Model
-Abstract: IHierarchical panel data models have recently garnered significant attention. This study contributes to the relevant literature 
+Abstract: Hierarchical panel data models have recently garnered significant attention. This study contributes to the relevant literature 
 by introducing a novel three-dimensional (3D) hierarchical panel data model, which integrates panel regression with three sets of latent 
 factor structures: one set of global factors and two sets of local factors. Instead of aggregating latent factors from various nodes, as 
 seen in the literature of distributed principal component analysis (PCA), we propose an estimation approach capable of recovering the 
