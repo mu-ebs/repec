@@ -2,7 +2,8 @@ Template-type: ReDIF-Paper 1.0
 Title: Late to the Party or Insider Trading? ExploringChannels for the Rise of Volatility Before News
 Author-Name: Klaus Ackermann
 Author-X-Name-First: Klaus
-Author-X-Name-Last: AckermannAuthor-Email: klaus.ackermann@monash.edu
+Author-X-Name-Last: Ackermann
+Author-Email: klaus.ackermann@monash.edu
 Author-Name: Ashley Andrews
 Author-X-Name-First: Ashley 
 Author-X-Name-Last: Andrews
@@ -34,7 +35,8 @@ Template-type: ReDIF-Paper 1.0
 Title: Online Conformal Inference for Multi-Step Time Series Forecasting
 Author-Name: Xiaoqian Wang
 Author-X-Name-First: Xiaoqian
-Author-X-Name-Last: WangAuthor-Email: xiaoqian.wang@monash.edu
+Author-X-Name-Last: Wang
+Author-Email: xiaoqian.wang@monash.edu
 Author-Name: Rob J Hyndman
 Author-X-Name-First: Rob
 Author-X-Name-Last: Hyndman
@@ -112,7 +114,16 @@ Author-X-Name-First: Ruodu
 Author-X-Name-Last: Wang
 Author-Email: wang@uwaterloo.ca
 Keywords: Signed Choquet Integrals; Risk Sharing; Inter-Quantile Difference; Variability Measures; Pairwise Counter-Monotonicity
-Abstract: We address the problem of sharing risk among agents with preferences modelled by a generalclass of comonotonic additive and law-invariant functionals that need not be either monotoneor convex. Such functionals are called distortion riskmetrics, which include many statisticalmeasures of risk and variability used in portfolio optimization and insurance. The set of Pareto Optimal allocations is characterized under various settings of general or comonotonic risk sharingproblems. We solve explicitly Pareto-optimal allocations among agents using the Gini deviation,the mean-median deviation, or the inter-quantile difference as the relevant variability measures.The latter is of particular interest, as optimal allocations are not comonotonic in the presenceof inter-quantile difference agents; instead, the optimal allocation features a mixture of pairwisecounter-monotonic structures, showing some patterns of extremal negative dependence.Classification-JEL: 
+Abstract: We address the problem of sharing risk among agents with preferences modelled by a generalclass 
+of comonotonic additive and law-invariant functionals that need not be either monotoneor convex. Such 
+functionals are called distortion riskmetrics, which include many statisticalmeasures of risk and variability 
+used in portfolio optimization and insurance. The set of Pareto Optimal allocations is characterized under
+various settings of general or comonotonic risk sharingproblems. We solve explicitly Pareto-optimal allocations 
+among agents using the Gini deviation,the mean-median deviation, or the inter-quantile difference as the relevant 
+variability measures.The latter is of particular interest, as optimal allocations are not comonotonic in the 
+presenceof inter-quantile difference agents; instead, the optimal allocation features a mixture of pairwise 
+counter-monotonic structures, showing some patterns of extremal negative dependence.
+Classification-JEL: 
 Creation-Date: 2024
 Number: 18/24 
 Length: 46
@@ -126,15 +137,30 @@ Title: Invariant Correlation under Marginal Transforms
 Author-Name: Takaaki Koike
 Author-X-Name-First: Takaaki
 Author-X-Name-Last: Koike
-Author-Email: takaaki.koike@r.hit-u.ac.jpAuthor-Name: Liyuan Lin
-Author-X-Name-First: Liyuan Lin
+Author-Email: takaaki.koike@r.hit-u.ac.jp
+Author-Name: Liyuan Lin
+Author-X-Name-First: Liyuan
 Author-X-Name-Last: Lin
-Author-Email: Liyuan.Lin@monash.eduAuthor-Name: Ruodu Wang
+Author-Email: Liyuan.Lin@monash.edu
+Author-Name: Ruodu Wang
 Author-X-Name-First: Ruodu
 Author-X-Name-Last: Wang
 Author-Email: wang@uwaterloo.ca
 Keywords: Correlation Coefficient; Dependence Matrices; Frechet Copula; Positive RegressionDependence
-Abstract: A useful property of independent samples is that their correlation remains the sameafter applying marginal transforms. This invariance property plays a fundamental role instatistical inference, but does not hold in general for dependent samples. In this paper,we study this invariance property on the Pearson correlation coefficient and its applications. A multivariate random vector is said to have an invariant correlation if its pairwisecorrelation coefficients remain unchanged under any common marginal transforms. For abivariate case, we characterize all models of such a random vector via a certain combinationof comonotonicity -- the strongest form of positive dependence -- and independence. In particular, we show that the class of exchangeable copulas with invariant correlation is preciselydescribed by what we call positive Fr´echet copulas. In the general multivariate case, wecharacterize the set of all invariant correlation matrices via the clique partition polytope. We also propose a positive regression dependent model that admits any prescribed invariantcorrelation matrix. Finally, we show that all our characterization results of invariant correlation, except one special case, remain the same if the common marginal transforms areconfined to the set of increasing ones.Classification-JEL: 
+Abstract: A useful property of independent samples is that their correlation remains the sameafter 
+applying marginal transforms. This invariance property plays a fundamental role instatistical inference, 
+but does not hold in general for dependent samples. In this paper,we study this invariance property on the 
+Pearson correlation coefficient and its applications. A multivariate random vector is said to have an 
+invariant correlation if its pairwise correlation coefficients remain unchanged under any common marginal 
+transforms. For abivariate case, we characterize all models of such a random vector via a certain combination
+of comonotonicity -- the strongest form of positive dependence -- and independence. In particular, we show that 
+the class of exchangeable copulas with invariant correlation is preciselydescribed by what we call 
+positive Frechet copulas. In the general multivariate case, we characterize the set of all invariant 
+correlation matrices via the clique partition polytope. We also propose a positive regression dependent 
+model that admits any prescribed invariantcorrelation matrix. Finally, we show that all our characterization 
+results of invariant correlation, except one special case, remain the same if the common marginal transforms 
+are confined to the set of increasing ones.
+Classification-JEL: 
 Creation-Date: 2024
 Number: 17/24 
 Length: 42
@@ -144,19 +170,29 @@ File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2024-17
 
 Template-type: ReDIF-Paper 1.0
-Title: Sparse Multiple Index Modelsfor High-dimensionalNonparametric Forecasting
+Title: Sparse Multiple Index Modelsfor High-dimensional Nonparametric Forecasting
 Author-Name: Nuwani K Palihawadana
 Author-X-Name-First: Nuwani
 Author-X-Name-Last: Palihawadana
-Author-Email: nuwani.kodikarapalihawadana@monash.eduAuthor-Name: Rob J Hyndman
+Author-Email: nuwani.kodikarapalihawadana@monash.edu
+Author-Name: Rob J Hyndman
 Author-X-Name-First: Rob
 Author-X-Name-Last: Hyndman
-Author-Email: rob.hyndman@monash.eduAuthor-Name: Xiaoqian Wang
+Author-Email: rob.hyndman@monash.edu
+Author-Name: Xiaoqian Wang
 Author-X-Name-First: Xiaoqian
 Author-X-Name-Last: Wang
 Author-Email: xiaoqian.wang@monash.edu
-Keywords: Additive Index Models; Variable Selection; Dimension Reduction; Predictor Grouping;Mixed Integer Programming
-Abstract: Forecasting often involves high-dimensional predictors which have nonlinear relationships with theoutcome of interest. Nonparametric additive index models can capture these relationships, whileaddressing the curse of dimensionality. This paper introduces a new algorithm, Sparse Multiple Index(SMI) Modelling, tailored for estimating high-dimensional nonparametric/semi-parametric additiveindex models, while limiting the number of parameters to estimate, by optimising predictor selectionand predictor grouping. The SMI Modelling algorithm uses an iterative approach based on mixedinteger programming to solve an ℓ0-regularised nonlinear least squares optimisation problem withlinear constraints. We demonstrate the performance of the proposed algorithm through a simulationstudy, along with two empirical applications to forecast heat-related daily mortality and daily solarintensity.
+Keywords: Additive Index Models; Variable Selection; Dimension Reduction; Predictor Grouping; Mixed Integer Programming
+Abstract: Forecasting often involves high-dimensional predictors which have nonlinear relationships 
+with theoutcome of interest. Nonparametric additive index models can capture these relationships, 
+while addressing the curse of dimensionality. This paper introduces a new algorithm, Sparse Multiple 
+Index(SMI) Modelling, tailored for estimating high-dimensional nonparametric/semi-parametric additive
+index models, while limiting the number of parameters to estimate, by optimising predictor selectionand 
+predictor grouping. The SMI Modelling algorithm uses an iterative approach based on mixed integer 
+programming to solve an ℓ0-regularised nonlinear least squares optimisation problem withlinear constraints. 
+We demonstrate the performance of the proposed algorithm through a simulationstudy, along with two empirical 
+applications to forecast heat-related daily mortality and daily solarintensity.
 Classification-JEL: 
 Creation-Date: 2024
 Number: 16/24 
@@ -171,7 +207,8 @@ Title: Improving the ComputationalEfficiency of Adaptive Auditsof IRV Elections
 Author-Name: Alexander Ek
 Author-X-Name-First: Alexander
 Author-X-Name-Last: Ek
-Author-Email: alexander.ek@monash.eduAuthor-Name: Michelle Blom
+Author-Email: alexander.ek@monash.edu
+Author-Name: Michelle Blom
 Author-X-Name-First: Michelle
 Author-X-Name-Last: Blom
 Author-Email: 
@@ -188,7 +225,22 @@ Author-X-Name-First: Damjan
 Author-X-Name-Last: Vukcevic
 Author-Email: Damjan.Vukcevic@monash.edu
 Keywords:
-Abstract: AWAIRE is one of two extant methods for conducting risk limiting audits of instant-runoff voting (IRV) elections. In principle AWAIREcan audit IRV contests with any number of candidates, but the originalimplementation incurred memory and computation costs that grew super exponentially with the number of candidates. This paper improvesthe algorithmic implementation of AWAIRE in three ways that makeit practical to audit IRV contests with 55 candidates, compared to theprevious 6 candidates. First, rather than trying from the start to ruleout all candidate elimination orders that produce a different winner, thealgorithm starts by considering only the final round, testing statisticallywhether each candidate could have won that round. For those candidates who cannot be ruled out at that stage, it expands to consider earlier andearlier rounds until either it provides strong evidence that the reportedwinner really won or a full hand count is conducted, revealing who reallywon. Second, it tests a richer collection of conditions, some of which canrule out many elimination orders at once. Third, it exploits relationshipsamong those conditions, allowing it to abandon testing those that areunlikely to help. We provide real-world examples with up to 36 candidates and synthetic examples with up to 55 candidates, showing howaudit sample size depends on the margins and on the tuning parameters. An open-source Python implementation is publicly available.
+Abstract: AWAIRE is one of two extant methods for conducting risk limiting audits of instant-runoff 
+voting (IRV) elections. In principle AWAIREcan audit IRV contests with any number of candidates, 
+but the original implementation incurred memory and computation costs that grew super exponentially 
+with the number of candidates. This paper improvesthe algorithmic implementation of AWAIRE in 
+three ways that makeit practical to audit IRV contests with 55 candidates, compared to theprevious 
+6 candidates. First, rather than trying from the start to ruleout all candidate elimination orders 
+that produce a different winner, thealgorithm starts by considering only the final round, testing 
+statistically whether each candidate could have won that round. For those candidates who cannot be 
+ruled out at that stage, it expands to consider earlier andearlier rounds until either it provides 
+strong evidence that the reported winner really won or a full hand count is conducted, revealing 
+who reallywon. Second, it tests a richer collection of conditions, some of which canrule out many 
+elimination orders at once. Third, it exploits relationships among those conditions, allowing 
+it to abandon testing those that areunlikely to help. We provide real-world examples with up to 36 
+candidates and synthetic examples with up to 55 candidates, showing howaudit sample size depends 
+on the margins and on the tuning parameters. An open-source Python implementation is publicly 
+available.
 Classification-JEL:  
 Creation-Date: 2024
 Number: 15/24
@@ -199,7 +251,7 @@ File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2024-15
 
 Template-type: ReDIF-Paper 1.0
-Title: Localized Neural NetworkModelling of Time Series: ACase Study on US MonetaryPolicy
+Title: Localized Neural NetworkModelling of Time Series: ACase Study on US Monetary Policy
 Author-Name: Jiti Gao
 Author-X-Name-First: Jiti
 Author-X-Name-Last: Gao
@@ -211,12 +263,22 @@ Author-Email:
 Author-Name: Bin Peng
 Author-X-Name-First: Bin
 Author-X-Name-Last: Peng
-Author-Email: bin.peng@monash.eduAuthor-Name: Yanrong Yang
+Author-Email: bin.peng@monash.edu
+Author-Name: Yanrong Yang
 Author-X-Name-First: Yanrong
 Author-X-Name-Last: Yang
 Author-Email: yanrong.yang@anu.edu.au
 Keywords: Asymptotic Theory; Bias Correction; Dependent Wild Bootstrap; Hierarchical Model
-Abstract: In this paper, we investigate a semiparametric regression model under the context of treatment effects via a localized neural network (LNN) approach. Due to a vast number of parameters involved, wereduce the number of effective parameters by (i) exploring the use of identification restrictions; and (ii)adopting a variable selection method based on the group-LASSO technique. Subsequently, we derive thecorresponding estimation theory and propose a dependent wild bootstrap procedure to construct validinferences accounting for the dependence of data. Finally, we validate our theoretical findings throughextensive numerical studies. In an empirical study, we revisit the impacts of a tightening monetary policyaction on a variety of economic variables, including short-/long-term interest rate, inflation, unemployment rate, industrial price and equity return via the newly proposed framework using a monthly datasetof the US.
+Abstract: In this paper, we investigate a semiparametric regression model under the context 
+of treatment effects via a localized neural network (LNN) approach. Due to a vast number of parameters 
+involved, wereduce the number of effective parameters by (i) exploring the use of identification 
+restrictions; and (ii)adopting a variable selection method based on the group-LASSO technique. 
+Subsequently, we derive thecorresponding estimation theory and propose a dependent wild bootstrap 
+procedure to construct validinferences accounting for the dependence of data. Finally, we validate 
+our theoretical findings through extensive numerical studies. In an empirical study, we revisit the 
+impacts of a tightening monetary policyaction on a variety of economic variables, including 
+short-/long-term interest rate, inflation, unemployment rate, industrial price and equity return 
+via the newly proposed framework using a monthly datasetof the US.
 Classification-JEL: C14, C22, C45
 Creation-Date: 2024
 Number: 14/24
@@ -239,12 +301,26 @@ Author-Email: rob.hyndman@monash.edu
 Author-Name: George Athanasopoulos
 Author-X-Name-First: George
 Author-X-Name-Last: Athanasopoulos
-Author-Email: george.athanasopoulos@monash.eduAuthor-Name: Anastasios PanagiotelisAuthor-X-Name-First: Anastasios
+Author-Email: george.athanasopoulos@monash.edu
+Author-Name: Anastasios Panagiotelis
+Author-X-Name-First: Anastasios
 Author-X-Name-Last: Panagiotelis
 Author-Email: anastasios.panagiotelis@sydney.edu.au
 Keywords: Forecasting; Hierarchical time series; Grouped time series; 
 Linear forecast reconciliation; Integer programming
-Abstract: We propose a novel forecast linear augmented projection (FLAP) method that can reduce the forecasterror variance of any multivariate forecast. The method first constructs new component series whichare linear combinations of the original series. Forecasts are then generated for both the original andcomponent series. Finally, the full vector of forecasts is projected onto a linear subspace where theconstraints implied by the combination weights hold. We show that the projection using the originalforecast error covariance matrix will result in improved forecasts. Notably, the new forecast errorvariance of each series is non-increasing with the number of components, and mild conditions areestablished for which it is strictly decreasing. It is also shown that the proposed method achieves maximum forecast error variance reduction among linear projection methods. We demonstrateour proposed method with an estimated covariance matrix using simulations and two empiricalapplications based on Australian tourism and FRED-MD data. In all cases, forecasts are improved.Notably, using FLAP with Principal Component Analysis (PCA) to construct the new series leads tosubstantial forecast error variance reduction.
+Abstract: We propose a novel forecast linear augmented projection (FLAP) method that can reduce the 
+forecasterror variance of any multivariate forecast. The method first constructs new component series 
+whichare linear combinations of the original series. Forecasts are then generated for both the original 
+andcomponent series. Finally, the full vector of forecasts is projected onto a linear subspace where 
+theconstraints implied by the combination weights hold. We show that the projection using the 
+originalforecast error covariance matrix will result in improved forecasts. Notably, the new forecast 
+errorvariance of each series is non-increasing with the number of components, and mild conditions are 
+established for which it is strictly decreasing. It is also shown that the proposed method achieves 
+maximum forecast error variance reduction among linear projection methods. We demonstrateour proposed 
+method with an estimated covariance matrix using simulations and two empirical applications based on 
+Australian tourism and FRED-MD data. In all cases, forecasts are improved. Notably, using FLAP with 
+Principal Component Analysis (PCA) to construct the new series leads tosubstantial forecast error 
+variance reduction.
 Classification-JEL: 
 Creation-Date: 2024
 Number: 13/24 
@@ -265,7 +341,17 @@ Author-X-Name-First: Rami
 Author-X-Name-Last: ​Tabri
 Author-Email:​ : rami.tabri@monash.edu
 Keywords: Empirical Likelihood; Panel Data; Stochastic Dominance; Nonresponse
-Abstract: This paper lays the groundwork for a unifying approach to stochastic dominance testing under survey nonresponse that integrates the partial identification approach to incomplete data and design-based inference for complex survey data. We propose a novel inference procedure for restricted sth-order stochastic dominance, tailored to accommodate a broad spectrum of nonresponse assumptions. The method uses pseudo-empirical likelihood to formulate the test statistic and compares it to a critical value from the chi​ squared distribution with one degree of freedom. We detail the procedure’s asymptotic properties under both null and alternative hypotheses, establishing its uniform validity under the null and consistency against various alternatives. Using the Household, Income and Labour Dynamics in Australia survey, we demonstrate the procedure’s utility in a sensitivity analysis of temporal poverty comparisons among Australian households.
+Abstract: This paper lays the groundwork for a unifying approach to stochastic dominance testing 
+under survey nonresponse that integrates the partial identification approach to incomplete data 
+and design-based inference for complex survey data. We propose a novel inference procedure for 
+restricted sth-order stochastic dominance, tailored to accommodate a broad spectrum of 
+nonresponse assumptions. The method uses pseudo-empirical likelihood to formulate the test 
+statistic and compares it to a critical value from the chi​ squared distribution with one 
+degree of freedom. We detail the procedure’s asymptotic properties under both null and 
+alternative hypotheses, establishing its uniform validity under the null and consistency 
+against various alternatives. Using the Household, Income and Labour Dynamics in Australia 
+survey, we demonstrate the procedure’s utility in a sensitivity analysis of temporal poverty 
+comparisons among Australian households.
 Classification-JEL: C12​, C14
 Creation-Date: 2024
 Number: 1​2/24
