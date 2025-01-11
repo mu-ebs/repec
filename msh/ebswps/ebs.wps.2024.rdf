@@ -10,7 +10,8 @@ Author-X-Name-Last: Andrews
 Author-Email: Author-Name: Bonsoo Koo
 Author-X-Name-First: Bonsoo
 Author-X-Name-Last: Koo
-Author-Email: bonsoo.koo@monash.eduAuthor-Name: Wei Wei
+Author-Email: bonsoo.koo@monash.edu
+Author-Name: Wei Wei
 Author-X-Name-First: Wei 
 Author-X-Name-Last: Wei
 Author-Email: wei.wei2@monash.edu
@@ -27,7 +28,7 @@ Creation-Date: 2024
 Number: 21/24
 Length: 50
 Publication-Status:
-File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp21-2024.pdf
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/WP21-2024.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2024-21
 
@@ -203,15 +204,14 @@ File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2024-16
 
 Template-type: ReDIF-Paper 1.0
-Title: Improving the ComputationalEfficiency of Adaptive Auditsof IRV Elections
+Title: Improving the Computational Efficiency ofAdaptive Audits of IRV Elections
 Author-Name: Alexander Ek
 Author-X-Name-First: Alexander
 Author-X-Name-Last: Ek
-Author-Email: alexander.ek@monash.edu
-Author-Name: Michelle Blom
+Author-Email: alexander.ek@monash.eduAuthor-Name: Michelle Blom
 Author-X-Name-First: Michelle
-Author-X-Name-Last: Blom
-Author-Email: 
+Author-X-Name-Last: Blom
+Author-Email:
 Author-Name: Philip B. Stark
 Author-X-Name-First: Philip
 Author-X-Name-Last: Stark
@@ -223,30 +223,26 @@ Author-Email:
 Author-Name: Damjan Vukcevic
 Author-X-Name-First: Damjan
 Author-X-Name-Last: Vukcevic
-Author-Email: Damjan.Vukcevic@monash.edu
+Author-Email: Damjan.Vukcevic@monash.edu
 Keywords:
-Abstract: AWAIRE is one of two extant methods for conducting risk limiting audits of instant-runoff 
-voting (IRV) elections. In principle AWAIREcan audit IRV contests with any number of candidates, 
-but the original implementation incurred memory and computation costs that grew super exponentially 
-with the number of candidates. This paper improvesthe algorithmic implementation of AWAIRE in 
-three ways that makeit practical to audit IRV contests with 55 candidates, compared to theprevious 
-6 candidates. First, rather than trying from the start to ruleout all candidate elimination orders 
-that produce a different winner, thealgorithm starts by considering only the final round, testing 
-statistically whether each candidate could have won that round. For those candidates who cannot be 
-ruled out at that stage, it expands to consider earlier andearlier rounds until either it provides 
-strong evidence that the reported winner really won or a full hand count is conducted, revealing 
-who reallywon. Second, it tests a richer collection of conditions, some of which canrule out many 
-elimination orders at once. Third, it exploits relationships among those conditions, allowing 
-it to abandon testing those that areunlikely to help. We provide real-world examples with up to 36 
-candidates and synthetic examples with up to 55 candidates, showing howaudit sample size depends 
-on the margins and on the tuning parameters. An open-source Python implementation is publicly 
-available.
+Abstract: AWAIRE is one of two extant methods for conducting risk limiting audits of instant-runoff voting (IRV) elections. 
+In principle AWAIREcan audit IRV contests with any number of candidates, but the originalimplementation incurred memory and 
+computation costs that grew super exponentially with the number of candidates. This paper improvesthe algorithmic implementation 
+of AWAIRE in three ways that makeit practical to audit IRV contests with 55 candidates, compared to theprevious 6 candidates. 
+First, rather than trying from the start to ruleout all candidate elimination orders that produce a different winner, 
+thealgorithm starts by considering only the final round, testing statistically whether each candidate could have won that round. 
+For those candidates who cannot be ruled out at that stage, it expands to consider earlier andearlier rounds until either it 
+provides strong evidence that the reportedwinner really won or a full hand count is conducted, revealing who reallywon. Second, 
+it tests a richer collection of conditions, some of which canrule out many elimination orders at once. Third, it exploits 
+relationships among those conditions, allowing it to abandon testing those that are unlikely to help. We provide real-world 
+examples with up to 36 candidates and synthetic examples with up to 55 candidates, showing howaudit sample size depends on 
+the margins and on the tuning parameters.An open-source Python implementation is publicly available.
 Classification-JEL:  
 Creation-Date: 2024
 Number: 15/24
 Length: 16
 Publication-Status:
-File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp15-2024.pdf
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp15-2024.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2024-15
 
