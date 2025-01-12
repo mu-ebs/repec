@@ -121,9 +121,9 @@ Abstract: We address the problem of sharing risk among agents with preferences m
 of comonotonic additive and law-invariant functionals that need not be either monotoneor convex. Such 
 functionals are called distortion riskmetrics, which include many statisticalmeasures of risk and variability 
 used in portfolio optimization and insurance. The set of Pareto Optimal allocations is characterized under
-various settings of general or comonotonic risk sharingproblems. We solve explicitly Pareto-optimal allocations 
-among agents using the Gini deviation,the mean-median deviation, or the inter-quantile difference as the relevant 
-variability measures.The latter is of particular interest, as optimal allocations are not comonotonic in the 
+various settings of general or comonotonic risk sharing problems. We solve explicitly Pareto-optimal allocations 
+among agents using the Gini deviation, the mean-median deviation, or the inter-quantile difference as the relevant 
+variability measures. The latter is of particular interest, as optimal allocations are not comonotonic in the 
 presenceof inter-quantile difference agents; instead, the optimal allocation features a mixture of pairwise 
 counter-monotonic structures, showing some patterns of extremal negative dependence.
 Classification-JEL: 
@@ -151,18 +151,18 @@ Author-X-Name-Last: Wang
 Author-Email: wang@uwaterloo.ca
 Keywords: Correlation Coefficient; Dependence Matrices; Frechet Copula; Positive RegressionDependence
 Abstract: A useful property of independent samples is that their correlation remains the sameafter 
-applying marginal transforms. This invariance property plays a fundamental role instatistical inference, 
-but does not hold in general for dependent samples. In this paper,we study this invariance property on the 
+applying marginal transforms. This invariance property plays a fundamental role instatistical inference, 
+but does not hold in general for dependent samples. In this paper, we study this invariance property on the 
 Pearson correlation coefficient and its applications. A multivariate random vector is said to have an 
-invariant correlation if its pairwise correlation coefficients remain unchanged under any common marginal 
+invariant correlation if its pairwise correlation coefficients remain unchanged under any common marginal 
 transforms. For abivariate case, we characterize all models of such a random vector via a certain combination
-of comonotonicity -- the strongest form of positive dependence -- and independence. In particular, we show that 
+of comonotonicity -- the strongest form of positive dependence -- and independence. In particular, we show that 
 the class of exchangeable copulas with invariant correlation is preciselydescribed by what we call 
-positive Frechet copulas. In the general multivariate case, we characterize the set of all invariant 
-correlation matrices via the clique partition polytope. We also propose a positive regression dependent 
-model that admits any prescribed invariantcorrelation matrix. Finally, we show that all our characterization 
+positive Frechet copulas. In the general multivariate case, we characterize the set of all invariant 
+correlation matrices via the clique partition polytope. We also propose a positive regression dependent 
+model that admits any prescribed invariantcorrelation matrix. Finally, we show that all our characterization 
 results of invariant correlation, except one special case, remain the same if the common marginal transforms 
-are confined to the set of increasing ones.
+are confined to the set of increasing ones. 
 Classification-JEL: 
 Creation-Date: 2024
 Number: 17/24 
