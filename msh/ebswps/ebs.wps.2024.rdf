@@ -188,13 +188,13 @@ Author-X-Name-Last: Wang
 Author-Email: xiaoqian.wang@monash.edu
 Keywords: Additive Index Models; Variable Selection; Dimension Reduction; Predictor Grouping; Mixed Integer Programming
 Abstract: Forecasting often involves high-dimensional predictors which have nonlinear relationships 
-with theoutcome of interest. Nonparametric additive index models can capture these relationships, 
+with theoutcome of interest. Nonparametric additive index models can capture these relationships, 
 while addressing the curse of dimensionality. This paper introduces a new algorithm, Sparse Multiple 
 Index(SMI) Modelling, tailored for estimating high-dimensional nonparametric/semi-parametric additive
 index models, while limiting the number of parameters to estimate, by optimising predictor selectionand 
-predictor grouping. The SMI Modelling algorithm uses an iterative approach based on mixed integer 
-programming to solve an ℓ0-regularised nonlinear least squares optimisation problem withlinear constraints. 
-We demonstrate the performance of the proposed algorithm through a simulationstudy, along with two empirical 
+predictor grouping. The SMI Modelling algorithm uses an iterative approach based on mixed integer 
+programming to solve an L0-regularised nonlinear least squares optimisation problem withlinear constraints. 
+We demonstrate the performance of the proposed algorithm through a simulation study, along with two empirical 
 applications to forecast heat-related daily mortality and daily solarintensity.
 Classification-JEL: 
 Creation-Date: 2024
@@ -228,18 +228,19 @@ Author-X-Name-First: Damjan
 Author-X-Name-Last: Vukcevic
 Author-Email: Damjan.Vukcevic@monash.edu
 Keywords:
-Abstract: AWAIRE is one of two extant methods for conducting risk limiting audits of instant-runoff voting (IRV) elections. 
-In principle AWAIREcan audit IRV contests with any number of candidates, but the originalimplementation incurred memory and 
-computation costs that grew super exponentially with the number of candidates. This paper improvesthe algorithmic implementation 
-of AWAIRE in three ways that makeit practical to audit IRV contests with 55 candidates, compared to theprevious 6 candidates. 
-First, rather than trying from the start to ruleout all candidate elimination orders that produce a different winner, 
-thealgorithm starts by considering only the final round, testing statistically whether each candidate could have won that round. 
-For those candidates who cannot be ruled out at that stage, it expands to consider earlier andearlier rounds until either it 
-provides strong evidence that the reportedwinner really won or a full hand count is conducted, revealing who reallywon. Second, 
-it tests a richer collection of conditions, some of which canrule out many elimination orders at once. Third, it exploits 
-relationships among those conditions, allowing it to abandon testing those that are unlikely to help. We provide real-world 
-examples with up to 36 candidates and synthetic examples with up to 55 candidates, showing howaudit sample size depends on 
-the margins and on the tuning parameters.An open-source Python implementation is publicly available.
+Abstract: AWAIRE is one of two extant methods for conducting risk limiting audits of instant-runoff voting (IRV) elections. 
+In principle AWAIRE can audit IRV contests with any number of candidates, but the original implementation incurred memory 
+and computation costs that grew super exponentially with the number of candidates. This paper improves the algorithmic 
+implementation of AWAIRE in three ways that make it practical to audit IRV contests with 55 candidates, compared to 
+the previous 6 candidates. First, rather than trying from the start to rule out all candidate elimination orders that 
+produce a different winner, the algorithm starts by considering only the final round, testing statistically whether 
+each candidate could have won that round. For those candidates who cannot be ruled out at that stage, it expands to 
+consider earlier and earlier rounds until either it provides strong evidence that the reported winner really won or 
+a full hand count is conducted, revealing who really won. Second, it tests a richer collection of conditions, some 
+of which can rule out many elimination orders at once. Third, it exploits relationships among those conditions, 
+allowing it to abandon testing those that are unlikely to help. We provide real-world examples with up to 36 
+candidates and synthetic examples with up to 55 candidates, showing how audit sample size depends on the margins 
+and on the tuning parameters. An open-source Python implementation is publicly available.
 Classification-JEL:  
 Creation-Date: 2024
 Number: 15/24
