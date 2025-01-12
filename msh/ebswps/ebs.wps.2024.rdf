@@ -43,12 +43,12 @@ Author-Name: Rob J Hyndman
 Author-X-Name-First: Rob
 Author-X-Name-Last: Hyndman
 Author-Email: rob.hyndman@monash.edu
-Keywords: Conformal Prediction, Coverage Guarantee, Distribution-Free Inference, Exchangeability,Weighted Quantile Estimate
+Keywords: Conformal Prediction; Coverage Guarantee; Distribution-Free Inference; Exchangeability; Weighted Quantile Estimate
 Abstract: We consider the problem of constructing distribution-free prediction intervals for multi-step​ time series
 forecasting, with a focus on the temporal dependencies inherent in multi-step forecast​ errors. We establish that the
 optimal h-step-ahead forecast errors exhibit serial correlation​ up to lag (h-1) under a general non-stationary
 autoregressive data generating process. To​ leverage these properties, we propose the Autocorrelated Multi-step
-Conformal Prediction(AcMCP) method, which effectively incorporates autocorrelations in multi-step forecast errors,
+Conformal Prediction (AcMCP) method, which effectively incorporates autocorrelations in multi-step forecast errors,
 resulting in more statistically efficient prediction intervals. This method ensures theoretical​ long-run coverage
 guarantees for multi-step prediction intervals, though we note that increasedf​ orecasting horizons may exacerbate
 deviations from the target coverage, particularly in the​ context of limited sample sizes. Additionally, we extend
@@ -111,7 +111,8 @@ Author-Email: jlauzier@mun.ca
 Author-Name: Liyuan Lin
 Author-X-Name-First: Liyuan Lin
 Author-X-Name-Last: Lin
-Author-Email: Liyuan.Lin@monash.eduAuthor-Name: Ruodu Wang
+Author-Email: Liyuan.Lin@monash.edu
+Author-Name: Ruodu Wang
 Author-X-Name-First: Ruodu
 Author-X-Name-Last: Wang
 Author-Email: wang@uwaterloo.ca
