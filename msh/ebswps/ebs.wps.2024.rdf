@@ -20,7 +20,7 @@ Keywords: Information Leakage; Tardy News; Public News; Realized Volatility
 Abstract: We introduce the tardy news hypothesis as a new channel that complements information leakage to explain why
 volatility rises before public news. Through a novel information processing framework, we show that both channels can
 lead to bias and inconsistency in the estimated relationship between news and volatility, and we establish bounds for
-the true relationship. Using a dataset that combines realized volatility withRavenPack news analytics for S&P 500
+the true relationship. Using a dataset that combines realized volatility withRavenPack news analytics for S&amp;P 500
 constituents, we find that the type of events anews item covers is related to the likelihood of a rise in pre-news
 volatility, and the sizeof the firm is related to the magnitude of the rise. This heterogeneity from event andfirm
 types is consistent with the tardy news hypothesis.
@@ -249,7 +249,7 @@ File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2024-15
 
 Template-type: ReDIF-Paper 1.0
-Title: Localized Neural NetworkModelling of Time Series: ACase Study on US Monetary Policy
+Title: Localized Neural NetworkModelling of Time Series: A Case Study on US Monetary Policy
 Author-Name: Jiti Gao
 Author-X-Name-First: Jiti
 Author-X-Name-Last: Gao
