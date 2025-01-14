@@ -25,6 +25,7 @@ constituents, we find that the type of events anews item covers is related to th
 volatility, and the sizeof the firm is related to the magnitude of the rise. This heterogeneity from event andfirm
 types is consistent with the tardy news hypothesis.
 Classification-JEL: G14, C51
+Classification-JEL:
 Creation-Date: 2024
 Number: 21/24
 Length: 50
@@ -44,14 +45,14 @@ Author-X-Name-First: Rob
 Author-X-Name-Last: Hyndman
 Author-Email: rob.hyndman@monash.edu
 Keywords: Conformal Prediction; Coverage Guarantee; Distribution-Free Inference; Exchangeability; Weighted Quantile Estimate
-Abstract: We consider the problem of constructing distribution-free prediction intervals for multi-step​ time series
-forecasting, with a focus on the temporal dependencies inherent in multi-step forecast​ errors. We establish that the
-optimal h-step-ahead forecast errors exhibit serial correlation​ up to lag (h-1) under a general non-stationary
-autoregressive data generating process. To​ leverage these properties, we propose the Autocorrelated Multi-step
+Abstract: We consider the problem of constructing distribution-free prediction intervals for multi-step time series
+forecasting, with a focus on the temporal dependencies inherent in multi-step forecast errors. We establish that the
+optimal h-step-ahead forecast errors exhibit serial correlation up to lag (h-1) under a general non-stationary
+autoregressive data generating process. To leverage these properties, we propose the Autocorrelated Multi-step
 Conformal Prediction (AcMCP) method, which effectively incorporates autocorrelations in multi-step forecast errors,
-resulting in more statistically efficient prediction intervals. This method ensures theoretical​ long-run coverage
-guarantees for multi-step prediction intervals, though we note that increasedf​ orecasting horizons may exacerbate
-deviations from the target coverage, particularly in the​ context of limited sample sizes. Additionally, we extend
+resulting in more statistically efficient prediction intervals. This method ensures theoreticall long-run coverage
+guarantees for multi-step prediction intervals, though we note that increased forecasting horizons may exacerbate
+deviations from the target coverage, particularly in the context of limited sample sizes. Additionally, we extend
 several easy-to-implement conformal prediction methods, originally designed for single-step forecasting,
 to accommodate multi-step scenarios. Through empirical evaluations, including simulations and applications to data,
 we demonstrate that AcMCP achieves coverage that closely aligns with the target within local windows, while providing
@@ -119,13 +120,13 @@ Author-X-Name-Last: Wang
 Author-Email: wang@uwaterloo.ca
 Keywords: Signed Choquet Integrals; Risk Sharing; Inter-Quantile Difference; Variability Measures; Pairwise Counter-Monotonicity
 Abstract: We address the problem of sharing risk among agents with preferences modelled by a generalclass 
-of comonotonic additive and law-invariant functionals that need not be either monotoneor convex. Such 
-functionals are called distortion riskmetrics, which include many statisticalmeasures of risk and variability 
-used in portfolio optimization and insurance. The set of Pareto Optimal allocations is characterized under
+of comonotonic additive and law-invariant functionals that need not be either monotoneor convex. Such 
+functionals are called distortion riskmetrics, which include many statisticalmeasures of risk and variability 
+used in portfolio optimization and insurance. The set of Pareto Optimal allocations is characterized under
 various settings of general or comonotonic risk sharing problems. We solve explicitly Pareto-optimal allocations 
-among agents using the Gini deviation, the mean-median deviation, or the inter-quantile difference as the relevant 
-variability measures. The latter is of particular interest, as optimal allocations are not comonotonic in the 
-presenceof inter-quantile difference agents; instead, the optimal allocation features a mixture of pairwise 
+among agents using the Gini deviation, the mean-median deviation, or the inter-quantile difference as the relevant 
+variability measures. The latter is of particular interest, as optimal allocations are not comonotonic in the 
+presenceof inter-quantile difference agents; instead, the optimal allocation features a mixture of pairwise 
 counter-monotonic structures, showing some patterns of extremal negative dependence.
 Classification-JEL: 
 Creation-Date: 2024
@@ -156,13 +157,13 @@ applying marginal transforms. This invariance property plays a fundamental role 
 but does not hold in general for dependent samples. In this paper, we study this invariance property on the 
 Pearson correlation coefficient and its applications. A multivariate random vector is said to have an 
 invariant correlation if its pairwise correlation coefficients remain unchanged under any common marginal 
-transforms. For abivariate case, we characterize all models of such a random vector via a certain combination
-of comonotonicity -- the strongest form of positive dependence -- and independence. In particular, we show that 
-the class of exchangeable copulas with invariant correlation is preciselydescribed by what we call 
+transforms. For abivariate case, we characterize all models of such a random vector via a certain combination
+of comonotonicity -- the strongest form of positive dependence -- and independence. In particular, we show 
+that the class of exchangeable copulas with invariant correlation is preciselydescribed by what we call 
 positive Frechet copulas. In the general multivariate case, we characterize the set of all invariant 
 correlation matrices via the clique partition polytope. We also propose a positive regression dependent 
 model that admits any prescribed invariantcorrelation matrix. Finally, we show that all our characterization 
-results of invariant correlation, except one special case, remain the same if the common marginal transforms 
+results of invariant correlation, except one special case, remain the same if the common marginal transforms 
 are confined to the set of increasing ones. 
 Classification-JEL: 
 Creation-Date: 2024
@@ -191,7 +192,7 @@ Keywords: Additive Index Models; Variable Selection; Dimension Reduction; Predic
 Abstract: Forecasting often involves high-dimensional predictors which have nonlinear relationships 
 with theoutcome of interest. Nonparametric additive index models can capture these relationships, 
 while addressing the curse of dimensionality. This paper introduces a new algorithm, Sparse Multiple 
-Index(SMI) Modelling, tailored for estimating high-dimensional nonparametric/semi-parametric additive 
+Index (SMI) Modelling, tailored for estimating high-dimensional nonparametric/semi-parametric additive 
 index models, while limiting the number of parameters to estimate, by optimising predictor selectionand 
 predictor grouping. The SMI Modelling algorithm uses an iterative approach based on mixed integer 
 programming to solve an L0-regularised nonlinear least squares optimisation problem withlinear constraints. 
@@ -315,7 +316,7 @@ which are linear combinations of the original series. Forecasts are then generat
 and component series. Finally, the full vector of forecasts is projected onto a linear subspace where 
 the constraints implied by the combination weights hold. We show that the projection using the 
 original forecast error covariance matrix will result in improved forecasts. Notably, the new forecast 
-error variance of each series is non-increasing with the number of components, and mild conditions are 
+error variance of each series is non-increasing with the number of components, and mild conditions are 
 established for which it is strictly decreasing. It is also shown that the proposed method achieves 
 maximum forecast error variance reduction among linear projection methods. We demonstrateour proposed 
 method with an estimated covariance matrix using simulations and two empirical applications based on 
