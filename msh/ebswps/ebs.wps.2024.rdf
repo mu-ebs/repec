@@ -250,14 +250,14 @@ Length: 16
 Publication-Status:
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp15-2024.pdf
 File-Format: application/pdf
-Handle: RePEc:msh:ebswps:2024-15
+Handle: RePEc:msh:ebswps:2024-15 
 
 Template-type: ReDIF-Paper 1.0
 Title: Localized Neural Network Modelling of Time Series: A Case Study on US Monetary Policy
-Author-Name: Jiti Gao
-Author-X-Name-First: Jiti
-Author-X-Name-Last: Gao
-Author-Email: jiti.gao@monash.edu
+Author-Name: Jiti Gao 
+Author-X-Name-First: Jiti 
+Author-X-Name-Last: Gao 
+Author-Email: jiti.gao@monash.edu
 Author-Name: Fei Liu
 Author-X-Name-First: Fei
 Author-X-Name-Last: Liu
@@ -270,25 +270,26 @@ Author-Name: Yanrong Yang
 Author-X-Name-First: Yanrong
 Author-X-Name-Last: Yang
 Author-Email: yanrong.yang@anu.edu.au
-Keywords: Asymptotic Theory; Bias Correction; Dependent Wild Bootstrap; Hierarchical Model
-Abstract: In this paper, we investigate a semiparametric regression model under the context 
-of treatment effects via a localized neural network (LNN) approach. Due to a vast number of parameters 
-involved, wereduce the number of effective parameters by (i) exploring the use of identification 
-restrictions; and (ii)adopting a variable selection method based on the group-LASSO technique. 
-Subsequently, we derive thecorresponding estimation theory and propose a dependent wild bootstrap 
-procedure to construct validinferences accounting for the dependence of data. Finally, we validate 
-our theoretical findings through extensive numerical studies. In an empirical study, we revisit the 
-impacts of a tightening monetary policyaction on a variety of economic variables, including 
-short-/long-term interest rate, inflation, unemployment rate, industrial price and equity return 
-via the newly proposed framework using a monthly datasetof the US.
-Classification-JEL: C14, C22, C45
+Keywords: Dependent Wild Bootstrap; Group-LASSO; Semiparametric Model; Treatment Effects 
+Abstract: In this paper, we investigate a semiparametric regression model under the context of 
+treatment effects via a localized neural network (LNN) approach. Due to a vast number of 
+parameters involved, we reduce the number of effective parameters by (i) exploring the use of 
+identification restrictions; and (ii) adopting a variable selection method based on the 
+group-LASSO technique. Subsequently, we derive the corresponding estimation theory and 
+propose a dependent wild bootstrap procedure to construct valid inferences accounting for 
+the dependence of data. Finally, we validate our theoretical findings through extensive 
+numerical studies. In an empirical study, we revisit the impacts of a tightening monetary 
+policy action on a variety of economic variables, including short-/long-term interest rate, 
+inflation, unemployment rate, industrial price and equity return via the newly proposed 
+framework using a monthly dataset of the US.
+Classification-JEL: C14, C22, C45 
 Creation-Date: 2024
-Number: 14/24
-Length: 81
-Publication-Status:
-File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp14-2024.pdf
+Number: 14/24 
+Length: 81 
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp14-2024.pdf
 File-Format: application/pdf
-Handle: RePEc:msh:ebswps:2024-14
+Handle: RePEc:msh:ebswps:2024-14 
 
 Template-type: ReDIF-Paper 1.0
 Title: Forecast Linear AugmentedProjection (FLAP): A Free Lunch to Reduce Forecast Error Variance
