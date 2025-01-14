@@ -190,8 +190,8 @@ Author-Email: xiaoqian.wang@monash.edu
 Keywords: Additive Index Models; Variable Selection; Dimension Reduction; Predictor Grouping; Mixed Integer Programming
 Abstract: Forecasting often involves high-dimensional predictors which have nonlinear relationships 
 with theoutcome of interest. Nonparametric additive index models can capture these relationships, 
-while addressing the curse of dimensionality. This paper introduces a new algorithm, Sparse Multiple 
-Index(SMI) Modelling, tailored for estimating high-dimensional nonparametric/semi-parametric additive
+while addressing the curse of dimensionality. This paper introduces a new algorithm, Sparse Multiple 
+Index(SMI) Modelling, tailored for estimating high-dimensional nonparametric/semi-parametric additive 
 index models, while limiting the number of parameters to estimate, by optimising predictor selectionand 
 predictor grouping. The SMI Modelling algorithm uses an iterative approach based on mixed integer 
 programming to solve an L0-regularised nonlinear least squares optimisation problem withlinear constraints. 
