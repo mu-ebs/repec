@@ -331,18 +331,18 @@ Length: 40
 Publication-Status: 
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp13-2024.pdf
 File-Format: application/pdf
-Handle: RePEc:msh:ebswps:2024-13
+Handle: RePEc:msh:ebswps:2024-13 
 
 Template-type: ReDIF-Paper 1.0
 Title: Testing for Restricted Stochastic Dominance under Survey Nonresponse with Panel Data: Theory and an Evaluation of Poverty in Australia
-Author-Name: Matthew J. Elias
+Author-Name: Matthew J. Rlias
 Author-X-Name-First: Matthew
-Author-X-Name-Last: Elias
-Author-Email: ​ 
+Author-X-Name-Last: Rlias
+Author-Email:  
 Author-Name: Rami V. Tabri
-Author-X-Name-First: Rami 
-Author-X-Name-Last: ​Tabri
-Author-Email:​ rami.tabri@monash.edu
+Author-X-Name-First: Rami
+Author-X-Name-Last: Tabri
+Author-Email: rami.tabri@monash.edu 
 Keywords: Empirical Likelihood; Panel Data; Stochastic Dominance; Nonresponse
 Abstract: This paper lays the groundwork for a unifying approach to stochastic dominance testing 
 under survey nonresponse that integrates the partial identification approach to incomplete data 
@@ -356,13 +356,13 @@ against various alternatives. Using the Household, Income and Labour Dynamics in
 survey, we demonstrate the procedure’s utility in a sensitivity analysis of temporal poverty 
 comparisons among Australian households.
 Classification-JEL: C12​, C14
-Creation-Date: 2024
-Number: 1​2/24
-Length: ​64
-Publication-Status:
-File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp1​2-2024.pdf
+Creation-Date: 2024 
+Number: 12/24 
+Length: 64 
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2024/wp12-2024.pdf
 File-Format: application/pdf
-Handle: RePEc:msh:ebswps:2024-12
+Handle: RePEc:msh:ebswps:2024-12 
 
 Template-type: ReDIF-Paper 1.0
 Title: Efficient Weighting Schemes for Auditing Instant-Runoff Voting Elections?
