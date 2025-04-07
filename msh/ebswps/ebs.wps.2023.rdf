@@ -261,12 +261,12 @@ Creation-Date: 2023
 Number: 16/23 
 Length: 34
 Publication-Status: 
-File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/wp16-2023.pdf 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp16-2023.pdf 
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2023-16
 
 Template-type: ReDIF-Paper 1.0
-Title: Higher-order Expansions and Inference for Panel Data Models 
+Title: A Localised Neural network with Dependent Data: Estimation and Inference
 Author-Name: Jiti Gao
 Author-X-Name-First: Jiti
 Author-X-Name-Last: Gao
@@ -298,6 +298,42 @@ Publication-Status:
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp15-2023.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2023-15
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Higher-order Expansions and Inference for Panel Data Models
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Bin Peng
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu 
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi 
+Author-X-Name-Last: Yan
+Author-Email: yanyayi0812@gmail.com
+Keywords: dependent wild bootstrap, Edgeworth expansion, fund performance evaluation
+Abstract: In this paper, we propose a simple inferential method for a wide class of panel
+data models with a focus on such cases that have both serial correlation and crosssectional 
+dependence. In order to establish an asymptotic theory to support the
+inferential method, we develop some new and useful higher-order expansions, such
+as Berry-Esseen bound and Edgeworth Expansion, under a set of simple and general
+conditions. We further demonstrate the usefulness of these theoretical results by
+explicitly investigating a panel data model with interactive effects which nests many
+traditional panel data models as special cases. Finally, we show the superiority of
+our approach over several natural competitors using extensive numerical studies.
+Classification-JEL: C14, C32, E44
+Creation-Date: 2023
+Number: 14/23 
+Length: 69
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2023/wp14-2023.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2023-14
+
+
 
 Template-type: ReDIF-Paper 1.0
 Title: Mean Group Instrumental Variable Estimation of Time-Varying Large Heterogeneous Panels with Endogenous Regressors 
@@ -535,7 +571,7 @@ File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2023-8 
 
 Template-type: ReDIF-Paper 1.0
-Title:Does Climate Sensitivity Differ Across Regions?
+Title: Does Climate Sensitivity Differ Across Regions?
 Author-Name: Heather Anderson
 Author-X-Name-First: Heather
 Author-X-Name-Last: Anderson
