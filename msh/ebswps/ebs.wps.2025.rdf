@@ -1,4 +1,81 @@
 Template-type: ReDIF-Paper 1.0
+Title: Predicting an Ice-free Arctic using a Nonlinear Endogenous Co-trending Regression Model
+Author-Name: Li Chen
+Author-X-Name-First: Li
+Author-X-Name-Last: Chen
+Author-Email:
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid 
+Author-X-Name-Last: Vahid
+Author-Email: Farshid.Vahid@monash.edu 
+Keywords: Arctic sea ice, Box-Cox transformation, climate change, ice-free Arctic
+Abstract: This paper predicts the emergence of an ice-free Arctic using a nonlinear
+endogenous co-trending regression model. The model captures the nonlinear
+co-trending relationship between Arctic sea ice extent (SIE) and regional
+surface temperatures, which are influenced by long-run factors such as radiative 
+forcing from greenhouse gases (GHG) and the Atlantic Multidecadal
+Oscillation (AMO) index. By conditioning the analysis on various Representative 
+Concentration Pathways (RCPs) for future GHG emissions and
+projected AMO cyclical patterns, we offer long-term predictions of Arctic
+SIE. Our findings indicate the likely emergence of an ice-free Arctic before
+2050 under the worst-case emission scenario.
+Classification-JEL: Q54, C22, C53
+Creation-Date: 2025
+Number: 3/25
+Length: 38
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp03-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-3
+
+Template-type: ReDIF-Paper 1.0
+Title: Panel Data Estimation and Inference: Homogeneity versus Heterogeneity
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Fei Liu
+Author-X-Name-First: Fei
+Author-X-Name-Last: Liu
+Author-Email:
+Author-Name: Bin Peng 
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi
+Author-X-Name-Last: Yan
+Author-Email: yanyayi@ mail.shufe.edu.cn
+Keywords: homogeneity, heterogeneity, weak and strong cross-sectional dependence,
+Gaussian approximation, (non)stationary panel
+Abstract: In this paper, we define an underlying data generating process that allows for
+different magnitudes of cross-sectional dependence, along with time series autocorrelation. 
+This is achieved via high-dimensional moving average processes of infinite
+order (HDMA(&infin;)). Our setup and investigation integrates and enhances homogenous and 
+heterogeneous panel data estimation and testing in a unified way. To study
+HDMA(&infin;), we extend the Beveridge-Nelson decomposition to a high-dimensional
+time series setting, and derive a complete toolkit set. We exam homogeneity versus
+heterogeneity using Gaussian approximation, a prevalent technique for establishing 
+uniform inference. For post-testing inference, we derive central limit theorems
+through Edgeworth expansions for both homogenous and heterogeneous settings.
+Additionally, we showcase the practical relevance of the established asymptotic
+properties by revisiting the common correlated effects (CCE) estimators, and a
+classic nonstationary panel data process. Finally, we verify our theoretical findings
+via extensive numerical studies using both simulated and real datasets.
+Classification-JEL: C12, C18, C23, C55
+Creation-Date: 2025
+Number: 2/25
+Length: 66
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp02-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-2
+
+Template-type: ReDIF-Paper 1.0
 Title: Model Averaging for Time-Varying Vector Autoregressions
 Author-Name: Yuying Sun
 Author-X-Name-First: Yuying
@@ -12,7 +89,7 @@ Author-Name: Jiti Gao
 Author-X-Name-First: Jiti
 Author-X-Name-Last: Gao
 Author-Email: jiti.gao@monash.edu
-Keywords: : Asymptotic Optimality; Consistency; Structural Change; Time-varying Weight
+Keywords: asymptotic optimality, consistency, structural change, time-varying weight
 Abstract: This paper proposes a novel time-varying model averaging (TVMA) approach to
 enhancing forecast accuracy for multivariate time series subject to structural changes.
 The TVMA method averages predictions from a set of time-varying vector autoregressive
@@ -37,3 +114,4 @@ Publication-Status:
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp01-2025.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2025-1
+
