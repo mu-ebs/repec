@@ -1,4 +1,245 @@
 Template-type: ReDIF-Paper 1.0
+Title: Time-Varying Generalized Network Autoregressions 
+Author-Name: Boyao Wu
+Author-X-Name-First: Boyao
+Author-X-Name-Last: Wu
+Author-Email: 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Deshui Yu
+Author-X-Name-First: Deshui
+Author-X-Name-Last: Yu
+Author-Email: 
+Keywords: cross-sectional dependence, dynamic network autoregression, high-dimensional
+time-series, MA(&infin;) representation
+Abstract: We consider a general class of dynamic network autoregressions for 
+high-dimensional time series with network dependence, extending existing dynamic 
+models by allowing for timevarying model coefficients, cross-sectionally dependent 
+errors and a general network structure smoothly evolving along the time. A 
+nonparametric local linear kernel method is proposed to estimate these time-varying 
+coefficients involved, and a recursive-design bootstrap procedure is developed to 
+construct valid confidence intervals for time-varying coefficients in the
+presence of cross-sectional dependent errors. We establish asymptotic properties 
+for the proposed local–linear based estimator and the bootstrap procedure under 
+mild conditions. Both the proposed estimation and bootstrap procedures are 
+illustrated using simulated and two real datasets. Our work contributes to 
+high-dimensional time series associated with network effects and sheds light on 
+bootstrap inference for locally stationary processes.
+Classification-JEL: C14, C31, C33, D85
+Creation-Date: 2025
+Number: 8/25
+Length: 37
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp08-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-8
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimation and Inference based on Summary Statistics for State Space Models
+Author-Name: Hasan Fallahgoul
+Author-X-Name-First: Hasan
+Author-X-Name-Last: Fallahgoul
+Author-Email: hasan.fallahgoul@monash.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords: estimation theory, Kalman filter, nonstationarity, resampling technique
+Abstract: This paper introduces a theoretically robust framework for conditional mean 
+estimation associated with maximum likelihood estimation (MLE) in state space models
+with nonstationary time series, integrating the classical Kalman filter with Bayesian
+inference. We propose a dierence-based approach using optimally designed summary
+statistics from observable data, overcoming the intractability of traditional Kalman filter
+statistics reliant on latent states. Our formulation creates a direct mapping between
+feasible statistics and structural parameters, enabling clean separation between state
+dynamics and measurement noise. Under mild regularity conditions, we prove the
+consistency and asymptotic normality of the estimators, achieving the Cram´er–Rao
+lower bound for eciency. The methodology extends to non-Gaussian innovations with
+finite moments, ensuring robustness. Monte Carlo approximations preserve asymptotic
+eciency under controlled sampling rates, while finite sample bounds and robustness
+to model misspecification and data contamination confirm reliability. These theoretical
+advances are complemented by a comprehensive simulation study demonstrating superior 
+performance compared to conventional approaches. These results advance the
+theoretical foundations of state space modelling, providing a statistically ecient and
+computationally feasible alternative to conventional approaches.
+Classification-JEL: C11, C15, C21
+Creation-Date: 2025
+Number: 7/25
+Length: 32
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/Jiti.WP.07.25.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-7
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Sunlight-Heated Refugia Protect Frogs from Chytridiomycosis: A Mathematical Modelling Study
+Author-Name: Claire M. Miller
+Author-X-Name-First: Claire
+Author-X-Name-Last: Miller
+Author-Email: claire.miller@auckland.ac.nz
+Author-Name: Michael J. Lydeamore
+Author-X-Name-First: Michael
+Author-X-Name-Last: Lydeamore
+Author-Email: michael.lydeamore@monash.edu
+Author-Name: Jennifer A. Flegg
+Author-X-Name-First: Jennife
+Author-X-Name-Last: Flegg
+Author-Email: jennifer.flegg@unimelb.edu.au
+Author-Name: Lee Berger
+Author-X-Name-First: Lee
+Author-X-Name-Last: Berger
+Author-Email: lee.berger@unimelb.edu.au
+Author-Name: Lee F. Skerratt
+Author-X-Name-First: Lee
+Author-X-Name-Last: Skerratt
+Author-Email: l.skerratt@unimelb.edu.au
+Author-Name: Anthony W. Waddle
+Author-X-Name-First: Anthony 
+Author-X-Name-Last: Waddle
+Author-Email: anthony.waddle@mq.edu.au
+Author-Name: Patricia Therese Campbell
+Author-X-Name-First: Patricia
+Author-X-Name-Last: Campbell
+Author-Email: patricia.campbell@unimelb.edu.au
+Keywords: chytridiomycosis, Batrachochytrium dendrobatidis, approximate Bayesian
+computation, mathematical biology, epidemiology, transmission, intervention 
+Abstract: The fungal disease Chytridiomycosis poses a threat to frog populations 
+worldwide. It has driven over 90 amphibian species to extinction and severely affected
+hundreds more. Difficulties in disease management have shown a need for novel
+conservation approaches.
+
+We present a novel mathematical model for chytridiomycosis transmission in
+frogs that includes the natural history of infection, to test the hypothesis that
+sunlight-heated refugia reduce transmission. This model was fit using approximate 
+Bayesian computation to experimental data where frogs were grouped into
+sunlight-heated or shaded refugia cohorts.
+
+Results show a 40% reduction in infection due to sunlight-heating of refugia. 
+Frogs that were infected and recovered had a reduction in susceptibility of
+approximately 97% compared to na¨ıve frogs. Our model offers insight into using
+sunlight-heated refugia to reduce chytridiomycosis prevalence. Importantly, it is
+the first step in determining the necessary level of refugia in the landscape for
+frog population recovery and population sustainability.
+Classification-JEL:  
+Creation-Date: 2025
+Number: 6/25
+Length: 32
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp06-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-6
+
+Template-type: ReDIF-Paper 1.0
+Title: 3+ Seat Risk-Limiting Audits for Single Transferable Vote Elections
+Author-Name: Michelle Blom
+Author-X-Name-First: Michelle
+Author-X-Name-Last: Blom
+Author-Email: 
+Author-Name: Alexander Ek
+Author-X-Name-First: Alexander
+Author-X-Name-Last: Ek
+Author-Email: alexander.ek@monash.edu
+Author-Name: Peter J. Stuckey
+Author-X-Name-First: Peter
+Author-X-Name-Last: Stuckey
+Author-Email:
+Author-Name: Vanessa J. Teague
+Author-X-Name-First: Vanessa
+Author-X-Name-Last: Teague
+Author-Email:
+Author-Name: Damjan Vukcevic
+Author-X-Name-First: Damjan
+Author-X-Name-Last: Vukcevic
+Author-Email: Damjan.Vukcevic@monash.edu
+Keywords: 
+Abstract: Constructing efficient risk-limiting audits (RLAs) for multiwinner 
+single transferable vote (STV) elections is a challenging problem.
+An STV RLA is designed to statistically verify that the reported winners
+of an election did indeed win according to the voters' expressed preferences 
+and not due to mistabulation or interference, while limiting the
+risk of accepting an incorrect outcome to a desired threshold (the risk
+limit). Existing methods have shown that it is possible to form RLAs
+for two-seat STV elections in the context where the first seat has been
+awarded to a candidate in the first round of tabulation. This is called the
+first winner criterion. We present an assertion-based approach to conducting 
+full or partial RLAs for STV elections with three or more seats,
+in which the first winner criterion is satisfied. Although the chance of
+forming a full audit that verifies all winners drops substantially as the
+number of seats increases, we show that we can quite often form partial
+audits that verify most, and sometimes all, of the reported winners. We
+evaluate our method on a dataset of over 500 three- and four-seat STV
+elections from the 2017 and 2022 local council elections in Scotland
+Classification-JEL:  
+Creation-Date: 2025
+Number: 5/25
+Length: 15
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp05-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-5
+
+Template-type: ReDIF-Paper 1.0
+Title: Doing More With Less: Mismatch-Based Risk-Limiting Audits?
+Author-Name: Alexander Ek
+Author-X-Name-First: Alexander
+Author-X-Name-Last: Ek
+Author-Email: alexander.ek@monash.edu
+Author-Name: Michelle Blom
+Author-X-Name-First: Michelle
+Author-X-Name-Last: Blom
+Author-Email: 
+Author-Name: Philip B. Stark
+Author-X-Name-First: Philip
+Author-X-Name-Last: Stark
+Author-Email:
+Author-Name: Peter J. Stuckey
+Author-X-Name-First: Peter
+Author-X-Name-Last: Stuckey
+Author-Email:
+Author-Name: Vanessa J. Teague
+Author-X-Name-First: Vanessa
+Author-X-Name-Last: Teague
+Author-Email:
+Author-Name: Damjan Vukcevic
+Author-X-Name-First: Damjan
+Author-X-Name-Last: Vukcevic
+Author-Email: Damjan.Vukcevic@monash.edu
+Keywords: single transferable vote, risk-limiting audit, margin of
+victory, mismatch-based audit
+Abstract: One approach to risk-limiting audits (RLAs) compares randomly 
+selected cast vote records (CVRs) to votes read by human auditors
+from the corresponding ballot cards. Historically, such methods reduce
+audit sample sizes by considering how each sampled CVR differs from
+the corresponding true vote, not merely whether they differ. Here we
+investigate the latter approach, auditing by testing whether the total
+number of mismatches in the full set of CVRs exceeds the minimum
+number of CVR errors required for the reported outcome to be wrong
+(the "CVR margin"). This strategy makes it possible to audit more social
+choice functions and simplifies RLAs conceptually, which makes it easier
+to explain than some other RLA approaches. The cost is larger sample
+sizes. "Mismatch-based RLAs" only require a lower bound on the CVR
+margin, which for some social choice functions is easier to calculate than
+the effect of particular errors. When the population rate of mismatches
+is low and the lower bound on the CVR margin is close to the true CVR
+margin, the increase in sample size is small. However, the increase may
+be very large when errors include errors that, if corrected, would widen
+the CVR margin rather than narrow it; errors affect the margin between
+candidates other than the reported winner with the fewest votes and the
+reported loser with the most votes; or errors that affect different
+margins.
+Classification-JEL:  
+Creation-Date: 2025
+Number: 4/25
+Length: 15
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp04-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-4
+
+Template-type: ReDIF-Paper 1.0
 Title: Predicting an Ice-free Arctic using a Nonlinear Endogenous Co-trending Regression Model
 Author-Name: Li Chen
 Author-X-Name-First: Li
@@ -114,4 +355,5 @@ Publication-Status:
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp01-2025.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2025-1
+
 
