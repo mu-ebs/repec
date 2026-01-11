@@ -22,7 +22,7 @@ nonparametric local linear kernel method is proposed to estimate these time-vary
 coefficients involved, and a recursive-design bootstrap procedure is developed to 
 construct valid confidence intervals for time-varying coefficients in the
 presence of cross-sectional dependent errors. We establish asymptotic properties 
-for the proposed local–linear based estimator and the bootstrap procedure under 
+for the proposed local-linear based estimator and the bootstrap procedure under 
 mild conditions. Both the proposed estimation and bootstrap procedures are 
 illustrated using simulated and two real datasets. Our work contributes to 
 high-dimensional time series associated with network effects and sheds light on 
@@ -55,7 +55,7 @@ statistics from observable data, overcoming the intractability of traditional Ka
 statistics reliant on latent states. Our formulation creates a direct mapping between
 feasible statistics and structural parameters, enabling clean separation between state
 dynamics and measurement noise. Under mild regularity conditions, we prove the
-consistency and asymptotic normality of the estimators, achieving the Cram´er–Rao
+consistency and asymptotic normality of the estimators, achieving the Cramrr-Rao
 lower bound for eciency. The methodology extends to non-Gaussian innovations with
 finite moments, ensuring robustness. Monte Carlo approximations preserve asymptotic
 eciency under controlled sampling rates, while finite sample bounds and robustness
@@ -110,13 +110,11 @@ Abstract: The fungal disease Chytridiomycosis poses a threat to frog populations
 worldwide. It has driven over 90 amphibian species to extinction and severely affected
 hundreds more. Difficulties in disease management have shown a need for novel
 conservation approaches.
-
 We present a novel mathematical model for chytridiomycosis transmission in
 frogs that includes the natural history of infection, to test the hypothesis that
 sunlight-heated refugia reduce transmission. This model was fit using approximate 
 Bayesian computation to experimental data where frogs were grouped into
 sunlight-heated or shaded refugia cohorts.
-
 Results show a 40% reduction in infection due to sunlight-heating of refugia. 
 Frogs that were infected and recovered had a reduction in susceptibility of
 approximately 97% compared to na¨ıve frogs. Our model offers insight into using
@@ -190,19 +188,15 @@ Author-Email: alexander.ek@monash.edu
 Author-Name: Michelle Blom
 Author-X-Name-First: Michelle
 Author-X-Name-Last: Blom
-Author-Email: 
 Author-Name: Philip B. Stark
 Author-X-Name-First: Philip
 Author-X-Name-Last: Stark
-Author-Email:
 Author-Name: Peter J. Stuckey
 Author-X-Name-First: Peter
 Author-X-Name-Last: Stuckey
-Author-Email:
 Author-Name: Vanessa J. Teague
 Author-X-Name-First: Vanessa
 Author-X-Name-Last: Teague
-Author-Email:
 Author-Name: Damjan Vukcevic
 Author-X-Name-First: Damjan
 Author-X-Name-Last: Vukcevic
@@ -355,5 +349,6 @@ Publication-Status:
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp01-2025.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2025-1
+
 
 
