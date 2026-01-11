@@ -1,4 +1,35 @@
 Template-type: ReDIF-Paper 1.0
+Title: Downstream Impacts of Mines On Agriculture in Africa
+Author-Name: Lukas Vashold
+Author-X-Name-First: Lukas
+Author-X-Name-Last: Vashold
+Author-Name: Gustav Pirich
+Author-X-Name-First: Gustav
+Author-X-Name-Last: Pirich
+Author-Name: Maximilian Heinze
+Author-X-Name-First: Maximilian
+Author-X-Name-Last: Heinze
+Author-Name: Nikolas Kuschnig
+Author-X-Name-First: Nikolas
+Author-X-Name-Last: Kuschnig
+Author-Email: nikolas.kuschnig@monash.edu
+Keywords: mining, agriculture, water pollution, vegetation, externality, natural resources
+Abstract: Mining operations in Africa are expanding rapidly, creating negative externalities 
+that remain poorly understood. In this paper, we provide causal evidence for the impact of 
+water pollution from mines on downstream vegetation and agriculture across the continent. 
+We exploit discontinuities in water pollution caused by mines along river networks to 
+compare vegetation health upstream and downstream. We find that mines significantly reduce 
+peak vegetation downstream, impairing the productivity of croplands. These effects correspond 
+to substantial crop losses and highlight the environmental and agricultural externalities 
+of mining activity.
+Creation-Date: 2025
+Number: 09/25
+Length: 15
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp09-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-9
+
+Template-type: ReDIF-Paper 1.0
 Title: Time-Varying Generalized Network Autoregressions 
 Author-Name: Boyao Wu
 Author-X-Name-First: Boyao
@@ -321,6 +352,7 @@ Publication-Status:
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp01-2025.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2025-1
+
 
 
 
