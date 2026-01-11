@@ -73,19 +73,18 @@ File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/Jit
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2025-7
 
-
 Template-type: ReDIF-Paper 1.0
 Title: Sunlight-Heated Refugia Protect Frogs from Chytridiomycosis: A Mathematical Modelling Study
 Author-Name: Claire M. Miller
 Author-X-Name-First: Claire
 Author-X-Name-Last: Miller
-Author-Email: claire.miller@auckland.ac.nz
+Author-Email: claire.miller@auckland.ac.nz
 Author-Name: Michael J. Lydeamore
 Author-X-Name-First: Michael
 Author-X-Name-Last: Lydeamore
-Author-Email: michael.lydeamore@monash.edu
+Author-Email: michael.lydeamore@monash.edu
 Author-Name: Jennifer A. Flegg
-Author-X-Name-First: Jennife
+Author-X-Name-First: Jennifer
 Author-X-Name-Last: Flegg
 Author-Email: jennifer.flegg@unimelb.edu.au
 Author-Name: Lee Berger
@@ -97,94 +96,76 @@ Author-X-Name-First: Lee
 Author-X-Name-Last: Skerratt
 Author-Email: l.skerratt@unimelb.edu.au
 Author-Name: Anthony W. Waddle
-Author-X-Name-First: Anthony 
+Author-X-Name-First: Anthony
 Author-X-Name-Last: Waddle
-Author-Email: anthony.waddle@mq.edu.au
+Author-Email: anthony.waddle@mq.edu.au
 Author-Name: Patricia Therese Campbell
 Author-X-Name-First: Patricia
 Author-X-Name-Last: Campbell
-Author-Email: patricia.campbell@unimelb.edu.au
-Keywords: chytridiomycosis, Batrachochytrium dendrobatidis, approximate Bayesian
-computation, mathematical biology, epidemiology, transmission, intervention 
-Abstract: The fungal disease Chytridiomycosis poses a threat to frog populations 
-worldwide. It has driven over 90 amphibian species to extinction and severely affected
-hundreds more. Difficulties in disease management have shown a need for novel
-conservation approaches.
-We present a novel mathematical model for chytridiomycosis transmission in
-frogs that includes the natural history of infection, to test the hypothesis that
-sunlight-heated refugia reduce transmission. This model was fit using approximate 
-Bayesian computation to experimental data where frogs were grouped into
-sunlight-heated or shaded refugia cohorts.
-Results show a 40% reduction in infection due to sunlight-heating of refugia. 
-Frogs that were infected and recovered had a reduction in susceptibility of
-approximately 97% compared to na¨ıve frogs. Our model offers insight into using
-sunlight-heated refugia to reduce chytridiomycosis prevalence. Importantly, it is
-the first step in determining the necessary level of refugia in the landscape for
-frog population recovery and population sustainability.
-Classification-JEL:  
+Author-Email: patricia.campbell@unimelb.edu.au
+Keywords: chytridiomycosis, Batrachochytrium dendrobatidis, approximate Bayesian computation, mathematical biology, epidemiology, transmission, intervention
+Abstract: The fungal disease chytridiomycosis poses a threat to frog populations worldwide. It has driven over 90 amphibian species to extinction and severely affected hundreds more. Difficulties in disease management have shown a need for novel conservation approaches.
+ We present a novel mathematical model for chytridiomycosis transmission in frogs that includes the natural history of infection, to test the hypothesis that sunlight-heated refugia reduce transmission. This model was fit using approximate Bayesian computation to experimental data where frogs were grouped into sunlight-heated or shaded refugia cohorts.
+ Results show a 40 percent reduction in infection due to sunlight-heating of refugia. Frogs that were infected and recovered had a reduction in susceptibility of approximately 97 percent compared to naive frogs. Our model offers insight into using sunlight-heated refugia to reduce chytridiomycosis prevalence. Importantly, it is the first step in determining the necessary level of refugia in the landscape for frog population recovery and population sustainability.
 Creation-Date: 2025
 Number: 6/25
 Length: 32
-Publication-Status:
-File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp06-2025.pdf
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp06-2025.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2025-6
 
+
 Template-type: ReDIF-Paper 1.0
-Title: 3+ Seat Risk-Limiting Audits for Single Transferable Vote Elections
+Title: Three-or-More Seat Risk-Limiting Audits for Single Transferable Vote Elections
 Author-Name: Michelle Blom
 Author-X-Name-First: Michelle
 Author-X-Name-Last: Blom
-Author-Email: 
 Author-Name: Alexander Ek
 Author-X-Name-First: Alexander
 Author-X-Name-Last: Ek
-Author-Email: alexander.ek@monash.edu
+Author-Email: alexander.ek@monash.edu
 Author-Name: Peter J. Stuckey
 Author-X-Name-First: Peter
 Author-X-Name-Last: Stuckey
-Author-Email:
 Author-Name: Vanessa J. Teague
 Author-X-Name-First: Vanessa
 Author-X-Name-Last: Teague
-Author-Email:
 Author-Name: Damjan Vukcevic
 Author-X-Name-First: Damjan
 Author-X-Name-Last: Vukcevic
-Author-Email: Damjan.Vukcevic@monash.edu
-Keywords: 
+Author-Email: Damjan.Vukcevic@monash.edu
 Abstract: Constructing efficient risk-limiting audits (RLAs) for multiwinner 
-single transferable vote (STV) elections is a challenging problem.
-An STV RLA is designed to statistically verify that the reported winners
-of an election did indeed win according to the voters' expressed preferences 
-and not due to mistabulation or interference, while limiting the
-risk of accepting an incorrect outcome to a desired threshold (the risk
-limit). Existing methods have shown that it is possible to form RLAs
-for two-seat STV elections in the context where the first seat has been
-awarded to a candidate in the first round of tabulation. This is called the
-first winner criterion. We present an assertion-based approach to conducting 
-full or partial RLAs for STV elections with three or more seats,
-in which the first winner criterion is satisfied. Although the chance of
-forming a full audit that verifies all winners drops substantially as the
-number of seats increases, we show that we can quite often form partial
-audits that verify most, and sometimes all, of the reported winners. We
-evaluate our method on a dataset of over 500 three- and four-seat STV
-elections from the 2017 and 2022 local council elections in Scotland
-Classification-JEL:  
+ single transferable vote (STV) elections is a challenging problem.
+ An STV RLA is designed to statistically verify that the reported winners
+ of an election did indeed win according to the voters' expressed preferences 
+ and not due to mistabulation or interference, while limiting the
+ risk of accepting an incorrect outcome to a desired threshold (the risk
+ limit). Existing methods have shown that it is possible to form RLAs
+ for two-seat STV elections in the context where the first seat has been
+ awarded to a candidate in the first round of tabulation. This is called the
+ first winner criterion. We present an assertion-based approach to conducting 
+ full or partial RLAs for STV elections with three or more seats,
+ in which the first winner criterion is satisfied. Although the chance of
+ forming a full audit that verifies all winners drops substantially as the
+ number of seats increases, we show that we can quite often form partial
+ audits that verify most, and sometimes all, of the reported winners. We
+ evaluate our method on a dataset of over 500 three- and four-seat STV
+ elections from the 2017 and 2022 local council elections in Scotland.
 Creation-Date: 2025
 Number: 5/25
 Length: 15
-Publication-Status:
-File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp05-2025.pdf
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp05-2025.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2025-5
 
+
 Template-type: ReDIF-Paper 1.0
-Title: Doing More With Less: Mismatch-Based Risk-Limiting Audits?
+Title: Doing More With Less: Mismatch-Based Risk-Limiting Audits
 Author-Name: Alexander Ek
 Author-X-Name-First: Alexander
 Author-X-Name-Last: Ek
-Author-Email: alexander.ek@monash.edu
+Author-Email: alexander.ek@monash.edu
 Author-Name: Michelle Blom
 Author-X-Name-First: Michelle
 Author-X-Name-Last: Blom
@@ -200,36 +181,27 @@ Author-X-Name-Last: Teague
 Author-Name: Damjan Vukcevic
 Author-X-Name-First: Damjan
 Author-X-Name-Last: Vukcevic
-Author-Email: Damjan.Vukcevic@monash.edu
-Keywords: single transferable vote, risk-limiting audit, margin of
-victory, mismatch-based audit
+Author-Email: Damjan.Vukcevic@monash.edu
+Keywords: single transferable vote, risk-limiting audit, margin of victory, mismatch-based audit
 Abstract: One approach to risk-limiting audits (RLAs) compares randomly 
-selected cast vote records (CVRs) to votes read by human auditors
-from the corresponding ballot cards. Historically, such methods reduce
-audit sample sizes by considering how each sampled CVR differs from
-the corresponding true vote, not merely whether they differ. Here we
-investigate the latter approach, auditing by testing whether the total
-number of mismatches in the full set of CVRs exceeds the minimum
-number of CVR errors required for the reported outcome to be wrong
-(the "CVR margin"). This strategy makes it possible to audit more social
-choice functions and simplifies RLAs conceptually, which makes it easier
-to explain than some other RLA approaches. The cost is larger sample
-sizes. "Mismatch-based RLAs" only require a lower bound on the CVR
-margin, which for some social choice functions is easier to calculate than
-the effect of particular errors. When the population rate of mismatches
-is low and the lower bound on the CVR margin is close to the true CVR
-margin, the increase in sample size is small. However, the increase may
-be very large when errors include errors that, if corrected, would widen
-the CVR margin rather than narrow it; errors affect the margin between
-candidates other than the reported winner with the fewest votes and the
-reported loser with the most votes; or errors that affect different
-margins.
-Classification-JEL:  
+ selected cast vote records (CVRs) to votes read by human auditors
+ from the corresponding ballot cards. Historically, such methods reduce
+ audit sample sizes by considering how each sampled CVR differs from
+ the corresponding true vote, not merely whether they differ. Here we
+ investigate the latter approach, auditing by testing whether the total
+ number of mismatches in the full set of CVRs exceeds the minimum
+ number of CVR errors required for the reported outcome to be wrong
+ (the "CVR margin"). This strategy makes it possible to audit more social
+ choice functions and simplifies RLAs conceptually, which makes it easier
+ to explain than some other RLA approaches. The cost is larger sample
+ sizes. "Mismatch-based RLAs" only require a lower bound on the CVR
+ margin, which for some social choice functions is easier to calculate than
+ the effect of particular errors.
 Creation-Date: 2025
 Number: 4/25
 Length: 15
-Publication-Status:
-File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp04-2025.pdf
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp04-2025.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2025-4
 
@@ -349,6 +321,7 @@ Publication-Status:
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp01-2025.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2025-1
+
 
 
 
