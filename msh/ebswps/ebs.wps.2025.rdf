@@ -1,4 +1,66 @@
 Template-type: ReDIF-Paper 1.0
+Title: Hierarchical Forecasting: The Role of Information
+Author-Name: Minh Nguyen
+Author-X-Name-First: Minh
+Author-X-Name-Last: Nguyen
+Author-Email: minh.nguyen11@monash.ed
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: farshid.vahid@monash.edu
+Author-Name: Shanika L. Wickramasuriya
+Author-X-Name-First: Shanika
+Author-X-Name-Last: Wickramasuriya
+Author-Email: shanika.wickramasuriya@monash.edu
+Keywords: coherent forecasts, forecast reconciliation, hierarchical time series, information combination, multivariate regression
+Abstract: In hierarchical forecasting, the process of forecast reconciliation transforms a set of base 
+forecasts, which do not satisfy hierarchical aggregation constraints, into coherent forecasts that do 
+satisfy those constraints. Traditional improvements due to reconciliation have been attributed to 
+imposing aggregation constraints. However, when base forecasts are based on different information 
+sets and historical data are available, additional gains may be achieved by combining the information 
+contained in the base forecasts. We propose a new method, called the information combination (IComb) method, 
+which combines the information content of forecasts during the reconciliation process using penalised 
+regression. We provide simulation evidence on the role of information sets, distinct from aggregation 
+constraints, in hierarchical time series forecasting and show that the IComb method produces superior 
+results compared to traditional reconciliation approaches.
+Creation-Date: 2025
+Number: 11/25
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp11-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-11
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian Computation for High-dimensional Gaussian Graphical Models with Spike-and-Slab Priors
+Author-Name: Deborah Sulem
+Author-X-Name-First: Deborah
+Author-X-Name-Last: Sulem
+Author-Email: deborah.sulem@usi.ch
+Author-Name: Jack Jewson
+Author-X-Name-First: Jack
+Author-X-Name-Last: Jewson
+Author-Email: jack.jewson@monash.edu
+Author-Name: David Rossell
+Author-X-Name-First: David
+Author-X-Name-Last: Rossell
+Author-Email: david.rossell@upf.edu
+Keywords: scalable Bayesian algorithms, Gibbs, Metropolis-within-Gibbs, spectral gap, Gaussian graphical models, spike-and-slab priors
+Abstract: Gaussian graphical models are widely used to infer dependence structures. Bayesian
+methods are appealing to quantify uncertainty associated with structural learning, i.e.,
+the plausibility of conditional independence statements given the data, and parameter
+estimates. However, computational demands have limited their application when the
+number of variables is large, which prompted the use of pseudo-Bayesian approaches.
+We propose fully Bayesian algorithms that provably scale to high dimensions when
+the data-generating precision matrix is sparse, at a similar cost to the best pseudo-Bayesian methods.
+First, a Metropolis-Hastings-within-Block-Gibbs algorithm that allows row-wise updates of the precision matrix, using local moves.
+Second, a global proposal that enables adding or removing multiple edges within a row, which can help explore multi-modal posteriors.
+We obtain spectral gap bounds for both samplers that are dimension-free under suitable settings.
+Creation-Date: 2025
+Number: 10/25
+File-URL: https://www.monash.edu/__data/assets/pdf_file/0020/4161116/wp10-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-10
+
+Template-type: ReDIF-Paper 1.0
 Title: Downstream Impacts of Mines On Agriculture in Africa
 Author-Name: Lukas Vashold
 Author-X-Name-First: Lukas
@@ -352,6 +414,7 @@ Publication-Status:
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp01-2025.pdf
 File-Format: application/pdf
 Handle: RePEc:msh:ebswps:2025-1
+
 
 
 
