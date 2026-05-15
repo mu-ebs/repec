@@ -1,0 +1,424 @@
+Template-type: ReDIF-Paper 1.0
+Title: Hierarchical Forecasting: The Role of Information
+Author-Name: Minh Nguyen
+Author-X-Name-First: Minh
+Author-X-Name-Last: Nguyen
+Author-Email: minh.nguyen11@monash.ed
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid
+Author-X-Name-Last: Vahid
+Author-Email: farshid.vahid@monash.edu
+Author-Name: Shanika L. Wickramasuriya
+Author-X-Name-First: Shanika
+Author-X-Name-Last: Wickramasuriya
+Author-Email: shanika.wickramasuriya@monash.edu
+Keywords: coherent forecasts, forecast reconciliation, hierarchical time series, information combination, multivariate regression
+Abstract: In hierarchical forecasting, the process of forecast reconciliation transforms a set of base 
+forecasts, which do not satisfy hierarchical aggregation constraints, into coherent forecasts that do 
+satisfy those constraints. Traditional improvements due to reconciliation have been attributed to 
+imposing aggregation constraints. However, when base forecasts are based on different information 
+sets and historical data are available, additional gains may be achieved by combining the information 
+contained in the base forecasts. We propose a new method, called the information combination (IComb) method, 
+which combines the information content of forecasts during the reconciliation process using penalised 
+regression. We provide simulation evidence on the role of information sets, distinct from aggregation 
+constraints, in hierarchical time series forecasting and show that the IComb method produces superior 
+results compared to traditional reconciliation approaches.
+Creation-Date: 2025
+Number: 11/25
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp11-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-11
+
+Template-type: ReDIF-Paper 1.0
+Title: Bayesian Computation for High-dimensional Gaussian Graphical Models with Spike-and-Slab Priors
+Author-Name: Deborah Sulem
+Author-X-Name-First: Deborah
+Author-X-Name-Last: Sulem
+Author-Email: deborah.sulem@usi.ch
+Author-Name: Jack Jewson
+Author-X-Name-First: Jack
+Author-X-Name-Last: Jewson
+Author-Email: jack.jewson@monash.edu
+Author-Name: David Rossell
+Author-X-Name-First: David
+Author-X-Name-Last: Rossell
+Author-Email: david.rossell@upf.edu
+Keywords: scalable Bayesian algorithms, Gibbs, Metropolis-within-Gibbs, spectral gap, Gaussian graphical models, spike-and-slab priors
+Abstract: Gaussian graphical models are widely used to infer dependence structures. Bayesian
+methods are appealing to quantify uncertainty associated with structural learning, i.e.,
+the plausibility of conditional independence statements given the data, and parameter
+estimates. However, computational demands have limited their application when the
+number of variables is large, which prompted the use of pseudo-Bayesian approaches.
+We propose fully Bayesian algorithms that provably scale to high dimensions when
+the data-generating precision matrix is sparse, at a similar cost to the best pseudo-Bayesian methods.
+First, a Metropolis-Hastings-within-Block-Gibbs algorithm that allows row-wise updates of the precision matrix, using local moves.
+Second, a global proposal that enables adding or removing multiple edges within a row, which can help explore multi-modal posteriors.
+We obtain spectral gap bounds for both samplers that are dimension-free under suitable settings.
+Creation-Date: 2025
+Number: 10/25
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp10-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-10
+
+Template-type: ReDIF-Paper 1.0
+Title: Downstream Impacts of Mines On Agriculture in Africa
+Author-Name: Lukas Vashold
+Author-X-Name-First: Lukas
+Author-X-Name-Last: Vashold
+Author-Name: Gustav Pirich
+Author-X-Name-First: Gustav
+Author-X-Name-Last: Pirich
+Author-Name: Maximilian Heinze
+Author-X-Name-First: Maximilian
+Author-X-Name-Last: Heinze
+Author-Name: Nikolas Kuschnig
+Author-X-Name-First: Nikolas
+Author-X-Name-Last: Kuschnig
+Author-Email: nikolas.kuschnig@monash.edu
+Keywords: mining, agriculture, water pollution, vegetation, externality, natural resources
+Abstract: Mining operations in Africa are expanding rapidly, creating negative externalities 
+that remain poorly understood. In this paper, we provide causal evidence for the impact of 
+water pollution from mines on downstream vegetation and agriculture across the continent. 
+We exploit discontinuities in water pollution caused by mines along river networks to 
+compare vegetation health upstream and downstream. We find that mines significantly reduce 
+peak vegetation downstream, impairing the productivity of croplands. These effects correspond 
+to substantial crop losses and highlight the environmental and agricultural externalities 
+of mining activity.
+Creation-Date: 2025
+Number: 9/25
+Length: 15
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp09-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-9
+
+Template-type: ReDIF-Paper 1.0
+Title: Time-Varying Generalized Network Autoregressions 
+Author-Name: Boyao Wu
+Author-X-Name-First: Boyao
+Author-X-Name-Last: Wu
+Author-Email: 
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Deshui Yu
+Author-X-Name-First: Deshui
+Author-X-Name-Last: Yu
+Author-Email: 
+Keywords: cross-sectional dependence, dynamic network autoregression, high-dimensional
+time-series, MA(&infin;) representation
+Abstract: We consider a general class of dynamic network autoregressions for 
+high-dimensional time series with network dependence, extending existing dynamic 
+models by allowing for timevarying model coefficients, cross-sectionally dependent 
+errors and a general network structure smoothly evolving along the time. A 
+nonparametric local linear kernel method is proposed to estimate these time-varying 
+coefficients involved, and a recursive-design bootstrap procedure is developed to 
+construct valid confidence intervals for time-varying coefficients in the
+presence of cross-sectional dependent errors. We establish asymptotic properties 
+for the proposed local-linear based estimator and the bootstrap procedure under 
+mild conditions. Both the proposed estimation and bootstrap procedures are 
+illustrated using simulated and two real datasets. Our work contributes to 
+high-dimensional time series associated with network effects and sheds light on 
+bootstrap inference for locally stationary processes.
+Classification-JEL: C14, C31, C33, D85
+Creation-Date: 2025
+Number: 8/25
+Length: 37
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp08-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-8
+
+Template-type: ReDIF-Paper 1.0
+Title: Estimation and Inference based on Summary Statistics for State Space Models
+Author-Name: Hasan Fallahgoul
+Author-X-Name-First: Hasan
+Author-X-Name-Last: Fallahgoul
+Author-Email: hasan.fallahgoul@monash.edu
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords: estimation theory, Kalman filter, nonstationarity, resampling technique
+Abstract: This paper introduces a theoretically robust framework for conditional mean 
+estimation associated with maximum likelihood estimation (MLE) in state space models
+with nonstationary time series, integrating the classical Kalman filter with Bayesian
+inference. We propose a dierence-based approach using optimally designed summary
+statistics from observable data, overcoming the intractability of traditional Kalman filter
+statistics reliant on latent states. Our formulation creates a direct mapping between
+feasible statistics and structural parameters, enabling clean separation between state
+dynamics and measurement noise. Under mild regularity conditions, we prove the
+consistency and asymptotic normality of the estimators, achieving the Cramrr-Rao
+lower bound for eciency. The methodology extends to non-Gaussian innovations with
+finite moments, ensuring robustness. Monte Carlo approximations preserve asymptotic
+eciency under controlled sampling rates, while finite sample bounds and robustness
+to model misspecification and data contamination confirm reliability. These theoretical
+advances are complemented by a comprehensive simulation study demonstrating superior 
+performance compared to conventional approaches. These results advance the
+theoretical foundations of state space modelling, providing a statistically ecient and
+computationally feasible alternative to conventional approaches.
+Classification-JEL: C11, C15, C21
+Creation-Date: 2025
+Number: 7/25
+Length: 32
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/Jiti.WP.07.25.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-7
+
+Template-type: ReDIF-Paper 1.0
+Title: Sunlight-Heated Refugia Protect Frogs from Chytridiomycosis: A Mathematical Modelling Study
+Author-Name: Claire M. Miller
+Author-X-Name-First: Claire
+Author-X-Name-Last: Miller
+Author-Email: claire.miller@auckland.ac.nz
+Author-Name: Michael J. Lydeamore
+Author-X-Name-First: Michael
+Author-X-Name-Last: Lydeamore
+Author-Email: michael.lydeamore@monash.edu
+Author-Name: Jennifer A. Flegg
+Author-X-Name-First: Jennifer
+Author-X-Name-Last: Flegg
+Author-Email: jennifer.flegg@unimelb.edu.au
+Author-Name: Lee Berger
+Author-X-Name-First: Lee
+Author-X-Name-Last: Berger
+Author-Email: lee.berger@unimelb.edu.au
+Author-Name: Lee F. Skerratt
+Author-X-Name-First: Lee
+Author-X-Name-Last: Skerratt
+Author-Email: l.skerratt@unimelb.edu.au
+Author-Name: Anthony W. Waddle
+Author-X-Name-First: Anthony
+Author-X-Name-Last: Waddle
+Author-Email: anthony.waddle@mq.edu.au
+Author-Name: Patricia Therese Campbell
+Author-X-Name-First: Patricia
+Author-X-Name-Last: Campbell
+Author-Email: patricia.campbell@unimelb.edu.au
+Keywords: chytridiomycosis, Batrachochytrium dendrobatidis, approximate Bayesian computation, mathematical biology, epidemiology, transmission, intervention
+Abstract: The fungal disease chytridiomycosis poses a threat to frog populations worldwide. It has driven over 90 amphibian species to extinction and severely affected hundreds more. Difficulties in disease management have shown a need for novel conservation approaches.
+ We present a novel mathematical model for chytridiomycosis transmission in frogs that includes the natural history of infection, to test the hypothesis that sunlight-heated refugia reduce transmission. This model was fit using approximate Bayesian computation to experimental data where frogs were grouped into sunlight-heated or shaded refugia cohorts.
+ Results show a 40 percent reduction in infection due to sunlight-heating of refugia. Frogs that were infected and recovered had a reduction in susceptibility of approximately 97 percent compared to naive frogs. Our model offers insight into using sunlight-heated refugia to reduce chytridiomycosis prevalence. Importantly, it is the first step in determining the necessary level of refugia in the landscape for frog population recovery and population sustainability.
+Creation-Date: 2025
+Number: 6/25
+Length: 32
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp06-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-6
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Three-or-More Seat Risk-Limiting Audits for Single Transferable Vote Elections
+Author-Name: Michelle Blom
+Author-X-Name-First: Michelle
+Author-X-Name-Last: Blom
+Author-Name: Alexander Ek
+Author-X-Name-First: Alexander
+Author-X-Name-Last: Ek
+Author-Email: alexander.ek@monash.edu
+Author-Name: Peter J. Stuckey
+Author-X-Name-First: Peter
+Author-X-Name-Last: Stuckey
+Author-Name: Vanessa J. Teague
+Author-X-Name-First: Vanessa
+Author-X-Name-Last: Teague
+Author-Name: Damjan Vukcevic
+Author-X-Name-First: Damjan
+Author-X-Name-Last: Vukcevic
+Author-Email: Damjan.Vukcevic@monash.edu
+Abstract: Constructing efficient risk-limiting audits (RLAs) for multiwinner 
+ single transferable vote (STV) elections is a challenging problem.
+ An STV RLA is designed to statistically verify that the reported winners
+ of an election did indeed win according to the voters' expressed preferences 
+ and not due to mistabulation or interference, while limiting the
+ risk of accepting an incorrect outcome to a desired threshold (the risk
+ limit). Existing methods have shown that it is possible to form RLAs
+ for two-seat STV elections in the context where the first seat has been
+ awarded to a candidate in the first round of tabulation. This is called the
+ first winner criterion. We present an assertion-based approach to conducting 
+ full or partial RLAs for STV elections with three or more seats,
+ in which the first winner criterion is satisfied. Although the chance of
+ forming a full audit that verifies all winners drops substantially as the
+ number of seats increases, we show that we can quite often form partial
+ audits that verify most, and sometimes all, of the reported winners. We
+ evaluate our method on a dataset of over 500 three- and four-seat STV
+ elections from the 2017 and 2022 local council elections in Scotland.
+Creation-Date: 2025
+Number: 5/25
+Length: 15
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp05-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-5
+
+
+Template-type: ReDIF-Paper 1.0
+Title: Doing More With Less: Mismatch-Based Risk-Limiting Audits
+Author-Name: Alexander Ek
+Author-X-Name-First: Alexander
+Author-X-Name-Last: Ek
+Author-Email: alexander.ek@monash.edu
+Author-Name: Michelle Blom
+Author-X-Name-First: Michelle
+Author-X-Name-Last: Blom
+Author-Name: Philip B. Stark
+Author-X-Name-First: Philip
+Author-X-Name-Last: Stark
+Author-Name: Peter J. Stuckey
+Author-X-Name-First: Peter
+Author-X-Name-Last: Stuckey
+Author-Name: Vanessa J. Teague
+Author-X-Name-First: Vanessa
+Author-X-Name-Last: Teague
+Author-Name: Damjan Vukcevic
+Author-X-Name-First: Damjan
+Author-X-Name-Last: Vukcevic
+Author-Email: Damjan.Vukcevic@monash.edu
+Keywords: single transferable vote, risk-limiting audit, margin of victory, mismatch-based audit
+Abstract: One approach to risk-limiting audits (RLAs) compares randomly 
+ selected cast vote records (CVRs) to votes read by human auditors
+ from the corresponding ballot cards. Historically, such methods reduce
+ audit sample sizes by considering how each sampled CVR differs from
+ the corresponding true vote, not merely whether they differ. Here we
+ investigate the latter approach, auditing by testing whether the total
+ number of mismatches in the full set of CVRs exceeds the minimum
+ number of CVR errors required for the reported outcome to be wrong
+ (the "CVR margin"). This strategy makes it possible to audit more social
+ choice functions and simplifies RLAs conceptually, which makes it easier
+ to explain than some other RLA approaches. The cost is larger sample
+ sizes. "Mismatch-based RLAs" only require a lower bound on the CVR
+ margin, which for some social choice functions is easier to calculate than
+ the effect of particular errors.
+Creation-Date: 2025
+Number: 4/25
+Length: 15
+Publication-Status: 
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp04-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-4
+
+Template-type: ReDIF-Paper 1.0
+Title: Predicting an Ice-free Arctic using a Nonlinear Endogenous Co-trending Regression Model
+Author-Name: Li Chen
+Author-X-Name-First: Li
+Author-X-Name-Last: Chen
+Author-Email:
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Farshid Vahid
+Author-X-Name-First: Farshid 
+Author-X-Name-Last: Vahid
+Author-Email: Farshid.Vahid@monash.edu 
+Keywords: Arctic sea ice, Box-Cox transformation, climate change, ice-free Arctic
+Abstract: This paper predicts the emergence of an ice-free Arctic using a nonlinear
+endogenous co-trending regression model. The model captures the nonlinear
+co-trending relationship between Arctic sea ice extent (SIE) and regional
+surface temperatures, which are influenced by long-run factors such as radiative 
+forcing from greenhouse gases (GHG) and the Atlantic Multidecadal
+Oscillation (AMO) index. By conditioning the analysis on various Representative 
+Concentration Pathways (RCPs) for future GHG emissions and
+projected AMO cyclical patterns, we offer long-term predictions of Arctic
+SIE. Our findings indicate the likely emergence of an ice-free Arctic before
+2050 under the worst-case emission scenario.
+Classification-JEL: Q54, C22, C53
+Creation-Date: 2025
+Number: 3/25
+Length: 38
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp03-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-3
+
+Template-type: ReDIF-Paper 1.0
+Title: Panel Data Estimation and Inference: Homogeneity versus Heterogeneity
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Author-Name: Fei Liu
+Author-X-Name-First: Fei
+Author-X-Name-Last: Liu
+Author-Email:
+Author-Name: Bin Peng 
+Author-X-Name-First: Bin
+Author-X-Name-Last: Peng
+Author-Email: bin.peng@monash.edu
+Author-Name: Yayi Yan
+Author-X-Name-First: Yayi
+Author-X-Name-Last: Yan
+Author-Email: yanyayi@ mail.shufe.edu.cn
+Keywords: homogeneity, heterogeneity, weak and strong cross-sectional dependence,
+Gaussian approximation, (non)stationary panel
+Abstract: In this paper, we define an underlying data generating process that allows for
+different magnitudes of cross-sectional dependence, along with time series autocorrelation. 
+This is achieved via high-dimensional moving average processes of infinite
+order (HDMA(&infin;)). Our setup and investigation integrates and enhances homogenous and 
+heterogeneous panel data estimation and testing in a unified way. To study
+HDMA(&infin;), we extend the Beveridge-Nelson decomposition to a high-dimensional
+time series setting, and derive a complete toolkit set. We exam homogeneity versus
+heterogeneity using Gaussian approximation, a prevalent technique for establishing 
+uniform inference. For post-testing inference, we derive central limit theorems
+through Edgeworth expansions for both homogenous and heterogeneous settings.
+Additionally, we showcase the practical relevance of the established asymptotic
+properties by revisiting the common correlated effects (CCE) estimators, and a
+classic nonstationary panel data process. Finally, we verify our theoretical findings
+via extensive numerical studies using both simulated and real datasets.
+Classification-JEL: C12, C18, C23, C55
+Creation-Date: 2025
+Number: 2/25
+Length: 66
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp02-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-2
+
+Template-type: ReDIF-Paper 1.0
+Title: Model Averaging for Time-Varying Vector Autoregressions
+Author-Name: Yuying Sun
+Author-X-Name-First: Yuying
+Author-X-Name-Last: Sun
+Author-Email:
+Author-Name: Feng Chen
+Author-X-Name-First: Feng
+Author-X-Name-Last: Chen
+Author-Email:
+Author-Name: Jiti Gao
+Author-X-Name-First: Jiti
+Author-X-Name-Last: Gao
+Author-Email: jiti.gao@monash.edu
+Keywords: asymptotic optimality, consistency, structural change, time-varying weight
+Abstract: This paper proposes a novel time-varying model averaging (TVMA) approach to
+enhancing forecast accuracy for multivariate time series subject to structural changes.
+The TVMA method averages predictions from a set of time-varying vector autoregressive
+models using optimal time-varying combination weights selected by minimizing a
+penalized local criterion. This allows the relative importance of different models to
+adaptively evolve over time in response to structural shifts. We establish an asymptotic
+optimality for the proposed TVMA approach in achieving the lowest possible quadratic
+forecast errors. The convergence rate of the selected time-varying weights to the
+optimal weights minimizing expected quadratic errors is derived. Moreover, we show
+that when one or more correctly specified models exist, our method consistently assigns
+full weight to them, and an asymptotic normality for the TVMA estimators under some
+regularity conditions can be established. Furthermore, the proposed approach
+encompasses special cases including time-varying VAR models with exogenous predictors,
+as well as time-varying factor augmented VAR (FAVAR) models. Simulations and an empirical
+application illustrate the proposed TVMA method outperforms some commonly used model
+averaging and selection methods in the presence of structural changes.
+Classification-JEL: C52, C53
+Creation-Date: 2025
+Number: 1/25
+Length: 64
+Publication-Status:
+File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2025/wp01-2025.pdf
+File-Format: application/pdf
+Handle: RePEc:msh:ebswps:2025-1
+
+
+
+
+
+
+
+
