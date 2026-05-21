@@ -20,7 +20,7 @@ Keywords: forecast reconciliation, quantile forecasting, hierarchical time serie
 Abstract: Forecasting multivariate data that adhere to known linear constraints, so-called hierarchical data, benefits from a post-processing step known as reconciliation. While traditional reconciliation methods focus on mean forecasts, in a decision-making setting the optimal action is a functional of a belief distribution, for example a quantile. Building on a general framework, this paper develops a new methodology for forecast reconciliation where the objective is to obtain accurate forecasts for a given quantile level. This is achieved by minimising expected pinball loss, a challenging problem which we propose to overcome in two ways. First, expectations are approximated by drawing samples from the base forecasts, making the approach applicable for any distributional form. Second, the pinball loss is approximated with a smooth function, enabling optimisation with first-order methods. Theoretical results are developed proving that the minimiser of the objective function employing these two approximations converges, in the limit, to the minimiser of expected pinball loss. Applications to both simulated and real-world data demonstrate that the proposed methodology delivers statistically significant improvements in forecast accuracy over the widely used MinT benchmark.
 Classification-JEL: C53, C61, C63
 Creation-Date: 2026
-Number: 04/26
+Number: 4/26
 Length: 55
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2026/wp04-2026.pdf
 File-Format: application/pdf
@@ -39,7 +39,7 @@ Keywords: anomaly detection, surprisal, outlier detection, generalized Pareto di
 Abstract: Anomaly detection methods are widely used but often rely on ad hoc rules or strong assumptions, and they often focus on tail events, missing inlier anomalies that occur in low-density gaps between modes. We propose a unified framework that defines an anomaly as an observation with unusually low probability under a possibly misspecified model. For each observation we compute its surprisal, defined as the negative log generalized density, and define an anomaly score as the probability of a surprisal at least as large as that observed. This reduces anomaly detection for complex univariate or multivariate data to estimating the upper tail of a univariate surprisal distribution. We develop two model-robust estimators of these tail probabilities: an empirical estimator based on the observed surprisal distribution and an extreme-value estimator that fits a Generalized Pareto Distribution above a high threshold. Simulations and applications to French mortality and Test-cricket data show the approach remains effective under substantial model misspecification.
 Classification-JEL: C10, C14, C46
 Creation-Date: 2026
-Number: 03/26
+Number: 3/26
 Length: 21
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2026/wp03-2026.pdf
 File-Format: application/pdf
@@ -59,7 +59,7 @@ Keywords: Bayesian variable selection, quasi-posterior, model misspecification, 
 Abstract: The Bayesian approach provides powerful methods for variable selection. The ability to incorporate sparsity through prior beliefs and account for parameter uncertainty allows Bayesian variable selection to consistently identify which variables are active and exhibit strong finite-sample performance. However, Bayesian methods require the correct specification of full likelihoods for the data, and there is increasing awareness of the problems that model misspecification causes for variable selection. Current approaches to mitigate misspecification either require complex models, detracting from the interpretability of the variable selection task, or move outside rigorous Bayesian uncertainty quantification and provide no recognised method for variable selection. This paper establishes the model quasi-posterior as a principled tool for variable selection.
 Classification-JEL: C11, C15, C52
 Creation-Date: 2026
-Number: 02/26
+Number: 2/26
 Length: 33
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2026/wp02-2026.pdf 
 File-Format: application/pdf
@@ -82,7 +82,7 @@ Keywords: high-dimensional local projection, long-horizon analysis, h-step ahead
 Abstract: This paper rigorously analyzes the properties of the local projection methodology within a high-dimensional framework, with a central focus on achieving robust long-horizon inference. We integrate a general dependence structure into h-step ahead forecasting models via a flexible specification of the residual terms. Additionally, we study the corresponding high-dimensional covariance matrix estimation, explicitly addressing the complexity arising from the long-horizon setting. Extensive Monte Carlo simulations are conducted to substantiate the derived theoretical findings. In the empirical study, we utilize the proposed high-dimensional local projection framework to study the impact of business news attention on U.S. industry-level stock volatility.
 Classification-JEL: C32, C53, C55
 Creation-Date: 2026
-Number: 01/26
+Number: 1/26
 Length: 34
 File-URL: https://www.monash.edu/business/ebs/research/publications/ebs/2026/wp01-2026.pdf
 File-Format: application/pdf
